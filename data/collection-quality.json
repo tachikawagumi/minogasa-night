@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-26T17:45:05+09:00",
+  "checkedAt": "2026-10-26T17:45:25+09:00",
   "batchId": "ai-20261026-phase7-occult-six",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 26,
   "inputDuplicates": 0,
   "conflictingIds": [],
