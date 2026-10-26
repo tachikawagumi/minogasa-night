@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T17:29:52+09:00",
+  "checkedAt": "2026-10-26T17:36:52+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-26T17:29:52+09:00",
-      "updatedAt": "2026-10-26T17:29:52+09:00",
+      "checkedAt": "2026-10-26T17:36:52+09:00",
+      "updatedAt": "2026-10-26T17:36:52+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -44,6 +44,27 @@
       "publicationApproved": true,
       "origin": "ai_official_facts",
       "sourcePolicyId": "fuji_honkowa_minimal_fact"
+    },
+    {
+      "id": "official-fuji-20261028-1900-nandakore",
+      "seriesId": "official-fuji-20261028-1900-nandakore-series",
+      "title": "世界の何だコレ!?ミステリー",
+      "stationId": "fuji",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://www.fujitv.co.jp/sekainonandakore/",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "updatedAt": "2026-10-26T17:20:26+09:00",
+      "genreEvidence": {
+        "ufo": "当該回の魔術・呪いによる治癒という超常的主張の検証企画を公式予告で確認。番組名だけで分類せず、UFO・都市伝説の超常現象定義に合致。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "fuji_nandakore_20261028_minimal_fact"
     }
   ]
 }

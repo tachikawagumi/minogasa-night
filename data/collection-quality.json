@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-10-26T17:30:16+09:00",
+  "checkedAt": "2026-10-26T17:36:57+09:00",
   "batchId": "ai-20261026-phase7-occult-six",
-  "target": "current_public_json",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 24,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 0,
+  "newRegistrations": 1,
   "updates": 0,
-  "alreadyPublished": 12,
+  "alreadyPublished": 13,
   "held": 22,
   "heldReasonCounts": {
     "outside_window": 1,
@@ -23,32 +23,11 @@
     "terms_unconfirmed": "情報源の利用条件が未確認",
     "duplicate": "重複している",
     "outside_window": "対象期間外",
-    "other": "その他"
+    "other": "その他",
+    "pipeline_handoff_missing": "公開処理への受け渡し漏れ"
   },
-  "unpublishedFuture": 7,
+  "unpublishedFuture": 6,
   "attention": [
-    {
-      "id": "official-fuji-20261028-1900-nandakore",
-      "title": "世界の何だコレ!?ミステリー",
-      "genreIds": [
-        "ufo"
-      ],
-      "published": false,
-      "publishedExact": false,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "awaiting_publication",
-      "classificationLevel": "clear",
-      "officialDatetimeConfirmed": true,
-      "excluded": false,
-      "sourceUrls": [
-        "https://www.fujitv.co.jp/sekainonandakore/"
-      ],
-      "holdReasons": [],
-      "researchDue": false,
-      "omission": true
-    },
     {
       "id": "phase7-darkside-immortality-20261029",
       "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
@@ -188,15 +167,15 @@
       "genreId": "ufo",
       "name": "UFO・都市伝説",
       "candidates": 3,
-      "publicPrograms": 0,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "zeroExplanation": null,
       "searches": 4,
       "datetimeConfirmed": 1,
       "held": 2,
       "excluded": 0,
-      "omissions": 1,
-      "zeroReasonCode": "source_insufficient"
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "movie",
@@ -916,12 +895,12 @@
       "genreIds": [
         "ufo"
       ],
-      "published": false,
-      "publishedExact": false,
+      "published": true,
+      "publishedExact": true,
       "held": false,
       "reasonCodes": [],
       "validationReason": null,
-      "missingStage": "awaiting_publication",
+      "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "excluded": false,
@@ -930,7 +909,7 @@
       ],
       "holdReasons": [],
       "researchDue": false,
-      "omission": true
+      "omission": false
     },
     {
       "id": "phase7-darkside-immortality-20261029",
@@ -1057,6 +1036,7 @@
     "GitHub ActionsにAI Web検索機能はない",
     "対話中の実行と無人定期実行の証跡は別"
   ],
+  "pipelineErrors": 0,
   "confirmedOmissions": [
     {
       "id": "official-662f49475ddea876f1fb0554",
@@ -1174,28 +1154,6 @@
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/itadakinosakie/"
-      ],
-      "holdReasons": [],
-      "researchDue": false,
-      "omission": true
-    },
-    {
-      "id": "official-fuji-20261028-1900-nandakore",
-      "title": "世界の何だコレ!?ミステリー",
-      "genreIds": [
-        "ufo"
-      ],
-      "published": false,
-      "publishedExact": false,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "awaiting_publication",
-      "classificationLevel": "clear",
-      "officialDatetimeConfirmed": true,
-      "excluded": false,
-      "sourceUrls": [
-        "https://www.fujitv.co.jp/sekainonandakore/"
       ],
       "holdReasons": [],
       "researchDue": false,
