@@ -1,7 +1,9 @@
 # みのがさナイト — 番組データ配信
 
-VICTORY K。東京・千葉の地上波と無料BSで確認できた放送予定の最小JSONを、GitHub PagesからAndroidアプリへ配信します。
+VICTORY K。東京・千葉の地上波と無料BSで確認できた放送予定の最小JSONをGitHub Pagesで配信します。
 
-番組情報の取得・検証・公開は月曜と木曜。アニメはしょぼいカレンダーの公開API、その他は管理者が確認した公式情報を使用します。紹介文・出演者・画像・秘密情報は収録しません。
+月曜・木曜にしょぼいカレンダーAPIのアニメ予定と管理者が確認した公式情報を統合し、過去枠・重複・形式を検証します。詳細は [運用手順](docs/phase4/OPERATIONS.md) と [形式](docs/phase4/FORMAT.md) を参照してください。
 
-詳細は docs/phase4/OPERATIONS.md と docs/phase4/FORMAT.md を参照してください。公開URLはデプロイ結果で確認します。
+予定公開先： https://tachikawagumi.github.io/minogasa-night/v1/programs.json
+
+紹介文・出演者・画像・認証情報は配信しません。対象局の全番組を網羅するものではありません。

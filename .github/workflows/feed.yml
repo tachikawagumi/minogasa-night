@@ -1,0 +1,74 @@
+name: Validate and refresh program feed
+on:
+  push:
+    paths: ['data/manual-approved.json', 'scripts/**', 'tests/**', 'public/**', '.github/workflows/feed.yml']
+  pull_request:
+    paths: ['data/**', 'scripts/**', 'tests/**', 'public/**', '.github/workflows/feed.yml']
+  workflow_dispatch:
+  schedule:
+    # Monday and Thursday 06:17 JST = Sunday and Wednesday 21:17 UTC.
+    - cron: '17 21 * * 0,3'
+permissions:
+  contents: read
+concurrency:
+  group: program-feed-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - if: github.event_name == 'pull_request'
+        run: python scripts/feed.py --offline && python scripts/feed.py --validate
+  refresh:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/feed.py && python scripts/feed.py --validate
+      - name: Commit validated feed without personal credentials
+        run: |
+          git config user.name 'minogasa-night[bot]'
+          git config user.email 'minogasa-night[bot]@users.noreply.github.com'
+          git add data/anime-cache.json data/current-db.json data/update-result.json public/v1/programs.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update seven-day program feed'
+            git push
+          fi
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: refresh
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+          retention-days: 1
+      - uses: actions/deploy-pages@v4
+        id: deployment

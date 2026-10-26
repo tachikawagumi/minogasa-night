@@ -1,0 +1,565 @@
+{
+  "reviewNote": "第4次開発指示に基づき第3次調査31件の最小事実を採用。本文・配列の転載やサイトの自動巡回はしない。放送予定変更は再確認が必要。publicationApprovedは管理者側の公開採用状態であり放送局との契約の証明ではない。",
+  "records": [
+    {
+      "id": "official-81221f862e50feba0f729d41",
+      "seriesId": "official-series-fe25fa8c7ef3b0034f9025b3",
+      "title": "ロビン・フッド",
+      "stationId": "tvtokyo",
+      "start": "2026-10-26T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式2026年10月ラインナップの日付と共通の開始時刻。枠名：午後のロードショー。"
+    },
+    {
+      "id": "official-c7b13fcaec9d5b2204fd96a0",
+      "seriesId": "official-series-ee9712fe438d26e0580a15e5",
+      "title": "ブロークンシティ",
+      "stationId": "tvtokyo",
+      "start": "2026-10-27T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式月間映画ラインナップと共通開始時刻。"
+    },
+    {
+      "id": "official-15bd27175d27a7cbb8b71b6e",
+      "seriesId": "official-series-a7b8d6f438a6a90b103ea4e5",
+      "title": "アサシン",
+      "stationId": "tvtokyo",
+      "start": "2026-10-28T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式月間映画ラインナップと共通開始時刻。"
+    },
+    {
+      "id": "official-4a9c16fb7436ca6009605718",
+      "seriesId": "official-series-e2961e602daee66724a31ec9",
+      "title": "ペイバック",
+      "stationId": "tvtokyo",
+      "start": "2026-10-29T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式月間映画ラインナップと共通開始時刻。"
+    },
+    {
+      "id": "official-6f741d1e46596684dcde7071",
+      "seriesId": "official-series-6e7ae420f07f3d52fe994dac",
+      "title": "狼よさらば",
+      "stationId": "tvtokyo",
+      "start": "2026-10-30T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式月間映画ラインナップと共通開始時刻。"
+    },
+    {
+      "id": "official-99203f4573f1eb217c53886d",
+      "seriesId": "official-series-d47595c1fb2d6cfd4269ad6a",
+      "title": "ＴＨＥフィッシング　村つる第22弾　小粋で痛快たかがハゼ　されどハゼ",
+      "stationId": "tvtokyo",
+      "start": "2026-10-24T17:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610241730.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式日別詳細。ハゼ釣りを扱う記載を参照。"
+    },
+    {
+      "id": "official-95f2d23a6c58e3fcba1e42a3",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV",
+      "stationId": "bsasahi",
+      "start": "2026-10-29T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "次回放送日が明記。BYDの軽EVを扱う回。"
+    },
+    {
+      "id": "official-e4a5c93ef25d2dcac878aeed",
+      "seriesId": "official-series-38af6ec1905f6d7dce2d02b3",
+      "title": "あなたの知らない京都旅",
+      "stationId": "bsasahi",
+      "start": "2026-10-26T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式サイト内の日時付き番組案内。第171回・大徳寺を訪ねる内容。"
+    },
+    {
+      "id": "official-31c42a7b11885b5095cf557e",
+      "seriesId": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
+      "stationId": "bsasahi",
+      "start": "2026-10-26T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式サイト内の日時付き番組案内。シーズン22準決勝。"
+    },
+    {
+      "id": "official-984830d6db17bf74176cf896",
+      "seriesId": "official-series-f302b86c5aefd2e4d2eb4a96",
+      "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
+      "stationId": "bsasahi",
+      "start": "2026-10-27T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "日時付き公式番組案内。栃木県日光での街歩き。健康効果を推定せず旅だけを付与。"
+    },
+    {
+      "id": "official-514a871e96f3222a8992f712",
+      "seriesId": "official-series-e3039e87a8200a62e464fd97",
+      "title": "ゴルフ侍、見参！【真剣勝負！プロｖｓトップアマチュア】",
+      "stationId": "bstvtokyo",
+      "start": "2026-10-25T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/22378_202610250800.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式の日別詳細で開始日時とゴルフ対決を確認。"
+    },
+    {
+      "id": "official-eb01f3650742b79ff0a47186",
+      "seriesId": "official-series-58eeda6e1ef87d058531e872",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "stationId": "bsasahi",
+      "start": "2026-10-24T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "次回の個別日付・時刻を確認。下馬のマンション改修を扱う回。"
+    },
+    {
+      "id": "official-4016b69c0dceceb86c2abccb",
+      "seriesId": "official-series-c5879a5c58a5e6e350bde996",
+      "title": "ＳＭＢＣ日本シリーズ２０２６　第３戦「ソフトバンク×ＤｅＮＡ」",
+      "stationId": "tbs",
+      "start": "2026-10-27T17:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261027_C477.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "日別公式詳細と翌週番組表を照合。試合中止・延長等は今後の確認が必要。"
+    },
+    {
+      "id": "official-e70af6e582c0f367c487ed50",
+      "seriesId": "official-series-77e6d8a7ebb52e4f1d6edcbf",
+      "title": "氷の城壁　第19話",
+      "stationId": "tbs",
+      "start": "2026-10-29T23:56:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261029_C2FF.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "日別公式詳細と翌週番組表のアニメ分類を確認。"
+    },
+    {
+      "id": "official-f445556778bac34a57abbf19",
+      "seriesId": "official-series-e9379c64da74b078c063eca6",
+      "title": "追放された転生重騎士はゲーム知識で無双する#１８◆スーパーアニメイズムTURBO",
+      "stationId": "tbs",
+      "start": "2026-10-30T00:26:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261029_C300.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の絶対日時202610300026を採用。個別ページの10/29深夜0:26は翌暦日。題名のゲームという語だけでゲーム番組には分類しない。"
+    },
+    {
+      "id": "official-dad04548a318fe855b73862f",
+      "seriesId": "official-series-20d653c0a4a0f7344d45ae1b",
+      "title": "冰剣の魔術師が世界を統べるII　＃４",
+      "stationId": "tbs",
+      "start": "2026-10-30T01:28:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/nextweek.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表に絶対日時とアニメ分類あり。個別ページは取得失敗のため週表が根拠。"
+    },
+    {
+      "id": "official-9e656b41231a20dd6464c746",
+      "seriesId": "official-series-31753a9bb8c06a95daadfac6",
+      "title": "ドア×ドアクエスト★このお菓子何作ってる？クイズ★桐谷健太・M!LK山中参戦！",
+      "stationId": "tbs",
+      "start": "2026-10-30T20:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261030_C31B.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式詳細にクイズ挑戦の内容あり。"
+    },
+    {
+      "id": "official-1ef7c3a6ef6e106d48acda96",
+      "seriesId": "official-series-624a852849e35faee4973aa8",
+      "title": "クレイジージャーニー☆西表島・水上に咲く奇跡の花園探しの旅〜完全版〜",
+      "stationId": "tbs",
+      "start": "2026-10-26T23:56:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/nextweek.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の明示日時と番組名から西表島を訪ねる旅と判定。"
+    },
+    {
+      "id": "official-694a1af7e3a3eeed9ce04783",
+      "seriesId": "official-series-4e1edabd0b77705096f0c41b",
+      "title": "ニノなのに☆令和の時代にスマホなし＆手描き地図だけで名所に行ける！？世代別検証",
+      "stationId": "tbs",
+      "start": "2026-10-28T20:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/nextweek.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の日時・題名に、条件付きで名所を目指す挑戦企画が明記。"
+    },
+    {
+      "id": "official-494401cdf319f64c66ca9d07",
+      "seriesId": "official-series-2d89a8adb3e88a280a9538b4",
+      "title": "鉄道伝説",
+      "stationId": "bsfuji",
+      "start": "2026-10-25T10:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/tetsudoudensetsu/pub/index.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "第194回、秋田新幹線E3系を扱うと公式が明記。"
+    },
+    {
+      "id": "official-992380bb6041cf828c48e99c",
+      "seriesId": "official-series-d5f76a9fa814f532c9125bc2",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期　＃２９「バサマークの最期」",
+      "stationId": "tbs",
+      "start": "2026-10-25T23:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の絶対日時・アニメ分類を確認。"
+    },
+    {
+      "id": "official-f75913e4e04d9fc8f01c24ab",
+      "seriesId": "official-series-6d55c235ad7ceecefa9667ca",
+      "title": "Ｓ☆１　日本シリーズ開幕！工藤＆番長豪華W解説▼超速報！海外サッカー",
+      "stationId": "tbs",
+      "start": "2026-10-25T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball",
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の絶対日時と、その回の野球・海外サッカー特集の表示が根拠。1放送1件で数える。"
+    },
+    {
+      "id": "official-af3cff877c538855bc787b08",
+      "seriesId": "official-series-f2dfa63dc331469a7c15fa76",
+      "title": "ＫＩＣＫ ＯＦＦ！Ｊ＃153 ≪ハロウィーン間近 フロンターレの仮装舞台裏≫",
+      "stationId": "tbs",
+      "start": "2026-10-26T00:58:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の絶対日時202610260058を使用。10/25深夜という営業日表記と区別。"
+    },
+    {
+      "id": "official-96ada5388b6319a317db40e3",
+      "seriesId": "official-series-7df14236fa2a3e7925af8f9a",
+      "title": "IMP.の「できません」は言いません　合唱部の皆さんと混声合唱に挑戦！",
+      "stationId": "tbs",
+      "start": "2026-10-25T00:28:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式週表の絶対日時と、合唱に挑む当該回の題名を根拠に挑戦企画と判定。"
+    },
+    {
+      "id": "official-bd4aeb08473634c62dbb12ba",
+      "seriesId": "official-series-8979c73ea7d2ef67d01d69c4",
+      "title": "世界くらべてみたら★出たぞお宝！キテレツ岩﨑vs尾形倉庫オークション",
+      "stationId": "tbs",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "big_eating"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261028_C2DA.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "個別予告本文でスリランカでの大食い対決を確認。タイトル検索だけでは発見しにくい例。"
+    },
+    {
+      "id": "official-505a8f1c09195273d8e6a226",
+      "seriesId": "official-series-19461c3ed16e3512b4ce2daf",
+      "title": "千原ジュニアタクシー乗り継ぎ旅33弾　尾上右近＆瀬戸朝香と関東横断",
+      "stationId": "tvtokyo",
+      "start": "2026-10-24T18:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel",
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/sat/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "10/24の個別予告と枠の開始時刻が根拠。タクシーの乗車条件と時間制限のある旅。"
+    },
+    {
+      "id": "official-89287bb286d013376db4942d",
+      "seriesId": "official-series-a03cb9d6aa4a4cd5c3133404",
+      "title": "岡崎体育の京の観察日記▽宇治小倉編",
+      "stationId": "chiba",
+      "start": "2026-10-25T15:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.chiba-tv.com/timetable/daily?d=2026-10-25",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "日付を指定した局公式の031ch側日別番組表。宇治小倉を訪ねる題名。再放送表示あり。"
+    },
+    {
+      "id": "official-8b27aa60f15cb00a019cfc5f",
+      "seriesId": "official-series-617dca0ee3c7eefdb183997f",
+      "title": "藤森慎吾の信州観光協会",
+      "stationId": "chiba",
+      "start": "2026-10-25T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.chiba-tv.com/timetable/daily?d=2026-10-25",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "日付指定の局公式日別表で日時・題名を確認。信州の観光番組。"
+    },
+    {
+      "id": "official-8be2515e9823631a3c0dad93",
+      "seriesId": "official-series-c6e29359028d4cf8b734183a",
+      "title": "ガレッジセールのオリタラドコ旅▽群馬県 伊勢崎の旅 後編",
+      "stationId": "chiba",
+      "start": "2026-10-25T22:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.chiba-tv.com/timetable/daily?d=2026-10-25",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "局公式の日付指定表。伊勢崎の旅と題名に明示。"
+    },
+    {
+      "id": "official-74317e722c586e35a8e2b478",
+      "seriesId": "official-series-3244aed9715be5c50feea624",
+      "title": "健康カプセル！ゲンキの時間　こり・痛み・しびれの放置は危険！？身近な首トラブル",
+      "stationId": "tbs",
+      "start": "2026-10-25T07:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261025_C25F.html",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "局公式の日別詳細で日時・首の健康に関するテーマを確認。CBC制作だが対象地域の放送局はTBS。"
+    },
+    {
+      "id": "official-38fcc5935825b337e3c65268",
+      "seriesId": "official-series-e2aa9feae59721adac9e00bc",
+      "title": "ギャビーのドールハウス 第131話 ネコちゃんロボット（後編）",
+      "stationId": "tvtokyo",
+      "start": "2026-10-25T09:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/anime/gabbysdollhouse/",
+      "checkedAt": "2026-10-24T02:13:50Z",
+      "updatedAt": "2026-10-24T02:13:50Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式次回予告に個別日付・話数、同ページに局と共通の開始時刻を確認。"
+    }
+  ]
+}
