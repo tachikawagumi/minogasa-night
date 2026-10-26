@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "sources": {
+    "syobocal": {
+      "enabled": true,
+      "mode": "provider_match",
+      "hosts": [
+        "cal.syoboi.jp"
+      ],
+      "permissions": [
+        "metadata",
+        "cache",
+        "redistribute",
+        "automated_access"
+      ],
+      "termsUrl": "https://docs.cal.syoboi.jp/about/",
+      "rateLimitUrl": "https://docs.cal.syoboi.jp/spec/rate_limit/",
+      "reviewedAt": "2026-10-26",
+      "officialVerificationHosts": [
+        "www.tbs.co.jp",
+        "www.tv-tokyo.co.jp",
+        "www.fujitv.co.jp",
+        "www.bs-asahi.co.jp",
+        "www.chiba-tv.com",
+        "www.bsfuji.tv"
+      ]
+    },
+    "official_unreviewed": {
+      "enabled": false,
+      "mode": "official_facts",
+      "hosts": [
+        "www.tbs.co.jp",
+        "www.tv-tokyo.co.jp",
+        "www.fujitv.co.jp",
+        "www.bs-asahi.co.jp",
+        "www.chiba-tv.com",
+        "www.bsfuji.tv"
+      ],
+      "permissions": [],
+      "reason": "公式の予定確認と、自動取得・公開再利用の条件確認は別。条件未確認の候補は保留。"
+    }
+  }
+}

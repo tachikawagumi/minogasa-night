@@ -111,7 +111,7 @@ class Syobocal:
             begin = datetime.fromisoformat(values["StTime"]).replace(tzinfo=JST)
             end = datetime.fromisoformat(values["EdTime"]).replace(tzinfo=JST)
             rows.append(dict(id="syobocal-" + values["PID"], seriesId="syobocal-title-" + values["TID"], title=title, stationId=station_id, start=iso(begin), end=iso(end), genreIds=["anime"], sourceUrl="https://cal.syoboi.jp/" + values["TID"] + "/time?Filter=" + values["ChID"], checkedAt=iso(now), updatedAt=iso(now), sourceUpdatedAt=values.get("LastUpdate"), status="provider_confirmed", publicationApproved=True, origin="syobocal", sourcePid=values["PID"], revision=values.get("Revision")))
-        return {"checkedAt": iso(now), "rows": rows, "requests": self.requests, "rawSlots": len(items)}
+        return {"checkedAt": iso(now), "rows": rows, "requests": self.requests, "rawSlots": len(items), "deletedPids": [x.findtext("PID") for x in items if x.findtext("Deleted")=="1"]}
 
 def merge_rows(rows, now):
     begin, finish = window(now)

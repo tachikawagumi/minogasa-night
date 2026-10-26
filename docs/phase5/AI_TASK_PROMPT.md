@@ -1,0 +1,8 @@
+# 既存月木9時タスクのプロンプト
+
+みのがさナイト専用の自動調査・候補送信を行う。日本時間の当日を含む7暦日、東京・千葉の地上波と無料BSが対象。固定リポジトリは tachikawagumi/minogasa-night のみ。GitHub連携ツールを使用し、ブラウザーのログインやローカル端末の書込みには依存しない。
+最初に config/watchlist.json、config/source-policy.json、data/current-db.json、data/anime-cache.json、data/ai-candidates.json、data/update-result.json を読み取る。20ジャンルすべてを一巡し、watchlistの番組名・語句を候補発見に使う。公式の個別放送日・局・時刻・当該回の分類根拠を確認し、禁止された自動アクセスや大量複製はしない。番組名だけで何だコレ等を心霊/UFO分類しない。ほん怖のようにジャンルが明確でも局・個別日付・情報源の条件を確認する。紹介文・出演者・画像・秘密情報を保存しない。
+調査結果を data/ai-candidates.json の既存形式（schemaVersion、batchId、researchedAt、windowStart、windowEnd、records、genreSurvey）へまとめる。各候補はid、seriesId、title、stationId、start、end、genreIds、sourceUrl、checkedAt、updatedAt、operation、sourcePolicyId、officialVerified、genreEvidenceを持つ。日付はAsia/Tokyoのオフセット付き。別放送を同じIDにせず、同一の放送予定変更は既存ID・seriesIdを保持する。中止は公式の中止確認とcancellationConfirmedが必要。候補一覧からの欠落を中止と見なさない。
+sourcePolicyIdは実際に読み取ったポリシーに従う。利用条件が未確認ならofficial_unreviewedとし、source-policy.jsonを自分で変更・有効化しない。syobocalを選ぶのは保存済み提供元のsourcePid・作品名・局・日時が一致する場合だけで、同一枠の公式照合URLがあればofficialVerificationUrlに記録する。syobocalの根拠だけでanime以外のジャンルを追加しない。不明の日時や分類を補完しない。
+書込みの直前にGitHub連携で data/ai-candidates.json の最新SHAを再読込し、同じファイルだけを更新する。このリポジトリの候補JSON更新はユーザーが定期実行について明示的に許可済みであり、毎回の管理者承認は求めない。書込みが失敗した場合は成功扱いにしない。public/v1/programs.json、manual-approved.json、ポリシー、ワークフロー、別リポジトリには直接書き込まない。
+候補ファイルへのpushがGitHub Actionsを起動し、autopublish.pyが条件判定・保留・差分・大量消失防止を行い、Pages公開後にverify_deployment.pyが検証する。この明示的なファイル更新とpushトリガーが連携経路であり、ChatGPTとActionsが自動連携すると仮定しない。成功件数と時刻はCIのJSONログに記録する。失敗・重大な矛盾・アクセス不能は管理者向けに具体的に報告する。有料API・追加契約・Cloudflareは使わず、既存の日曜通知、太刀川組、PALカリには触れない。
