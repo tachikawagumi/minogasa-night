@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "batchId": "ai-20261026-phase6-discovery",
-  "researchedAt": "2026-10-26T16:29:00+09:00",
+  "researchedAt": "2026-10-26T16:46:00+09:00",
   "windowStart": "2026-10-26T00:00:00+09:00",
   "windowEnd": "2026-11-02T00:00:00+09:00",
   "records": [
@@ -375,7 +375,10 @@
       "genreEvidence": {
         "health": "TBSの日時付き詳細で、健康情報を紹介する番組であることを確認。当該回の詳細テーマは未発表。"
       },
-      "operation": "upsert"
+      "operation": "upsert",
+      "verificationIssues": [
+        "source_unavailable"
+      ]
     },
     {
       "id": "syobocal-720594",
@@ -616,7 +619,7 @@
       "status": "executed",
       "checkedAt": "2026-10-26T16:29:00+09:00",
       "officialUrls": [],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "ほん怖はドラマのためホラー映画に分類しない。映画の当該7日内枠は未確認。"
     },
     {
       "genreId": "disney",
@@ -628,7 +631,7 @@
       "officialUrls": [
         "https://www.disney.co.jp/tv/dc/recommend/latest"
       ],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "見つかったディズニー専門局の有料CSや過去10/9・前年の予定は対象外。"
     },
     {
       "genreId": "usj",
@@ -640,7 +643,7 @@
       "officialUrls": [
         "https://cu.tbs.co.jp/episode/14602_2124933_1000169436"
       ],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "公式で見つかった10/10放送分は過去。10/31ブランチのUSJ特集とは推定しない。"
     },
     {
       "genreId": "big_eating",
@@ -688,7 +691,7 @@
       "officialUrls": [
         "https://www.bsfuji.tv/setagaya/pub/303.html"
       ],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "世田谷ベース10/31は公式確認。該当回はバイクが中心のため車分類へ機械的に追加しない。"
     },
     {
       "genreId": "dance",
@@ -698,7 +701,7 @@
       "status": "executed",
       "checkedAt": "2026-10-26T16:29:00+09:00",
       "officialUrls": [],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "対象期間内のダンス回について公式の日時・該当回の分類を確定できていない。"
     },
     {
       "genreId": "golf",
@@ -722,7 +725,7 @@
       "officialUrls": [
         "https://www.tbs.co.jp/tv/20261101_C370.html"
       ],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "11/1番組日付のKICK OFF! J 深夜1:13は暦日11/2となり今回の7日間の対象外。"
     },
     {
       "genreId": "baseball",
@@ -768,7 +771,7 @@
       "status": "executed",
       "checkedAt": "2026-10-26T16:29:00+09:00",
       "officialUrls": [],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "ブラタモリの対象期間候補は検索で発見したが、今回NHK公式の個別日時照合を完了できていない。"
     },
     {
       "genreId": "challenge",
@@ -802,7 +805,7 @@
       "officialUrls": [
         "https://www.bsfuji.tv/tetsudo_densetsu/index.html"
       ],
-      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+      "note": "鉄道伝説の公式掲載は10/25等の過去回。曜日から11/1の枠を作らない。"
     },
     {
       "genreId": "ghost",
@@ -834,7 +837,8 @@
       "query": "site.bsfuji.tv 世田谷ベース \"2026年10月31日\"",
       "tool": "web.search_query",
       "status": "executed",
-      "checkedAt": "2026-10-26T16:29:00+09:00"
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "note": "世田谷ベース10/31は公式確認。該当回はバイクが中心のため車分類へ機械的に追加しない。"
     },
     {
       "genreId": "travel",
@@ -842,7 +846,8 @@
       "query": "site.nhk.jp ブラタモリ \"2026年10月31日\"",
       "tool": "web.search_query",
       "status": "executed",
-      "checkedAt": "2026-10-26T16:29:00+09:00"
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "note": "ブラタモリの対象期間候補は検索で発見したが、今回NHK公式の個別日時照合を完了できていない。"
     },
     {
       "genreId": "fishing",
@@ -851,6 +856,141 @@
       "tool": "web.search_query",
       "status": "executed",
       "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "route": "program_name",
+      "query": "site.kinro.ntv.co.jp 金曜ロードショー 2026 10月30日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "program_name",
+      "query": "site.tv-tokyo.co.jp サタシネ ホラー 2026年10月31日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "ほん怖はドラマのためホラー映画に分類しない。映画の当該7日内枠は未確認。"
+    },
+    {
+      "genreId": "disney",
+      "route": "program_name",
+      "query": "site.ntv.co.jp 金曜ロードショー ディズニー 2026年10月",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "見つかったディズニー専門局の有料CSや過去10/9・前年の予定は対象外。"
+    },
+    {
+      "genreId": "usj",
+      "route": "program_name",
+      "query": "site.tbs.co.jp 王様のブランチ USJ 2026年10月31日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "公式で見つかった10/10放送分は過去。10/31ブランチのUSJ特集とは推定しない。"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "program_name",
+      "query": "site.tv-tokyo.co.jp デカ盛りハンター 2026年10月30日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "onsen",
+      "route": "program_name",
+      "query": "site.bs-asahi.co.jp ケンコバ ビジホ 2026年10月29日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "architecture",
+      "route": "program_name",
+      "query": "site.tv-asahi.co.jp 建もの探訪 2026年10月31日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "dance",
+      "route": "program_name",
+      "query": "site.tbs.co.jp それSnow Man ダンス 2026年10月30日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "対象期間内のダンス回について公式の日時・該当回の分類を確定できていない。"
+    },
+    {
+      "genreId": "golf",
+      "route": "program_name",
+      "query": "site.bs-asahi.co.jp 女子ゴルフペアマッチ 2026年10月26日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "soccer",
+      "route": "program_name",
+      "query": "site.tbs.co.jp KICK OFF J 2026年11月1日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "11/1番組日付のKICK OFF! J 深夜1:13は暦日11/2となり今回の7日間の対象外。"
+    },
+    {
+      "genreId": "baseball",
+      "route": "program_name",
+      "query": "site.tbs.co.jp SMBC日本シリーズ 2026年10月27日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "health",
+      "route": "program_name",
+      "query": "site.tbs.co.jp 健康カプセル ゲンキ 2026年11月1日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "challenge",
+      "route": "program_name",
+      "query": "site.tbs.co.jp ドア ドア クエスト 2026年10月30日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "anime",
+      "route": "program_name",
+      "query": "site.tv-tokyo.co.jp ポケットモンスター 2026年10月30日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "代表番組名を使って実行。検索結果だけを公式確認済みとは扱わない。"
+    },
+    {
+      "genreId": "railway",
+      "route": "program_name",
+      "query": "site.bsfuji.tv 鉄道伝説 2026年11月1日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:46:00+09:00",
+      "note": "鉄道伝説の公式掲載は10/25等の過去回。曜日から11/1の枠を作らない。"
     }
   ]
 }
