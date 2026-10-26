@@ -10,7 +10,15 @@ GitHub Actionsがしょぼいカレンダーを取得 → 最小事実DBで統�
 
 公開先は専用リポジトリ tachikawagumi/minogasa-night を想定する。アプリ内の同URLは配信先の設定値であり、デプロイ完了の証明ではない。太刀川組・PALカリのリポジトリや既存サイトは使用しない。
 
-## 最初の公開
+## 公開確認（2026-10-26）
+
+GitHub Pagesは管理者が初回有効化済み。Actions #2で検証・アニメ取得・JSON更新・配信が成功し、公開JSONのHTTP 200と146枠を確認した。
+
+公開JSON： https://tachikawagumi.github.io/minogasa-night/v1/programs.json
+
+本リポジトリは番組データの配信用。Android StudioプロジェクトとAPKは別途納品する。以後の手動承認データは、接続済みGitHub連携またはGitHub上でdata/manual-approved.jsonだけを更新すれば配信処理が動く。Androidプロジェクト全体を配信リポジトリへ上書きpushする必要はない。
+
+## 初回設定・再構築の参考手順
 
 1. GitHubで公開の空リポジトリ `minogasa-night` を用意する。READMEの自動作成は不要。
 2. 本プロジェクトのコミットを専用リポジトリへ反映する。Gitの認証が済んだ環境なら `scripts/publish.ps1` を実行する。接続済みGitHubツールでも専用リポジトリ作成後はファイルの追加・更新を行える。
