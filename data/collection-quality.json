@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-10-26T17:37:19+09:00",
+  "checkedAt": "2026-10-26T17:40:57+09:00",
   "batchId": "ai-20261026-phase7-occult-six",
-  "target": "current_public_json",
-  "discovered": 24,
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 26,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 1,
+  "newRegistrations": 0,
   "updates": 0,
   "alreadyPublished": 13,
-  "held": 22,
+  "held": 24,
   "heldReasonCounts": {
     "outside_window": 1,
-    "terms_unconfirmed": 21,
-    "datetime_unconfirmed": 5,
-    "other": 4,
-    "genre_uncertain": 2
+    "terms_unconfirmed": 23,
+    "datetime_unconfirmed": 7,
+    "other": 6,
+    "genre_uncertain": 4
   },
   "reasonLabels": {
     "datetime_unconfirmed": "放送日時が確認できない",
@@ -152,13 +152,13 @@
     {
       "genreId": "ghost",
       "name": "心霊・怪談",
-      "candidates": 3,
+      "candidates": 4,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "searches": 5,
       "datetimeConfirmed": 1,
-      "held": 2,
+      "held": 3,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -250,13 +250,13 @@
     {
       "genreId": "onsen",
       "name": "温泉",
-      "candidates": 1,
+      "candidates": 2,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "判定保留",
       "searches": 2,
       "datetimeConfirmed": 1,
-      "held": 1,
+      "held": 2,
       "excluded": 0,
       "omissions": 1,
       "zeroReasonCode": "decision_pending"
@@ -1029,6 +1029,64 @@
       ],
       "researchDue": false,
       "omission": true
+    },
+    {
+      "id": "phase7-onsen-drama-unverified-20261028",
+      "title": "ザ・ミステリー『湯けむりドクター 華岡万里子の温泉事件簿３』",
+      "genreIds": [
+        "onsen"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/26333_202610281253.html"
+      ],
+      "holdReasons": [
+        "検索結果で発見。公式個別ページの取得はCache miss。温泉という題名だけでは温泉情報番組に該当するか未確定。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase7-ghost-crime-unverified-20261028",
+      "title": "潔癖クンの殺人ファイル3",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bsfuji.tv/keppekikun3/pub/index.html"
+      ],
+      "holdReasons": [
+        "検索結果に怪談関連語を発見。本文の個別参照・日時照合は未実施で、犯罪ドラマの怪談語を心霊作品と断定しない。"
+      ],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "limitations": [
@@ -1189,7 +1247,7 @@
       "omission": true
     }
   ],
-  "ledgerCandidates": 6,
+  "ledgerCandidates": 8,
   "excluded": 0,
-  "unconfirmedDiscoveries": 5
+  "unconfirmedDiscoveries": 7
 }

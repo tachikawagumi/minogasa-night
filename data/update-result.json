@@ -1,33 +1,24 @@
 {
-  "at": "2026-10-26T17:36:52+09:00",
-  "status": "published",
+  "at": "2026-10-26T17:40:53+09:00",
+  "status": "prepared",
   "animeSuccess": true,
   "publicPrograms": 147,
   "aiAccepted": 3,
   "aiHeld": 17,
   "batchId": "ai-20261026-phase7-occult-six",
   "diff": {
-    "added": [
-      "official-fuji-20261028-1900-nandakore"
-    ],
+    "added": [],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
     "expired": []
   },
   "counts": {
-    "added": 1,
+    "added": 0,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-10-26T17:37:19+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "e076e2373ee8c352b4c5642d07edb21122144d01e971b764daba6538d8aa8e82",
-    "programs": 147
-  }
+  "publicationVerified": false
 }
