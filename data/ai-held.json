@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-26T15:33:24+09:00",
-  "batchId": "ai-20261026-phase5-initial",
+  "checkedAt": "2026-10-26T16:42:21+09:00",
+  "batchId": "ai-20261026-phase6-discovery",
   "records": [
     {
       "candidate": {
@@ -201,20 +201,6 @@
     },
     {
       "candidate": {
-        "id": "official-f9558d382a201f8b6603526e",
-        "title": "ほんとにあった怖い話 秋の特別編2026",
-        "stationId": "fuji",
-        "start": "2026-10-31T21:00:00+09:00",
-        "genreIds": [
-          "ghost"
-        ],
-        "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
-        "sourcePolicyId": "official_unreviewed"
-      },
-      "reason": "情報源の取得・再配信条件が未確認"
-    },
-    {
-      "candidate": {
         "id": "official-ce810c015779acc089ba403a",
         "title": "健康カプセル！ゲンキの時間",
         "stationId": "tbs",
@@ -223,6 +209,34 @@
           "health"
         ],
         "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261031-1730-thefishing",
+        "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T17:30:00+09:00",
+        "genreIds": [
+          "fishing"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-bsasahi-20261031-1500-itadaki",
+        "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T15:00:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
         "sourcePolicyId": "official_unreviewed"
       },
       "reason": "情報源の取得・再配信条件が未確認"

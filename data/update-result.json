@@ -1,33 +1,26 @@
 {
-  "at": "2026-10-26T15:33:24+09:00",
-  "status": "published",
+  "at": "2026-10-26T16:42:21+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 145,
-  "aiAccepted": 1,
-  "aiHeld": 16,
-  "batchId": "ai-20261026-phase5-initial",
+  "publicPrograms": 146,
+  "aiAccepted": 2,
+  "aiHeld": 17,
+  "batchId": "ai-20261026-phase6-discovery",
   "diff": {
-    "added": [],
+    "added": [
+      "official-f9558d382a201f8b6603526e"
+    ],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
-    "expired": [
-      "official-81221f862e50feba0f729d41"
-    ]
+    "expired": []
   },
   "counts": {
-    "added": 0,
+    "added": 1,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
-    "expired": 1
+    "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-10-26T15:33:53+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "29cc71cc09097a304ffaf3ca18c0de9bdc9ba789fa2b9693c7ae05b25a2d05a5",
-    "programs": 145
-  }
+  "publicationVerified": false
 }

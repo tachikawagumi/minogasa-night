@@ -1,0 +1,479 @@
+{
+  "checkedAt": "2026-10-26T16:42:27+09:00",
+  "batchId": "ai-20261026-phase6-discovery",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 19,
+  "inputDuplicates": 0,
+  "conflictingIds": [],
+  "newRegistrations": 1,
+  "updates": 0,
+  "alreadyPublished": 12,
+  "held": 17,
+  "heldReasonCounts": {
+    "outside_window": 1,
+    "terms_unconfirmed": 17
+  },
+  "reasonLabels": {
+    "datetime_unconfirmed": "放送日時が確認できない",
+    "station_unconfirmed": "放送局が確認できない",
+    "genre_uncertain": "ジャンル分類が不明",
+    "terms_unconfirmed": "情報源の利用条件が未確認",
+    "duplicate": "重複している",
+    "outside_window": "対象期間外",
+    "other": "その他"
+  },
+  "unpublishedFuture": 6,
+  "attention": [],
+  "genres": [
+    {
+      "genreId": "ghost",
+      "name": "心霊・怪談",
+      "candidates": 1,
+      "publicPrograms": 1,
+      "searchCoverage": "name_and_genre_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "ufo",
+      "name": "UFO・都市伝説",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "name_and_genre_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "movie",
+      "name": "映画",
+      "candidates": 5,
+      "publicPrograms": 4,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "horror_movie",
+      "name": "ホラー映画",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "disney",
+      "name": "ディズニー",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "usj",
+      "name": "USJ",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "big_eating",
+      "name": "大食い",
+      "candidates": 1,
+      "publicPrograms": 1,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "onsen",
+      "name": "温泉",
+      "candidates": 1,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "候補あり・未公開"
+    },
+    {
+      "genreId": "architecture",
+      "name": "建物探訪",
+      "candidates": 1,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "候補あり・未公開"
+    },
+    {
+      "genreId": "car",
+      "name": "車",
+      "candidates": 1,
+      "publicPrograms": 1,
+      "searchCoverage": "name_and_genre_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "dance",
+      "name": "ダンス",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "golf",
+      "name": "ゴルフ",
+      "candidates": 3,
+      "publicPrograms": 1,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "soccer",
+      "name": "サッカー",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    },
+    {
+      "genreId": "baseball",
+      "name": "野球",
+      "candidates": 1,
+      "publicPrograms": 1,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "fishing",
+      "name": "釣り",
+      "candidates": 1,
+      "publicPrograms": 0,
+      "searchCoverage": "name_and_genre_searched",
+      "zeroExplanation": "候補あり・未公開"
+    },
+    {
+      "genreId": "health",
+      "name": "健康",
+      "candidates": 1,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "候補あり・未公開"
+    },
+    {
+      "genreId": "travel",
+      "name": "旅",
+      "candidates": 1,
+      "publicPrograms": 3,
+      "searchCoverage": "name_and_genre_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "challenge",
+      "name": "ゲーム・チャレンジ",
+      "candidates": 1,
+      "publicPrograms": 2,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "anime",
+      "name": "アニメ",
+      "candidates": 2,
+      "publicPrograms": 132,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": null
+    },
+    {
+      "genreId": "railway",
+      "name": "電車・鉄道",
+      "candidates": 0,
+      "publicPrograms": 0,
+      "searchCoverage": "partially_searched",
+      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+    }
+  ],
+  "records": [
+    {
+      "id": "official-81221f862e50feba0f729d41",
+      "title": "ロビン・フッド",
+      "genreIds": [
+        "movie"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window",
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "official-31c42a7b11885b5095cf557e",
+      "title": "女子ゴルフペアマッチ選手権",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-662f49475ddea876f1fb0554",
+      "title": "極上！ゴルフ場探訪",
+      "genreIds": [
+        "golf"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "official-c7b13fcaec9d5b2204fd96a0",
+      "title": "ブロークンシティ",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-4016b69c0dceceb86c2abccb",
+      "title": "ＳＭＢＣ日本シリーズ２０２６　第３戦「ソフトバンク×ＤｅＮＡ」",
+      "genreIds": [
+        "baseball"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-15bd27175d27a7cbb8b71b6e",
+      "title": "アサシン",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-bd4aeb08473634c62dbb12ba",
+      "title": "世界くらべてみたら★出たぞお宝！キテレツ岩﨑vs尾形倉庫オークション",
+      "genreIds": [
+        "big_eating"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-4a9c16fb7436ca6009605718",
+      "title": "ペイバック",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-5175d86a5b23c2d551acb056",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "official-95f2d23a6c58e3fcba1e42a3",
+      "title": "カーグラフィックTV",
+      "genreIds": [
+        "car"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-e70af6e582c0f367c487ed50",
+      "title": "氷の城壁　第19話",
+      "genreIds": [
+        "anime"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-6f741d1e46596684dcde7071",
+      "title": "狼よさらば",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-9e656b41231a20dd6464c746",
+      "title": "ドア×ドアクエスト★このお菓子何作ってる？クイズ★桐谷健太・M!LK山中参戦！",
+      "genreIds": [
+        "challenge"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "published"
+    },
+    {
+      "id": "official-bab590a4f8e59ce88597843a",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "genreIds": [
+        "architecture"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "official-f9558d382a201f8b6603526e",
+      "title": "ほんとにあった怖い話 秋の特別編2026",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published"
+    },
+    {
+      "id": "official-ce810c015779acc089ba403a",
+      "title": "健康カプセル！ゲンキの時間",
+      "genreIds": [
+        "health"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "syobocal-720594",
+      "title": "ポケットモンスター(2023)",
+      "genreIds": [
+        "anime"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published"
+    },
+    {
+      "id": "official-tvtokyo-20261031-1730-thefishing",
+      "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+      "genreIds": [
+        "fishing"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    },
+    {
+      "id": "official-bsasahi-20261031-1500-itadaki",
+      "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+      "genreIds": [
+        "golf"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held"
+    }
+  ],
+  "limitations": [
+    "検索結果なしは放送予定なしの証明ではない",
+    "GitHub ActionsにAI Web検索機能はない",
+    "対話中の実行と無人定期実行の証跡は別"
+  ]
+}

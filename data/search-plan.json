@@ -1,0 +1,367 @@
+{
+  "windowStart": "2026-10-26T00:00:00+09:00",
+  "windowEnd": "2026-11-02T00:00:00+09:00",
+  "queries": [
+    {
+      "genreId": "ghost",
+      "route": "program_name",
+      "query": "ほんとにあった怖い話 OR ダークサイドミステリー 放送予定 2026年10月26日 2026年11月01日 (site:www.fujitv.co.jp OR site:www.nhk.jp)"
+    },
+    {
+      "genreId": "ghost",
+      "route": "genre",
+      "query": "ほんとにあった怖い話 OR 心霊特番 OR 怪談 OR 恐怖映像 OR 心霊スポット OR ダークサイドミステリー 放送予定 2026年10月26日 2026年11月01日 (site:www.fujitv.co.jp OR site:www.nhk.jp)"
+    },
+    {
+      "genreId": "ghost",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.fujitv.co.jp/timetable/",
+        "https://www.nhk.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "ufo",
+      "route": "program_name",
+      "query": "世界の何だコレ!?ミステリー OR やりすぎ都市伝説 放送予定 2026年10月26日 2026年11月01日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "ufo",
+      "route": "genre",
+      "query": "UFO OR UMA OR 都市伝説 OR 未確認生物 OR 超常現象 OR 世界の何だコレ!?ミステリー 放送予定 2026年10月26日 2026年11月01日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "ufo",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.fujitv.co.jp/timetable/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "movie",
+      "route": "program_name",
+      "query": "午後のロードショー OR 金曜ロードショー 放送予定 2026年10月26日 2026年11月01日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "movie",
+      "route": "genre",
+      "query": "午後のロードショー OR 金曜ロードショー OR 映画 放送予定 2026年10月26日 2026年11月01日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "movie",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.ntv.co.jp/program/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "program_name",
+      "query": "サタ☆シネ OR 日曜アニメ劇場 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre",
+      "query": "ホラー映画 OR 恐怖映画 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.bsfuji.tv/top/timetable/"
+      ]
+    },
+    {
+      "genreId": "disney",
+      "route": "program_name",
+      "query": "ディズニー特集 OR 金曜ロードショー 放送予定 2026年10月26日 2026年11月01日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "disney",
+      "route": "genre",
+      "query": "ディズニー 放送予定 2026年10月26日 2026年11月01日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "disney",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.ntv.co.jp/program/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    {
+      "genreId": "usj",
+      "route": "program_name",
+      "query": "王様のブランチ OR ヒルナンデス 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre",
+      "query": "USJ OR ユニバーサル・スタジオ・ジャパン 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "usj",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    {
+      "genreId": "big_eating",
+      "route": "program_name",
+      "query": "最強大食い王決定戦 OR デカ盛りハンター 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "genre",
+      "query": "大食い OR デカ盛り 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    {
+      "genreId": "onsen",
+      "route": "program_name",
+      "query": "ケンコバのほろ酔いビジホ泊 全国版 OR 秘湯ロマン 放送予定 2026年10月26日 2026年11月01日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
+    },
+    {
+      "genreId": "onsen",
+      "route": "genre",
+      "query": "温泉 OR 秘湯 OR 源泉かけ流し 放送予定 2026年10月26日 2026年11月01日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
+    },
+    {
+      "genreId": "onsen",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.tv-asahi.co.jp/bangumi/"
+      ]
+    },
+    {
+      "genreId": "architecture",
+      "route": "program_name",
+      "query": "渡辺篤史の建もの探訪 OR 辰巳琢郎の家物語 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "architecture",
+      "route": "genre",
+      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "architecture",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tv-asahi.co.jp/bangumi/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "car",
+      "route": "program_name",
+      "query": "所さんの世田谷ベース OR カーグラフィックTV 放送予定 2026年10月26日 2026年11月01日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "car",
+      "route": "genre",
+      "query": "カーグラフィックTV OR 自動車 OR カスタム 放送予定 2026年10月26日 2026年11月01日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "car",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "dance",
+      "route": "program_name",
+      "query": "DAN! DAN! EBiDAN! OR それSnow Manにやらせて下さい 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "dance",
+      "route": "genre",
+      "query": "ダンス OR 踊り 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "dance",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "golf",
+      "route": "program_name",
+      "query": "女子ゴルフペアマッチ選手権 OR ゴルフサバイバル 放送予定 2026年10月26日 2026年11月01日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "golf",
+      "route": "genre",
+      "query": "ゴルフ侍 OR ゴルフペアマッチ OR ゴルフ 放送予定 2026年10月26日 2026年11月01日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "golf",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    {
+      "genreId": "soccer",
+      "route": "program_name",
+      "query": "KICK OFF! J OR サッカー中継 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "soccer",
+      "route": "genre",
+      "query": "KICK OFF! J OR サッカー OR Jリーグ 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "soccer",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "baseball",
+      "route": "program_name",
+      "query": "SMBC日本シリーズ OR S☆1 BASEBALL 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "baseball",
+      "route": "genre",
+      "query": "日本シリーズ OR 野球 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+    },
+    {
+      "genreId": "baseball",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    {
+      "genreId": "fishing",
+      "route": "program_name",
+      "query": "THEフィッシング OR 巨大マグロ戦争 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+    },
+    {
+      "genreId": "fishing",
+      "route": "genre",
+      "query": "THEフィッシング OR 釣り OR マグロ漁師 OR 大間 OR 漁師 密着 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+    },
+    {
+      "genreId": "fishing",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.bsfuji.tv/top/timetable/"
+      ]
+    },
+    {
+      "genreId": "health",
+      "route": "program_name",
+      "query": "健康カプセル！ゲンキの時間 OR きょうの健康 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
+    },
+    {
+      "genreId": "health",
+      "route": "genre",
+      "query": "健康カプセル OR 健康 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
+    },
+    {
+      "genreId": "health",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.nhk.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "travel",
+      "route": "program_name",
+      "query": "ブラタモリ OR モヤモヤさまぁ〜ず 放送予定 2026年10月26日 2026年11月01日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "travel",
+      "route": "genre",
+      "query": "街歩き OR ブラタモリ OR モヤモヤさまぁ OR 旅 放送予定 2026年10月26日 2026年11月01日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
+    },
+    {
+      "genreId": "travel",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.nhk.jp/timetable/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "challenge",
+      "route": "program_name",
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ドア×ドアクエスト 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+    },
+    {
+      "genreId": "challenge",
+      "route": "genre",
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ 放送予定 2026年10月26日 2026年11月01日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+    },
+    {
+      "genreId": "challenge",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.fujitv.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "anime",
+      "route": "program_name",
+      "query": "ポケットモンスター OR 夜桜さんちの大作戦 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "anime",
+      "route": "genre",
+      "query": "アニメ 放送予定 2026年10月26日 2026年11月01日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+    },
+    {
+      "genreId": "anime",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    {
+      "genreId": "railway",
+      "route": "program_name",
+      "query": "鉄道伝説 OR 鉄道・絶景の旅 放送予定 2026年10月26日 2026年11月01日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "railway",
+      "route": "genre",
+      "query": "鉄道伝説 OR 鉄道 OR 電車 放送予定 2026年10月26日 2026年11月01日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "railway",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    }
+  ],
+  "execution": "AI connected web search only; GitHub Actions does not execute web search"
+}

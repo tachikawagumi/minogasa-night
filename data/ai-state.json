@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T15:33:24+09:00",
+  "checkedAt": "2026-10-26T16:42:21+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-26T15:33:24+09:00",
-      "updatedAt": "2026-10-26T15:33:24+09:00",
+      "checkedAt": "2026-10-26T16:42:21+09:00",
+      "updatedAt": "2026-10-26T16:42:21+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -21,8 +21,29 @@
       "sourcePid": "720594",
       "revision": "0",
       "officialVerificationUrl": "https://www.tv-tokyo.co.jp/anime/pocketmonster2023/",
-      "aiCheckedAt": "2026-10-26T15:12:46+09:00",
+      "aiCheckedAt": "2026-10-26T16:29:00+09:00",
       "sourcePolicyId": "syobocal"
+    },
+    {
+      "id": "official-f9558d382a201f8b6603526e",
+      "seriesId": "official-series-2b9729b602a554921245711f",
+      "title": "ほんとにあった怖い話 秋の特別編2026",
+      "stationId": "fuji",
+      "start": "2026-10-31T21:00:00+09:00",
+      "end": "2026-10-31T23:10:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "updatedAt": "2026-10-26T16:29:00+09:00",
+      "genreEvidence": {
+        "ghost": "公式発表の番組種別と題材を個別確認。心霊体験を扱う特別番組。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "fuji_honkowa_minimal_fact"
     }
   ]
 }
