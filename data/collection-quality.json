@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-26T16:42:27+09:00",
+  "checkedAt": "2026-10-26T16:43:41+09:00",
   "batchId": "ai-20261026-phase6-discovery",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 19,
   "inputDuplicates": 0,
   "conflictingIds": [],
