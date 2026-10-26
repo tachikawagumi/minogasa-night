@@ -24,5 +24,38 @@
       "expired": 1
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-10-26T15:33:24+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 145,
+    "aiAccepted": 1,
+    "aiHeld": 16,
+    "batchId": "ai-20261026-phase5-initial",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "official-81221f862e50feba0f729d41"
+      ]
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-10-26T15:33:53+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "29cc71cc09097a304ffaf3ca18c0de9bdc9ba789fa2b9693c7ae05b25a2d05a5",
+      "programs": 145
+    }
   }
 ]
