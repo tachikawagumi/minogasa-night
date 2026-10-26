@@ -171,5 +171,29 @@
       "semanticSha256": "f8c3fbaa3294c847a2a5cf77bc6e85a576642b15e2f9df6aa3dff605022a915e",
       "programs": 146
     }
+  },
+  {
+    "at": "2026-10-26T17:29:52+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 146,
+    "aiAccepted": 2,
+    "aiHeld": 17,
+    "batchId": "ai-20261026-phase7-occult-six",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]

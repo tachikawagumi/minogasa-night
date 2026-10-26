@@ -1,17 +1,20 @@
 {
-  "checkedAt": "2026-10-26T16:48:28+09:00",
-  "batchId": "ai-20261026-phase6-discovery",
-  "target": "current_public_json",
-  "discovered": 19,
+  "checkedAt": "2026-10-26T17:29:56+09:00",
+  "batchId": "ai-20261026-phase7-occult-six",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 24,
   "inputDuplicates": 0,
   "conflictingIds": [],
   "newRegistrations": 0,
   "updates": 0,
   "alreadyPublished": 12,
-  "held": 17,
+  "held": 22,
   "heldReasonCounts": {
     "outside_window": 1,
-    "terms_unconfirmed": 17
+    "terms_unconfirmed": 21,
+    "datetime_unconfirmed": 5,
+    "other": 4,
+    "genre_uncertain": 2
   },
   "reasonLabels": {
     "datetime_unconfirmed": "放送日時が確認できない",
@@ -22,32 +25,192 @@
     "outside_window": "対象期間外",
     "other": "その他"
   },
-  "unpublishedFuture": 6,
-  "attention": [],
+  "unpublishedFuture": 7,
+  "attention": [
+    {
+      "id": "official-fuji-20261028-1900-nandakore",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "awaiting_publication",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "holdReasons": [
+        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "genreIds": [
+        "ghost",
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "genre_uncertain",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "holdReasons": [
+        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase7-oichi-20261101-1845",
+      "title": "おいち不思議がたり 第1話",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "genre_uncertain",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/program/P202400411300000/",
+        "https://trilltrill.jp/articles/4977441"
+      ],
+      "holdReasons": [
+        "第三者の再放送告知はあるが2026/11/1の局・開始終了を公式で再確認できない。オンデマンドの過去回を未来枠にしない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "title": "幻魔大戦",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.twellv.co.jp/program/anime/sunday-animation/"
+      ],
+      "holdReasons": [
+        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
+      ],
+      "researchDue": false,
+      "omission": true
+    }
+  ],
   "genres": [
     {
       "genreId": "ghost",
       "name": "心霊・怪談",
-      "candidates": 1,
+      "candidates": 3,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 5,
+      "datetimeConfirmed": 1,
+      "held": 2,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "ufo",
       "name": "UFO・都市伝説",
-      "candidates": 0,
+      "candidates": 3,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 4,
+      "datetimeConfirmed": 1,
+      "held": 2,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "movie",
       "name": "映画",
-      "candidates": 5,
+      "candidates": 6,
       "publicPrograms": 4,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 6,
+      "held": 6,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": null
     },
     {
       "genreId": "horror_movie",
@@ -55,7 +218,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "disney",
@@ -63,7 +232,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "usj",
@@ -71,7 +246,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "big_eating",
@@ -79,7 +260,13 @@
       "candidates": 1,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "onsen",
@@ -87,7 +274,13 @@
       "candidates": 1,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "候補あり・未公開"
+      "zeroExplanation": "判定保留",
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "architecture",
@@ -95,7 +288,13 @@
       "candidates": 1,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "候補あり・未公開"
+      "zeroExplanation": "判定保留",
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "car",
@@ -103,7 +302,13 @@
       "candidates": 1,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "dance",
@@ -111,7 +316,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "golf",
@@ -119,7 +330,13 @@
       "candidates": 3,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 3,
+      "held": 3,
+      "excluded": 0,
+      "omissions": 2,
+      "zeroReasonCode": null
     },
     {
       "genreId": "soccer",
@@ -127,7 +344,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "baseball",
@@ -135,7 +358,13 @@
       "candidates": 1,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "fishing",
@@ -143,7 +372,13 @@
       "candidates": 1,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "候補あり・未公開"
+      "zeroExplanation": "判定保留",
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "health",
@@ -151,7 +386,13 @@
       "candidates": 1,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "候補あり・未公開"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     },
     {
       "genreId": "travel",
@@ -159,7 +400,13 @@
       "candidates": 1,
       "publicPrograms": 3,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": null
     },
     {
       "genreId": "challenge",
@@ -167,15 +414,27 @@
       "candidates": 1,
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 2,
+      "datetimeConfirmed": 1,
+      "held": 1,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": null
     },
     {
       "genreId": "anime",
       "name": "アニメ",
-      "candidates": 2,
+      "candidates": 3,
       "publicPrograms": 132,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null
+      "zeroExplanation": null,
+      "searches": 3,
+      "datetimeConfirmed": 2,
+      "held": 3,
+      "excluded": 0,
+      "omissions": 1,
+      "zeroReasonCode": null
     },
     {
       "genreId": "railway",
@@ -183,7 +442,13 @@
       "candidates": 0,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
+      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "searches": 2,
+      "datetimeConfirmed": 0,
+      "held": 0,
+      "excluded": 0,
+      "omissions": 0,
+      "zeroReasonCode": "source_insufficient"
     }
   ],
   "records": [
@@ -201,7 +466,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-31c42a7b11885b5095cf557e",
@@ -216,7 +490,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfmatch/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-662f49475ddea876f1fb0554",
@@ -231,7 +514,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
     },
     {
       "id": "official-c7b13fcaec9d5b2204fd96a0",
@@ -246,7 +538,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-4016b69c0dceceb86c2abccb",
@@ -261,7 +562,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/tv/20261027_C477.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-15bd27175d27a7cbb8b71b6e",
@@ -276,7 +586,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-bd4aeb08473634c62dbb12ba",
@@ -291,7 +610,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/tv/20261028_C2DA.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-4a9c16fb7436ca6009605718",
@@ -306,7 +634,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-5175d86a5b23c2d551acb056",
@@ -322,7 +659,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/business_hotel/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
     },
     {
       "id": "official-95f2d23a6c58e3fcba1e42a3",
@@ -337,7 +683,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/cgtv/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-e70af6e582c0f367c487ed50",
@@ -352,7 +707,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/tv/20261029_C2FF.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-6f741d1e46596684dcde7071",
@@ -367,7 +731,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-9e656b41231a20dd6464c746",
@@ -382,7 +755,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/tv/20261030_C31B.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-bab590a4f8e59ce88597843a",
@@ -397,7 +779,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/tatsumi/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
     },
     {
       "id": "official-f9558d382a201f8b6603526e",
@@ -410,7 +801,17 @@
       "held": false,
       "reasonCodes": [],
       "validationReason": null,
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+        "https://www.fujitv.co.jp/honkowa/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-ce810c015779acc089ba403a",
@@ -422,10 +823,20 @@
       "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "terms_unconfirmed"
+        "terms_unconfirmed",
+        "datetime_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C34E.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "syobocal-720594",
@@ -435,10 +846,21 @@
       ],
       "published": true,
       "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed"
+      ],
       "validationReason": null,
-      "missingStage": "published"
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://cal.syoboi.jp/6694/time?Filter=7"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     },
     {
       "id": "official-tvtokyo-20261031-1730-thefishing",
@@ -453,7 +875,16 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
     },
     {
       "id": "official-bsasahi-20261031-1500-itadaki",
@@ -468,12 +899,339 @@
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held"
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/itadakinosakie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-fuji-20261028-1900-nandakore",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "awaiting_publication",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "holdReasons": [
+        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "genreIds": [
+        "ghost",
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "genre_uncertain",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "holdReasons": [
+        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase7-oichi-20261101-1845",
+      "title": "おいち不思議がたり 第1話",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "terms_unconfirmed",
+        "genre_uncertain",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/program/P202400411300000/",
+        "https://trilltrill.jp/articles/4977441"
+      ],
+      "holdReasons": [
+        "第三者の再放送告知はあるが2026/11/1の局・開始終了を公式で再確認できない。オンデマンドの過去回を未来枠にしない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "title": "幻魔大戦",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.twellv.co.jp/program/anime/sunday-animation/"
+      ],
+      "holdReasons": [
+        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
+      ],
+      "researchDue": false,
+      "omission": true
     }
   ],
   "limitations": [
     "検索結果なしは放送予定なしの証明ではない",
     "GitHub ActionsにAI Web検索機能はない",
     "対話中の実行と無人定期実行の証跡は別"
-  ]
+  ],
+  "confirmedOmissions": [
+    {
+      "id": "official-662f49475ddea876f1fb0554",
+      "title": "極上！ゴルフ場探訪",
+      "genreIds": [
+        "golf"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-5175d86a5b23c2d551acb056",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/business_hotel/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-bab590a4f8e59ce88597843a",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "genreIds": [
+        "architecture"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/tatsumi/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-tvtokyo-20261031-1730-thefishing",
+      "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+      "genreIds": [
+        "fishing"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-bsasahi-20261031-1500-itadaki",
+      "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+      "genreIds": [
+        "golf"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "validationReason": "情報源の取得・再配信条件が未確認",
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/itadakinosakie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-fuji-20261028-1900-nandakore",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "awaiting_publication",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": true
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "title": "幻魔大戦",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.twellv.co.jp/program/anime/sunday-animation/"
+      ],
+      "holdReasons": [
+        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
+      ],
+      "researchDue": false,
+      "omission": true
+    }
+  ],
+  "ledgerCandidates": 6,
+  "excluded": 0,
+  "unconfirmedDiscoveries": 5
 }
