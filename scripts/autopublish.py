@@ -139,7 +139,9 @@ def run(now=None, collector=None):
     previous_rows=read_json(ROOT/"data/current-db.json",{"records":[]})["records"]
     cache=read_json(ROOT/"data/anime-cache.json",{"rows":[]})
     try:
-        # Nothing is persisted until source acquisition, integration and guard checks pass.
+        from ledger import prepare
+        batch=prepare(read_json(ROOT/"data/ai-candidates.json",{"records":[]}),ROOT)
+        # Candidate evidence is saved first; published data/cache change only after all guards pass.
         provider=(collector or Syobocal()).collect(now,cache)
         merge_rows(provider["rows"],now)
         cached_future={x["id"] for x in cache.get("rows",[]) if parse_dt(x["start"])>now}

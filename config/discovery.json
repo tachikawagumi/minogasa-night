@@ -1,19 +1,22 @@
 {
-  "version": 1,
+  "version": 2,
   "priorityTitles": [
     "ほんとにあった怖い話",
     "世界の何だコレ!?ミステリー",
     "ダークサイドミステリー",
     "所さんの世田谷ベース",
     "ブラタモリ",
-    "巨大マグロ戦争"
+    "巨大マグロ戦争",
+    "おいち不思議がたり",
+    "幻魔大戦"
   ],
   "note": "発見用。検索結果や番組名だけで分類・公開しない。各放送回を検証する。officialScheduleUrlsは調査開始点であり、自動取得・再配信許可を示さない。",
   "genres": {
     "ghost": {
       "programs": [
         "ほんとにあった怖い話",
-        "ダークサイドミステリー"
+        "ダークサイドミステリー",
+        "おいち不思議がたり"
       ],
       "keywords": [
         "ほんとにあった怖い話",
@@ -21,21 +24,42 @@
         "怪談",
         "恐怖映像",
         "心霊スポット",
-        "ダークサイドミステリー"
+        "ダークサイドミステリー",
+        "幽霊",
+        "死後の世界",
+        "地獄",
+        "怪奇現象",
+        "ホラー特番"
       ],
       "officialHosts": [
         "www.fujitv.co.jp",
-        "www.nhk.jp"
+        "www.nhk.jp",
+        "www.web.nhk",
+        "www.nhk.or.jp"
       ],
       "officialScheduleUrls": [
         "https://www.fujitv.co.jp/timetable/",
-        "https://www.nhk.jp/timetable/"
-      ]
+        "https://www.nhk.jp/timetable/",
+        "https://www.web.nhk/tv/"
+      ],
+      "learning": {
+        "missFeatures": [
+          "幽霊",
+          "死後の世界",
+          "地獄",
+          "怪奇現象",
+          "ホラー特番"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "ufo": {
       "programs": [
         "世界の何だコレ!?ミステリー",
-        "やりすぎ都市伝説"
+        "やりすぎ都市伝説",
+        "ダークサイドミステリー",
+        "おいち不思議がたり"
       ],
       "keywords": [
         "UFO",
@@ -43,16 +67,31 @@
         "都市伝説",
         "未確認生物",
         "超常現象",
-        "世界の何だコレ!?ミステリー"
+        "世界の何だコレ!?ミステリー",
+        "不老不死",
+        "未解決の謎",
+        "不思議な伝説"
       ],
       "officialHosts": [
         "www.fujitv.co.jp",
-        "www.tv-tokyo.co.jp"
+        "www.tv-tokyo.co.jp",
+        "www.web.nhk",
+        "www.nhk.or.jp"
       ],
       "officialScheduleUrls": [
         "https://www.fujitv.co.jp/timetable/",
-        "https://www.tv-tokyo.co.jp/timetable/"
-      ]
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.web.nhk/tv/"
+      ],
+      "learning": {
+        "missFeatures": [
+          "不老不死",
+          "未解決の謎",
+          "不思議な伝説"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "movie": {
       "programs": [
@@ -62,7 +101,10 @@
       "keywords": [
         "午後のロードショー",
         "金曜ロードショー",
-        "映画"
+        "映画",
+        "地上波映画",
+        "BS映画",
+        "映画特番"
       ],
       "officialHosts": [
         "www.ntv.co.jp",
@@ -71,7 +113,16 @@
       "officialScheduleUrls": [
         "https://www.ntv.co.jp/program/",
         "https://www.tv-tokyo.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "地上波映画",
+          "BS映画",
+          "映画特番"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "horror_movie": {
       "programs": [
@@ -80,7 +131,9 @@
       ],
       "keywords": [
         "ホラー映画",
-        "恐怖映画"
+        "恐怖映画",
+        "ホラー",
+        "怪奇映画"
       ],
       "officialHosts": [
         "www.tv-tokyo.co.jp",
@@ -89,7 +142,15 @@
       "officialScheduleUrls": [
         "https://www.tv-tokyo.co.jp/timetable/",
         "https://www.bsfuji.tv/top/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "ホラー",
+          "怪奇映画"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "disney": {
       "programs": [
@@ -97,7 +158,11 @@
         "金曜ロードショー"
       ],
       "keywords": [
-        "ディズニー"
+        "ディズニー",
+        "TDR",
+        "ディズニーランド",
+        "ディズニーシー",
+        "食べ歩き"
       ],
       "officialHosts": [
         "www.ntv.co.jp",
@@ -106,7 +171,17 @@
       "officialScheduleUrls": [
         "https://www.ntv.co.jp/program/",
         "https://www.tbs.co.jp/tv/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "TDR",
+          "ディズニーランド",
+          "ディズニーシー",
+          "食べ歩き"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "usj": {
       "programs": [
@@ -115,7 +190,9 @@
       ],
       "keywords": [
         "USJ",
-        "ユニバーサル・スタジオ・ジャパン"
+        "ユニバーサル・スタジオ・ジャパン",
+        "アトラクション",
+        "食べ歩き"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -124,7 +201,15 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.ntv.co.jp/program/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "アトラクション",
+          "食べ歩き"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "big_eating": {
       "programs": [
@@ -133,7 +218,9 @@
       ],
       "keywords": [
         "大食い",
-        "デカ盛り"
+        "デカ盛り",
+        "爆食",
+        "フードファイト"
       ],
       "officialHosts": [
         "www.tv-tokyo.co.jp",
@@ -142,7 +229,15 @@
       "officialScheduleUrls": [
         "https://www.tv-tokyo.co.jp/timetable/",
         "https://www.tbs.co.jp/tv/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "爆食",
+          "フードファイト"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "onsen": {
       "programs": [
@@ -152,7 +247,9 @@
       "keywords": [
         "温泉",
         "秘湯",
-        "源泉かけ流し"
+        "源泉かけ流し",
+        "露天風呂",
+        "温泉旅館"
       ],
       "officialHosts": [
         "www.bs-asahi.co.jp",
@@ -161,7 +258,15 @@
       "officialScheduleUrls": [
         "https://www.bs-asahi.co.jp/timetable/",
         "https://www.tv-asahi.co.jp/bangumi/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "露天風呂",
+          "温泉旅館"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "architecture": {
       "programs": [
@@ -173,7 +278,9 @@
         "家物語",
         "豪邸",
         "住宅紹介",
-        "住宅探訪"
+        "住宅探訪",
+        "建築探訪",
+        "ルームツアー"
       ],
       "officialHosts": [
         "www.tv-asahi.co.jp",
@@ -182,7 +289,15 @@
       "officialScheduleUrls": [
         "https://www.tv-asahi.co.jp/bangumi/",
         "https://www.bs-asahi.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "建築探訪",
+          "ルームツアー"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "car": {
       "programs": [
@@ -192,7 +307,11 @@
       "keywords": [
         "カーグラフィックTV",
         "自動車",
-        "カスタム"
+        "カスタム",
+        "旧車",
+        "カスタムカー",
+        "試乗",
+        "EV"
       ],
       "officialHosts": [
         "www.bsfuji.tv",
@@ -201,7 +320,17 @@
       "officialScheduleUrls": [
         "https://www.bsfuji.tv/top/timetable/",
         "https://www.bs-asahi.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "旧車",
+          "カスタムカー",
+          "試乗",
+          "EV"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "dance": {
       "programs": [
@@ -210,7 +339,10 @@
       ],
       "keywords": [
         "ダンス",
-        "踊り"
+        "踊り",
+        "ダンス大会",
+        "ブレイキン",
+        "社交ダンス"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -219,7 +351,16 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.tv-tokyo.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "ダンス大会",
+          "ブレイキン",
+          "社交ダンス"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "golf": {
       "programs": [
@@ -229,7 +370,10 @@
       "keywords": [
         "ゴルフ侍",
         "ゴルフペアマッチ",
-        "ゴルフ"
+        "ゴルフ",
+        "ゴルフ中継",
+        "女子ゴルフ",
+        "ゴルフ対決"
       ],
       "officialHosts": [
         "www.bs-asahi.co.jp",
@@ -238,7 +382,16 @@
       "officialScheduleUrls": [
         "https://www.bs-asahi.co.jp/timetable/",
         "https://www.ntv.co.jp/program/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "ゴルフ中継",
+          "女子ゴルフ",
+          "ゴルフ対決"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "soccer": {
       "programs": [
@@ -248,7 +401,9 @@
       "keywords": [
         "KICK OFF! J",
         "サッカー",
-        "Jリーグ"
+        "Jリーグ",
+        "日本代表",
+        "海外サッカー"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -257,7 +412,15 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.tv-tokyo.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "日本代表",
+          "海外サッカー"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "baseball": {
       "programs": [
@@ -266,7 +429,10 @@
       ],
       "keywords": [
         "日本シリーズ",
-        "野球"
+        "野球",
+        "プロ野球",
+        "MLB",
+        "高校野球"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -275,7 +441,16 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.ntv.co.jp/program/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "プロ野球",
+          "MLB",
+          "高校野球"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "fishing": {
       "programs": [
@@ -287,7 +462,11 @@
         "釣り",
         "マグロ漁師",
         "大間",
-        "漁師 密着"
+        "漁師 密着",
+        "マグロ",
+        "巨大魚",
+        "釣り対決",
+        "漁師密着"
       ],
       "officialHosts": [
         "www.tv-tokyo.co.jp",
@@ -296,7 +475,17 @@
       "officialScheduleUrls": [
         "https://www.tv-tokyo.co.jp/timetable/",
         "https://www.bsfuji.tv/top/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "マグロ",
+          "巨大魚",
+          "釣り対決",
+          "漁師密着"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "health": {
       "programs": [
@@ -305,7 +494,11 @@
       ],
       "keywords": [
         "健康カプセル",
-        "健康"
+        "健康",
+        "健康診断",
+        "医学",
+        "病気予防",
+        "健康法"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -314,7 +507,17 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.nhk.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "健康診断",
+          "医学",
+          "病気予防",
+          "健康法"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "travel": {
       "programs": [
@@ -325,7 +528,11 @@
         "街歩き",
         "ブラタモリ",
         "モヤモヤさまぁ",
-        "旅"
+        "旅",
+        "旅行",
+        "鉄道旅",
+        "観光",
+        "食べ歩き"
       ],
       "officialHosts": [
         "www.nhk.jp",
@@ -334,7 +541,17 @@
       "officialScheduleUrls": [
         "https://www.nhk.jp/timetable/",
         "https://www.tv-tokyo.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "旅行",
+          "鉄道旅",
+          "観光",
+          "食べ歩き"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "challenge": {
       "programs": [
@@ -348,7 +565,10 @@
         "戦闘中",
         "SASUKE",
         "ゲーム",
-        "チャレンジ"
+        "チャレンジ",
+        "サバイバル",
+        "クイズ対決",
+        "挑戦"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -357,7 +577,16 @@
       "officialScheduleUrls": [
         "https://www.tbs.co.jp/tv/",
         "https://www.fujitv.co.jp/timetable/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "サバイバル",
+          "クイズ対決",
+          "挑戦"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "anime": {
       "programs": [
@@ -365,7 +594,10 @@
         "夜桜さんちの大作戦"
       ],
       "keywords": [
-        "アニメ"
+        "アニメ",
+        "新作アニメ",
+        "再放送",
+        "劇場版アニメ"
       ],
       "officialHosts": [
         "www.tv-tokyo.co.jp",
@@ -374,7 +606,16 @@
       "officialScheduleUrls": [
         "https://www.tv-tokyo.co.jp/timetable/",
         "https://www.tbs.co.jp/tv/"
-      ]
+      ],
+      "learning": {
+        "missFeatures": [
+          "新作アニメ",
+          "再放送",
+          "劇場版アニメ"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
     },
     "railway": {
       "programs": [
@@ -384,7 +625,11 @@
       "keywords": [
         "鉄道伝説",
         "鉄道",
-        "電車"
+        "電車",
+        "特急",
+        "新幹線",
+        "ローカル線",
+        "鉄道旅"
       ],
       "officialHosts": [
         "www.bsfuji.tv",
@@ -393,7 +638,45 @@
       "officialScheduleUrls": [
         "https://www.bsfuji.tv/top/timetable/",
         "https://www.bs-asahi.co.jp/timetable/"
+      ],
+      "learning": {
+        "missFeatures": [
+          "特急",
+          "新幹線",
+          "ローカル線",
+          "鉄道旅"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      }
+    }
+  },
+  "classification": {
+    "ghost": {
+      "include": "心霊体験、怪談、幽霊・霊的現象を主題とする番組やドラマ。死後世界の伝承は内容により確認。",
+      "exclude": "死・恐怖という語のみ、単なる犯罪・医療・歴史紹介"
+    },
+    "ufo": {
+      "include": "UFO/UMAに限らず都市伝説、不老不死・超常現象等の伝承や主張の検証。",
+      "exclude": "SF作品の超能力・宇宙人だけ、物理現象の謎だけ"
+    },
+    "movie": {
+      "include": "映画作品のテレビ放送",
+      "exclude": "映画風の特別ドラマだけ"
+    },
+    "anime": {
+      "include": "アニメーション作品のテレビ放送。劇場版は映画も付与可能",
+      "exclude": "実写SF・超能力ドラマ"
+    }
+  },
+  "learningHistory": [
+    {
+      "at": "2026-10-26",
+      "lesson": "候補が未確認のため公開入力へ進めない場合も台帳へ残す。NHK BS未定義・NHK新ドメイン・不老不死/地獄の語彙不足を検知。",
+      "candidateIds": [
+        "phase7-darkside-immortality-20261029",
+        "phase7-darkside-hell-20261030"
       ]
     }
-  }
+  ]
 }

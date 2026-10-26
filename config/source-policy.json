@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sources": {
     "syobocal": {
       "enabled": true,
@@ -73,6 +73,41 @@
         "独自の20ジャンル分類と日時順の構成",
         "サイト全体や将来回の自動取得許可・サイトからのライセンス取得を意味しない",
         "この日時・番組・出典の範囲外は保留し再確認する"
+      ]
+    },
+    "fuji_nandakore_20261028_minimal_fact": {
+      "enabled": true,
+      "mode": "official_facts",
+      "hosts": [
+        "www.fujitv.co.jp"
+      ],
+      "allowedUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "permissions": [
+        "metadata",
+        "cache",
+        "redistribute",
+        "automated_access"
+      ],
+      "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
+      "basisUrl": "https://www.bunka.go.jp/seisaku/chosakuken/seidokaisetsu/chosakukensha_fumei/",
+      "termsUrl": "https://www.fujitv.co.jp/safe/userguide/iprights.html",
+      "reviewedAt": "2026-10-26T17:20:26+09:00",
+      "factRecordScope": {
+        "title": "世界の何だコレ!?ミステリー",
+        "stationId": "fuji",
+        "start": "2026-10-28T19:00:00+09:00",
+        "end": null,
+        "genreIds": [
+          "ufo"
+        ]
+      },
+      "conditions": [
+        "公開された当該回の現在の予告を個別参照し、番組名・局・開始時刻のみ独自整理",
+        "終了時刻は未確認のためnull。番組本文・画像・出演者・番組表配列を保存・転載しない",
+        "番組全体でなく当該回の超常現象検証企画に限り分類",
+        "このURL・日時・番組に限定。他回の取得・サイト全体の再配信許諾ではない"
       ]
     }
   }

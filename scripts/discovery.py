@@ -25,6 +25,7 @@ def plan(config, now):
         for route, terms in (("program_name",item["programs"]),("genre",item["keywords"])):
             result.append(dict(genreId=g,route=route,query=" OR ".join(terms)+" 放送予定 "+span+" ("+domains+")"))
         result.append(dict(genreId=g,route="official_schedule",urls=item["officialScheduleUrls"]))
+        result.append(dict(genreId=g,route="miss_learning",features=item.get("learning",{}).get("missFeatures",[]),recheckAfterHours=item.get("learning",{}).get("recheckAfterHours",48)))
     return dict(windowStart=iso(start),windowEnd=iso(end),queries=result,
                 execution="AI connected web search only; GitHub Actions does not execute web search")
 
@@ -52,7 +53,7 @@ def matching(c, programs):
     exact=all(p.get(k)==c.get(k) for k in ("stationId","start")) and canonical(p.get("title",""))==canonical(c.get("title","")) and set(p.get("genreIds",[]))==set(c.get("genreIds",[]))
     return p,exact
 
-def quality(batch, public, held, update, policies, now):
+def _base_quality(batch, public, held, update, policies, now):
     records=batch.get("records",[])
     if not isinstance(records,list): raise ValueError("候補形式が不正")
     programs=public.get("programs",[])
@@ -102,10 +103,77 @@ def quality(batch, public, held, update, policies, now):
         reasonLabels=REASONS,unpublishedFuture=len(missing_future),attention=attention,genres=genre_rows,records=rows,
         limitations=["検索結果なしは放送予定なしの証明ではない","GitHub ActionsにAI Web検索機能はない","対話中の実行と無人定期実行の証跡は別"])
 
+def quality(batch, public, held, update, policies, now, ledger=None):
+    from ledger import ready_for_research
+    originals=list(batch.get("records",[]))
+    combined={r["id"]:dict(r) for r in originals}
+    audit_records=list(originals)
+    discoveries=ledger if ledger is not None else batch.get("discoveries",[])
+    leadmap={r["id"]:r for r in discoveries}
+    for r in discoveries:
+        if r["id"] not in combined:
+            c=dict(r)
+            c["genreIds"]=r.get("genreIds") or r.get("candidateGenreIds",[])
+            combined[r["id"]]=c
+            audit_records.append(c)
+    b=dict(batch,records=audit_records)
+    report=_base_quality(b,public,held,update,policies,now)
+    byid={r["id"]:r for r in report["records"]}
+    for rid,c in combined.items():
+        out=byid[rid];lead=leadmap.get(rid,{})
+        v=lead.get("officialVerification",{})
+        excluded=lead.get("classification",{}).get("level")=="excluded" or lead.get("decision")=="excluded"
+        clear=lead.get("classification",{}).get("level","clear")=="clear"
+        confirmed=all(v.get(k) for k in ("title","station","datetime")) if lead else c.get("status")=="official_confirmed" and not c.get("verificationIssues")
+        out.update(classificationLevel=lead.get("classification",{}).get("level","clear"),officialDatetimeConfirmed=bool(confirmed),excluded=excluded,
+                   sourceUrls=lead.get("sourceUrls",[c.get("sourceUrl")]),holdReasons=lead.get("holdReasons",[]),
+                   researchDue=ready_for_research(lead or c,now),omission=bool(confirmed and clear and not excluded and not out["publishedExact"] and "outside_window" not in out["reasonCodes"]))
+        if not confirmed and "datetime_unconfirmed" not in out["reasonCodes"]: out["reasonCodes"].append("datetime_unconfirmed")
+        if not clear and not excluded and "genre_uncertain" not in out["reasonCodes"]: out["reasonCodes"].append("genre_uncertain")
+        if excluded:
+            out["held"]=False;out["missingStage"]="excluded"
+        elif out["reasonCodes"] or lead.get("decision")=="held":
+            out["held"]=True
+        if out["holdReasons"] and "other" not in out["reasonCodes"]: out["reasonCodes"].append("other")
+    for g in report["genres"]:
+        gid=g["genreId"]
+        members=[r for r in report["records"] if gid in r["genreIds"]]
+        logs=[]
+        for r in batch.get("research",[]):
+            try:
+                if r.get("genreId")==gid and r.get("status")=="executed" and r.get("tool") and r.get("query") and now-timedelta(hours=96)<=parse_dt(r.get("checkedAt"))<=now+timedelta(minutes=5):
+                    logs.append((r.get("route"),r["query"],r["checkedAt"]))
+            except (ValueError,TypeError): pass
+        g.update(searches=len(set(logs)),datetimeConfirmed=sum(r["officialDatetimeConfirmed"] for r in members),
+                 held=sum(r["held"] for r in members),excluded=sum(r["excluded"] for r in members),
+                 omissions=sum(r["omission"] for r in members))
+        if not g["publicPrograms"]:
+            if not g["searches"]: code="search_insufficient"
+            elif any(r["held"] and r["officialDatetimeConfirmed"] for r in members): code="decision_pending"
+            else: code="source_insufficient"
+            # No-result searches alone can NEVER prove there are no broadcasts.
+            for proof in batch.get("absenceEvidence",[]):
+                try:
+                    if proof.get("genreId")==gid and proof.get("verifiedNoEligibleBroadcast") and set(proof.get("scopeStations",[]))==set(STATIONS) and proof.get("windowStart")==iso(window(now)[0]) and proof.get("windowEnd")==iso(window(now)[1]) and proof.get("sourceUrl","").startswith("https://") and now-timedelta(hours=24)<=parse_dt(proof.get("checkedAt"))<=now:
+                        code="no_broadcast_verified"
+                except (ValueError,TypeError): pass
+            g["zeroReasonCode"]=code
+            g["zeroExplanation"]={"search_insufficient":"検索不足","source_insufficient":"情報源不足・個別の公式予定未確認（不存在とは断定しない）","decision_pending":"判定保留","no_broadcast_verified":"全対象局・対象期間の確認証跡あり：該当放送なし"}[code]
+        else: g["zeroReasonCode"]=None
+    report["held"]=sum(r["held"] for r in report["records"])
+    report["heldReasonCounts"]=dict(Counter(code for r in report["records"] if r["held"] for code in r["reasonCodes"]))
+    report["confirmedOmissions"]=[r for r in report["records"] if r["omission"]]
+    report["ledgerCandidates"]=len(discoveries)
+    report["excluded"]=sum(r["excluded"] for r in report["records"])
+    report["attention"]=[r for r in report["attention"] if not r["excluded"]]
+    report["unconfirmedDiscoveries"]=sum(not r["officialDatetimeConfirmed"] and not r["excluded"] for r in report["records"])
+    report["unpublishedFuture"]=sum(r["officialDatetimeConfirmed"] and not r["publishedExact"] and not r["excluded"] and "outside_window" not in r["reasonCodes"] for r in report["records"])
+    return report
+
 def write_quality():
     return quality(read_json(ROOT/"data/ai-candidates.json",{}),read_json(ROOT/"public/v1/programs.json",{}),
         read_json(ROOT/"data/ai-held.json",{}),read_json(ROOT/"data/update-result.json",{}),
-        read_json(ROOT/"config/source-policy.json",{}),datetime.now(JST))
+        read_json(ROOT/"config/source-policy.json",{}),datetime.now(JST),read_json(ROOT/"data/discovered-candidates.json",{"records":[]})["records"])
 
 if __name__=="__main__":
     parser=argparse.ArgumentParser();parser.add_argument("--plan",action="store_true");parser.add_argument("--quality",action="store_true")

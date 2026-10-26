@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name 'minogasa-night[bot]'
           git config user.email 'minogasa-night[bot]@users.noreply.github.com'
-          git add data/search-plan.json data/collection-quality.json data/anime-cache.json data/ai-state.json data/ai-held.json data/current-db.json data/update-result.json data/update-history.json public/v1/programs.json
+          git add data/discovered-candidates.json data/search-plan.json data/collection-quality.json data/anime-cache.json data/ai-state.json data/ai-held.json data/current-db.json data/update-result.json data/update-history.json public/v1/programs.json
           if ! git diff --cached --quiet; then
             git commit -m 'Prepare validated automatic program update'
             git push
@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name 'minogasa-night[bot]'
           git config user.email 'minogasa-night[bot]@users.noreply.github.com'
-          git add data/update-result.json data/update-history.json
+          git add data/discovered-candidates.json data/update-result.json data/update-history.json
           if ! git diff --cached --quiet; then
             git commit -m 'Record blocked program update'
             git push

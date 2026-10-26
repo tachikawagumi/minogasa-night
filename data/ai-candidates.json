@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "batchId": "ai-20261026-phase6-discovery",
-  "researchedAt": "2026-10-26T16:46:00+09:00",
+  "batchId": "ai-20261026-phase7-occult-six",
+  "researchedAt": "2026-10-26T17:20:26+09:00",
   "windowStart": "2026-10-26T00:00:00+09:00",
   "windowEnd": "2026-11-02T00:00:00+09:00",
   "records": [
@@ -991,6 +991,322 @@
       "status": "executed",
       "checkedAt": "2026-10-26T16:46:00+09:00",
       "note": "鉄道伝説の公式掲載は10/25等の過去回。曜日から11/1の枠を作らない。"
+    },
+    {
+      "genreId": "ufo",
+      "route": "program_name",
+      "query": "\"ダークサイドミステリー\" \"不老不死\" site:web.nhk",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T17:20:26+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "program_name",
+      "query": "\"地獄ワンダーランド\" site:web.nhk",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T17:20:26+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "program_name",
+      "query": "\"おいち不思議がたり\" \"2026年11月1日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T17:20:26+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "route": "program_name",
+      "query": "site.fujitv.co.jp \"何だコレ\" \"2026年10月28日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T17:20:26+09:00"
+    },
+    {
+      "genreId": "anime",
+      "route": "program_name",
+      "query": "\"幻魔大戦\" site:twellv.co.jp \"11月1日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T17:20:26+09:00"
+    }
+  ],
+  "discoveries": [
+    {
+      "id": "official-fuji-20261028-1900-nandakore",
+      "seriesId": "official-fuji-20261028-1900-nandakore-series",
+      "title": "世界の何だコレ!?ミステリー",
+      "stationId": "fuji",
+      "claimedStation": "フジテレビ",
+      "claimedStart": "2026-10-28T19:00:00+09:00",
+      "claimedEnd": "2026-10-28T20:54:00+09:00",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "candidateGenreIds": [
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "sourceUrl": "https://www.fujitv.co.jp/sekainonandakore/",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "end": false,
+        "content": true,
+        "sourceUrl": "https://www.fujitv.co.jp/sekainonandakore/",
+        "note": "現在の次回予告10/28(水)19時を、確認日2026/10/26から直近の将来の暦日に解決。終了20:54は未確認のため公開値null。"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "当該回の魔術・呪いによる治癒という超常的主張の検証企画を公式予告で確認。番組名だけで分類せず、UFO・都市伝説の超常現象定義に合致。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "fuji_nandakore_20261028_minimal_fact",
+      "genreEvidence": {
+        "ufo": "当該回の魔術・呪いによる治癒という超常的主張の検証企画を公式予告で確認。番組名だけで分類せず、UFO・都市伝説の超常現象定義に合致。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "stationId": "nhk_bs",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-10-29T00:45:00+09:00",
+      "claimedEnd": "2026-10-29T01:45:00+09:00",
+      "start": null,
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "candidateGenreIds": [
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "sourceUrl": "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": false,
+        "datetime": false,
+        "content": true,
+        "sourceUrl": "https://www.nhk-ondemand.jp/goods/G2026155537SA000/"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "公式オンデマンドで不老不死にまつわる伝承・主張を検証する作品内容を確認。UFO・都市伝説の伝承/超常現象の定義に合う。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {
+        "ufo": "公式オンデマンドで不老不死にまつわる伝承・主張を検証する作品内容を確認。UFO・都市伝説の伝承/超常現象の定義に合う。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "stationId": "nhk_bs",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-10-30T09:00:00+09:00",
+      "claimedEnd": "2026-10-30T10:00:00+09:00",
+      "start": null,
+      "end": null,
+      "genreIds": [],
+      "candidateGenreIds": [
+        "ghost",
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "related",
+        "basis": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {
+        "ghost": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。",
+        "ufo": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
+    },
+    {
+      "id": "official-f9558d382a201f8b6603526e",
+      "seriesId": "official-series-2b9729b602a554921245711f",
+      "title": "ほんとにあった怖い話 秋の特別編2026",
+      "stationId": "fuji",
+      "claimedStation": "フジテレビ",
+      "claimedStart": "2026-10-31T21:00:00+09:00",
+      "claimedEnd": "2026-10-31T23:10:00+09:00",
+      "start": "2026-10-31T21:00:00+09:00",
+      "end": "2026-10-31T23:10:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "candidateGenreIds": [
+        "ghost"
+      ],
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+        "https://www.fujitv.co.jp/honkowa/"
+      ],
+      "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "end": true,
+        "content": true,
+        "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "公式発表の番組種別と題材を個別確認。心霊体験を扱う特別番組。"
+      },
+      "decision": "published",
+      "holdReasons": [],
+      "sourcePolicyId": "fuji_honkowa_minimal_fact",
+      "genreEvidence": {
+        "ghost": "公式発表の番組種別と題材を個別確認。心霊体験を扱う特別番組。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
+    },
+    {
+      "id": "phase7-oichi-20261101-1845",
+      "seriesId": "phase7-oichi-20261101-1845-series",
+      "title": "おいち不思議がたり 第1話",
+      "stationId": "nhk_bs",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-11-01T18:45:00+09:00",
+      "claimedEnd": "2026-11-01T19:30:00+09:00",
+      "start": null,
+      "end": null,
+      "genreIds": [],
+      "candidateGenreIds": [
+        "ghost"
+      ],
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/program/P202400411300000/",
+        "https://trilltrill.jp/articles/4977441"
+      ],
+      "sourceUrl": "https://www.nhk-ondemand.jp/program/P202400411300000/",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "related",
+        "basis": "霊的な要素のあるドラマという候補情報を保存。今回の再放送予定と第1話の内容の公式照合が不足。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "第三者の再放送告知はあるが2026/11/1の局・開始終了を公式で再確認できない。オンデマンドの過去回を未来枠にしない。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {
+        "ghost": "霊的な要素のあるドラマという候補情報を保存。今回の再放送予定と第1話の内容の公式照合が不足。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "seriesId": "official-bs12-20261101-1900-genma-series",
+      "title": "幻魔大戦",
+      "stationId": "bs12",
+      "claimedStation": "BS12 トゥエルビ",
+      "claimedStart": "2026-11-01T19:00:00+09:00",
+      "claimedEnd": null,
+      "start": "2026-11-01T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "candidateGenreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrls": [
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.twellv.co.jp/program/anime/sunday-animation/"
+      ],
+      "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-26T17:20:26+09:00",
+      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "end": false,
+        "content": true,
+        "sourceUrl": "https://www.atpress.ne.jp/news/2830607"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {
+        "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
+        "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research"
     }
   ]
 }

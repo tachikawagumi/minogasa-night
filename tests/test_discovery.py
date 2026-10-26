@@ -11,9 +11,9 @@ class DiscoveryTest(unittest.TestCase):
         return quality(dict(records=c,research=list(research)),dict(programs=list(public)),dict(records=list(held)),{},P,NOW)
     def test_all_twenty_have_name_genre_and_schedule_routes(self):
         p=plan(read_json(ROOT/"config/discovery.json"),NOW)
-        self.assertEqual(60,len(p["queries"]))
+        self.assertEqual(80,len(p["queries"]))
         for g in GENRE_IDS:
-            self.assertEqual({"program_name","genre","official_schedule"},{q["route"] for q in p["queries"] if q["genreId"]==g})
+            self.assertEqual({"program_name","genre","official_schedule","miss_learning"},{q["route"] for q in p["queries"] if q["genreId"]==g})
     def test_discovered_but_terms_held_is_not_discovery_failure(self):
         c=candidate(sourcePolicyId="unknown",title="ほんとにあった怖い話")
         r=self.audit([c],held=[dict(candidate=c,reason="terms")])
@@ -26,7 +26,7 @@ class DiscoveryTest(unittest.TestCase):
         c=candidate();p=dict(c,start="2026-10-25T18:30:00+09:00")
         self.assertEqual("published_outdated",self.audit([c],[p])["records"][0]["missingStage"])
     def test_zero_without_research_is_not_absence(self):
-        r=self.audit([]);self.assertTrue(all(g["zeroExplanation"]=="調査不足" for g in r["genres"]))
+        r=self.audit([]);self.assertTrue(all(g["zeroReasonCode"]=="search_insufficient" for g in r["genres"]))
     def test_query_plan_cannot_claim_executed_search(self):
         log=dict(genreId="ghost",route="genre",query="怪談",status="planned")
         r=self.audit([],research=[log]);self.assertEqual("not_searched",r["genres"][0]["searchCoverage"])
@@ -65,3 +65,4 @@ class MinimalFactScopeTest(unittest.TestCase):
         self.assertFalse(ok);self.assertTrue(held)
         _,ok,held,_=self.apply_scope(description="do not republish")
         self.assertFalse(ok);self.assertTrue(held)
+

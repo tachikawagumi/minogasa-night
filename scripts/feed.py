@@ -21,7 +21,8 @@ GENRES = ["心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", 
 GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eating", "onsen", "architecture", "car", "dance", "golf", "soccer", "baseball", "fishing", "health", "travel", "challenge", "anime", "railway"]
 # IDs were resolved using ChLookup, never from channel numbers or substring matching.
 STATIONS = {"nhk_g": ("NHK総合", "1"), "nhk_e": ("NHK Eテレ", "2"), "fuji": ("フジテレビ", "3"), "ntv": ("日本テレビ", "4"), "tbs": ("TBS", "5"), "tvasahi": ("テレビ朝日", "6"), "tvtokyo": ("テレビ東京", "7"), "chiba": ("チバテレ", "13"), "bstvtokyo": ("BSテレ東", "15"), "bstbs": ("BS-TBS", "16"), "bsfuji": ("BSフジ", "17"), "bsasahi": ("BS朝日", "18"), "mx": ("TOKYO MX", "19"), "bsntv": ("BS日テレ", "71"), "bs11": ("BS11イレブン", "128"), "bs12": ("BS12トゥエルビ", "129"), "mx2": ("TOKYO MX2", "187")}
-CH_MAP = {value[1]: key for key, value in STATIONS.items()}
+STATIONS["nhk_bs"] = ("NHK BS", None)  # Official-fact source only; no guessed provider channel ID.
+CH_MAP = {value[1]: key for key, value in STATIONS.items() if value[1] is not None}
 
 def iso(dt):
     return dt.astimezone(JST).isoformat(timespec="seconds")
@@ -81,6 +82,8 @@ class Syobocal:
         channels = self.get(Command="ChLookup", Fields="ChID,ChName")
         actual = {x.findtext("ChID"): x.findtext("ChName") for x in channels.findall("ChItems/ChItem")}
         for station, (name, chid) in STATIONS.items():
+            if chid is None:
+                continue
             # Chiba uses a different official label in this database.
             if actual.get(chid) != ("チバテレビ" if station == "chiba" else name):
                 raise ValueError("局IDと局名の対応が変化: " + station)
@@ -157,7 +160,7 @@ def build_feed(manual, anime, now, anime_ok):
     start, end = window(now)
     coverage = []
     for station_id, (name, chid) in STATIONS.items():
-        coverage.append({"stationId": station_id, "station": name, "anime": "updated" if anime_ok else "cached", "otherGenres": "selected_official_facts_only", "animeCheckedAt": anime.get("checkedAt"), "complete": False})
+        coverage.append({"stationId": station_id, "station": name, "anime": ("updated" if anime_ok else "cached") if chid is not None else "not_collected", "otherGenres": "selected_official_facts_only", "animeCheckedAt": anime.get("checkedAt") if chid is not None else None, "complete": False})
     public_rows = [{key: row.get(key) for key in ("id", "seriesId", "title", "stationId", "start", "end", "genreIds", "status", "checkedAt", "updatedAt")} for row in rows]
     return {"schemaVersion": 1, "sourceMode": "real", "timeZone": "Asia/Tokyo", "generatedAt": iso(now), "windowStart": iso(start), "windowEnd": iso(end), "updateStatus": "ok" if anime_ok else "partial", "notice": "対象局の全番組を網羅するものではありません。" + ("" if anime_ok else "アニメの更新に失敗し、保存済みの情報を使用しています。"), "genres": [{"id": key, "name": name} for key, name in zip(GENRE_IDS, GENRES)], "stations": [{"id": key, "name": value[0]} for key, value in STATIONS.items()], "coverage": coverage, "programs": public_rows}, rows
 
