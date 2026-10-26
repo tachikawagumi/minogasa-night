@@ -1,0 +1,399 @@
+{
+  "version": 1,
+  "priorityTitles": [
+    "ほんとにあった怖い話",
+    "世界の何だコレ!?ミステリー",
+    "ダークサイドミステリー",
+    "所さんの世田谷ベース",
+    "ブラタモリ",
+    "巨大マグロ戦争"
+  ],
+  "note": "発見用。検索結果や番組名だけで分類・公開しない。各放送回を検証する。officialScheduleUrlsは調査開始点であり、自動取得・再配信許可を示さない。",
+  "genres": {
+    "ghost": {
+      "programs": [
+        "ほんとにあった怖い話",
+        "ダークサイドミステリー"
+      ],
+      "keywords": [
+        "ほんとにあった怖い話",
+        "心霊特番",
+        "怪談",
+        "恐怖映像",
+        "心霊スポット",
+        "ダークサイドミステリー"
+      ],
+      "officialHosts": [
+        "www.fujitv.co.jp",
+        "www.nhk.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.fujitv.co.jp/timetable/",
+        "https://www.nhk.jp/timetable/"
+      ]
+    },
+    "ufo": {
+      "programs": [
+        "世界の何だコレ!?ミステリー",
+        "やりすぎ都市伝説"
+      ],
+      "keywords": [
+        "UFO",
+        "UMA",
+        "都市伝説",
+        "未確認生物",
+        "超常現象",
+        "世界の何だコレ!?ミステリー"
+      ],
+      "officialHosts": [
+        "www.fujitv.co.jp",
+        "www.tv-tokyo.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.fujitv.co.jp/timetable/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    "movie": {
+      "programs": [
+        "午後のロードショー",
+        "金曜ロードショー"
+      ],
+      "keywords": [
+        "午後のロードショー",
+        "金曜ロードショー",
+        "映画"
+      ],
+      "officialHosts": [
+        "www.ntv.co.jp",
+        "www.tv-tokyo.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.ntv.co.jp/program/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    "horror_movie": {
+      "programs": [
+        "サタ☆シネ",
+        "日曜アニメ劇場"
+      ],
+      "keywords": [
+        "ホラー映画",
+        "恐怖映画"
+      ],
+      "officialHosts": [
+        "www.tv-tokyo.co.jp",
+        "www.bsfuji.tv"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.bsfuji.tv/top/timetable/"
+      ]
+    },
+    "disney": {
+      "programs": [
+        "ディズニー特集",
+        "金曜ロードショー"
+      ],
+      "keywords": [
+        "ディズニー"
+      ],
+      "officialHosts": [
+        "www.ntv.co.jp",
+        "www.tbs.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.ntv.co.jp/program/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    "usj": {
+      "programs": [
+        "王様のブランチ",
+        "ヒルナンデス"
+      ],
+      "keywords": [
+        "USJ",
+        "ユニバーサル・スタジオ・ジャパン"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.ntv.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    "big_eating": {
+      "programs": [
+        "最強大食い王決定戦",
+        "デカ盛りハンター"
+      ],
+      "keywords": [
+        "大食い",
+        "デカ盛り"
+      ],
+      "officialHosts": [
+        "www.tv-tokyo.co.jp",
+        "www.tbs.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    "onsen": {
+      "programs": [
+        "ケンコバのほろ酔いビジホ泊 全国版",
+        "秘湯ロマン"
+      ],
+      "keywords": [
+        "温泉",
+        "秘湯",
+        "源泉かけ流し"
+      ],
+      "officialHosts": [
+        "www.bs-asahi.co.jp",
+        "www.tv-asahi.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.tv-asahi.co.jp/bangumi/"
+      ]
+    },
+    "architecture": {
+      "programs": [
+        "渡辺篤史の建もの探訪",
+        "辰巳琢郎の家物語"
+      ],
+      "keywords": [
+        "建もの探訪",
+        "家物語",
+        "豪邸",
+        "住宅紹介",
+        "住宅探訪"
+      ],
+      "officialHosts": [
+        "www.tv-asahi.co.jp",
+        "www.bs-asahi.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tv-asahi.co.jp/bangumi/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    "car": {
+      "programs": [
+        "所さんの世田谷ベース",
+        "カーグラフィックTV"
+      ],
+      "keywords": [
+        "カーグラフィックTV",
+        "自動車",
+        "カスタム"
+      ],
+      "officialHosts": [
+        "www.bsfuji.tv",
+        "www.bs-asahi.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    "dance": {
+      "programs": [
+        "DAN! DAN! EBiDAN!",
+        "それSnow Manにやらせて下さい"
+      ],
+      "keywords": [
+        "ダンス",
+        "踊り"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.tv-tokyo.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    "golf": {
+      "programs": [
+        "女子ゴルフペアマッチ選手権",
+        "ゴルフサバイバル"
+      ],
+      "keywords": [
+        "ゴルフ侍",
+        "ゴルフペアマッチ",
+        "ゴルフ"
+      ],
+      "officialHosts": [
+        "www.bs-asahi.co.jp",
+        "www.ntv.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    "soccer": {
+      "programs": [
+        "KICK OFF! J",
+        "サッカー中継"
+      ],
+      "keywords": [
+        "KICK OFF! J",
+        "サッカー",
+        "Jリーグ"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.tv-tokyo.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    "baseball": {
+      "programs": [
+        "SMBC日本シリーズ",
+        "S☆1 BASEBALL"
+      ],
+      "keywords": [
+        "日本シリーズ",
+        "野球"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.ntv.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.ntv.co.jp/program/"
+      ]
+    },
+    "fishing": {
+      "programs": [
+        "THEフィッシング",
+        "巨大マグロ戦争"
+      ],
+      "keywords": [
+        "THEフィッシング",
+        "釣り",
+        "マグロ漁師",
+        "大間",
+        "漁師 密着"
+      ],
+      "officialHosts": [
+        "www.tv-tokyo.co.jp",
+        "www.bsfuji.tv"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.bsfuji.tv/top/timetable/"
+      ]
+    },
+    "health": {
+      "programs": [
+        "健康カプセル！ゲンキの時間",
+        "きょうの健康"
+      ],
+      "keywords": [
+        "健康カプセル",
+        "健康"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.nhk.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.nhk.jp/timetable/"
+      ]
+    },
+    "travel": {
+      "programs": [
+        "ブラタモリ",
+        "モヤモヤさまぁ〜ず"
+      ],
+      "keywords": [
+        "街歩き",
+        "ブラタモリ",
+        "モヤモヤさまぁ",
+        "旅"
+      ],
+      "officialHosts": [
+        "www.nhk.jp",
+        "www.tv-tokyo.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.nhk.jp/timetable/",
+        "https://www.tv-tokyo.co.jp/timetable/"
+      ]
+    },
+    "challenge": {
+      "programs": [
+        "逃走中",
+        "戦闘中",
+        "SASUKE",
+        "ドア×ドアクエスト"
+      ],
+      "keywords": [
+        "逃走中",
+        "戦闘中",
+        "SASUKE",
+        "ゲーム",
+        "チャレンジ"
+      ],
+      "officialHosts": [
+        "www.tbs.co.jp",
+        "www.fujitv.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.fujitv.co.jp/timetable/"
+      ]
+    },
+    "anime": {
+      "programs": [
+        "ポケットモンスター",
+        "夜桜さんちの大作戦"
+      ],
+      "keywords": [
+        "アニメ"
+      ],
+      "officialHosts": [
+        "www.tv-tokyo.co.jp",
+        "www.tbs.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.tbs.co.jp/tv/"
+      ]
+    },
+    "railway": {
+      "programs": [
+        "鉄道伝説",
+        "鉄道・絶景の旅"
+      ],
+      "keywords": [
+        "鉄道伝説",
+        "鉄道",
+        "電車"
+      ],
+      "officialHosts": [
+        "www.bsfuji.tv",
+        "www.bs-asahi.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    }
+  }
+}

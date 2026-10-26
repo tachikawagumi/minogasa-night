@@ -1,0 +1,247 @@
+{
+  "checkedAt": "2026-10-26T16:29:00+09:00",
+  "windowStart": "2026-10-26T00:00:00+09:00",
+  "windowEnd": "2026-11-02T00:00:00+09:00",
+  "records": [
+    {
+      "id": "official-81221f862e50feba0f729d41",
+      "title": "ロビン・フッド",
+      "stationId": "tvtokyo",
+      "start": "2026-10-26T13:40:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "outside_window",
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "開始済みのためアプリ表示対象外。"
+    },
+    {
+      "id": "official-31c42a7b11885b5095cf557e",
+      "title": "女子ゴルフペアマッチ選手権",
+      "stationId": "bsasahi",
+      "start": "2026-10-26T21:54:00+09:00",
+      "end": "2026-10-26T22:30:00+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-662f49475ddea876f1fb0554",
+      "title": "極上！ゴルフ場探訪",
+      "stationId": "bsasahi",
+      "start": "2026-10-26T22:30:00+09:00",
+      "end": "2026-10-26T22:54:00+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-c7b13fcaec9d5b2204fd96a0",
+      "title": "ブロークンシティ",
+      "stationId": "tvtokyo",
+      "start": "2026-10-27T13:40:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-4016b69c0dceceb86c2abccb",
+      "title": "ＳＭＢＣ日本シリーズ２０２６　第３戦「ソフトバンク×ＤｅＮＡ」",
+      "stationId": "tbs",
+      "start": "2026-10-27T17:50:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261027_C477.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-15bd27175d27a7cbb8b71b6e",
+      "title": "アサシン",
+      "stationId": "tvtokyo",
+      "start": "2026-10-28T13:40:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-bd4aeb08473634c62dbb12ba",
+      "title": "世界くらべてみたら★出たぞお宝！キテレツ岩﨑vs尾形倉庫オークション",
+      "stationId": "tbs",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261028_C2DA.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-4a9c16fb7436ca6009605718",
+      "title": "ペイバック",
+      "stationId": "tvtokyo",
+      "start": "2026-10-29T13:40:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-5175d86a5b23c2d551acb056",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版",
+      "stationId": "bsasahi",
+      "start": "2026-10-29T22:30:00+09:00",
+      "end": "2026-10-29T23:00:00+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-95f2d23a6c58e3fcba1e42a3",
+      "title": "カーグラフィックTV",
+      "stationId": "bsasahi",
+      "start": "2026-10-29T23:00:00+09:00",
+      "end": "2026-10-29T23:30:00+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-e70af6e582c0f367c487ed50",
+      "title": "氷の城壁　第19話",
+      "stationId": "tbs",
+      "start": "2026-10-29T23:56:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261029_C2FF.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-6f741d1e46596684dcde7071",
+      "title": "狼よさらば",
+      "stationId": "tvtokyo",
+      "start": "2026-10-30T13:40:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-9e656b41231a20dd6464c746",
+      "title": "ドア×ドアクエスト★このお菓子何作ってる？クイズ★桐谷健太・M!LK山中参戦！",
+      "stationId": "tbs",
+      "start": "2026-10-30T20:55:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261030_C31B.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-bab590a4f8e59ce88597843a",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T12:00:00+09:00",
+      "end": "2026-10-31T12:30:00+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [
+        "terms_unconfirmed"
+      ],
+      "decision": "held",
+      "note": "公式ページの個別日付と分類を再確認。サイトの自動利用条件を包括的に許可済みとはしない。"
+    },
+    {
+      "id": "official-f9558d382a201f8b6603526e",
+      "title": "ほんとにあった怖い話 秋の特別編2026",
+      "stationId": "fuji",
+      "start": "2026-10-31T21:00:00+09:00",
+      "end": "2026-10-31T23:10:00+09:00",
+      "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "official_confirmed",
+      "reasonCodes": [],
+      "decision": "eligible",
+      "note": "本文転載を行わない個別放送事実として限定ポリシーで検証。"
+    },
+    {
+      "id": "official-ce810c015779acc089ba403a",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "end": null,
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "factRecheck": "needs_recheck",
+      "reasonCodes": [
+        "terms_unconfirmed",
+        "other"
+      ],
+      "decision": "held",
+      "note": "個別ページを2回参照したがツールで取得失敗。検索上は掲載あり。最新日時の再確認完了としない。"
+    }
+  ]
+}

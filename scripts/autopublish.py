@@ -8,7 +8,7 @@ from feed import ROOT, JST, GENRE_IDS, STATIONS, Syobocal, read_json, atomic_jso
 class PublicationBlocked(ValueError): pass
 
 def host_allowed(url, policy):
-    return urlparse(url).scheme == "https" and urlparse(url).hostname in policy.get("hosts", [])
+    return urlparse(url).scheme == "https" and urlparse(url).hostname in policy.get("hosts", []) and (not policy.get("allowedUrls") or url in policy["allowedUrls"])
 
 def public_diff(previous, proposed, now):
     old = {x["id"]: x for x in previous.get("programs", [])}
@@ -65,6 +65,12 @@ def integrate_candidates(existing, batch, previous_rows, provider, policies, now
             if not policy.get("enabled") or not {"metadata","cache","redistribute","automated_access"} <= scopes:
                 raise ValueError("情報源の取得・再配信条件が未確認")
             if not host_allowed(c["sourceUrl"],policy): raise ValueError("出典URLが情報源ポリシーと不一致")
+            scope=policy.get("factRecordScope")
+            if scope:
+                if c.get("acquisitionMethod")!="ai_web_reference" or c.get("operation","upsert")!="upsert":
+                    raise ValueError("個別事実確認の取得方式・操作が範囲外")
+                if any(c.get(k)!=v for k,v in scope.items()):
+                    raise ValueError("確認済みの個別放送事実の範囲外")
             checked=parse_dt(c["checkedAt"])
             if not now-timedelta(hours=96)<=checked<=now+timedelta(minutes=5): raise ValueError("確認時刻が古い／未来")
             if c["stationId"] not in STATIONS: raise ValueError("対象外局")

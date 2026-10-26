@@ -33,4 +33,6 @@ if __name__=="__main__":
         atomic_json(ROOT/"data/update-history.json",(history+[result])[-50:])
         atomic_json(ROOT/"data/last-published.json",expected)
         atomic_json(ROOT/"data/publication.json",evidence)
+        from discovery import write_quality
+        atomic_json(ROOT/"data/collection-quality.json",write_quality())
     print(json.dumps(evidence,ensure_ascii=False))

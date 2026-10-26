@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "batchId": "ai-20261026-phase5-initial",
-  "researchedAt": "2026-10-26T15:12:46+09:00",
+  "batchId": "ai-20261026-phase6-discovery",
+  "researchedAt": "2026-10-26T16:29:00+09:00",
   "windowStart": "2026-10-26T00:00:00+09:00",
   "windowEnd": "2026-11-02T00:00:00+09:00",
   "records": [
@@ -340,17 +340,19 @@
         "ghost"
       ],
       "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
-      "checkedAt": "2026-10-26T12:04:22+09:00",
-      "updatedAt": "2026-10-26T12:04:22+09:00",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "updatedAt": "2026-10-26T16:29:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "genreBasis": "局の2026年公式発表に日時と、心霊体験を扱う番組であることを確認。映画としては分類しない。",
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "fuji_honkowa_minimal_fact",
       "officialVerified": true,
       "genreEvidence": {
-        "ghost": "局の2026年公式発表に日時と、心霊体験を扱う番組であることを確認。映画としては分類しない。"
+        "ghost": "公式発表の番組種別と題材を個別確認。心霊体験を扱う特別番組。"
       },
-      "operation": "upsert"
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference",
+      "officialVerificationUrl": "https://www.fujitv.co.jp/honkowa/"
     },
     {
       "id": "official-ce810c015779acc089ba403a",
@@ -387,8 +389,8 @@
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
       "sourcePid": "720594",
-      "checkedAt": "2026-10-26T15:12:46+09:00",
-      "updatedAt": "2026-10-26T15:12:46+09:00",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "updatedAt": "2026-10-26T16:29:00+09:00",
       "sourcePolicyId": "syobocal",
       "officialVerified": true,
       "status": "provider_confirmed",
@@ -398,6 +400,52 @@
         "anime": "局公式のアニメ番組ページで10/30の個別予告と18:55開始を確認し、許諾済みAPIの同一局・日時と照合。"
       },
       "operation": "upsert"
+    },
+    {
+      "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T17:30:00+09:00",
+      "end": "2026-10-31T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+      "id": "official-tvtokyo-20261031-1730-thefishing",
+      "seriesId": "official-series-thefishing",
+      "genreEvidence": {
+        "fishing": "当該回は管理釣り場でのトラウト釣り。公式の個別予定で確認。"
+      },
+      "sourcePolicyId": "official_unreviewed",
+      "officialVerified": true,
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "updatedAt": "2026-10-26T16:29:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": false,
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference"
+    },
+    {
+      "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T15:00:00+09:00",
+      "end": "2026-10-31T15:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
+      "id": "official-bsasahi-20261031-1500-itadaki",
+      "seriesId": "official-series-itadakinosakie",
+      "genreEvidence": {
+        "golf": "公式の後編放送日時とゴルフ対決という内容を個別確認。出演者の元の競技で野球分類しない。"
+      },
+      "sourcePolicyId": "official_unreviewed",
+      "officialVerified": true,
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "updatedAt": "2026-10-26T16:29:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": false,
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference"
     }
   ],
   "genreSurvey": [
@@ -522,5 +570,287 @@
       "note": "BSフジの確認できた個別日付は10/25で既に過去。翌週を推定して追加しない。"
     }
   ],
-  "note": "公式照合済み候補を自動判定へ投入。利用条件未確認の情報源を承認済みにしない。"
+  "note": "公式照合済み候補を自動判定へ投入。利用条件未確認の情報源を承認済みにしない。",
+  "research": [
+    {
+      "genreId": "ghost",
+      "route": "genre",
+      "query": "心霊 怪談 特番 放送予定 2026年10月26日 11月1日 フジテレビ NHK",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.fujitv.co.jp/fujitv/news/20261150.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "ufo",
+      "route": "genre",
+      "query": "UFO 都市伝説 未確認生物 放送 2026年10月 テレビ東京 フジテレビ",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/archive/index.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "movie",
+      "route": "genre",
+      "query": "映画 放送 2026年10月30日 日本テレビ 金曜ロードショー",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://kinro.ntv.co.jp/"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre",
+      "query": "ホラー映画 テレビ 放送 2026年10月31日 無料BS",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "disney",
+      "route": "genre",
+      "query": "ディズニー 特集 テレビ 2026年10月26日 11月1日 地上波",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.disney.co.jp/tv/dc/recommend/latest"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre",
+      "query": "USJ 特集 テレビ 2026年10月 11月1日 放送",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://cu.tbs.co.jp/episode/14602_2124933_1000169436"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "genre",
+      "query": "大食い テレビ 2026年10月28日 世界くらべてみたら 公式",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tbs.co.jp/tv/20261028_C2DA.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "onsen",
+      "route": "genre",
+      "query": "温泉 旅 番組 2026年10月29日 BS朝日 ビジホ",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.bs-asahi.co.jp/business_hotel/"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "architecture",
+      "route": "genre",
+      "query": "豪邸 住宅探訪 建もの探訪 テレビ 2026年10月31日 公式",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.bs-asahi.co.jp/tatsumi/"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "car",
+      "route": "genre",
+      "query": "車 カスタム 世田谷ベース テレビ 放送 2026年10月31日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.bsfuji.tv/setagaya/pub/303.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "dance",
+      "route": "genre",
+      "query": "ダンス テレビ 放送 2026年10月26日 11月1日 NHK",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "golf",
+      "route": "genre",
+      "query": "ゴルフ テレビ 2026年10月26日 BS朝日 ペアマッチ",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.bs-asahi.co.jp/golfmatch/"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "soccer",
+      "route": "genre",
+      "query": "site.tbs.co.jp サッカー \"2026年11月1日\" KICK OFF",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C370.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "baseball",
+      "route": "genre",
+      "query": "site.tbs.co.jp/tv/20261027 日本シリーズ 17:50",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tbs.co.jp/tv/20261027_C477.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "fishing",
+      "route": "genre",
+      "query": "site.tv-tokyo.co.jp 釣り \"2026年10月31日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "health",
+      "route": "genre",
+      "query": "site.tbs.co.jp/tv/20261101 健康カプセル",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C34E.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "travel",
+      "route": "genre",
+      "query": "site.nhk.jp ブラタモリ 2026 10月31日 旅",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "challenge",
+      "route": "genre",
+      "query": "逃走中 SASUKE チャレンジ 放送 2026年10月26日 11月1日 公式",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "anime",
+      "route": "genre",
+      "query": "site.tv-tokyo.co.jp ポケットモンスター 2026.10.30 18:55",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.tv-tokyo.co.jp/anime/pocketmonster2023/"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "railway",
+      "route": "genre",
+      "query": "site.bsfuji.tv 鉄道伝説 2026年10月31日 11月1日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00",
+      "officialUrls": [
+        "https://www.bsfuji.tv/tetsudo_densetsu/index.html"
+      ],
+      "note": "候補発見の検索実績。検索結果だけでは日時・利用条件の検証完了と扱わない。"
+    },
+    {
+      "genreId": "ghost",
+      "route": "program_name",
+      "query": "site.fujitv.co.jp ほんとにあった怖い話 2026 10月31日",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "program_name",
+      "query": "site.nhk.jp ダークサイドミステリー \"2026年10月\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "route": "program_name",
+      "query": "site.fujitv.co.jp 世界の何だコレ ミステリー \"2026年10月28日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "route": "program_name",
+      "query": "site.bsfuji.tv 世田谷ベース \"2026年10月31日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "route": "program_name",
+      "query": "site.nhk.jp ブラタモリ \"2026年10月31日\"",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "route": "program_name",
+      "query": "大間 マグロ 漁師 密着 番組 2026年10月26日 11月1日 公式",
+      "tool": "web.search_query",
+      "status": "executed",
+      "checkedAt": "2026-10-26T16:29:00+09:00"
+    }
+  ]
 }
