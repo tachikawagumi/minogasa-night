@@ -151,7 +151,6 @@ def run(now=None, collector=None):
         if (cached_future and not provider["rows"] and lost) or (len(lost)>=10 and len(lost)/len(cached_future)>0.35):
             raise PublicationBlocked("アニメ提供元の大量消失を検知。キャッシュと公開JSONを保持")
         policies=read_json(ROOT/"config/source-policy.json",{"sources":{}})
-        batch=read_json(ROOT/"data/ai-candidates.json",{"records":[]})
         existing=read_json(ROOT/"data/ai-state.json",{"records":[]})["records"]
         auto,accepted,held,cancelled=integrate_candidates(existing,batch,previous_rows,provider,policies,now)
         legacy=read_json(ROOT/"data/manual-approved.json",{"records":[]})["records"]

@@ -76,3 +76,29 @@ class LedgerQualityTest(unittest.TestCase):
         self.assertEqual(20,len([r for r in p["queries"] if r["route"]=="miss_learning"]))
     def test_search_does_not_prove_absence(self):
         q=self.audit([]);self.assertTrue(all(g["zeroReasonCode"]=="search_insufficient" for g in q["genres"]))
+
+class LedgerPublicationIntegrationTest(unittest.TestCase):
+    def test_eligible_discovery_reaches_public_feed_not_just_ledger(self):
+        class Empty:
+            def collect(self,*args): return dict(rows=[],checkedAt=iso(NOW))
+        r=lead(decision="eligible",start=iso(NOW+timedelta(days=1)),genreIds=["ufo"],
+         sourcePolicyId="test",acquisitionMethod="ai_web_reference",genreEvidence={"ufo":"Verified episode topic"},
+         classification=dict(level="clear",basis="Verified episode topic"),
+         officialVerification=dict(title=True,station=True,datetime=True,content=True,sourceUrl="https://official.example.test/episode"))
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);atomic_json(root/"data/ai-candidates.json",dict(records=[],discoveries=[r]))
+            atomic_json(root/"config/source-policy.json",P)
+            old=autopublish.ROOT
+            try:
+                autopublish.ROOT=root
+                result=autopublish.run(NOW,Empty())
+            finally: autopublish.ROOT=old
+            self.assertEqual(1,result["aiAccepted"])
+            self.assertEqual("lead-1",read_json(root/"public/v1/programs.json")["programs"][0]["id"])
+
+class HandoffGuardTest(unittest.TestCase):
+    def test_eligible_omission_has_explicit_pipeline_error(self):
+        r=lead(decision="eligible",holdReasons=[],start=iso(NOW+timedelta(days=1)),sourcePolicyId="test",genreIds=["ufo"],genreEvidence={"ufo":"verified"},
+          classification=dict(level="clear",basis="verified"),officialVerification=dict(title=True,station=True,datetime=True,content=True))
+        q=quality(dict(records=[],research=[]),dict(programs=[]),dict(records=[]),{},P,NOW,[r])
+        self.assertEqual(1,q["pipelineErrors"]);self.assertIn("pipeline_handoff_missing",q["records"][0]["reasonCodes"])

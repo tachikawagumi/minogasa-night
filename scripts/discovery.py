@@ -135,6 +135,12 @@ def quality(batch, public, held, update, policies, now, ledger=None):
         elif out["reasonCodes"] or lead.get("decision")=="held":
             out["held"]=True
         if out["holdReasons"] and "other" not in out["reasonCodes"]: out["reasonCodes"].append("other")
+    for out in report["records"]:
+        if out["omission"] and leadmap.get(out["id"],{}).get("decision")=="eligible" and not out["reasonCodes"]:
+            out["reasonCodes"].append("pipeline_handoff_missing")
+            out["validationReason"]="公開条件を満たす台帳候補が検証済みフィードに到達していない"
+    report["reasonLabels"]["pipeline_handoff_missing"]="公開処理への受け渡し漏れ"
+    report["pipelineErrors"]=sum("pipeline_handoff_missing" in r["reasonCodes"] for r in report["records"])
     for g in report["genres"]:
         gid=g["genreId"]
         members=[r for r in report["records"] if gid in r["genreIds"]]
@@ -182,4 +188,5 @@ if __name__=="__main__":
         atomic_json(ROOT/"data/search-plan.json",plan(read_json(ROOT/"config/discovery.json"),datetime.now(JST)))
     if args.quality:
         report=write_quality();atomic_json(ROOT/"data/collection-quality.json",report)
+        if report.get("pipelineErrors"): raise SystemExit("PUBLICATION BLOCKED: eligible discovery missing from validated feed; see collection-quality.json")
         print("QUALITY discovered=%s held=%s unpublishedFuture=%s attention=%s"%(report["discovered"],report["held"],report["unpublishedFuture"],len(report["attention"])))
