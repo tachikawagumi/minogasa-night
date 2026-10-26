@@ -1,18 +1,18 @@
 {
-  "checkedAt": "2026-10-26T17:41:23+09:00",
+  "checkedAt": "2026-10-26T17:45:05+09:00",
   "batchId": "ai-20261026-phase7-occult-six",
-  "target": "current_public_json",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 26,
   "inputDuplicates": 0,
   "conflictingIds": [],
   "newRegistrations": 0,
   "updates": 0,
   "alreadyPublished": 13,
-  "held": 24,
+  "held": 23,
   "heldReasonCounts": {
     "outside_window": 1,
     "terms_unconfirmed": 23,
-    "datetime_unconfirmed": 7,
+    "datetime_unconfirmed": 6,
     "other": 6,
     "genre_uncertain": 4
   },
@@ -46,6 +46,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
@@ -77,6 +78,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
@@ -107,6 +109,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.nhk-ondemand.jp/program/P202400411300000/",
@@ -136,6 +139,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.atpress.ne.jp/news/2830607",
@@ -409,8 +413,8 @@
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "searches": 3,
-      "datetimeConfirmed": 2,
-      "held": 3,
+      "datetimeConfirmed": 3,
+      "held": 2,
       "excluded": 0,
       "omissions": 1,
       "zeroReasonCode": null
@@ -448,6 +452,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
@@ -472,6 +477,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/golfmatch/"
@@ -496,6 +502,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/golfjo-tanbo/"
@@ -520,6 +527,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
@@ -544,6 +552,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261027_C477.html"
@@ -568,6 +577,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
@@ -592,6 +602,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261028_C2DA.html"
@@ -616,6 +627,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
@@ -641,6 +653,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/business_hotel/"
@@ -665,6 +678,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/cgtv/"
@@ -689,6 +703,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261029_C2FF.html"
@@ -713,6 +728,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
@@ -737,6 +753,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261030_C31B.html"
@@ -761,6 +778,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/tatsumi/"
@@ -783,6 +801,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.fujitv.co.jp/fujitv/news/20261150.html",
@@ -809,6 +828,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261101_C34E.html"
@@ -825,14 +845,13 @@
       ],
       "published": true,
       "publishedExact": true,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed"
-      ],
+      "held": false,
+      "reasonCodes": [],
       "validationReason": null,
       "missingStage": "published",
       "classificationLevel": "clear",
-      "officialDatetimeConfirmed": false,
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://cal.syoboi.jp/6694/time?Filter=7"
@@ -857,6 +876,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
@@ -881,6 +901,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/itadakinosakie/"
@@ -903,6 +924,7 @@
       "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.fujitv.co.jp/sekainonandakore/"
@@ -929,6 +951,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
@@ -960,6 +983,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
@@ -990,6 +1014,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.nhk-ondemand.jp/program/P202400411300000/",
@@ -1019,6 +1044,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.atpress.ne.jp/news/2830607",
@@ -1049,6 +1075,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/26333_202610281253.html"
@@ -1078,6 +1105,7 @@
       "missingStage": "held",
       "classificationLevel": "related",
       "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
       "excluded": false,
       "sourceUrls": [
         "https://www.bsfuji.tv/keppekikun3/pub/index.html"
@@ -1112,6 +1140,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/golfjo-tanbo/"
@@ -1137,6 +1166,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/business_hotel/"
@@ -1161,6 +1191,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/tatsumi/"
@@ -1185,6 +1216,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
@@ -1209,6 +1241,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.bs-asahi.co.jp/itadakinosakie/"
@@ -1235,6 +1268,7 @@
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.atpress.ne.jp/news/2830607",
@@ -1249,5 +1283,5 @@
   ],
   "ledgerCandidates": 8,
   "excluded": 0,
-  "unconfirmedDiscoveries": 7
+  "unconfirmedDiscoveries": 6
 }
