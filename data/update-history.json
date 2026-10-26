@@ -116,5 +116,29 @@
       "semanticSha256": "0b147f60a51e8a957d90a9c51fc692c1880ea65195e2ec2298393c5bff288762",
       "programs": 146
     }
+  },
+  {
+    "at": "2026-10-26T16:48:01+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 146,
+    "aiAccepted": 2,
+    "aiHeld": 17,
+    "batchId": "ai-20261026-phase6-discovery",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]

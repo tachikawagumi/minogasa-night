@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-26T16:43:41+09:00",
+  "checkedAt": "2026-10-26T16:48:07+09:00",
   "batchId": "ai-20261026-phase6-discovery",
-  "target": "current_public_json",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 19,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 1,
+  "newRegistrations": 0,
   "updates": 0,
   "alreadyPublished": 12,
   "held": 17,
@@ -46,7 +46,7 @@
       "name": "映画",
       "candidates": 5,
       "publicPrograms": 4,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -54,7 +54,7 @@
       "name": "ホラー映画",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     },
     {
@@ -62,7 +62,7 @@
       "name": "ディズニー",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     },
     {
@@ -70,7 +70,7 @@
       "name": "USJ",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     },
     {
@@ -78,7 +78,7 @@
       "name": "大食い",
       "candidates": 1,
       "publicPrograms": 1,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -86,7 +86,7 @@
       "name": "温泉",
       "candidates": 1,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "候補あり・未公開"
     },
     {
@@ -94,7 +94,7 @@
       "name": "建物探訪",
       "candidates": 1,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "候補あり・未公開"
     },
     {
@@ -110,7 +110,7 @@
       "name": "ダンス",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     },
     {
@@ -118,7 +118,7 @@
       "name": "ゴルフ",
       "candidates": 3,
       "publicPrograms": 1,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -126,7 +126,7 @@
       "name": "サッカー",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     },
     {
@@ -134,7 +134,7 @@
       "name": "野球",
       "candidates": 1,
       "publicPrograms": 1,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -150,7 +150,7 @@
       "name": "健康",
       "candidates": 1,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "候補あり・未公開"
     },
     {
@@ -166,7 +166,7 @@
       "name": "ゲーム・チャレンジ",
       "candidates": 1,
       "publicPrograms": 2,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -174,7 +174,7 @@
       "name": "アニメ",
       "candidates": 2,
       "publicPrograms": 132,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null
     },
     {
@@ -182,7 +182,7 @@
       "name": "電車・鉄道",
       "candidates": 0,
       "publicPrograms": 0,
-      "searchCoverage": "partially_searched",
+      "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "検索実施・日時まで確認できる候補なし（番組不存在とは断定しない）"
     }
   ],
