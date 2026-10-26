@@ -102,3 +102,11 @@ class HandoffGuardTest(unittest.TestCase):
           classification=dict(level="clear",basis="verified"),officialVerification=dict(title=True,station=True,datetime=True,content=True))
         q=quality(dict(records=[],research=[]),dict(programs=[]),dict(records=[]),{},P,NOW,[r])
         self.assertEqual(1,q["pipelineErrors"]);self.assertIn("pipeline_handoff_missing",q["records"][0]["reasonCodes"])
+
+class ProviderQualityTest(unittest.TestCase):
+    def test_allowed_provider_date_is_not_falsely_held_as_unknown(self):
+        from test_autopublish import candidate
+        c=candidate(status="provider_confirmed",sourcePolicyId="syobocal",sourceUrl="https://cal.syoboi.jp/1/time",genreIds=["anime"],genreEvidence={"anime":"provider category"})
+        q=quality(dict(records=[c]),dict(programs=[c]),dict(records=[]),{},P,NOW)
+        self.assertTrue(q["records"][0]["datetimeConfirmed"]);self.assertFalse(q["records"][0]["held"])
+        self.assertFalse(q["records"][0]["officialDatetimeConfirmed"])

@@ -124,11 +124,12 @@ def quality(batch, public, held, update, policies, now, ledger=None):
         v=lead.get("officialVerification",{})
         excluded=lead.get("classification",{}).get("level")=="excluded" or lead.get("decision")=="excluded"
         clear=lead.get("classification",{}).get("level","clear")=="clear"
-        confirmed=all(v.get(k) for k in ("title","station","datetime")) if lead else c.get("status")=="official_confirmed" and not c.get("verificationIssues")
-        out.update(classificationLevel=lead.get("classification",{}).get("level","clear"),officialDatetimeConfirmed=bool(confirmed),excluded=excluded,
+        confirmed=all(v.get(k) for k in ("title","station","datetime")) if lead else (c.get("status")=="official_confirmed" or (c.get("officialVerified") and bool(c.get("officialVerificationUrl")))) and not c.get("verificationIssues")
+        authoritative=bool(confirmed or (not lead and c.get("status")=="provider_confirmed" and not c.get("verificationIssues")))
+        out.update(classificationLevel=lead.get("classification",{}).get("level","clear"),officialDatetimeConfirmed=bool(confirmed),datetimeConfirmed=authoritative,excluded=excluded,
                    sourceUrls=lead.get("sourceUrls",[c.get("sourceUrl")]),holdReasons=lead.get("holdReasons",[]),
                    researchDue=ready_for_research(lead or c,now),omission=bool(confirmed and clear and not excluded and not out["publishedExact"] and "outside_window" not in out["reasonCodes"]))
-        if not confirmed and "datetime_unconfirmed" not in out["reasonCodes"]: out["reasonCodes"].append("datetime_unconfirmed")
+        if not authoritative and "datetime_unconfirmed" not in out["reasonCodes"]: out["reasonCodes"].append("datetime_unconfirmed")
         if not clear and not excluded and "genre_uncertain" not in out["reasonCodes"]: out["reasonCodes"].append("genre_uncertain")
         if excluded:
             out["held"]=False;out["missingStage"]="excluded"
@@ -150,7 +151,7 @@ def quality(batch, public, held, update, policies, now, ledger=None):
                 if r.get("genreId")==gid and r.get("status")=="executed" and r.get("tool") and r.get("query") and now-timedelta(hours=96)<=parse_dt(r.get("checkedAt"))<=now+timedelta(minutes=5):
                     logs.append((r.get("route"),r["query"],r["checkedAt"]))
             except (ValueError,TypeError): pass
-        g.update(searches=len(set(logs)),datetimeConfirmed=sum(r["officialDatetimeConfirmed"] for r in members),
+        g.update(searches=len(set(logs)),datetimeConfirmed=sum(r["datetimeConfirmed"] for r in members),
                  held=sum(r["held"] for r in members),excluded=sum(r["excluded"] for r in members),
                  omissions=sum(r["omission"] for r in members))
         if not g["publicPrograms"]:
@@ -172,7 +173,7 @@ def quality(batch, public, held, update, policies, now, ledger=None):
     report["ledgerCandidates"]=len(discoveries)
     report["excluded"]=sum(r["excluded"] for r in report["records"])
     report["attention"]=[r for r in report["attention"] if not r["excluded"]]
-    report["unconfirmedDiscoveries"]=sum(not r["officialDatetimeConfirmed"] and not r["excluded"] for r in report["records"])
+    report["unconfirmedDiscoveries"]=sum(not r["datetimeConfirmed"] and not r["excluded"] for r in report["records"])
     report["unpublishedFuture"]=sum(r["officialDatetimeConfirmed"] and not r["publishedExact"] and not r["excluded"] and "outside_window" not in r["reasonCodes"] for r in report["records"])
     return report
 
