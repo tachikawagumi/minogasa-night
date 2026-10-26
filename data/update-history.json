@@ -1,0 +1,28 @@
+[
+  {
+    "at": "2026-10-26T15:33:24+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 145,
+    "aiAccepted": 1,
+    "aiHeld": 16,
+    "batchId": "ai-20261026-phase5-initial",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "official-81221f862e50feba0f729d41"
+      ]
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
+  }
+]

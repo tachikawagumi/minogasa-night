@@ -1,0 +1,231 @@
+{
+  "checkedAt": "2026-10-26T15:33:24+09:00",
+  "batchId": "ai-20261026-phase5-initial",
+  "records": [
+    {
+      "candidate": {
+        "id": "official-81221f862e50feba0f729d41",
+        "title": "ロビン・フッド",
+        "stationId": "tvtokyo",
+        "start": "2026-10-26T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-31c42a7b11885b5095cf557e",
+        "title": "女子ゴルフペアマッチ選手権",
+        "stationId": "bsasahi",
+        "start": "2026-10-26T21:54:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-662f49475ddea876f1fb0554",
+        "title": "極上！ゴルフ場探訪",
+        "stationId": "bsasahi",
+        "start": "2026-10-26T22:30:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-c7b13fcaec9d5b2204fd96a0",
+        "title": "ブロークンシティ",
+        "stationId": "tvtokyo",
+        "start": "2026-10-27T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-4016b69c0dceceb86c2abccb",
+        "title": "ＳＭＢＣ日本シリーズ２０２６　第３戦「ソフトバンク×ＤｅＮＡ」",
+        "stationId": "tbs",
+        "start": "2026-10-27T17:50:00+09:00",
+        "genreIds": [
+          "baseball"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261027_C477.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-15bd27175d27a7cbb8b71b6e",
+        "title": "アサシン",
+        "stationId": "tvtokyo",
+        "start": "2026-10-28T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-bd4aeb08473634c62dbb12ba",
+        "title": "世界くらべてみたら★出たぞお宝！キテレツ岩﨑vs尾形倉庫オークション",
+        "stationId": "tbs",
+        "start": "2026-10-28T19:00:00+09:00",
+        "genreIds": [
+          "big_eating"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261028_C2DA.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-4a9c16fb7436ca6009605718",
+        "title": "ペイバック",
+        "stationId": "tvtokyo",
+        "start": "2026-10-29T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-5175d86a5b23c2d551acb056",
+        "title": "ケンコバのほろ酔いビジホ泊 全国版",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T22:30:00+09:00",
+        "genreIds": [
+          "travel",
+          "onsen"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-95f2d23a6c58e3fcba1e42a3",
+        "title": "カーグラフィックTV",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T23:00:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-e70af6e582c0f367c487ed50",
+        "title": "氷の城壁　第19話",
+        "stationId": "tbs",
+        "start": "2026-10-29T23:56:00+09:00",
+        "genreIds": [
+          "anime"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261029_C2FF.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-6f741d1e46596684dcde7071",
+        "title": "狼よさらば",
+        "stationId": "tvtokyo",
+        "start": "2026-10-30T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-9e656b41231a20dd6464c746",
+        "title": "ドア×ドアクエスト★このお菓子何作ってる？クイズ★桐谷健太・M!LK山中参戦！",
+        "stationId": "tbs",
+        "start": "2026-10-30T20:55:00+09:00",
+        "genreIds": [
+          "challenge"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261030_C31B.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-bab590a4f8e59ce88597843a",
+        "title": "辰巳琢郎の家物語　リモデル★きらり",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T12:00:00+09:00",
+        "genreIds": [
+          "architecture"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-f9558d382a201f8b6603526e",
+        "title": "ほんとにあった怖い話 秋の特別編2026",
+        "stationId": "fuji",
+        "start": "2026-10-31T21:00:00+09:00",
+        "genreIds": [
+          "ghost"
+        ],
+        "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-ce810c015779acc089ba403a",
+        "title": "健康カプセル！ゲンキの時間",
+        "stationId": "tbs",
+        "start": "2026-11-01T07:00:00+09:00",
+        "genreIds": [
+          "health"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+        "sourcePolicyId": "official_unreviewed"
+      },
+      "reason": "情報源の取得・再配信条件が未確認"
+    }
+  ]
+}
