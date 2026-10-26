@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "batchId": "ai-20261026-phase7-occult-six",
-  "researchedAt": "2026-10-26T17:20:26+09:00",
+  "researchedAt": "2026-10-26T17:40:30+09:00",
   "windowStart": "2026-10-26T00:00:00+09:00",
   "windowEnd": "2026-11-02T00:00:00+09:00",
   "records": [
@@ -1307,6 +1307,88 @@
       },
       "acquisitionMethod": "ai_web_reference",
       "origin": "phase7_research"
+    },
+    {
+      "id": "phase7-onsen-drama-unverified-20261028",
+      "seriesId": "phase7-onsen-drama-unverified-20261028-series",
+      "title": "ザ・ミステリー『湯けむりドクター 華岡万里子の温泉事件簿３』",
+      "stationId": "bstvtokyo",
+      "claimedStation": "BSテレ東",
+      "claimedStart": "2026-10-28T12:53:00+09:00",
+      "claimedEnd": "2026-10-28T14:56:00+09:00",
+      "start": null,
+      "end": null,
+      "genreIds": [],
+      "candidateGenreIds": [
+        "onsen"
+      ],
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/26333_202610281253.html"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202610/26333_202610281253.html",
+      "discoveredAt": "2026-10-26T17:40:30+09:00",
+      "checkedAt": "2026-10-26T17:40:30+09:00",
+      "lastAttemptAt": "2026-10-26T17:40:30+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false,
+        "note": "公式ドメインの検索結果と、公式ページ本文の照合完了を区別する。"
+      },
+      "classification": {
+        "level": "related",
+        "basis": "検索結果で発見。公式個別ページの取得はCache miss。温泉という題名だけでは温泉情報番組に該当するか未確定。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "検索結果で発見。公式個別ページの取得はCache miss。温泉という題名だけでは温泉情報番組に該当するか未確定。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {},
+      "acquisitionMethod": "web_search_result",
+      "origin": "phase7_incidental_search"
+    },
+    {
+      "id": "phase7-ghost-crime-unverified-20261028",
+      "seriesId": "phase7-ghost-crime-unverified-20261028-series",
+      "title": "潔癖クンの殺人ファイル3",
+      "stationId": "bsfuji",
+      "claimedStation": "BSフジ",
+      "claimedStart": "2026-10-28T11:58:00+09:00",
+      "claimedEnd": "2026-10-28T14:00:00+09:00",
+      "start": null,
+      "end": null,
+      "genreIds": [],
+      "candidateGenreIds": [
+        "ghost"
+      ],
+      "sourceUrls": [
+        "https://www.bsfuji.tv/keppekikun3/pub/index.html"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/keppekikun3/pub/index.html",
+      "discoveredAt": "2026-10-26T17:40:30+09:00",
+      "checkedAt": "2026-10-26T17:40:30+09:00",
+      "lastAttemptAt": "2026-10-26T17:40:30+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false,
+        "note": "公式ドメインの検索結果と、公式ページ本文の照合完了を区別する。"
+      },
+      "classification": {
+        "level": "related",
+        "basis": "検索結果に怪談関連語を発見。本文の個別参照・日時照合は未実施で、犯罪ドラマの怪談語を心霊作品と断定しない。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "検索結果に怪談関連語を発見。本文の個別参照・日時照合は未実施で、犯罪ドラマの怪談語を心霊作品と断定しない。"
+      ],
+      "sourcePolicyId": "official_unreviewed",
+      "genreEvidence": {},
+      "acquisitionMethod": "web_search_result",
+      "origin": "phase7_incidental_search"
     }
   ]
 }
