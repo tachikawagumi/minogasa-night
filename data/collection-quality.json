@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-27T15:41:28+09:00",
+  "checkedAt": "2026-10-27T15:41:52+09:00",
   "batchId": "phase8-specialist-fact-review-20261027",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 28,
   "inputDuplicates": 0,
   "conflictingIds": [],

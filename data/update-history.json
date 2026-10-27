@@ -472,5 +472,89 @@
       "expired": 21
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-10-27T15:41:24+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 151,
+    "aiAccepted": 9,
+    "aiHeld": 12,
+    "batchId": "phase8-specialist-fact-review-20261027",
+    "diff": {
+      "added": [
+        "official-5175d86a5b23c2d551acb056",
+        "official-bab590a4f8e59ce88597843a",
+        "official-bs12-20261101-1900-genma",
+        "official-bsasahi-20261031-1500-itadaki",
+        "official-tvtokyo-20261031-1730-thefishing",
+        "syobocal-716578",
+        "syobocal-717345",
+        "syobocal-717458",
+        "syobocal-718193",
+        "syobocal-718354",
+        "syobocal-718401",
+        "syobocal-718423",
+        "syobocal-718545",
+        "syobocal-718698",
+        "syobocal-719297",
+        "syobocal-719321",
+        "syobocal-720043",
+        "syobocal-720308",
+        "syobocal-720334",
+        "syobocal-720889",
+        "syobocal-721242",
+        "syobocal-721312",
+        "syobocal-724285",
+        "syobocal-724298",
+        "syobocal-724300",
+        "syobocal-724329"
+      ],
+      "scheduleChanged": [
+        "official-95f2d23a6c58e3fcba1e42a3"
+      ],
+      "genreChanged": [],
+      "removed": [
+        "syobocal-721017"
+      ],
+      "expired": [
+        "official-1ef7c3a6ef6e106d48acda96",
+        "official-31c42a7b11885b5095cf557e",
+        "official-c7b13fcaec9d5b2204fd96a0",
+        "official-e4a5c93ef25d2dcac878aeed",
+        "syobocal-710574",
+        "syobocal-716541",
+        "syobocal-716637",
+        "syobocal-717110",
+        "syobocal-717344",
+        "syobocal-717382",
+        "syobocal-717407",
+        "syobocal-717784",
+        "syobocal-718353",
+        "syobocal-718422",
+        "syobocal-719296",
+        "syobocal-719320",
+        "syobocal-720042",
+        "syobocal-720054",
+        "syobocal-720084",
+        "syobocal-720888",
+        "syobocal-721536"
+      ]
+    },
+    "counts": {
+      "added": 26,
+      "scheduleChanged": 1,
+      "genreChanged": 0,
+      "removed": 1,
+      "expired": 21
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-10-27T15:41:52+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "7c60394c4af821c678dbcf30d43c94f2409be99a5d3198dd86a7f393a808b425",
+      "programs": 151
+    }
   }
 ]
