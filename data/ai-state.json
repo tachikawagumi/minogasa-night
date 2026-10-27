@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T17:45:01+09:00",
+  "checkedAt": "2026-10-27T15:41:24+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-26T17:45:01+09:00",
-      "updatedAt": "2026-10-26T17:45:01+09:00",
+      "checkedAt": "2026-10-27T15:41:24+09:00",
+      "updatedAt": "2026-10-27T15:41:24+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -65,6 +65,136 @@
       "publicationApproved": true,
       "origin": "ai_official_facts",
       "sourcePolicyId": "fuji_nandakore_20261028_minimal_fact"
+    },
+    {
+      "id": "official-5175d86a5b23c2d551acb056",
+      "seriesId": "official-series-678637e17660ff2b470c34a2",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版",
+      "stationId": "bsasahi",
+      "start": "2026-10-29T22:30:00+09:00",
+      "end": "2026-10-29T23:00:00+09:00",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "travel": "筑紫野を訪ねる当該回の日時と、源泉かけ流しの大浴場を取り上げる公式予告を確認。旅と温泉に分類。",
+        "onsen": "筑紫野を訪ねる当該回の日時と、源泉かけ流しの大浴場を取り上げる公式予告を確認。旅と温泉に分類。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-95f2d23a6c58e3fcba1e42a3",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV",
+      "stationId": "bsasahi",
+      "start": "2026-10-29T23:00:00+09:00",
+      "end": "2026-10-29T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "car": "公式次回予定に日時が明記され、当該回は軽自動車のEVを扱う。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bab590a4f8e59ce88597843a",
+      "seriesId": "official-series-58eeda6e1ef87d058531e872",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T12:00:00+09:00",
+      "end": "2026-10-31T12:30:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "architecture": "公式次回予定は赤羽の住宅改修の回。10月24日の過去回と区別した。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-tvtokyo-20261031-1730-thefishing",
+      "seriesId": "official-series-thefishing",
+      "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T17:30:00+09:00",
+      "end": "2026-10-31T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "fishing": "当該回は管理釣り場でのトラウト釣り。公式の個別予定で確認。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bsasahi-20261031-1500-itadaki",
+      "seriesId": "official-series-itadakinosakie",
+      "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T15:00:00+09:00",
+      "end": "2026-10-31T15:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "golf": "公式の後編放送日時とゴルフ対決という内容を個別確認。出演者の元の競技で野球分類しない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "seriesId": "official-bs12-20261101-1900-genma-series",
+      "title": "幻魔大戦",
+      "stationId": "bs12",
+      "start": "2026-11-01T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
+      "genreEvidence": {
+        "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
+        "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
     }
   ]
 }

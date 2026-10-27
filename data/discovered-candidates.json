@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T17:45:01+09:00",
+  "checkedAt": "2026-10-27T15:41:24+09:00",
   "records": [
     {
       "id": "official-fuji-20261028-1900-nandakore",
@@ -249,8 +249,8 @@
       ],
       "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
       "discoveredAt": "2026-10-26T17:20:26+09:00",
-      "checkedAt": "2026-10-26T17:20:26+09:00",
-      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
       "officialVerification": {
         "title": true,
         "station": true,
@@ -263,17 +263,39 @@
         "level": "clear",
         "basis": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
       },
-      "decision": "held",
-      "holdReasons": [
-        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
-      ],
-      "sourcePolicyId": "official_unreviewed",
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
       "genreEvidence": {
         "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
         "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
       },
       "acquisitionMethod": "ai_web_reference",
-      "origin": "phase7_research"
+      "origin": "phase7_research",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-bs12-issuer-fact",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bs12-20261101-1900-genma",
+          "seriesId": "official-bs12-20261101-1900-genma-series",
+          "title": "幻魔大戦",
+          "stationId": "bs12",
+          "start": "2026-11-01T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie",
+            "anime"
+          ],
+          "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "phase7-onsen-drama-unverified-20261028",
@@ -356,6 +378,73 @@
       "genreEvidence": {},
       "acquisitionMethod": "web_search_result",
       "origin": "phase7_incidental_search"
+    },
+    {
+      "id": "phase8-psycho-20261031",
+      "seriesId": "phase8-psycho-20261031-series",
+      "title": "サイコ",
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "discoveredAt": "2026-10-27T13:16:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "related",
+        "basis": "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
+      ],
+      "origin": "phase8_specialist_discovery",
+      "claimedStation": "NHK BSP4K",
+      "claimedStart": "2026-10-31T21:00:00+09:00",
+      "claimedEnd": "2026-10-31T22:50:00+09:00"
+    },
+    {
+      "id": "phase8-paid-freddys-20261027",
+      "seriesId": "phase8-paid-freddys-20261027-series",
+      "title": "ファイブ・ナイツ・アット・フレディーズ2",
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://www.wowow.co.jp/",
+      "sourceUrls": [
+        "https://www.wowow.co.jp/"
+      ],
+      "discoveredAt": "2026-10-27T13:16:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "excluded",
+        "basis": "有料チャンネルでの放送候補。無料放送枠を確認していない。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "検索で有料WOWOWの枠を発見。対象の地上波・無料BS枠ではない。別の無料枠まで除外する意味ではない。"
+      ],
+      "origin": "phase8_specialist_discovery",
+      "claimedStation": "WOWOW",
+      "distribution": "paid_bs"
     }
   ]
 }
