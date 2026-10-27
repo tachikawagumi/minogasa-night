@@ -96,8 +96,14 @@ def integrate_candidates(existing, batch, previous_rows, provider, policies, now
                     row["officialVerificationUrl"]=official
                 row["aiCheckedAt"]=c["checkedAt"]
                 row["sourcePolicyId"]=c["sourcePolicyId"]
-            elif policy.get("mode")=="official_facts":
-                if c.get("status")!="official_confirmed" or not c.get("officialVerified"):
+            elif policy.get("mode") in ("official_facts","schedule_facts"):
+                schedule=policy.get("mode")=="schedule_facts"
+                if schedule:
+                    review=policy.get("individualFactReviews",{}).get((c.get("factUseReview") or {}).get("reviewId"),{})
+                    if review.get("verificationKind")!="third_party_schedule": raise ValueError("第三者照合の利用判断区分が不一致")
+                    if not policy.get("individualFactReviews") or c.get("status")!="provider_confirmed" or c.get("officialVerified") is not False or not all((c.get("scheduleVerification") or {}).get(k) for k in ("title","station","datetime","content")):
+                        raise ValueError("第三者番組表の個別照合が未完了")
+                elif c.get("status")!="official_confirmed" or not c.get("officialVerified"):
                     raise ValueError("公式照合が未完了")
                 if operation=="cancel":
                     old=known.get(c["id"])
@@ -117,7 +123,7 @@ def integrate_candidates(existing, batch, previous_rows, provider, policies, now
                 row={k:c.get(k) for k in ("id","seriesId","title","stationId","start","end","genreIds","sourceUrl","checkedAt","updatedAt","genreEvidence")}
                 if same: row["id"],row["seriesId"]=same["id"],same["seriesId"]
                 elif old: row["seriesId"]=old["seriesId"]
-                row.update(status="official_confirmed",publicationApproved=True,origin="ai_official_facts",sourcePolicyId=c["sourcePolicyId"])
+                row.update(status="provider_confirmed" if schedule else "official_confirmed",publicationApproved=True,origin="ai_schedule_facts" if schedule else "ai_official_facts",sourcePolicyId=c["sourcePolicyId"])
                 merge_rows([row],now)
             else: raise ValueError("未対応の情報源ポリシー")
             if not now<parse_dt(row["start"])<finish: raise ValueError("対象期間外")
@@ -166,7 +172,7 @@ def run(now=None, collector=None):
         atomic_json(ROOT/"data/ai-held.json",{"checkedAt":iso(now),"batchId":batch.get("batchId"),"records":held})
         atomic_json(ROOT/"data/current-db.json",{"generatedAt":iso(now),"records":internal})
         atomic_json(ROOT/"public/v1/programs.json",feed)
-        result={"at":iso(now),"status":"prepared","animeSuccess":True,"publicPrograms":len(feed["programs"]),"aiAccepted":len(accepted),"aiHeld":len(held),"batchId":batch.get("batchId"),"diff":diff,"counts":{k:len(v) for k,v in diff.items()},"publicationVerified":False}
+        result={"at":iso(now),"status":"prepared","animeSuccess":True,"publicPrograms":len(feed["programs"]),"aiAccepted":len(accepted),"aiHeld":len(held),"batchId":batch.get("batchId"),"researchExecutionContext":batch.get("executionContext","unspecified"),"diff":diff,"counts":{k:len(v) for k,v in diff.items()},"publicationVerified":False}
         record_result(result)
         print(json.dumps(result,ensure_ascii=False))
         return result

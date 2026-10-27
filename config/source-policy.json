@@ -119,7 +119,10 @@
         "www.atpress.ne.jp",
         "www.sf-dream.com",
         "www.tbs.co.jp",
-        "www.chiba-tv.com"
+        "www.chiba-tv.com",
+        "kinro.ntv.co.jp",
+        "newscast.jp",
+        "www.bs4.jp"
       ],
       "allowedUrls": [
         "https://www.bs-asahi.co.jp/business_hotel/",
@@ -136,7 +139,12 @@
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
         "https://www.tbs.co.jp/tv/",
         "https://www.bs-asahi.co.jp/himutaro/",
-        "https://www.chiba-tv.com/timetable/daily?d=2026-10-27"
+        "https://www.chiba-tv.com/timetable/daily?d=2026-10-27",
+        "https://kinro.ntv.co.jp/lineup/20261030",
+        "https://newscast.jp/news/1942427",
+        "https://kinro.ntv.co.jp/article/detail/20261002",
+        "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+        "https://www.bs4.jp/mousou-train/"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -296,12 +304,133 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "official",
           "rationale": "日付付き公式番組表を通常の個別参照で確認。著作権表記を確認し、本文・画像・表全体の編集構成を複製せず、個別の局/日付/番組名を独自整理。継続・大量取得の許諾と解釈しない。"
+        },
+        "phase10-official-ntv-20261030-2100-godzilla-minusone": {
+          "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+          "termsUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
+        },
+        "phase10-official-bs12-20261031-1900-diehard3": {
+          "sourceUrl": "https://newscast.jp/news/1942427",
+          "termsUrl": "https://www.atpress.ne.jp/term_use",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
+        },
+        "phase10-official-bsntv-20261101-1900-godzilla1954": {
+          "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+          "termsUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
+        },
+        "phase10-official-tvtokyo-20261031-1130-moyasama": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
+        },
+        "phase10-official-bsntv-20261027-2100-mousoutrain": {
+          "sourceUrl": "https://www.bs4.jp/mousou-train/",
+          "termsUrl": "https://www.bs4.jp/mousou-train/",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
         }
       },
       "conditions": [
         "個別公開ページの放送事実を参照し独自に記録。文章・画像・番組表配列・データベースを複製しない。",
         "この判断は対象URLの個別参照に限る。Actionsの継続スクレイピング・会員サービス利用を許可しない。",
         "未知の出典は自動許可しない。条件を再確認しポリシー変更を検証する。"
+      ]
+    },
+    "reviewed_schedule_facts": {
+      "enabled": true,
+      "mode": "schedule_facts",
+      "hosts": [
+        "lp.p.pia.jp",
+        "www.sf-dream.com",
+        "entafukuzou.com"
+      ],
+      "allowedUrls": [
+        "https://lp.p.pia.jp/article/news/514536/index.html",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "permissions": [],
+      "permissionBasis": "individually_reviewed_non_copyright_broadcast_facts",
+      "individualFactReviews": {
+        "phase10-verified-bs12-20261028-1900-jeans": {
+          "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+          "termsUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-verified-nhke-20261028-2200-backyard": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-verified-nhkbs-20261029-1300-brothersanta": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-verified-nhkbs-20261030-1300-goodbadugly": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-phase8-psycho-20261031": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-verified-nhkbs-20261102-1300-fordferrari": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "phase10-verified-tvtokyo-20261102-1340-outbreak": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-27T17:41:36+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        }
+      },
+      "conditions": [
+        "通常の個別閲覧で確認した放送事実のみ。表全体・紹介文・画像を保存/複製しない。",
+        "公式確認とは区別。局・日時・番組名・当該回分類・個別利用判断が全て必要。",
+        "アクセス制限・明示的な再提供禁止を回避しない。継続クローラーの許諾を主張しない。"
       ]
     }
   }

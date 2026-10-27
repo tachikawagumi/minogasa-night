@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "batchId": "phase9-direct-schedule-20261027",
-  "researchedAt": "2026-10-27T16:30:00+09:00",
+  "batchId": "phase10-interactive-web-search-20261027",
+  "researchedAt": "2026-10-27T17:41:36+09:00",
   "windowStart": "2026-10-27T00:00:00+09:00",
   "windowEnd": "2026-11-03T00:00:00+09:00",
   "records": [
@@ -1392,6 +1392,516 @@
       "windowStart": "2026-10-27T00:00:00+09:00",
       "windowEnd": "2026-11-03T00:00:00+09:00",
       "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "地上波 BS ホラー映画 放送予定 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "ディズニー テレビ特集 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ テレビ 番組表 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "心霊 怪談 テレビ番組 放送予定 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "ほんとにあった怖い話 ダークサイドミステリー 2026年10月29日 10月31日 番組表",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "UFO 都市伝説 テレビ特番 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "世界の何だコレミステリー やりすぎ都市伝説 2026年10月28日 放送内容",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "映画 放送予定 無料BS 2026年10月28日 11月1日 ジーンズブルース ダイハード",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "ゴジラ 1954 2026年11月1日 BS日テレ ゴジラ-1.0 10月30日",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "サイコ NHK BSプレミアム4K 2026年10月31日",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "ハロウィン 映画 放送予定 無料BS 2026年10月30日 11月1日",
+      "route": "alternate_genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "東京ディズニーリゾート 番組 2026年10月28日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "ヒルナンデス ディズニー 2026年10月30日 番組表",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "ユニバーサルスタジオジャパン テレビ特集 2026年10月31日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ 王様のブランチ ヒルナンデス 2026年10月28日 11月2日",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "大食い デカ盛り テレビ 番組表 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "世界くらべてみたら スリランカ 激辛 2026年10月28日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "温泉 秘湯 テレビ BS 番組表 2026年10月29日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "ゆったり温泉ひとり旅 鳴子 温泉へ行こう 2026年10月31日",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "建物探訪 豪邸 素敵な家 テレビ 2026年10月31日 11月1日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "ザバックヤード 2026年10月28日 Eテレ 辰巳琢郎 家物語",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "車 カスタム テレビ 番組表 BS 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "世田谷ベース カーグラフィックTV 2026年10月29日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "ダンス バレエ テレビ 番組表 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "それSnowMan ダンス くるみ割り人形 2026年10月30日 11月1日 TBS",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフ テレビ 無料BS 放送予定 2026年10月31日 11月1日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "里崎 ゴルフ 牧野裕 EnjoyGolf 2026年11月1日 チバテレ",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "サッカー テレビ放送 無料BS 地上波 2026年10月31日 11月1日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "KICK OFF J 高校サッカー 千葉 2026年11月1日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "野球 テレビ 中継 番組表 2026年10月28日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "日本シリーズ 第4戦 テレビ 2026年10月28日 第5戦 10月29日",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "釣り テレビ 番組表 BS 2026年10月31日 11月1日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "大間 マグロ 漁師 夢釣行 2026年10月27日 11月2日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "健康 テレビ 番組表 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "健康カプセル ゲンキの時間 カズレーザー 2026年11月1日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "旅 街歩き BS テレビ 番組表 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "ブラタモリ モヤモヤさまぁーず 2026年10月31日 放送内容",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "ゲーム チャレンジ テレビ 番組 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "逃走中 戦闘中 SASUKE 2026年10月 11月 放送予定",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "アニメ 地上波 BS 放送予定 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "幻魔大戦 ポケットモンスター 2026年11月1日 10月30日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "鉄道 番組表 BS 2026年10月27日 11月2日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "鉄道旅 BS 鉄道伝説 2026年11月1日 放送",
+      "route": "program_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:28:23+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "\"ジーンズブルース\" \"2026\" \"10月28日\"",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "\"ダイ・ハード3\" \"2026\" \"10月31日\" BS12",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "\"ジーンズブルース\" \"10月28日\" \"BS12\"",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "\"BS12\" \"2026年10月\" \"ダイ・ハード3\" プレスリリース",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "\"ザ・バックヤード\" \"鉄道総合技術研究所\" \"2026年10月28日\"",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "site:rtri.or.jp \"バックヤード\" \"2026\"",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "Psycho 1960 horror site:bfi.org.uk",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "\"サイコ\" \"2026年10月31日\" \"BS\"",
+      "route": "verification",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00"
     }
   ],
   "discoveries": [
@@ -1683,40 +2193,6 @@
       }
     },
     {
-      "id": "phase8-psycho-20261031",
-      "seriesId": "phase8-psycho-20261031-series",
-      "title": "サイコ",
-      "candidateGenreIds": [
-        "movie",
-        "horror_movie"
-      ],
-      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
-      "sourceUrls": [
-        "https://entafukuzou.com/terrestrial-bs-movie/"
-      ],
-      "discoveredAt": "2026-10-27T13:16:00+09:00",
-      "checkedAt": "2026-10-27T13:16:00+09:00",
-      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
-      "officialVerification": {
-        "title": false,
-        "station": false,
-        "datetime": false,
-        "content": false
-      },
-      "classification": {
-        "level": "related",
-        "basis": "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
-      },
-      "decision": "held",
-      "holdReasons": [
-        "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
-      ],
-      "origin": "phase8_specialist_discovery",
-      "claimedStation": "NHK BSP4K",
-      "claimedStart": "2026-10-31T21:00:00+09:00",
-      "claimedEnd": "2026-10-31T22:50:00+09:00"
-    },
-    {
       "id": "phase8-paid-freddys-20261027",
       "seriesId": "phase8-paid-freddys-20261027-series",
       "title": "ファイブ・ナイツ・アット・フレディーズ2",
@@ -1895,6 +2371,1007 @@
         "content": true,
         "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
       }
+    },
+    {
+      "id": "verified-bs12-20261028-1900-jeans",
+      "seriesId": "verified-series-jeansblues",
+      "title": "ジーンズブルース 明日なき無頼派",
+      "stationId": "bs12",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+      "sourceUrls": [
+        "https://lp.p.pia.jp/article/news/514536/index.html"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "2026年のBS12映画特集内の個別放送日・19時と作品を確認。映画のみ。終了不明はnull。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "2026年のBS12映画特集内の個別放送日・19時と作品を確認。映画のみ。終了不明はnull。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-bs12-20261028-1900-jeans",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-bs12-20261028-1900-jeans",
+          "seriesId": "verified-series-jeansblues",
+          "title": "ジーンズブルース 明日なき無頼派",
+          "stationId": "bs12",
+          "start": "2026-10-28T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html"
+      }
+    },
+    {
+      "id": "verified-nhke-20261028-2200-backyard",
+      "seriesId": "verified-series-the-backyard",
+      "title": "ザ・バックヤード 鉄道総合技術研究所 鉄道の未来を変える最前線",
+      "stationId": "nhk_e",
+      "start": "2026-10-28T22:00:00+09:00",
+      "end": "2026-10-28T22:30:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "candidateGenreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+        "https://thetv.jp/person/1000023837/"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "当該回は鉄道車両・走行・乗客設備の研究を扱う。番組全体を建物探訪に分類せず、当該回を鉄道に分類。東京Eテレの同回日付情報とも照合。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "railway": "当該回は鉄道車両・走行・乗客設備の研究を扱う。番組全体を建物探訪に分類せず、当該回を鉄道に分類。東京Eテレの同回日付情報とも照合。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-nhke-20261028-2200-backyard",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhke-20261028-2200-backyard",
+          "seriesId": "verified-series-the-backyard",
+          "title": "ザ・バックヤード 鉄道総合技術研究所 鉄道の未来を変える最前線",
+          "stationId": "nhk_e",
+          "start": "2026-10-28T22:00:00+09:00",
+          "end": "2026-10-28T22:30:00+09:00",
+          "genreIds": [
+            "railway"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28"
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261029-1300-brothersanta",
+      "seriesId": "verified-series-brothersanta",
+      "title": "シネマ「ブラザーサンタ」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-29T13:00:00+09:00",
+      "end": "2026-10-29T14:57:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "当該日付のNHK BSシネマ枠と映画を確認。サンタという題材だけでディズニーに分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "当該日付のNHK BSシネマ枠と映画を確認。サンタという題材だけでディズニーに分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-nhkbs-20261029-1300-brothersanta",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261029-1300-brothersanta",
+          "seriesId": "verified-series-brothersanta",
+          "title": "シネマ「ブラザーサンタ」",
+          "stationId": "nhk_bs",
+          "start": "2026-10-29T13:00:00+09:00",
+          "end": "2026-10-29T14:57:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29"
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261030-1300-goodbadugly",
+      "seriesId": "verified-series-goodbadugly",
+      "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-30T13:00:00+09:00",
+      "end": "2026-10-30T16:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "西部劇映画の当該放送枠。題名の地獄だけでホラーや心霊へ分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "西部劇映画の当該放送枠。題名の地獄だけでホラーや心霊へ分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-nhkbs-20261030-1300-goodbadugly",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261030-1300-goodbadugly",
+          "seriesId": "verified-series-goodbadugly",
+          "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+          "stationId": "nhk_bs",
+          "start": "2026-10-30T13:00:00+09:00",
+          "end": "2026-10-30T16:00:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
+      }
+    },
+    {
+      "id": "official-ntv-20261030-2100-godzilla-minusone",
+      "seriesId": "official-series-godzilla-films",
+      "title": "ゴジラ-1.0",
+      "stationId": "ntv",
+      "start": "2026-10-30T21:00:00+09:00",
+      "end": "2026-10-30T23:34:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+      "sourceUrls": [
+        "https://kinro.ntv.co.jp/lineup/20261030"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "日付付き公式ラインナップで作品と21時〜23時34分を確認。今回確認できた分類は映画。怪獣という語だけでUFOやホラーを追加しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "日付付き公式ラインナップで作品と21時〜23時34分を確認。今回確認できた分類は映画。怪獣という語だけでUFOやホラーを追加しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-official-ntv-20261030-2100-godzilla-minusone",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-ntv-20261030-2100-godzilla-minusone",
+          "seriesId": "official-series-godzilla-films",
+          "title": "ゴジラ-1.0",
+          "stationId": "ntv",
+          "start": "2026-10-30T21:00:00+09:00",
+          "end": "2026-10-30T23:34:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-bs12-20261031-1900-diehard3",
+      "seriesId": "official-series-diehard-films",
+      "title": "ダイ・ハード3",
+      "stationId": "bs12",
+      "start": "2026-10-31T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://newscast.jp/news/1942427",
+      "sourceUrls": [
+        "https://newscast.jp/news/1942427"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "BS12運営会社の訂正済み発表で10月31日19時の映画枠を確認。別日の誤記がある古い発表より訂正後を使用。終了は補わない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://newscast.jp/news/1942427"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "BS12運営会社の訂正済み発表で10月31日19時の映画枠を確認。別日の誤記がある古い発表より訂正後を使用。終了は補わない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-official-bs12-20261031-1900-diehard3",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bs12-20261031-1900-diehard3",
+          "seriesId": "official-series-diehard-films",
+          "title": "ダイ・ハード3",
+          "stationId": "bs12",
+          "start": "2026-10-31T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://newscast.jp/news/1942427",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-bsntv-20261101-1900-godzilla1954",
+      "seriesId": "official-series-godzilla-films",
+      "title": "ゴジラ（1954）",
+      "stationId": "bsntv",
+      "start": "2026-11-01T19:00:00+09:00",
+      "end": "2026-11-01T21:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+      "sourceUrls": [
+        "https://kinro.ntv.co.jp/article/detail/20261002"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "日本テレビ公式がBS日テレ連動放送として作品年と11月1日19〜21時を明記。映画。11月8日の別作品は今回の期間外。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "日本テレビ公式がBS日テレ連動放送として作品年と11月1日19〜21時を明記。映画。11月8日の別作品は今回の期間外。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-official-bsntv-20261101-1900-godzilla1954",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsntv-20261101-1900-godzilla1954",
+          "seriesId": "official-series-godzilla-films",
+          "title": "ゴジラ（1954）",
+          "stationId": "bsntv",
+          "start": "2026-11-01T19:00:00+09:00",
+          "end": "2026-11-01T21:00:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-tvtokyo-20261031-1130-moyasama",
+      "seriesId": "official-series-moyamoyasamaazu2",
+      "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T11:30:00+09:00",
+      "end": "2026-10-31T12:15:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "candidateGenreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式の当該日付・枠とハワイ街歩きの回を確認。10月24日の過去回と区別。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "travel": "公式の当該日付・枠とハワイ街歩きの回を確認。10月24日の過去回と区別。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-official-tvtokyo-20261031-1130-moyasama",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261031-1130-moyasama",
+          "seriesId": "official-series-moyamoyasamaazu2",
+          "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+          "stationId": "tvtokyo",
+          "start": "2026-10-31T11:30:00+09:00",
+          "end": "2026-10-31T12:15:00+09:00",
+          "genreIds": [
+            "travel"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-bsntv-20261027-2100-mousoutrain",
+      "seriesId": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 日帰りで楽しむ 紅葉鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-10-27T21:00:00+09:00",
+      "end": "2026-10-27T21:54:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "candidateGenreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/mousou-train/",
+      "sourceUrls": [
+        "https://www.bs4.jp/mousou-train/",
+        "https://thetv.jp/program/0000980619/226/"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式の次回10/27・火曜21〜21:54と当該回の鉄道旅を確認。第三者の2026年10月27日という日付情報とも照合して年を確認。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs4.jp/mousou-train/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "travel": "公式の次回10/27・火曜21〜21:54と当該回の鉄道旅を確認。第三者の2026年10月27日という日付情報とも照合して年を確認。",
+        "railway": "公式の次回10/27・火曜21〜21:54と当該回の鉄道旅を確認。第三者の2026年10月27日という日付情報とも照合して年を確認。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-official-bsntv-20261027-2100-mousoutrain",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsntv-20261027-2100-mousoutrain",
+          "seriesId": "official-series-mousoutrain",
+          "title": "友近・礼二の妄想トレイン 日帰りで楽しむ 紅葉鉄道旅",
+          "stationId": "bsntv",
+          "start": "2026-10-27T21:00:00+09:00",
+          "end": "2026-10-27T21:54:00+09:00",
+          "genreIds": [
+            "travel",
+            "railway"
+          ],
+          "sourceUrl": "https://www.bs4.jp/mousou-train/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase8-psycho-20261031",
+      "seriesId": "phase8-psycho-20261031-series",
+      "title": "サイコ",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-10-31T21:00:00+09:00",
+      "end": "2026-10-31T22:50:00+09:00",
+      "genreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/",
+        "https://player.bfi.org.uk/rentals/film/watch-psycho-1960-online"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T13:16:00+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "第三者の2026/10/31のBSP4K映画予定を確認。作品情報を1960年作品と照合し、BFIのHorror/Thriller分類を参照して映画・ホラー映画とした。4K受信設備の条件を別記する。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "第三者の2026/10/31のBSP4K映画予定を確認。作品情報を1960年作品と照合し、BFIのHorror/Thriller分類を参照して映画・ホラー映画とした。4K受信設備の条件を別記する。",
+        "horror_movie": "第三者の2026/10/31のBSP4K映画予定を確認。作品情報を1960年作品と照合し、BFIのHorror/Thriller分類を参照して映画・ホラー映画とした。4K受信設備の条件を別記する。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-phase8-psycho-20261031",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase8-psycho-20261031",
+          "seriesId": "phase8-psycho-20261031-series",
+          "title": "サイコ",
+          "stationId": "nhk_bsp4k",
+          "start": "2026-10-31T21:00:00+09:00",
+          "end": "2026-10-31T22:50:00+09:00",
+          "genreIds": [
+            "movie",
+            "horror_movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261102-1300-fordferrari",
+      "seriesId": "verified-series-fordvferrari",
+      "title": "フォードvsフェラーリ",
+      "stationId": "nhk_bs",
+      "start": "2026-11-02T13:00:00+09:00",
+      "end": "2026-11-02T15:34:00+09:00",
+      "genreIds": [
+        "movie",
+        "car"
+      ],
+      "candidateGenreIds": [
+        "movie",
+        "car"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "当該日付のNHK BS映画予定を確認。自動車レースと競技車開発が主題の作品として映画・車。紹介文そのものは保存しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "当該日付のNHK BS映画予定を確認。自動車レースと競技車開発が主題の作品として映画・車。紹介文そのものは保存しない。",
+        "car": "当該日付のNHK BS映画予定を確認。自動車レースと競技車開発が主題の作品として映画・車。紹介文そのものは保存しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-nhkbs-20261102-1300-fordferrari",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261102-1300-fordferrari",
+          "seriesId": "verified-series-fordvferrari",
+          "title": "フォードvsフェラーリ",
+          "stationId": "nhk_bs",
+          "start": "2026-11-02T13:00:00+09:00",
+          "end": "2026-11-02T15:34:00+09:00",
+          "genreIds": [
+            "movie",
+            "car"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "verified-tvtokyo-20261102-1340-outbreak",
+      "seriesId": "verified-series-outbreak",
+      "title": "アウトブレイク",
+      "stationId": "tvtokyo",
+      "start": "2026-11-02T13:40:00+09:00",
+      "end": "2026-11-02T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "当該日付のテレビ東京映画枠を確認。フィクションの感染症映画を健康情報番組として分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "当該日付のテレビ東京映画枠を確認。フィクションの感染症映画を健康情報番組として分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase10-verified-tvtokyo-20261102-1340-outbreak",
+        "checkedAt": "2026-10-27T17:41:36+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-tvtokyo-20261102-1340-outbreak",
+          "seriesId": "verified-series-outbreak",
+          "title": "アウトブレイク",
+          "stationId": "tvtokyo",
+          "start": "2026-11-02T13:40:00+09:00",
+          "end": "2026-11-02T15:40:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase10_ai_web_search",
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "phase10-mondo-20261101",
+      "seriesId": "phase10-mondo-20261101-series",
+      "title": "ヒロシの心霊キャンプ",
+      "candidateGenreIds": [
+        "ghost"
+      ],
+      "sourceUrl": "https://www.discoveryjapan.jp/mondotv/asjmgfdqvkkn/",
+      "sourceUrls": [
+        "https://www.discoveryjapan.jp/mondotv/asjmgfdqvkkn/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "MONDO TV",
+      "claimedStart": "2026-11-01T21:30:00+09:00",
+      "distribution": "paid_cs",
+      "officialVerification": {},
+      "classification": {
+        "level": "excluded",
+        "basis": "MONDO TVは対象の無料局ではない。無料局での別放送枠まで除外する意味ではない。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "MONDO TVは対象の無料局ではない。無料局での別放送枠まで除外する意味ではない。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-hatsumimi-osaka-20261102",
+      "seriesId": "phase10-hatsumimi-osaka-20261102-series",
+      "title": "初耳怪談 FIRST TAKE",
+      "candidateGenreIds": [
+        "ghost"
+      ],
+      "sourceUrl": "https://thetv.jp/program/0001006955/",
+      "sourceUrls": [
+        "https://thetv.jp/program/0001006955/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "テレビ大阪",
+      "claimedStart": null,
+      "distribution": "terrestrial",
+      "officialVerification": {},
+      "classification": {
+        "level": "excluded",
+        "basis": "今回発見した枠はテレビ大阪で対象地域外。東京・千葉の放送日時を確認できていない。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "今回発見した枠はテレビ大阪で対象地域外。東京・千葉の放送日時を確認できていない。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-yatsuhaka-20261026",
+      "seriesId": "phase10-yatsuhaka-20261026-series",
+      "title": "八つ墓村",
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://eigachannel.jp/movie/245313/",
+      "sourceUrls": [
+        "https://eigachannel.jp/movie/245313/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-10-26T13:00:00+09:00",
+      "distribution": "free_bs",
+      "officialVerification": {},
+      "classification": {
+        "level": "excluded",
+        "basis": "10/26 13時は過去。今週へ移動しない。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "10/26 13時は過去。今週へ移動しない。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-mufasa-20261106",
+      "seriesId": "phase10-mufasa-20261106-series",
+      "title": "ライオン・キング：ムファサ",
+      "candidateGenreIds": [
+        "movie",
+        "disney"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "日本テレビ",
+      "claimedStart": "2026-11-06T21:00:00+09:00",
+      "distribution": "terrestrial",
+      "officialVerification": {},
+      "classification": {
+        "level": "excluded",
+        "basis": "確認できた候補日は11/6。今回の10/27〜11/2の対象期間外。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "確認できた候補日は11/6。今回の10/27〜11/2の対象期間外。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-charitetsu-20261111",
+      "seriesId": "phase10-charitetsu-20261111-series",
+      "title": "大人のチャリ×鉄道旅",
+      "candidateGenreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "sourceUrls": [
+        "https://www.bs4.jp/charitestu/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "BS日テレ",
+      "claimedStart": "2026-11-11T21:00:00+09:00",
+      "distribution": "free_bs",
+      "officialVerification": {},
+      "classification": {
+        "level": "excluded",
+        "basis": "公式発表の初回は11/11。今回の対象期間外。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "公式発表の初回は11/11。今回の対象期間外。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-kenko-20261102",
+      "seriesId": "phase10-kenko-20261102-series",
+      "title": "きょうの健康（11/2候補）",
+      "candidateGenreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-11-02",
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-11-02"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "NHK Eテレ",
+      "claimedStart": null,
+      "distribution": "terrestrial",
+      "officialVerification": {},
+      "classification": {
+        "level": "related",
+        "basis": "検索で日付候補と番組を発見したが、個別ページはCache miss。開始・終了時刻まで読み取れず。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "検索で日付候補と番組を発見したが、個別ページはCache miss。開始・終了時刻まで読み取れず。"
+      ],
+      "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "phase10-setagaya-20261031",
+      "seriesId": "phase10-setagaya-20261031-series",
+      "title": "所さんの世田谷ベース（10/31候補）",
+      "candidateGenreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://thetv.jp/program/0000805587/",
+      "sourceUrls": [
+        "https://thetv.jp/program/0000805587/"
+      ],
+      "discoveredAt": "2026-10-27T17:41:36+09:00",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "lastAttemptAt": "2026-10-27T17:41:36+09:00",
+      "claimedStation": "BSフジ",
+      "claimedStart": "2026-10-31T22:00:00+09:00",
+      "distribution": "free_bs",
+      "officialVerification": {},
+      "classification": {
+        "level": "related",
+        "basis": "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
+      ],
+      "origin": "phase10_ai_web_search"
     }
-  ]
+  ],
+  "executionContext": "interactive_preflight"
 }

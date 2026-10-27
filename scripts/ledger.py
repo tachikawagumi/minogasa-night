@@ -41,7 +41,10 @@ def upsert(previous,incoming):
     return list(rows.values())
 
 def project(record):
-    v=record.get("officialVerification",{})
+    official=record.get("officialVerification",{})
+    schedule=record.get("scheduleVerification",{})
+    is_official=all(official.get(k) for k in ("title","station","datetime","content"))
+    v=official if is_official else schedule
     if record.get("decision")!="eligible" or record.get("classification",{}).get("level")!="clear":
         return None
     if not all(v.get(k) for k in ("title","station","datetime","content")) or not v.get("sourceUrl"):
@@ -49,9 +52,9 @@ def project(record):
     if record.get("stationId") not in STATIONS or not record.get("genreIds"): return None
     parse_dt(record["start"])
     if v["sourceUrl"] not in record.get("sourceUrls",[]): return None
-    keys=("id","seriesId","title","stationId","start","end","genreIds","checkedAt","sourcePolicyId","genreEvidence","acquisitionMethod","factUseReview","distribution")
+    keys=("id","seriesId","title","stationId","start","end","genreIds","checkedAt","sourcePolicyId","genreEvidence","acquisitionMethod","factUseReview","distribution","scheduleVerification")
     c={k:record.get(k) for k in keys}
-    c.update(sourceUrl=v["sourceUrl"],status="official_confirmed",officialVerified=True,updatedAt=record["checkedAt"],publicationApproved=False,operation="upsert")
+    c.update(sourceUrl=v["sourceUrl"],status="official_confirmed" if is_official else "provider_confirmed",officialVerified=is_official,updatedAt=record["checkedAt"],publicationApproved=False,operation="upsert")
     return c
 
 def ready_for_research(record,now,hours=48):

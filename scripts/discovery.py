@@ -132,7 +132,7 @@ def quality(batch, public, held, update, policies, now, ledger=None):
         authoritative=bool(confirmed or all(lead.get("scheduleVerification",{}).get(k) for k in ("title","station","datetime","content")) or (not lead and c.get("status")=="provider_confirmed" and not c.get("verificationIssues")))
         out.update(classificationLevel=lead.get("classification",{}).get("level","clear"),officialDatetimeConfirmed=bool(confirmed),datetimeConfirmed=authoritative,excluded=excluded,
                    sourceUrls=lead.get("sourceUrls",[c.get("sourceUrl")]),holdReasons=lead.get("holdReasons",[]),
-                   researchDue=ready_for_research(lead or c,now),omission=bool(confirmed and clear and not excluded and not out["publishedExact"] and "outside_window" not in out["reasonCodes"]))
+                   researchDue=ready_for_research(lead or c,now),omission=bool(authoritative and clear and not excluded and not out["publishedExact"] and "outside_window" not in out["reasonCodes"]))
         if not authoritative and "datetime_unconfirmed" not in out["reasonCodes"]: out["reasonCodes"].append("datetime_unconfirmed")
         if not clear and not excluded and "genre_uncertain" not in out["reasonCodes"]: out["reasonCodes"].append("genre_uncertain")
         if excluded:
@@ -180,7 +180,7 @@ def quality(batch, public, held, update, policies, now, ledger=None):
     report["excluded"]=sum(r["excluded"] for r in report["records"])
     report["attention"]=[r for r in report["attention"] if not r["excluded"]]
     report["unconfirmedDiscoveries"]=sum(not r["datetimeConfirmed"] and not r["excluded"] for r in report["records"])
-    report["unpublishedFuture"]=sum(r["officialDatetimeConfirmed"] and not r["publishedExact"] and not r["excluded"] and "outside_window" not in r["reasonCodes"] for r in report["records"])
+    report["unpublishedFuture"]=sum(r["datetimeConfirmed"] and not r["publishedExact"] and not r["excluded"] and "outside_window" not in r["reasonCodes"] for r in report["records"])
     return report
 
 def write_quality():

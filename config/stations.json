@@ -181,6 +181,18 @@
         "Tokyo",
         "Chiba"
       ]
+    },
+    {
+      "id": "nhk_bsp4k",
+      "name": "NHK BSプレミアム4K",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "既存NHK BSと同様に受信契約の条件を別途確認。4K対応テレビ・チューナー・受信設備が必要。追加の有料専門チャンネルとは区別。",
+      "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000065.000160617.html"
     }
   ],
   "excludedDistributions": [
