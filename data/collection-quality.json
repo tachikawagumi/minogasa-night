@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-27T16:51:58+09:00",
+  "checkedAt": "2026-10-27T16:52:20+09:00",
   "batchId": "phase9-direct-schedule-20261027",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 28,
   "inputDuplicates": 0,
   "conflictingIds": [],
