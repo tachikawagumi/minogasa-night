@@ -1,0 +1,46 @@
+{
+  "checkedAtUtc": "2026-10-27 09:12:26 UTC",
+  "taskId": "automation",
+  "schedule": "Monday and Thursday 09:00 Asia/Tokyo",
+  "nextExpected": "2026-10-29T09:00:00+09:00",
+  "configurationUpdated": true,
+  "duplicateTaskCreated": false,
+  "executionContext": "interactive_preflight",
+  "observedScheduledExecution": false,
+  "scheduledStages": {
+    "trigger": "not_observed",
+    "webSearch": "not_observed",
+    "newCandidates": "not_observed",
+    "githubWrite": "not_observed",
+    "actionsPages": "not_observed",
+    "runtimeFailureRecovery": "not_observed"
+  },
+  "preflight": {
+    "genreSearches": 43,
+    "verificationSearches": 8,
+    "evaluated": 21,
+    "newPublic": 12,
+    "duplicates": 2,
+    "held": 2,
+    "excluded": 5,
+    "publicPrograms": 174,
+    "publicGenres": 18,
+    "pythonTests": 86,
+    "androidJvmTests": 19,
+    "deviceUiTested": false,
+    "githubCommit": "7908208e6cc92958911ae9bbacd84fbf12797293",
+    "actionsRun": 40477628413,
+    "actionsConclusion": "success",
+    "publicationVerified": true
+  },
+  "cost": {
+    "newPaidSubscriptions": 0,
+    "newPaidApis": 0,
+    "newServers": 0
+  },
+  "limitations": [
+    "The actual scheduled run has not occurred; interactive connector success does not establish unattended permissions.",
+    "Local automation needs the computer/app running and available project; no paid hosted AI search was introduced.",
+    "Disney and USJ lack confirmed current-window slots; zero does not prove no broadcasts exist."
+  ]
+}
