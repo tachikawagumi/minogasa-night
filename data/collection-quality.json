@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-27T16:52:20+09:00",
-  "batchId": "phase9-direct-schedule-20261027",
-  "target": "current_public_json",
-  "discovered": 28,
+  "checkedAt": "2026-10-27T18:01:29+09:00",
+  "batchId": "phase10-interactive-web-search-20261027",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 46,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 3,
+  "newRegistrations": 12,
   "updates": 0,
-  "alreadyPublished": 19,
-  "held": 15,
+  "alreadyPublished": 30,
+  "held": 16,
   "heldReasonCounts": {
-    "outside_window": 4,
-    "terms_unconfirmed": 15,
-    "datetime_unconfirmed": 4,
-    "genre_uncertain": 4,
-    "other": 4,
-    "station_unconfirmed": 1
+    "outside_window": 5,
+    "terms_unconfirmed": 16,
+    "datetime_unconfirmed": 5,
+    "genre_uncertain": 5,
+    "other": 5,
+    "station_unconfirmed": 2
   },
   "reasonLabels": {
     "datetime_unconfirmed": "放送日時が確認できない",
@@ -59,21 +59,52 @@
       ],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "phase10-setagaya-20261031",
+      "title": "所さんの世田谷ベース（10/31候補）",
+      "genreIds": [
+        "car"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://thetv.jp/program/0000805587/"
+      ],
+      "holdReasons": [
+        "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
+      ],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "genres": [
     {
       "genreId": "ghost",
       "name": "心霊・怪談",
-      "candidates": 4,
+      "candidates": 6,
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 6,
+      "currentWindowSearches": 3,
+      "searches": 8,
       "datetimeConfirmed": 2,
       "held": 2,
-      "excluded": 0,
+      "excluded": 2,
       "omissions": 0,
       "zeroReasonCode": null
     },
@@ -84,8 +115,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 5,
+      "currentWindowSearches": 3,
+      "searches": 7,
       "datetimeConfirmed": 2,
       "held": 0,
       "excluded": 0,
@@ -95,45 +126,45 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "candidates": 8,
-      "publicPrograms": 5,
+      "candidates": 18,
+      "publicPrograms": 14,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
-      "datetimeConfirmed": 6,
-      "held": 6,
-      "excluded": 1,
+      "currentWindowSearches": 7,
+      "searches": 9,
+      "datetimeConfirmed": 15,
+      "held": 5,
+      "excluded": 3,
       "omissions": 0,
       "zeroReasonCode": null
     },
     {
       "genreId": "horror_movie",
       "name": "ホラー映画",
-      "candidates": 2,
-      "publicPrograms": 0,
+      "candidates": 3,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 1,
-      "searches": 3,
-      "datetimeConfirmed": 0,
-      "held": 1,
-      "excluded": 1,
+      "zeroExplanation": null,
+      "currentWindowSearches": 6,
+      "searches": 8,
+      "datetimeConfirmed": 1,
+      "held": 0,
+      "excluded": 2,
       "omissions": 0,
-      "zeroReasonCode": "source_insufficient"
+      "zeroReasonCode": null
     },
     {
       "genreId": "disney",
       "name": "ディズニー",
-      "candidates": 0,
+      "candidates": 1,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 4,
+      "searches": 6,
       "datetimeConfirmed": 0,
       "held": 0,
-      "excluded": 0,
+      "excluded": 1,
       "omissions": 0,
       "zeroReasonCode": "source_insufficient"
     },
@@ -144,8 +175,8 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 4,
+      "searches": 6,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -159,8 +190,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -174,8 +205,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -189,8 +220,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 0,
       "excluded": 0,
@@ -200,14 +231,14 @@
     {
       "genreId": "car",
       "name": "車",
-      "candidates": 1,
-      "publicPrograms": 2,
+      "candidates": 3,
+      "publicPrograms": 3,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
-      "datetimeConfirmed": 1,
-      "held": 0,
+      "currentWindowSearches": 3,
+      "searches": 5,
+      "datetimeConfirmed": 2,
+      "held": 1,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -219,8 +250,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -234,8 +265,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 3,
       "held": 2,
       "excluded": 0,
@@ -249,8 +280,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -261,11 +292,11 @@
       "genreId": "baseball",
       "name": "野球",
       "candidates": 1,
-      "publicPrograms": 2,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -279,8 +310,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 0,
       "excluded": 0,
@@ -290,14 +321,14 @@
     {
       "genreId": "health",
       "name": "健康",
-      "candidates": 1,
+      "candidates": 2,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
-      "held": 0,
+      "held": 1,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -305,15 +336,15 @@
     {
       "genreId": "travel",
       "name": "旅",
-      "candidates": 1,
-      "publicPrograms": 5,
+      "candidates": 4,
+      "publicPrograms": 7,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
-      "datetimeConfirmed": 1,
+      "currentWindowSearches": 3,
+      "searches": 5,
+      "datetimeConfirmed": 3,
       "held": 0,
-      "excluded": 0,
+      "excluded": 1,
       "omissions": 0,
       "zeroReasonCode": null
     },
@@ -324,8 +355,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
+      "currentWindowSearches": 3,
+      "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -339,8 +370,8 @@
       "publicPrograms": 136,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 4,
+      "currentWindowSearches": 3,
+      "searches": 6,
       "datetimeConfirmed": 3,
       "held": 1,
       "excluded": 0,
@@ -350,15 +381,15 @@
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "candidates": 0,
-      "publicPrograms": 1,
+      "candidates": 3,
+      "publicPrograms": 3,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 1,
-      "searches": 3,
-      "datetimeConfirmed": 0,
+      "currentWindowSearches": 5,
+      "searches": 7,
+      "datetimeConfirmed": 2,
       "held": 0,
-      "excluded": 0,
+      "excluded": 1,
       "omissions": 0,
       "zeroReasonCode": null
     }
@@ -474,14 +505,15 @@
       "genreIds": [
         "baseball"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
+        "outside_window",
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -1024,28 +1056,21 @@
         "movie",
         "horror_movie"
       ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed",
-        "station_unconfirmed",
-        "genre_uncertain",
-        "terms_unconfirmed",
-        "other"
-      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
       "validationReason": null,
-      "missingStage": "held",
-      "classificationLevel": "related",
+      "missingStage": "published",
+      "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
-        "https://entafukuzou.com/terrestrial-bs-movie/"
+        "https://entafukuzou.com/terrestrial-bs-movie/",
+        "https://player.bfi.org.uk/rentals/film/watch-psycho-1960-online"
       ],
-      "holdReasons": [
-        "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
-      ],
+      "holdReasons": [],
       "researchDue": false,
       "omission": false
     },
@@ -1080,6 +1105,483 @@
       ],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "verified-bs12-20261028-1900-jeans",
+      "title": "ジーンズブルース 明日なき無頼派",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://lp.p.pia.jp/article/news/514536/index.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-nhke-20261028-2200-backyard",
+      "title": "ザ・バックヤード 鉄道総合技術研究所 鉄道の未来を変える最前線",
+      "genreIds": [
+        "railway"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+        "https://thetv.jp/person/1000023837/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-nhkbs-20261029-1300-brothersanta",
+      "title": "シネマ「ブラザーサンタ」",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-nhkbs-20261030-1300-goodbadugly",
+      "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-ntv-20261030-2100-godzilla-minusone",
+      "title": "ゴジラ-1.0",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://kinro.ntv.co.jp/lineup/20261030"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bs12-20261031-1900-diehard3",
+      "title": "ダイ・ハード3",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://newscast.jp/news/1942427"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsntv-20261101-1900-godzilla1954",
+      "title": "ゴジラ（1954）",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://kinro.ntv.co.jp/article/detail/20261002"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261031-1130-moyasama",
+      "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+      "genreIds": [
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsntv-20261027-2100-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 日帰りで楽しむ 紅葉鉄道旅",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/mousou-train/",
+        "https://thetv.jp/program/0000980619/226/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-nhkbs-20261102-1300-fordferrari",
+      "title": "フォードvsフェラーリ",
+      "genreIds": [
+        "movie",
+        "car"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-tvtokyo-20261102-1340-outbreak",
+      "title": "アウトブレイク",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-mondo-20261101",
+      "title": "ヒロシの心霊キャンプ",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "excluded",
+      "classificationLevel": "excluded",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": true,
+      "sourceUrls": [
+        "https://www.discoveryjapan.jp/mondotv/asjmgfdqvkkn/"
+      ],
+      "holdReasons": [
+        "MONDO TVは対象の無料局ではない。無料局での別放送枠まで除外する意味ではない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-hatsumimi-osaka-20261102",
+      "title": "初耳怪談 FIRST TAKE",
+      "genreIds": [
+        "ghost"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "excluded",
+      "classificationLevel": "excluded",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": true,
+      "sourceUrls": [
+        "https://thetv.jp/program/0001006955/"
+      ],
+      "holdReasons": [
+        "今回発見した枠はテレビ大阪で対象地域外。東京・千葉の放送日時を確認できていない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-yatsuhaka-20261026",
+      "title": "八つ墓村",
+      "genreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "excluded",
+      "classificationLevel": "excluded",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": true,
+      "sourceUrls": [
+        "https://eigachannel.jp/movie/245313/"
+      ],
+      "holdReasons": [
+        "10/26 13時は過去。今週へ移動しない。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-mufasa-20261106",
+      "title": "ライオン・キング：ムファサ",
+      "genreIds": [
+        "movie",
+        "disney"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "excluded",
+      "classificationLevel": "excluded",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": true,
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "holdReasons": [
+        "確認できた候補日は11/6。今回の10/27〜11/2の対象期間外。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-charitetsu-20261111",
+      "title": "大人のチャリ×鉄道旅",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": false,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "excluded",
+      "classificationLevel": "excluded",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": true,
+      "sourceUrls": [
+        "https://www.bs4.jp/charitestu/"
+      ],
+      "holdReasons": [
+        "公式発表の初回は11/11。今回の対象期間外。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-kenko-20261102",
+      "title": "きょうの健康（11/2候補）",
+      "genreIds": [
+        "health"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-11-02"
+      ],
+      "holdReasons": [
+        "検索で日付候補と番組を発見したが、個別ページはCache miss。開始・終了時刻まで読み取れず。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "phase10-setagaya-20261031",
+      "title": "所さんの世田谷ベース（10/31候補）",
+      "genreIds": [
+        "car"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://thetv.jp/program/0000805587/"
+      ],
+      "holdReasons": [
+        "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
+      ],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "limitations": [
@@ -1089,7 +1591,7 @@
   ],
   "pipelineErrors": 0,
   "confirmedOmissions": [],
-  "ledgerCandidates": 10,
-  "excluded": 1,
-  "unconfirmedDiscoveries": 4
+  "ledgerCandidates": 28,
+  "excluded": 6,
+  "unconfirmedDiscoveries": 5
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T16:51:53+09:00",
+  "checkedAt": "2026-10-27T18:01:23+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-27T16:51:53+09:00",
-      "updatedAt": "2026-10-27T16:51:53+09:00",
+      "checkedAt": "2026-10-27T18:01:23+09:00",
+      "updatedAt": "2026-10-27T18:01:23+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -216,6 +216,264 @@
       "publicationApproved": true,
       "origin": "ai_official_facts",
       "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "phase8-psycho-20261031",
+      "seriesId": "phase8-psycho-20261031-series",
+      "title": "サイコ",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-10-31T21:00:00+09:00",
+      "end": "2026-10-31T22:50:00+09:00",
+      "genreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "第三者の2026/10/31のBSP4K映画予定を確認。作品情報を1960年作品と照合し、BFIのHorror/Thriller分類を参照して映画・ホラー映画とした。4K受信設備の条件を別記する。",
+        "horror_movie": "第三者の2026/10/31のBSP4K映画予定を確認。作品情報を1960年作品と照合し、BFIのHorror/Thriller分類を参照して映画・ホラー映画とした。4K受信設備の条件を別記する。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-bs12-20261028-1900-jeans",
+      "seriesId": "verified-series-jeansblues",
+      "title": "ジーンズブルース 明日なき無頼派",
+      "stationId": "bs12",
+      "start": "2026-10-28T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "2026年のBS12映画特集内の個別放送日・19時と作品を確認。映画のみ。終了不明はnull。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-nhke-20261028-2200-backyard",
+      "seriesId": "verified-series-the-backyard",
+      "title": "ザ・バックヤード 鉄道総合技術研究所 鉄道の未来を変える最前線",
+      "stationId": "nhk_e",
+      "start": "2026-10-28T22:00:00+09:00",
+      "end": "2026-10-28T22:30:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "railway": "当該回は鉄道車両・走行・乗客設備の研究を扱う。番組全体を建物探訪に分類せず、当該回を鉄道に分類。東京Eテレの同回日付情報とも照合。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-nhkbs-20261029-1300-brothersanta",
+      "seriesId": "verified-series-brothersanta",
+      "title": "シネマ「ブラザーサンタ」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-29T13:00:00+09:00",
+      "end": "2026-10-29T14:57:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "当該日付のNHK BSシネマ枠と映画を確認。サンタという題材だけでディズニーに分類しない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-nhkbs-20261030-1300-goodbadugly",
+      "seriesId": "verified-series-goodbadugly",
+      "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-30T13:00:00+09:00",
+      "end": "2026-10-30T16:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "西部劇映画の当該放送枠。題名の地獄だけでホラーや心霊へ分類しない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "official-ntv-20261030-2100-godzilla-minusone",
+      "seriesId": "official-series-godzilla-films",
+      "title": "ゴジラ-1.0",
+      "stationId": "ntv",
+      "start": "2026-10-30T21:00:00+09:00",
+      "end": "2026-10-30T23:34:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "日付付き公式ラインナップで作品と21時〜23時34分を確認。今回確認できた分類は映画。怪獣という語だけでUFOやホラーを追加しない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bs12-20261031-1900-diehard3",
+      "seriesId": "official-series-diehard-films",
+      "title": "ダイ・ハード3",
+      "stationId": "bs12",
+      "start": "2026-10-31T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://newscast.jp/news/1942427",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "BS12運営会社の訂正済み発表で10月31日19時の映画枠を確認。別日の誤記がある古い発表より訂正後を使用。終了は補わない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bsntv-20261101-1900-godzilla1954",
+      "seriesId": "official-series-godzilla-films",
+      "title": "ゴジラ（1954）",
+      "stationId": "bsntv",
+      "start": "2026-11-01T19:00:00+09:00",
+      "end": "2026-11-01T21:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "日本テレビ公式がBS日テレ連動放送として作品年と11月1日19〜21時を明記。映画。11月8日の別作品は今回の期間外。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-tvtokyo-20261031-1130-moyasama",
+      "seriesId": "official-series-moyamoyasamaazu2",
+      "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T11:30:00+09:00",
+      "end": "2026-10-31T12:15:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "travel": "公式の当該日付・枠とハワイ街歩きの回を確認。10月24日の過去回と区別。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-bsntv-20261027-2100-mousoutrain",
+      "seriesId": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 日帰りで楽しむ 紅葉鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-10-27T21:00:00+09:00",
+      "end": "2026-10-27T21:54:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/mousou-train/",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "travel": "公式の次回10/27・火曜21〜21:54と当該回の鉄道旅を確認。第三者の2026年10月27日という日付情報とも照合して年を確認。",
+        "railway": "公式の次回10/27・火曜21〜21:54と当該回の鉄道旅を確認。第三者の2026年10月27日という日付情報とも照合して年を確認。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "verified-nhkbs-20261102-1300-fordferrari",
+      "seriesId": "verified-series-fordvferrari",
+      "title": "フォードvsフェラーリ",
+      "stationId": "nhk_bs",
+      "start": "2026-11-02T13:00:00+09:00",
+      "end": "2026-11-02T15:34:00+09:00",
+      "genreIds": [
+        "movie",
+        "car"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "当該日付のNHK BS映画予定を確認。自動車レースと競技車開発が主題の作品として映画・車。紹介文そのものは保存しない。",
+        "car": "当該日付のNHK BS映画予定を確認。自動車レースと競技車開発が主題の作品として映画・車。紹介文そのものは保存しない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-tvtokyo-20261102-1340-outbreak",
+      "seriesId": "verified-series-outbreak",
+      "title": "アウトブレイク",
+      "stationId": "tvtokyo",
+      "start": "2026-11-02T13:40:00+09:00",
+      "end": "2026-11-02T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-27T17:41:36+09:00",
+      "updatedAt": "2026-10-27T17:41:36+09:00",
+      "genreEvidence": {
+        "movie": "当該日付のテレビ東京映画枠を確認。フィクションの感染症映画を健康情報番組として分類しない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
     }
   ]
 }

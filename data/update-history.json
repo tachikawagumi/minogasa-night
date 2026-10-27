@@ -698,5 +698,45 @@
       "semanticSha256": "51255c6823019c30894d03f450b48953785d9c8cad71d8af190bebad4218f5e0",
       "programs": 163
     }
+  },
+  {
+    "at": "2026-10-27T18:01:23+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 174,
+    "aiAccepted": 22,
+    "aiHeld": 11,
+    "batchId": "phase10-interactive-web-search-20261027",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "official-bs12-20261031-1900-diehard3",
+        "official-bsntv-20261027-2100-mousoutrain",
+        "official-bsntv-20261101-1900-godzilla1954",
+        "official-ntv-20261030-2100-godzilla-minusone",
+        "official-tvtokyo-20261031-1130-moyasama",
+        "phase8-psycho-20261031",
+        "verified-bs12-20261028-1900-jeans",
+        "verified-nhkbs-20261029-1300-brothersanta",
+        "verified-nhkbs-20261030-1300-goodbadugly",
+        "verified-nhkbs-20261102-1300-fordferrari",
+        "verified-nhke-20261028-2200-backyard",
+        "verified-tvtokyo-20261102-1340-outbreak"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "official-4016b69c0dceceb86c2abccb"
+      ]
+    },
+    "counts": {
+      "added": 12,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
   }
 ]
