@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+sdk/
+jdk/
+gradle-home/
+gradle-dist/
+android-user/
+avd/
+*.log
+*.jks
+*.keystore
