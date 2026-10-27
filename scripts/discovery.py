@@ -129,7 +129,7 @@ def quality(batch, public, held, update, policies, now, ledger=None):
         excluded=lead.get("classification",{}).get("level")=="excluded" or lead.get("decision")=="excluded"
         clear=lead.get("classification",{}).get("level","clear")=="clear"
         confirmed=all(v.get(k) for k in ("title","station","datetime")) if lead else (c.get("status")=="official_confirmed" or (c.get("officialVerified") and bool(c.get("officialVerificationUrl")))) and not c.get("verificationIssues")
-        authoritative=bool(confirmed or (not lead and c.get("status")=="provider_confirmed" and not c.get("verificationIssues")))
+        authoritative=bool(confirmed or all(lead.get("scheduleVerification",{}).get(k) for k in ("title","station","datetime","content")) or (not lead and c.get("status")=="provider_confirmed" and not c.get("verificationIssues")))
         out.update(classificationLevel=lead.get("classification",{}).get("level","clear"),officialDatetimeConfirmed=bool(confirmed),datetimeConfirmed=authoritative,excluded=excluded,
                    sourceUrls=lead.get("sourceUrls",[c.get("sourceUrl")]),holdReasons=lead.get("holdReasons",[]),
                    researchDue=ready_for_research(lead or c,now),omission=bool(confirmed and clear and not excluded and not out["publishedExact"] and "outside_window" not in out["reasonCodes"]))

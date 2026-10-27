@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T13:16:00+09:00",
+  "checkedAt": "2026-10-27T16:30:00+09:00",
   "windowStart": "2026-10-27T00:00:00+09:00",
   "windowEnd": "2026-11-03T00:00:00+09:00",
   "checks": [
@@ -241,6 +241,252 @@
       "checkedAt": "2026-10-27T13:16:00+09:00",
       "status": "robots_denied",
       "conditions": "公式日時を取得できず。別手段でアクセス制限を回避しない。配信カタログの作品実在と放送日時を区別。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-phase7-darkside-immortality-20261029",
+      "url": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "third_party_schedule_confirmed",
+      "conditions": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。",
+      "confirmedFacts": {
+        "id": "phase7-darkside-immortality-20261029",
+        "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+        "stationId": "nhk_bs",
+        "start": "2026-10-29T00:45:00+09:00",
+        "end": "2026-10-29T01:45:00+09:00",
+        "genreIds": [
+          "ufo"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-phase7-darkside-hell-20261030",
+      "url": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "third_party_schedule_confirmed",
+      "conditions": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。",
+      "confirmedFacts": {
+        "id": "phase7-darkside-hell-20261030",
+        "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+        "stationId": "nhk_bs",
+        "start": "2026-10-30T09:00:00+09:00",
+        "end": "2026-10-30T10:00:00+09:00",
+        "genreIds": [
+          "ghost"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-ce810c015779acc089ba403a",
+      "url": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。",
+      "confirmedFacts": {
+        "id": "official-ce810c015779acc089ba403a",
+        "title": "健康カプセル！ゲンキの時間",
+        "stationId": "tbs",
+        "start": "2026-11-01T07:00:00+09:00",
+        "end": "2026-11-01T07:30:00+09:00",
+        "genreIds": [
+          "health"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-tbs-20261101-1430-kurumi",
+      "url": "https://www.tbs.co.jp/tv/20261101_C468.html",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。",
+      "confirmedFacts": {
+        "id": "official-tbs-20261101-1430-kurumi",
+        "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+        "stationId": "tbs",
+        "start": "2026-11-01T14:30:00+09:00",
+        "end": "2026-11-01T15:00:00+09:00",
+        "genreIds": [
+          "dance"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-tbs-20261102-0113-kickoffj",
+      "url": "https://www.tbs.co.jp/tv/20261101_C370.html",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。",
+      "confirmedFacts": {
+        "id": "official-tbs-20261102-0113-kickoffj",
+        "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+        "stationId": "tbs",
+        "start": "2026-11-02T01:13:00+09:00",
+        "end": "2026-11-02T01:43:00+09:00",
+        "genreIds": [
+          "soccer"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-verified-nhkbs-20261031-0630-matsuura",
+      "url": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "third_party_schedule_confirmed",
+      "conditions": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。",
+      "confirmedFacts": {
+        "id": "verified-nhkbs-20261031-0630-matsuura",
+        "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+        "stationId": "nhk_bs",
+        "start": "2026-10-31T06:30:00+09:00",
+        "end": "2026-10-31T07:15:00+09:00",
+        "genreIds": [
+          "travel",
+          "railway"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-verified-nhkbs-20261031-0730-naruko",
+      "url": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "third_party_schedule_confirmed",
+      "conditions": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。",
+      "confirmedFacts": {
+        "id": "verified-nhkbs-20261031-0730-naruko",
+        "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+        "stationId": "nhk_bs",
+        "start": "2026-10-31T07:30:00+09:00",
+        "end": "2026-10-31T08:00:00+09:00",
+        "genreIds": [
+          "travel",
+          "onsen"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-tbs-20261028-1025-hiruobi",
+      "url": "https://www.tbs.co.jp/tv/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。",
+      "confirmedFacts": {
+        "id": "official-tbs-20261028-1025-hiruobi",
+        "title": "ひるおび",
+        "stationId": "tbs",
+        "start": "2026-10-28T10:25:00+09:00",
+        "end": "2026-10-28T11:55:00+09:00",
+        "genreIds": [
+          "travel",
+          "soccer"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-984830d6db17bf74176cf896",
+      "url": "https://www.bs-asahi.co.jp/himutaro/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。",
+      "confirmedFacts": {
+        "id": "official-984830d6db17bf74176cf896",
+        "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
+        "stationId": "bsasahi",
+        "start": "2026-10-27T22:00:00+09:00",
+        "end": "2026-10-27T22:30:00+09:00",
+        "genreIds": [
+          "travel"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-verified-nhkbs-20261028-1300-1917",
+      "url": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "status": "third_party_schedule_confirmed",
+      "conditions": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。",
+      "confirmedFacts": {
+        "id": "verified-nhkbs-20261028-1300-1917",
+        "title": "シネマ「１９１７ 命をかけた伝令」",
+        "stationId": "nhk_bs",
+        "start": "2026-10-28T13:00:00+09:00",
+        "end": "2026-10-28T15:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-g-guide",
+      "url": "https://bangumi.org/policies/user_policy",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "method": "ai_web_reference",
+      "roles": [
+        "discovery"
+      ],
+      "status": "not_used_for_publication",
+      "conditions": "第3条の再提供、第4条の競合/類似サービス利用等の制限を確認したため、掲載データの供給元として使用しない。以降の調査は別の公開情報から個別確認。",
       "confirmedFacts": [],
       "automatedCollection": false
     }

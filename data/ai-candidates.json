@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "batchId": "phase8-specialist-fact-review-20261027",
-  "researchedAt": "2026-10-27T13:16:00+09:00",
+  "batchId": "phase9-direct-schedule-20261027",
+  "researchedAt": "2026-10-27T16:30:00+09:00",
   "windowStart": "2026-10-27T00:00:00+09:00",
   "windowEnd": "2026-11-03T00:00:00+09:00",
   "records": [
@@ -433,25 +433,47 @@
       "title": "健康カプセル！ゲンキの時間",
       "stationId": "tbs",
       "start": "2026-11-01T07:00:00+09:00",
-      "end": null,
+      "end": "2026-11-01T07:30:00+09:00",
       "genreIds": [
         "health"
       ],
       "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
-      "checkedAt": "2026-10-26T12:04:22+09:00",
-      "updatedAt": "2026-10-26T12:04:22+09:00",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
       "status": "official_confirmed",
-      "publicationApproved": false,
-      "genreBasis": "TBSの日時付き詳細で、健康情報を紹介する番組であることを確認。当該回の詳細テーマは未発表。",
-      "sourcePolicyId": "official_unreviewed",
-      "officialVerified": true,
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
       "genreEvidence": {
-        "health": "TBSの日時付き詳細で、健康情報を紹介する番組であることを確認。当該回の詳細テーマは未発表。"
+        "health": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。"
       },
-      "operation": "upsert",
-      "verificationIssues": [
-        "source_unavailable"
-      ]
+      "genreBasis": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-ce810c015779acc089ba403a",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-ce810c015779acc089ba403a",
+          "seriesId": "official-series-3244aed9715be5c50feea624",
+          "title": "健康カプセル！ゲンキの時間",
+          "stationId": "tbs",
+          "start": "2026-11-01T07:00:00+09:00",
+          "end": "2026-11-01T07:30:00+09:00",
+          "genreIds": [
+            "health"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+          "operation": "upsert"
+        }
+      },
+      "operation": "upsert"
     },
     {
       "id": "syobocal-720594",
@@ -1419,97 +1441,6 @@
       "origin": "phase7_research"
     },
     {
-      "id": "phase7-darkside-immortality-20261029",
-      "seriesId": "official-series-darkside",
-      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
-      "stationId": "nhk_bs",
-      "claimedStation": "NHK BS",
-      "claimedStart": "2026-10-29T00:45:00+09:00",
-      "claimedEnd": "2026-10-29T01:45:00+09:00",
-      "start": null,
-      "end": null,
-      "genreIds": [
-        "ufo"
-      ],
-      "candidateGenreIds": [
-        "ufo"
-      ],
-      "sourceUrls": [
-        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
-        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
-      ],
-      "sourceUrl": "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
-      "discoveredAt": "2026-10-26T17:20:26+09:00",
-      "checkedAt": "2026-10-26T17:20:26+09:00",
-      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
-      "officialVerification": {
-        "title": true,
-        "station": false,
-        "datetime": false,
-        "content": true,
-        "sourceUrl": "https://www.nhk-ondemand.jp/goods/G2026155537SA000/"
-      },
-      "classification": {
-        "level": "clear",
-        "basis": "公式オンデマンドで不老不死にまつわる伝承・主張を検証する作品内容を確認。UFO・都市伝説の伝承/超常現象の定義に合う。"
-      },
-      "decision": "held",
-      "holdReasons": [
-        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
-      ],
-      "sourcePolicyId": "official_unreviewed",
-      "genreEvidence": {
-        "ufo": "公式オンデマンドで不老不死にまつわる伝承・主張を検証する作品内容を確認。UFO・都市伝説の伝承/超常現象の定義に合う。"
-      },
-      "acquisitionMethod": "ai_web_reference",
-      "origin": "phase7_research"
-    },
-    {
-      "id": "phase7-darkside-hell-20261030",
-      "seriesId": "official-series-darkside",
-      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
-      "stationId": "nhk_bs",
-      "claimedStation": "NHK BS",
-      "claimedStart": "2026-10-30T09:00:00+09:00",
-      "claimedEnd": "2026-10-30T10:00:00+09:00",
-      "start": null,
-      "end": null,
-      "genreIds": [],
-      "candidateGenreIds": [
-        "ghost",
-        "ufo"
-      ],
-      "sourceUrls": [
-        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
-        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
-      ],
-      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
-      "discoveredAt": "2026-10-26T17:20:26+09:00",
-      "checkedAt": "2026-10-26T17:20:26+09:00",
-      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
-      "officialVerification": {
-        "title": false,
-        "station": false,
-        "datetime": false,
-        "content": false
-      },
-      "classification": {
-        "level": "related",
-        "basis": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。"
-      },
-      "decision": "held",
-      "holdReasons": [
-        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
-      ],
-      "sourcePolicyId": "official_unreviewed",
-      "genreEvidence": {
-        "ghost": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。",
-        "ufo": "地獄・死後世界の伝承という関連性はあるが、当該回内容の公式照合ができない。心霊/UFOのどちらへ確定するか保留。"
-      },
-      "acquisitionMethod": "ai_web_reference",
-      "origin": "phase7_research"
-    },
-    {
       "id": "official-f9558d382a201f8b6603526e",
       "seriesId": "official-series-2b9729b602a554921245711f",
       "title": "ほんとにあった怖い話 秋の特別編2026",
@@ -1817,6 +1748,153 @@
       "origin": "phase8_specialist_discovery",
       "claimedStation": "WOWOW",
       "distribution": "paid_bs"
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "stationId": "nhk_bs",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-10-29T00:45:00+09:00",
+      "claimedEnd": "2026-10-29T01:45:00+09:00",
+      "start": "2026-10-29T00:45:00+09:00",
+      "end": "2026-10-29T01:45:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "candidateGenreIds": [
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "lastAttemptAt": "2026-10-27T16:30:00+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": false,
+        "datetime": false,
+        "content": true,
+        "sourceUrl": "https://www.nhk-ondemand.jp/goods/G2026155537SA000/"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。"
+      },
+      "decision": "published",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "ufo": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research",
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-immortality-20261029",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-immortality-20261029",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+          "stationId": "nhk_bs",
+          "start": "2026-10-29T00:45:00+09:00",
+          "end": "2026-10-29T01:45:00+09:00",
+          "genreIds": [
+            "ufo"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "operation": "upsert"
+        }
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28"
+      }
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "stationId": "nhk_bs",
+      "claimedStation": "NHK BS",
+      "claimedStart": "2026-10-30T09:00:00+09:00",
+      "claimedEnd": "2026-10-30T10:00:00+09:00",
+      "start": "2026-10-30T09:00:00+09:00",
+      "end": "2026-10-30T10:00:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "candidateGenreIds": [
+        "ghost",
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "lastAttemptAt": "2026-10-27T16:30:00+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。"
+      },
+      "decision": "published",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "ghost": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research",
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-hell-20261030",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-hell-20261030",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+          "stationId": "nhk_bs",
+          "start": "2026-10-30T09:00:00+09:00",
+          "end": "2026-10-30T10:00:00+09:00",
+          "genreIds": [
+            "ghost"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "operation": "upsert"
+        }
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
+      }
     }
   ]
 }

@@ -116,7 +116,9 @@
       "hosts": [
         "www.bs-asahi.co.jp",
         "www.tv-tokyo.co.jp",
-        "www.atpress.ne.jp"
+        "www.atpress.ne.jp",
+        "www.sf-dream.com",
+        "www.tbs.co.jp"
       ],
       "allowedUrls": [
         "https://www.bs-asahi.co.jp/business_hotel/",
@@ -124,7 +126,15 @@
         "https://www.bs-asahi.co.jp/tatsumi/",
         "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
         "https://www.bs-asahi.co.jp/itadakinosakie/",
-        "https://www.atpress.ne.jp/news/2830607"
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "https://www.tbs.co.jp/tv/20261101_C34E.html",
+        "https://www.tbs.co.jp/tv/20261101_C468.html",
+        "https://www.tbs.co.jp/tv/20261101_C370.html",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+        "https://www.tbs.co.jp/tv/",
+        "https://www.bs-asahi.co.jp/himutaro/"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -170,6 +180,96 @@
           "checkedAt": "2026-10-27T13:16:00+09:00",
           "outcome": "minimal_facts_only",
           "rationale": "BS12運営会社が発信した公開リリースの個別事実。第2条の配信サービス/会員定義、第4条の会員ログイン、第11条の会員向け制限を再確認。会員登録・配信サービス・DB提供を利用しない公開読者の独立した最小事実記録に、文章転載や会員データ再利用と同じ包括許諾条件を機械適用しない。放送局発表の日時と作品名のみ独自整理。終了不明はnull、本文・画像・配列は不使用。ポータル全体の取得許諾ではない。"
+        },
+        "phase9-phase7-darkside-immortality-20261029": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "termsStatus": "individual_reference_no_specific_restriction_found",
+          "rationale": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。"
+        },
+        "phase9-phase7-darkside-hell-20261030": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "termsStatus": "individual_reference_no_specific_restriction_found",
+          "rationale": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。"
+        },
+        "phase9-official-ce810c015779acc089ba403a": {
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+          "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "termsStatus": "copyright_expression_distinguished_from_individual_facts",
+          "rationale": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。"
+        },
+        "phase9-official-tbs-20261101-1430-kurumi": {
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C468.html",
+          "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "termsStatus": "copyright_expression_distinguished_from_individual_facts",
+          "rationale": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。"
+        },
+        "phase9-official-tbs-20261102-0113-kickoffj": {
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C370.html",
+          "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "termsStatus": "copyright_expression_distinguished_from_individual_facts",
+          "rationale": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。"
+        },
+        "phase9-verified-nhkbs-20261031-0630-matsuura": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "termsStatus": "individual_reference_no_specific_restriction_found",
+          "rationale": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。"
+        },
+        "phase9-verified-nhkbs-20261031-0730-naruko": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "termsStatus": "individual_reference_no_specific_restriction_found",
+          "rationale": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。"
+        },
+        "phase9-official-tbs-20261028-1025-hiruobi": {
+          "sourceUrl": "https://www.tbs.co.jp/tv/",
+          "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "termsStatus": "copyright_expression_distinguished_from_individual_facts",
+          "rationale": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。"
+        },
+        "phase9-official-984830d6db17bf74176cf896": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/",
+          "termsUrl": "https://www.bs-asahi.co.jp/himutaro/",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "termsStatus": "copyright_expression_distinguished_from_individual_facts",
+          "rationale": "公式週間表と当該回ページを個別参照。番組本文・画像・番組表の編集構成を複製しない。最小放送事実の独立記録。サイトの表現の無断利用とは区別し、包括的自動取得許可は主張しない。"
+        },
+        "phase9-verified-nhkbs-20261028-1300-1917": {
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "termsUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php",
+          "checkedAt": "2026-10-27T16:30:00+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "termsStatus": "individual_reference_no_specific_restriction_found",
+          "rationale": "公開されているアクセシビリティ用番組表を個別参照。日付・局・時刻と番組名を確認し最小事実だけ独自記録。サイト全体や表の構成・本文・画像を複製せず、大量・継続収集をしない。公式確認とは区別しprovider_confirmedで扱う。確認範囲でこの個別事実の独立記録を禁ずる固有条件は見つからず。包括的なDB再配信許諾を主張しない。"
         }
       },
       "conditions": [

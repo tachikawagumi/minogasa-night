@@ -169,17 +169,46 @@
       "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
       "stationId": "bsasahi",
       "start": "2026-10-27T22:00:00+09:00",
-      "end": null,
+      "end": "2026-10-27T22:30:00+09:00",
       "genreIds": [
         "travel"
       ],
-      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
-      "checkedAt": "2026-10-24T02:13:50Z",
-      "updatedAt": "2026-10-24T02:13:50Z",
+      "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": true,
       "origin": "manual_official_facts",
-      "genreBasis": "日時付き公式番組案内。栃木県日光での街歩き。健康効果を推定せず旅だけを付与。"
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は日光の街歩き。既に同じ枠が掲載済みなので追加件数に数えず終了時刻を確認更新。"
+      },
+      "genreBasis": "当該回は日光の街歩き。既に同じ枠が掲載済みなので追加件数に数えず終了時刻を確認更新。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-984830d6db17bf74176cf896",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-984830d6db17bf74176cf896",
+          "seriesId": "official-series-f302b86c5aefd2e4d2eb4a96",
+          "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
+          "stationId": "bsasahi",
+          "start": "2026-10-27T22:00:00+09:00",
+          "end": "2026-10-27T22:30:00+09:00",
+          "genreIds": [
+            "travel"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-514a871e96f3222a8992f712",
@@ -560,6 +589,440 @@
       "publicationApproved": true,
       "origin": "manual_official_facts",
       "genreBasis": "公式次回予告に個別日付・話数、同ページに局と共通の開始時刻を確認。"
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "stationId": "nhk_bs",
+      "start": "2026-10-29T00:45:00+09:00",
+      "end": "2026-10-29T01:45:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "ufo": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。"
+      },
+      "genreBasis": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-immortality-20261029",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-immortality-20261029",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+          "stationId": "nhk_bs",
+          "start": "2026-10-29T00:45:00+09:00",
+          "end": "2026-10-29T01:45:00+09:00",
+          "genreIds": [
+            "ufo"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "stationId": "nhk_bs",
+      "start": "2026-10-30T09:00:00+09:00",
+      "end": "2026-10-30T10:00:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "ghost": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。"
+      },
+      "genreBasis": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-hell-20261030",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-hell-20261030",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+          "stationId": "nhk_bs",
+          "start": "2026-10-30T09:00:00+09:00",
+          "end": "2026-10-30T10:00:00+09:00",
+          "genreIds": [
+            "ghost"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "official-ce810c015779acc089ba403a",
+      "seriesId": "official-series-3244aed9715be5c50feea624",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "end": "2026-11-01T07:30:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "health": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。"
+      },
+      "genreBasis": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-ce810c015779acc089ba403a",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-ce810c015779acc089ba403a",
+          "seriesId": "official-series-3244aed9715be5c50feea624",
+          "title": "健康カプセル！ゲンキの時間",
+          "stationId": "tbs",
+          "start": "2026-11-01T07:00:00+09:00",
+          "end": "2026-11-01T07:30:00+09:00",
+          "genreIds": [
+            "health"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "official-tbs-20261101-1430-kurumi",
+      "seriesId": "official-series-kballet-documentary",
+      "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+      "stationId": "tbs",
+      "start": "2026-11-01T14:30:00+09:00",
+      "end": "2026-11-01T15:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C468.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "dance": "当該回はバレエ作品の踊り・制作の魅力を扱うためダンス。出演者名だけで分類しない。"
+      },
+      "genreBasis": "当該回はバレエ作品の踊り・制作の魅力を扱うためダンス。出演者名だけで分類しない。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261101-1430-kurumi",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261101-1430-kurumi",
+          "seriesId": "official-series-kballet-documentary",
+          "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+          "stationId": "tbs",
+          "start": "2026-11-01T14:30:00+09:00",
+          "end": "2026-11-01T15:00:00+09:00",
+          "genreIds": [
+            "dance"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C468.html",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "official-tbs-20261102-0113-kickoffj",
+      "seriesId": "official-series-kickoffj",
+      "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+      "stationId": "tbs",
+      "start": "2026-11-02T01:13:00+09:00",
+      "end": "2026-11-02T01:43:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C370.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "soccer": "公式表の202611020113〜202611020143で暦日確認。11/1深夜の表記を11/1未明と誤読しない。日本サッカー専門番組。"
+      },
+      "genreBasis": "公式表の202611020113〜202611020143で暦日確認。11/1深夜の表記を11/1未明と誤読しない。日本サッカー専門番組。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261102-0113-kickoffj",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261102-0113-kickoffj",
+          "seriesId": "official-series-kickoffj",
+          "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+          "stationId": "tbs",
+          "start": "2026-11-02T01:13:00+09:00",
+          "end": "2026-11-02T01:43:00+09:00",
+          "genreIds": [
+            "soccer"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C370.html",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261031-0630-matsuura",
+      "seriesId": "verified-series-nippon-burari-tetsudotabi",
+      "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+      "stationId": "nhk_bs",
+      "start": "2026-10-31T06:30:00+09:00",
+      "end": "2026-10-31T07:15:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。",
+        "railway": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。"
+      },
+      "genreBasis": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261031-0630-matsuura",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261031-0630-matsuura",
+          "seriesId": "verified-series-nippon-burari-tetsudotabi",
+          "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+          "stationId": "nhk_bs",
+          "start": "2026-10-31T06:30:00+09:00",
+          "end": "2026-10-31T07:15:00+09:00",
+          "genreIds": [
+            "travel",
+            "railway"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261031-0730-naruko",
+      "seriesId": "verified-series-yuttari-onsen",
+      "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+      "stationId": "nhk_bs",
+      "start": "2026-10-31T07:30:00+09:00",
+      "end": "2026-10-31T08:00:00+09:00",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。",
+        "onsen": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。"
+      },
+      "genreBasis": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261031-0730-naruko",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261031-0730-naruko",
+          "seriesId": "verified-series-yuttari-onsen",
+          "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+          "stationId": "nhk_bs",
+          "start": "2026-10-31T07:30:00+09:00",
+          "end": "2026-10-31T08:00:00+09:00",
+          "genreIds": [
+            "travel",
+            "onsen"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "official-tbs-20261028-1025-hiruobi",
+      "seriesId": "official-series-hiruobi",
+      "title": "ひるおび",
+      "stationId": "tbs",
+      "start": "2026-10-28T10:25:00+09:00",
+      "end": "2026-10-28T11:55:00+09:00",
+      "genreIds": [
+        "travel",
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。",
+        "soccer": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。"
+      },
+      "genreBasis": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261028-1025-hiruobi",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261028-1025-hiruobi",
+          "seriesId": "official-series-hiruobi",
+          "title": "ひるおび",
+          "stationId": "tbs",
+          "start": "2026-10-28T10:25:00+09:00",
+          "end": "2026-10-28T11:55:00+09:00",
+          "genreIds": [
+            "travel",
+            "soccer"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261028-1300-1917",
+      "seriesId": "verified-series-film-1917",
+      "title": "シネマ「１９１７ 命をかけた伝令」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-28T13:00:00+09:00",
+      "end": "2026-10-28T15:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "movie": "NHK BSのシネマ枠で当該映画の日時を確認。戦争映画をホラーに誤分類しない。"
+      },
+      "genreBasis": "NHK BSのシネマ枠で当該映画の日時を確認。戦争映画をホラーに誤分類しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261028-1300-1917",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261028-1300-1917",
+          "seriesId": "verified-series-film-1917",
+          "title": "シネマ「１９１７ 命をかけた伝令」",
+          "stationId": "nhk_bs",
+          "start": "2026-10-28T13:00:00+09:00",
+          "end": "2026-10-28T15:00:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "operation": "upsert"
+        }
+      }
     }
-  ]
+  ],
+  "updatedAt": "2026-10-27T16:30:00+09:00",
+  "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。"
 }

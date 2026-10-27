@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from urllib.parse import urlparse
 from feed import ROOT,JST,GENRE_IDS,STATIONS,canonical,parse_dt,iso,read_json,atomic_json
 
-FIELDS={"id","seriesId","title","stationId","claimedStation","claimedStart","claimedEnd","start","end","genreIds","candidateGenreIds","sourceUrl","sourceUrls","discoveredAt","checkedAt","lastAttemptAt","officialVerification","classification","decision","holdReasons","sourcePolicyId","genreEvidence","acquisitionMethod","origin","factUseReview","distribution"}
+FIELDS={"id","seriesId","title","stationId","claimedStation","claimedStart","claimedEnd","start","end","genreIds","candidateGenreIds","sourceUrl","sourceUrls","discoveredAt","checkedAt","lastAttemptAt","officialVerification","classification","decision","holdReasons","sourcePolicyId","genreEvidence","acquisitionMethod","origin","factUseReview","distribution","scheduleVerification"}
 LEVELS={"clear","related","excluded"}
 
 def valid_url(url):
@@ -27,8 +27,9 @@ def upsert(previous,incoming):
         classification=item.get("classification",{})
         if classification.get("level") not in LEVELS or not classification.get("basis"): raise ValueError("3段階分類と根拠が必要")
         verify=item.get("officialVerification",{})
-        if (item.get("start") or item.get("end")) and not verify.get("datetime"): raise ValueError("未確認日時はclaimedStart/Endだけに保存")
-        if verify.get("datetime"): parse_dt(item.get("start"))
+        date_verified=verify.get("datetime") or all(item.get("scheduleVerification",{}).get(k) for k in ("title","station","datetime","content"))
+        if (item.get("start") or item.get("end")) and not date_verified: raise ValueError("未確認日時はclaimedStart/Endだけに保存")
+        if date_verified: parse_dt(item.get("start"))
         for k in ("discoveredAt","checkedAt","lastAttemptAt"):
             if item.get(k): parse_dt(item[k])
         old=rows.get(item["id"])

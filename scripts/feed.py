@@ -162,7 +162,7 @@ def build_feed(manual, anime, now, anime_ok):
     start, end = window(now)
     coverage = []
     for station_id, (name, chid) in STATIONS.items():
-        coverage.append({"stationId": station_id, "station": name, "anime": ("updated" if anime_ok else "cached") if chid is not None else "not_collected", "otherGenres": "selected_official_facts_only", "animeCheckedAt": anime.get("checkedAt") if chid is not None else None, "complete": False})
+        coverage.append({"stationId": station_id, "station": name, "anime": ("updated" if anime_ok else "cached") if chid is not None else "not_collected", "otherGenres": "selected_verified_facts_only", "animeCheckedAt": anime.get("checkedAt") if chid is not None else None, "complete": False})
     public_rows = [{key: row.get(key) for key in ("id", "seriesId", "title", "stationId", "start", "end", "genreIds", "status", "checkedAt", "updatedAt")} for row in rows]
     return {"schemaVersion": 1, "sourceMode": "real", "timeZone": "Asia/Tokyo", "generatedAt": iso(now), "windowStart": iso(start), "windowEnd": iso(end), "updateStatus": "ok" if anime_ok else "partial", "notice": "対象局の全番組を網羅するものではありません。" + ("" if anime_ok else "アニメの更新に失敗し、保存済みの情報を使用しています。"), "genres": [{"id": key, "name": name} for key, name in zip(GENRE_IDS, GENRES)], "stations": [{"id": key, "name": value[0]} for key, value in STATIONS.items()], "coverage": coverage, "programs": public_rows}, rows
 
