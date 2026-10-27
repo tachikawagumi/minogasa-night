@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T16:30:00+09:00",
+  "checkedAt": "2026-10-27T16:43:00+09:00",
   "windowStart": "2026-10-27T00:00:00+09:00",
   "windowEnd": "2026-11-03T00:00:00+09:00",
   "checks": [
@@ -488,6 +488,75 @@
       "status": "not_used_for_publication",
       "conditions": "第3条の再提供、第4条の競合/類似サービス利用等の制限を確認したため、掲載データの供給元として使用しない。以降の調査は別の公開情報から個別確認。",
       "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-chiba-20261027-2100-satozaki",
+      "url": "https://www.chiba-tv.com/timetable/daily?d=2026-10-27",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:43:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "日付付き公式番組表を通常の個別参照で確認。著作権表記を確認し、本文・画像・表全体の編集構成を複製せず、個別の局/日付/番組名を独自整理。継続・大量取得の許諾と解釈しない。",
+      "confirmedFacts": {
+        "id": "official-chiba-20261027-2100-satozaki",
+        "title": "里崎智也のゴルフ直球勝負！",
+        "stationId": "chiba",
+        "start": "2026-10-27T21:00:00+09:00",
+        "end": "2026-10-27T21:30:00+09:00",
+        "genreIds": [
+          "golf"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-chiba-20261027-2330-kanto-baseball",
+      "url": "https://www.chiba-tv.com/timetable/daily?d=2026-10-27",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:43:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "日付付き公式番組表を通常の個別参照で確認。著作権表記を確認し、本文・画像・表全体の編集構成を複製せず、個別の局/日付/番組名を独自整理。継続・大量取得の許諾と解釈しない。",
+      "confirmedFacts": {
+        "id": "official-chiba-20261027-2330-kanto-baseball",
+        "title": "第７９回秋季関東地区高校野球ダイジェスト ＲＯＡＤ ＴＯ センバツ",
+        "stationId": "chiba",
+        "start": "2026-10-27T23:30:00+09:00",
+        "end": null,
+        "genreIds": [
+          "baseball"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase9-official-chiba-20261028-0030-motorzone",
+      "url": "https://www.chiba-tv.com/timetable/daily?d=2026-10-27",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T16:43:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "日付付き公式番組表を通常の個別参照で確認。著作権表記を確認し、本文・画像・表全体の編集構成を複製せず、個別の局/日付/番組名を独自整理。継続・大量取得の許諾と解釈しない。",
+      "confirmedFacts": {
+        "id": "official-chiba-20261028-0030-motorzone",
+        "title": "モーターゾーンＴＶ",
+        "stationId": "chiba",
+        "start": "2026-10-28T00:30:00+09:00",
+        "end": null,
+        "genreIds": [
+          "car"
+        ]
+      },
       "automatedCollection": false
     }
   ]

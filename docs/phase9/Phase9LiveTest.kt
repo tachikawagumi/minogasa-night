@@ -18,7 +18,10 @@ class Phase9LiveTest {
             "verified-nhkbs-20261031-0630-matsuura" to setOf("旅","電車・鉄道"),
             "verified-nhkbs-20261031-0730-naruko" to setOf("旅","温泉"),
             "official-tbs-20261028-1025-hiruobi" to setOf("旅","サッカー"),
-            "verified-nhkbs-20261028-1300-1917" to setOf("映画")
+            "verified-nhkbs-20261028-1300-1917" to setOf("映画"),
+            "official-chiba-20261027-2100-satozaki" to setOf("ゴルフ"),
+            "official-chiba-20261027-2330-kanto-baseball" to setOf("野球"),
+            "official-chiba-20261028-0030-motorzone" to setOf("車")
         )
         expected.forEach { (id,tags) ->
             val p=snapshot.programs.single { it.id==id }
@@ -41,6 +44,6 @@ class Phase9LiveTest {
         assertEquals(OffsetDateTime.parse("2026-11-02T01:13:00+09:00").toInstant().toEpochMilli(),p.start)
         val hon=snapshot.programs.single { it.id=="official-f9558d382a201f8b6603526e" }
         assertEquals("official-series-2b9729b602a554921245711f",hon.seriesId)
-        println("PHASE9_LIVE_OK newSchedules=9 darkside=2 civilDates=true genresAndPeriods=true stableSavedIds=true")
+        println("PHASE9_LIVE_OK newSchedules=12 darkside=2 civilDates=true genresAndPeriods=true stableSavedIds=true")
     }
 }
