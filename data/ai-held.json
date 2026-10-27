@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-27T15:41:24+09:00",
-  "batchId": "phase8-specialist-fact-review-20261027",
+  "checkedAt": "2026-10-27T16:35:44+09:00",
+  "batchId": "phase9-direct-schedule-20261027",
   "records": [
     {
       "candidate": {
@@ -152,20 +152,6 @@
           "challenge"
         ],
         "sourceUrl": "https://www.tbs.co.jp/tv/20261030_C31B.html",
-        "sourcePolicyId": "official_unreviewed"
-      },
-      "reason": "情報源の取得・再配信条件が未確認"
-    },
-    {
-      "candidate": {
-        "id": "official-ce810c015779acc089ba403a",
-        "title": "健康カプセル！ゲンキの時間",
-        "stationId": "tbs",
-        "start": "2026-11-01T07:00:00+09:00",
-        "genreIds": [
-          "health"
-        ],
-        "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
         "sourcePolicyId": "official_unreviewed"
       },
       "reason": "情報源の取得・再配信条件が未確認"

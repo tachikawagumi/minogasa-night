@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-10-27T15:41:52+09:00",
-  "batchId": "phase8-specialist-fact-review-20261027",
-  "target": "current_public_json",
+  "checkedAt": "2026-10-27T16:35:49+09:00",
+  "batchId": "phase9-direct-schedule-20261027",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 28,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 26,
+  "newRegistrations": 9,
   "updates": 1,
-  "alreadyPublished": 16,
-  "held": 18,
+  "alreadyPublished": 19,
+  "held": 15,
   "heldReasonCounts": {
     "outside_window": 4,
-    "terms_unconfirmed": 18,
-    "datetime_unconfirmed": 7,
-    "other": 6,
-    "genre_uncertain": 5,
+    "terms_unconfirmed": 15,
+    "datetime_unconfirmed": 4,
+    "genre_uncertain": 4,
+    "other": 4,
     "station_unconfirmed": 1
   },
   "reasonLabels": {
@@ -29,68 +29,6 @@
   },
   "unpublishedFuture": 0,
   "attention": [
-    {
-      "id": "phase7-darkside-immortality-20261029",
-      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
-      "genreIds": [
-        "ufo"
-      ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed",
-        "terms_unconfirmed",
-        "other"
-      ],
-      "validationReason": null,
-      "missingStage": "held",
-      "classificationLevel": "clear",
-      "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
-      "excluded": false,
-      "sourceUrls": [
-        "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
-        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
-      ],
-      "holdReasons": [
-        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
-      ],
-      "researchDue": false,
-      "omission": false
-    },
-    {
-      "id": "phase7-darkside-hell-20261030",
-      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
-      "genreIds": [
-        "ghost",
-        "ufo"
-      ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed",
-        "terms_unconfirmed",
-        "genre_uncertain",
-        "other"
-      ],
-      "validationReason": null,
-      "missingStage": "held",
-      "classificationLevel": "related",
-      "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
-      "excluded": false,
-      "sourceUrls": [
-        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
-        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
-      ],
-      "holdReasons": [
-        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
-      ],
-      "researchDue": false,
-      "omission": false
-    },
     {
       "id": "phase7-oichi-20261101-1845",
       "title": "おいち不思議がたり 第1話",
@@ -128,13 +66,13 @@
       "genreId": "ghost",
       "name": "心霊・怪談",
       "candidates": 4,
-      "publicPrograms": 1,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 6,
-      "datetimeConfirmed": 1,
-      "held": 3,
+      "datetimeConfirmed": 2,
+      "held": 2,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -142,14 +80,14 @@
     {
       "genreId": "ufo",
       "name": "UFO・都市伝説",
-      "candidates": 3,
-      "publicPrograms": 1,
+      "candidates": 2,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 5,
-      "datetimeConfirmed": 1,
-      "held": 2,
+      "datetimeConfirmed": 2,
+      "held": 0,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -158,7 +96,7 @@
       "genreId": "movie",
       "name": "映画",
       "candidates": 8,
-      "publicPrograms": 4,
+      "publicPrograms": 5,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 1,
@@ -233,7 +171,7 @@
       "genreId": "onsen",
       "name": "温泉",
       "candidates": 2,
-      "publicPrograms": 1,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 1,
@@ -278,16 +216,16 @@
       "genreId": "dance",
       "name": "ダンス",
       "candidates": 0,
-      "publicPrograms": 0,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 3,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": "source_insufficient"
+      "zeroReasonCode": null
     },
     {
       "genreId": "golf",
@@ -308,16 +246,16 @@
       "genreId": "soccer",
       "name": "サッカー",
       "candidates": 0,
-      "publicPrograms": 0,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 3,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": "source_insufficient"
+      "zeroReasonCode": null
     },
     {
       "genreId": "baseball",
@@ -353,22 +291,22 @@
       "genreId": "health",
       "name": "健康",
       "candidates": 1,
-      "publicPrograms": 0,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 3,
-      "datetimeConfirmed": 0,
-      "held": 1,
+      "datetimeConfirmed": 1,
+      "held": 0,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": "source_insufficient"
+      "zeroReasonCode": null
     },
     {
       "genreId": "travel",
       "name": "旅",
       "candidates": 1,
-      "publicPrograms": 2,
+      "publicPrograms": 5,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 1,
@@ -413,16 +351,16 @@
       "genreId": "railway",
       "name": "電車・鉄道",
       "candidates": 0,
-      "publicPrograms": 0,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
+      "zeroExplanation": null,
       "currentWindowSearches": 1,
       "searches": 3,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": "source_insufficient"
+      "zeroReasonCode": null
     }
   ],
   "records": [
@@ -805,18 +743,15 @@
       "genreIds": [
         "health"
       ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "terms_unconfirmed",
-        "datetime_unconfirmed"
-      ],
-      "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "held",
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
       "classificationLevel": "clear",
-      "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.tbs.co.jp/tv/20261101_C34E.html"
@@ -923,27 +858,22 @@
       "genreIds": [
         "ufo"
       ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed",
-        "terms_unconfirmed",
-        "other"
-      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
       "validationReason": null,
-      "missingStage": "held",
+      "missingStage": "published",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.nhk-ondemand.jp/goods/G2026155537SA000/",
-        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
+        "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/",
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28"
       ],
-      "holdReasons": [
-        "提示された10/29の再放送日時を公式予定で照合できない。公式番組ページはrobots拒否のため回避取得しない。配信の作品情報を現在の再放送予定と取り違えない。"
-      ],
+      "holdReasons": [],
       "researchDue": false,
       "omission": false
     },
@@ -951,31 +881,23 @@
       "id": "phase7-darkside-hell-20261030",
       "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
       "genreIds": [
-        "ghost",
-        "ufo"
+        "ghost"
       ],
-      "published": false,
-      "publishedExact": false,
-      "held": true,
-      "reasonCodes": [
-        "datetime_unconfirmed",
-        "terms_unconfirmed",
-        "genre_uncertain",
-        "other"
-      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
       "validationReason": null,
-      "missingStage": "held",
-      "classificationLevel": "related",
+      "missingStage": "published",
+      "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
-      "datetimeConfirmed": false,
+      "datetimeConfirmed": true,
       "excluded": false,
       "sourceUrls": [
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
         "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
       ],
-      "holdReasons": [
-        "第三者番組表では9:00〜10:00を発見したが公式日時・内容は未照合。本文を保存せず候補として保持。"
-      ],
+      "holdReasons": [],
       "researchDue": false,
       "omission": false
     },
@@ -1169,5 +1091,5 @@
   "confirmedOmissions": [],
   "ledgerCandidates": 10,
   "excluded": 1,
-  "unconfirmedDiscoveries": 7
+  "unconfirmedDiscoveries": 4
 }

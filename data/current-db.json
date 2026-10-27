@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:41:24+09:00",
+  "generatedAt": "2026-10-27T16:35:44+09:00",
   "records": [
     {
       "id": "official-4016b69c0dceceb86c2abccb",
@@ -30,8 +30,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7997/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 21:41:27",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -45,17 +45,46 @@
       "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
       "stationId": "bsasahi",
       "start": "2026-10-27T22:00:00+09:00",
-      "end": null,
+      "end": "2026-10-27T22:30:00+09:00",
       "genreIds": [
         "travel"
       ],
-      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
-      "checkedAt": "2026-10-24T02:13:50Z",
-      "updatedAt": "2026-10-24T02:13:50Z",
+      "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": true,
       "origin": "manual_official_facts",
-      "genreBasis": "日時付き公式番組案内。栃木県日光での街歩き。健康効果を推定せず旅だけを付与。"
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は日光の街歩き。既に同じ枠が掲載済みなので追加件数に数えず終了時刻を確認更新。"
+      },
+      "genreBasis": "当該回は日光の街歩き。既に同じ枠が掲載済みなので追加件数に数えず終了時刻を確認更新。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-984830d6db17bf74176cf896",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-984830d6db17bf74176cf896",
+          "seriesId": "official-series-f302b86c5aefd2e4d2eb4a96",
+          "title": "バナナマン日村が歩く！ ウォーキングのひむ太郎",
+          "stationId": "bsasahi",
+          "start": "2026-10-27T22:00:00+09:00",
+          "end": "2026-10-27T22:30:00+09:00",
+          "genreIds": [
+            "travel"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "syobocal-719435",
@@ -68,8 +97,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8045/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-20 01:07:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -88,8 +117,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8039/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 22:43:05",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -108,8 +137,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8046/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-20 01:27:23",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -128,8 +157,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8046/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-20 01:20:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -148,8 +177,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8045/time?Filter=16",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-20 01:23:26",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -168,8 +197,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8051/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-23 00:40:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -188,8 +217,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8017/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 01:49:53",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -208,8 +237,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8022/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 03:35:06",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -228,8 +257,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8034/time?Filter=17",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 21:53:45",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -248,8 +277,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7997/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 16:42:54",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -268,8 +297,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7941/time?Filter=15",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-13 00:07:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -288,8 +317,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8022/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 01:14:39",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -308,8 +337,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8011/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 00:06:33",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -328,8 +357,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8070/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-04 14:37:04",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -348,8 +377,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8034/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 22:19:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -368,14 +397,111 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 00:54:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "721537",
       "revision": "1"
+    },
+    {
+      "id": "official-tbs-20261028-1025-hiruobi",
+      "seriesId": "official-series-hiruobi",
+      "title": "ひるおび",
+      "stationId": "tbs",
+      "start": "2026-10-28T10:25:00+09:00",
+      "end": "2026-10-28T11:55:00+09:00",
+      "genreIds": [
+        "travel",
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。",
+        "soccer": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。"
+      },
+      "genreBasis": "当該日公式週間表の山梨道の駅の旅企画とドーハの悲劇特集を確認。番組一般の分類ではなく、その回の特集による。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261028-1025-hiruobi",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261028-1025-hiruobi",
+          "seriesId": "official-series-hiruobi",
+          "title": "ひるおび",
+          "stationId": "tbs",
+          "start": "2026-10-28T10:25:00+09:00",
+          "end": "2026-10-28T11:55:00+09:00",
+          "genreIds": [
+            "travel",
+            "soccer"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261028-1300-1917",
+      "seriesId": "verified-series-film-1917",
+      "title": "シネマ「１９１７ 命をかけた伝令」",
+      "stationId": "nhk_bs",
+      "start": "2026-10-28T13:00:00+09:00",
+      "end": "2026-10-28T15:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "movie": "NHK BSのシネマ枠で当該映画の日時を確認。戦争映画をホラーに誤分類しない。"
+      },
+      "genreBasis": "NHK BSのシネマ枠で当該映画の日時を確認。戦争映画をホラーに誤分類しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261028-1300-1917",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261028-1300-1917",
+          "seriesId": "verified-series-film-1917",
+          "title": "シネマ「１９１７ 命をかけた伝令」",
+          "stationId": "nhk_bs",
+          "start": "2026-10-28T13:00:00+09:00",
+          "end": "2026-10-28T15:00:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-15bd27175d27a7cbb8b71b6e",
@@ -463,8 +589,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8003/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 23:10:35",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -483,8 +609,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8010/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-23 22:51:42",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -503,8 +629,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8023/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 01:25:47",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -523,8 +649,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8078/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-05 23:57:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -543,8 +669,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8003/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 00:05:51",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -563,8 +689,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8004/time?Filter=17",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 00:08:31",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -583,8 +709,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7939/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 00:35:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -603,8 +729,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8026/time?Filter=15",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-03 02:40:54",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -623,8 +749,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7981/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-08-16 22:20:08",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -643,8 +769,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8019/time?Filter=6",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-22 21:09:02",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -663,8 +789,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8044/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-01 12:55:49",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -683,8 +809,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7996/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-01 23:50:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -703,8 +829,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8047/time?Filter=17",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-21 01:26:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -723,8 +849,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8010/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-23 22:51:42",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -743,8 +869,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7996/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-01 18:11:19",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -763,14 +889,61 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8041/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 20:55:39",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "719308",
       "revision": "1"
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+      "stationId": "nhk_bs",
+      "start": "2026-10-29T00:45:00+09:00",
+      "end": "2026-10-29T01:45:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "ufo": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。"
+      },
+      "genreBasis": "10/28放送日欄の深夜00:45は暦日10/29。八百比丘尼等の不老不死伝承を検証する当該回の内容に基づく都市伝説分類。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-immortality-20261029",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-immortality-20261029",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー 永遠の若さ！不老不死伝説〜八百比丘尼からサンジェルマンまで〜",
+          "stationId": "nhk_bs",
+          "start": "2026-10-29T00:45:00+09:00",
+          "end": "2026-10-29T01:45:00+09:00",
+          "genreIds": [
+            "ufo"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "syobocal-720508",
@@ -783,8 +956,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8057/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 23:25:45",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -803,8 +976,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8078/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-08 00:08:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -823,8 +996,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8056/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 23:25:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -843,8 +1016,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8047/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-21 01:50:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -863,8 +1036,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 00:54:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -924,8 +1097,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 22:07:39",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -965,8 +1138,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8023/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 03:39:08",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -985,8 +1158,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7919/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-28 21:32:40",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1023,8 +1196,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 23:56:04",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1043,8 +1216,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=17",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 00:15:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1063,8 +1236,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7919/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-25 00:12:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1083,8 +1256,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 23:14:47",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1121,8 +1294,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8087/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-15 12:02:35",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1159,14 +1332,61 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 00:54:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "721539",
       "revision": "1"
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "stationId": "nhk_bs",
+      "start": "2026-10-30T09:00:00+09:00",
+      "end": "2026-10-30T10:00:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "ghost": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。"
+      },
+      "genreBasis": "当該回は死後世界と地獄の伝承・恐怖像を扱う。心霊・怪談の死後世界枠に分類。UFOそのものの特集とは判断しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-phase7-darkside-hell-20261030",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "phase7-darkside-hell-20261030",
+          "seriesId": "official-series-darkside",
+          "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+          "stationId": "nhk_bs",
+          "start": "2026-10-30T09:00:00+09:00",
+          "end": "2026-10-30T10:00:00+09:00",
+          "genreIds": [
+            "ghost"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-6f741d1e46596684dcde7071",
@@ -1197,8 +1417,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6236/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-25 17:27:42",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1217,8 +1437,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8043/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-20 03:38:54",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1237,8 +1457,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1275,8 +1495,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8058/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 21:48:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1295,8 +1515,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8037/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 00:11:04",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1315,8 +1535,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7981/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-08-17 00:54:55",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1335,8 +1555,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 20:53:37",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1355,8 +1575,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8051/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-22 22:21:56",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1375,8 +1595,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8040/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 22:43:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1395,8 +1615,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-01 15:15:45",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1415,8 +1635,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-19 01:58:17",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1435,8 +1655,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-19 01:44:47",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1455,8 +1675,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 23:58:31",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1475,8 +1695,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 22:24:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1495,8 +1715,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/350/time?Filter=17",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-29 01:00:16",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1515,8 +1735,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7878/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 02:11:18",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1535,8 +1755,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8001/time?Filter=16",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 00:01:15",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1555,8 +1775,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8007/time?Filter=16",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-03 00:41:14",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1575,14 +1795,114 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/4152/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-27 09:01:23",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "724329",
       "revision": "0"
+    },
+    {
+      "id": "verified-nhkbs-20261031-0630-matsuura",
+      "seriesId": "verified-series-nippon-burari-tetsudotabi",
+      "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+      "stationId": "nhk_bs",
+      "start": "2026-10-31T06:30:00+09:00",
+      "end": "2026-10-31T07:15:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。",
+        "railway": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。"
+      },
+      "genreBasis": "当該回は松浦鉄道に乗って沿線を訪ねる旅。鉄道と旅の双方。食事紹介に漁師が登場するだけで釣りを追加しない。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261031-0630-matsuura",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261031-0630-matsuura",
+          "seriesId": "verified-series-nippon-burari-tetsudotabi",
+          "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+          "stationId": "nhk_bs",
+          "start": "2026-10-31T06:30:00+09:00",
+          "end": "2026-10-31T07:15:00+09:00",
+          "genreIds": [
+            "travel",
+            "railway"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261031-0730-naruko",
+      "seriesId": "verified-series-yuttari-onsen",
+      "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+      "stationId": "nhk_bs",
+      "start": "2026-10-31T07:30:00+09:00",
+      "end": "2026-10-31T08:00:00+09:00",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "travel": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。",
+        "onsen": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。"
+      },
+      "genreBasis": "当該回は鳴子温泉郷の湯治・露天風呂を訪ねる。温泉を実際に紹介する旅。",
+      "officialVerified": false,
+      "providerVerified": true,
+      "factUseReview": {
+        "reviewId": "phase9-verified-nhkbs-20261031-0730-naruko",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261031-0730-naruko",
+          "seriesId": "verified-series-yuttari-onsen",
+          "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+          "stationId": "nhk_bs",
+          "start": "2026-10-31T07:30:00+09:00",
+          "end": "2026-10-31T08:00:00+09:00",
+          "genreIds": [
+            "travel",
+            "onsen"
+          ],
+          "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-31",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "syobocal-722808",
@@ -1595,8 +1915,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6212/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-04 17:59:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1615,8 +1935,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7816/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-08-22 01:11:29",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1635,8 +1955,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8063/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 23:45:26",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1655,8 +1975,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8033/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-15 14:05:35",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1675,8 +1995,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/3732/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-24 22:35:58",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1737,8 +2057,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8074/time?Filter=6",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-02 18:37:50",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1757,8 +2077,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=4",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-03 01:17:25",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1798,8 +2118,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/518/time?Filter=4",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-17 18:40:54",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1818,8 +2138,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8048/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-22 01:26:26",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1859,8 +2179,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 22:08:24",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1879,8 +2199,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 22:44:36",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1899,8 +2219,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 00:30:56",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1919,8 +2239,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8025/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 00:21:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1939,8 +2259,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8026/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-05 15:54:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1959,8 +2279,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7626/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 00:20:37",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1979,8 +2299,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 16:23:41",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1999,8 +2319,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 13:49:56",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2019,8 +2339,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8028/time?Filter=6",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 21:34:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2039,8 +2359,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8049/time?Filter=1",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-22 01:45:22",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2059,8 +2379,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 21:18:24",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2079,8 +2399,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 01:45:33",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2099,8 +2419,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 21:43:23",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2119,8 +2439,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-04 01:30:37",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2139,8 +2459,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8012/time?Filter=4",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-06 01:54:28",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2159,8 +2479,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8028/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 07:08:39",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2179,8 +2499,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7999/time?Filter=6",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 22:16:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2199,8 +2519,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8031/time?Filter=6",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 00:32:14",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2219,14 +2539,35 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=15",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-05 00:36:52",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "710725",
       "revision": "6"
+    },
+    {
+      "id": "official-ce810c015779acc089ba403a",
+      "seriesId": "official-series-3244aed9715be5c50feea624",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "end": "2026-11-01T07:30:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "genreEvidence": {
+        "health": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
     },
     {
       "id": "syobocal-722278",
@@ -2239,8 +2580,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8064/time?Filter=3",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-01 12:57:03",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2259,8 +2600,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7055/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-04 18:00:47",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2279,8 +2620,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8065/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-27 09:07:19",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2299,14 +2640,61 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7782/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-04 02:00:13",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "722646",
       "revision": "0"
+    },
+    {
+      "id": "official-tbs-20261101-1430-kurumi",
+      "seriesId": "official-series-kballet-documentary",
+      "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+      "stationId": "tbs",
+      "start": "2026-11-01T14:30:00+09:00",
+      "end": "2026-11-01T15:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C468.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "dance": "当該回はバレエ作品の踊り・制作の魅力を扱うためダンス。出演者名だけで分類しない。"
+      },
+      "genreBasis": "当該回はバレエ作品の踊り・制作の魅力を扱うためダンス。出演者名だけで分類しない。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261101-1430-kurumi",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261101-1430-kurumi",
+          "seriesId": "official-series-kballet-documentary",
+          "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+          "stationId": "tbs",
+          "start": "2026-11-01T14:30:00+09:00",
+          "end": "2026-11-01T15:00:00+09:00",
+          "genreIds": [
+            "dance"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C468.html",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "syobocal-718252",
@@ -2319,8 +2707,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8029/time?Filter=2",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-14 23:45:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2339,8 +2727,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8011/time?Filter=5",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-06 01:39:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2359,8 +2747,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8054/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-24 20:48:06",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2402,8 +2790,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 22:34:24",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2422,8 +2810,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8018/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 01:58:11",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2442,8 +2830,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8002/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 22:58:49",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2462,8 +2850,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 00:05:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2482,8 +2870,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 21:52:51",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2502,8 +2890,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-04 00:27:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2522,8 +2910,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8027/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-15 00:48:58",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2542,8 +2930,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8024/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-12 03:44:17",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2562,8 +2950,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 00:38:30",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2582,8 +2970,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-27 00:34:50",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2602,8 +2990,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8016/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 01:31:27",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2622,8 +3010,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8032/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 00:30:34",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2642,8 +3030,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8027/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-14 22:15:23",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2662,8 +3050,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8036/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 22:43:52",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2682,8 +3070,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8067/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 00:40:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2702,8 +3090,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7999/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-03 23:57:29",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2722,8 +3110,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8067/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-25 22:28:42",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2742,8 +3130,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8070/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-27 00:35:14",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2762,14 +3150,61 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8057/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-28 00:45:12",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "720334",
       "revision": "1"
+    },
+    {
+      "id": "official-tbs-20261102-0113-kickoffj",
+      "seriesId": "official-series-kickoffj",
+      "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+      "stationId": "tbs",
+      "start": "2026-11-02T01:13:00+09:00",
+      "end": "2026-11-02T01:43:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C370.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "soccer": "公式表の202611020113〜202611020143で暦日確認。11/1深夜の表記を11/1未明と誤読しない。日本サッカー専門番組。"
+      },
+      "genreBasis": "公式表の202611020113〜202611020143で暦日確認。11/1深夜の表記を11/1未明と誤読しない。日本サッカー専門番組。",
+      "officialVerified": true,
+      "providerVerified": false,
+      "factUseReview": {
+        "reviewId": "phase9-official-tbs-20261102-0113-kickoffj",
+        "checkedAt": "2026-10-27T16:30:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tbs-20261102-0113-kickoffj",
+          "seriesId": "official-series-kickoffj",
+          "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+          "stationId": "tbs",
+          "start": "2026-11-02T01:13:00+09:00",
+          "end": "2026-11-02T01:43:00+09:00",
+          "genreIds": [
+            "soccer"
+          ],
+          "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C370.html",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "syobocal-720308",
@@ -2782,8 +3217,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8056/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-28 00:43:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2802,8 +3237,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8036/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-17 00:09:25",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2822,8 +3257,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8018/time?Filter=18",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 03:45:51",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2842,8 +3277,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8060/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-26 12:17:32",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2862,8 +3297,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8015/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-10 01:16:05",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2882,8 +3317,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8030/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-16 00:35:13",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2902,8 +3337,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8053/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-27 00:29:37",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2922,8 +3357,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8030/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-15 23:12:56",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2942,8 +3377,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8053/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-10-26 23:33:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2962,8 +3397,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8042/time?Filter=128",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-19 02:30:30",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2982,8 +3417,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8052/time?Filter=71",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-22 22:28:01",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -3002,8 +3437,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8042/time?Filter=19",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-19 02:01:52",
       "status": "provider_confirmed",
       "publicationApproved": true,

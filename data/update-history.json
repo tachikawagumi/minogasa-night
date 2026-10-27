@@ -556,5 +556,41 @@
       "semanticSha256": "7c60394c4af821c678dbcf30d43c94f2409be99a5d3198dd86a7f393a808b425",
       "programs": 151
     }
+  },
+  {
+    "at": "2026-10-27T16:35:44+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 160,
+    "aiAccepted": 10,
+    "aiHeld": 11,
+    "batchId": "phase9-direct-schedule-20261027",
+    "diff": {
+      "added": [
+        "official-ce810c015779acc089ba403a",
+        "official-tbs-20261028-1025-hiruobi",
+        "official-tbs-20261101-1430-kurumi",
+        "official-tbs-20261102-0113-kickoffj",
+        "phase7-darkside-hell-20261030",
+        "phase7-darkside-immortality-20261029",
+        "verified-nhkbs-20261028-1300-1917",
+        "verified-nhkbs-20261031-0630-matsuura",
+        "verified-nhkbs-20261031-0730-naruko"
+      ],
+      "scheduleChanged": [
+        "official-984830d6db17bf74176cf896"
+      ],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 9,
+      "scheduleChanged": 1,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]

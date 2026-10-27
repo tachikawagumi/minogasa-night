@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T15:41:24+09:00",
+  "checkedAt": "2026-10-27T16:35:44+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-27T15:41:24+09:00",
-      "updatedAt": "2026-10-27T15:41:24+09:00",
+      "checkedAt": "2026-10-27T16:35:44+09:00",
+      "updatedAt": "2026-10-27T16:35:44+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -190,6 +190,27 @@
       "genreEvidence": {
         "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
         "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-ce810c015779acc089ba403a",
+      "seriesId": "official-series-3244aed9715be5c50feea624",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "end": "2026-11-01T07:30:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-27T16:30:00+09:00",
+      "updatedAt": "2026-10-27T16:30:00+09:00",
+      "genreEvidence": {
+        "health": "公式の当該回と週間表で日時を確認。健康課題・改善法を扱う健康情報番組。未発表の具体的テーマを補わない。"
       },
       "status": "official_confirmed",
       "publicationApproved": true,
