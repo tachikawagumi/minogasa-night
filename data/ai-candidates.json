@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "batchId": "ai-20261026-phase7-occult-six",
-  "researchedAt": "2026-10-26T17:40:30+09:00",
-  "windowStart": "2026-10-26T00:00:00+09:00",
-  "windowEnd": "2026-11-02T00:00:00+09:00",
+  "batchId": "phase8-specialist-fact-review-20261027",
+  "researchedAt": "2026-10-27T13:16:00+09:00",
+  "windowStart": "2026-10-27T00:00:00+09:00",
+  "windowEnd": "2026-11-03T00:00:00+09:00",
   "records": [
     {
       "id": "official-81221f862e50feba0f729d41",
@@ -201,18 +201,43 @@
         "onsen"
       ],
       "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
-      "checkedAt": "2026-10-26T12:04:22+09:00",
-      "updatedAt": "2026-10-26T12:04:22+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "genreBasis": "筑紫野を訪ねる当該回の日時と、源泉かけ流しの大浴場を取り上げる公式予告を確認。旅と温泉に分類。",
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "reviewed_independent_facts",
       "officialVerified": true,
       "genreEvidence": {
         "travel": "筑紫野を訪ねる当該回の日時と、源泉かけ流しの大浴場を取り上げる公式予告を確認。旅と温泉に分類。",
         "onsen": "筑紫野を訪ねる当該回の日時と、源泉かけ流しの大浴場を取り上げる公式予告を確認。旅と温泉に分類。"
       },
-      "operation": "upsert"
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-official-5175d86a5b23c2d551acb056",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-5175d86a5b23c2d551acb056",
+          "seriesId": "official-series-678637e17660ff2b470c34a2",
+          "title": "ケンコバのほろ酔いビジホ泊 全国版",
+          "stationId": "bsasahi",
+          "start": "2026-10-29T22:30:00+09:00",
+          "end": "2026-10-29T23:00:00+09:00",
+          "genreIds": [
+            "travel",
+            "onsen"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-95f2d23a6c58e3fcba1e42a3",
@@ -225,17 +250,41 @@
         "car"
       ],
       "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
-      "checkedAt": "2026-10-26T12:04:22+09:00",
-      "updatedAt": "2026-10-26T12:04:22+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "genreBasis": "公式次回予定に日時が明記され、当該回は軽自動車のEVを扱う。",
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "reviewed_independent_facts",
       "officialVerified": true,
       "genreEvidence": {
         "car": "公式次回予定に日時が明記され、当該回は軽自動車のEVを扱う。"
       },
-      "operation": "upsert"
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-official-95f2d23a6c58e3fcba1e42a3",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-95f2d23a6c58e3fcba1e42a3",
+          "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+          "title": "カーグラフィックTV",
+          "stationId": "bsasahi",
+          "start": "2026-10-29T23:00:00+09:00",
+          "end": "2026-10-29T23:30:00+09:00",
+          "genreIds": [
+            "car"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-e70af6e582c0f367c487ed50",
@@ -317,17 +366,41 @@
         "architecture"
       ],
       "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
-      "checkedAt": "2026-10-26T12:04:22+09:00",
-      "updatedAt": "2026-10-26T12:04:22+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "genreBasis": "公式次回予定は赤羽の住宅改修の回。10月24日の過去回と区別した。",
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "reviewed_independent_facts",
       "officialVerified": true,
       "genreEvidence": {
         "architecture": "公式次回予定は赤羽の住宅改修の回。10月24日の過去回と区別した。"
       },
-      "operation": "upsert"
+      "operation": "upsert",
+      "acquisitionMethod": "ai_web_reference",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-official-bab590a4f8e59ce88597843a",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bab590a4f8e59ce88597843a",
+          "seriesId": "official-series-58eeda6e1ef87d058531e872",
+          "title": "辰巳琢郎の家物語　リモデル★きらり",
+          "stationId": "bsasahi",
+          "start": "2026-10-31T12:00:00+09:00",
+          "end": "2026-10-31T12:30:00+09:00",
+          "genreIds": [
+            "architecture"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "id": "official-f9558d382a201f8b6603526e",
@@ -418,14 +491,37 @@
       "genreEvidence": {
         "fishing": "当該回は管理釣り場でのトラウト釣り。公式の個別予定で確認。"
       },
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "reviewed_independent_facts",
       "officialVerified": true,
-      "checkedAt": "2026-10-26T16:29:00+09:00",
-      "updatedAt": "2026-10-26T16:29:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "operation": "upsert",
-      "acquisitionMethod": "ai_web_reference"
+      "acquisitionMethod": "ai_web_reference",
+      "distribution": "terrestrial",
+      "factUseReview": {
+        "reviewId": "phase8-official-tvtokyo-20261031-1730-thefishing",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261031-1730-thefishing",
+          "seriesId": "official-series-thefishing",
+          "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+          "stationId": "tvtokyo",
+          "start": "2026-10-31T17:30:00+09:00",
+          "end": "2026-10-31T18:00:00+09:00",
+          "genreIds": [
+            "fishing"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+          "operation": "upsert"
+        }
+      }
     },
     {
       "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
@@ -441,14 +537,37 @@
       "genreEvidence": {
         "golf": "公式の後編放送日時とゴルフ対決という内容を個別確認。出演者の元の競技で野球分類しない。"
       },
-      "sourcePolicyId": "official_unreviewed",
+      "sourcePolicyId": "reviewed_independent_facts",
       "officialVerified": true,
-      "checkedAt": "2026-10-26T16:29:00+09:00",
-      "updatedAt": "2026-10-26T16:29:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "updatedAt": "2026-10-27T13:16:00+09:00",
       "status": "official_confirmed",
       "publicationApproved": false,
       "operation": "upsert",
-      "acquisitionMethod": "ai_web_reference"
+      "acquisitionMethod": "ai_web_reference",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-official-bsasahi-20261031-1500-itadaki",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsasahi-20261031-1500-itadaki",
+          "seriesId": "official-series-itadakinosakie",
+          "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+          "stationId": "bsasahi",
+          "start": "2026-10-31T15:00:00+09:00",
+          "end": "2026-10-31T15:54:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
+          "operation": "upsert"
+        }
+      }
     }
   ],
   "genreSurvey": [
@@ -573,7 +692,7 @@
       "note": "BSフジの確認できた個別日付は10/25で既に過去。翌週を推定して追加しない。"
     }
   ],
-  "note": "公式照合済み候補を自動判定へ投入。利用条件未確認の情報源を承認済みにしない。",
+  "note": "第8次: 専門サイトは発見に使用。公式の個別事実を独自記録。未確認日時・過去枠・有料枠を公開しない。",
   "research": [
     {
       "genreId": "ghost",
@@ -1031,6 +1150,226 @@
       "tool": "web.search_query",
       "status": "executed",
       "checkedAt": "2026-10-26T17:20:26+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "genre",
+      "query": "site:j.occultic.net 心霊 怪談 テレビ 2026年10月27日 11月2日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "ufo",
+      "route": "genre",
+      "query": "site:nhk.jp ダークサイドミステリー 不老不死 地獄 2026年10月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "movie",
+      "route": "genre",
+      "query": "site:entafukuzou.com 地上波 BS 映画 2026年11月1日 幻魔大戦",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "genre",
+      "query": "site:tbs.co.jp/tv/20261028 大食い 番組内容",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "onsen",
+      "route": "genre",
+      "query": "site:bs-asahi.co.jp 温泉 源泉 2026年10月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "architecture",
+      "route": "genre",
+      "query": "site:bs-asahi.co.jp 住宅 リモデル 2026年10月31日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "car",
+      "route": "genre",
+      "query": "site:bs-asahi.co.jp カーグラフィック 2026年10月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "golf",
+      "route": "genre",
+      "query": "site:alba.co.jp ゴルフ テレビ 2026年10月31日 無料BS",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "soccer",
+      "route": "genre",
+      "query": "site:sports.yahoo.co.jp サッカー テレビ 中継 2026年11月1日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "baseball",
+      "route": "genre",
+      "query": "site:sports.yahoo.co.jp 日本シリーズ テレビ 2026年10月27日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "fishing",
+      "route": "genre",
+      "query": "site:tv-tokyo.co.jp 釣り 番組内容 2026年10月31日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "health",
+      "route": "genre",
+      "query": "site:hicbc.com/tv/genki 2026年11月1日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "travel",
+      "route": "genre",
+      "query": "site:bs-asahi.co.jp 旅 番組内容 2026年10月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "challenge",
+      "route": "genre",
+      "query": "site:tbs.co.jp ドア クエスト 番組内容 2026年10月30日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "anime",
+      "route": "genre",
+      "query": "site:tv-tokyo.co.jp/anime ポケットモンスター 2026年10月30日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre",
+      "query": "ホラー映画 BS 無料 放送 2026年10月27日 11月2日 八つ墓村",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "disney",
+      "route": "genre",
+      "query": "ディズニー 特集 番組内容 2026年10月27日 11月2日 地上波 ヒルナンデス",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre",
+      "query": "USJ アトラクション 番組内容 2026年10月27日 11月2日 テレビ",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "dance",
+      "route": "genre",
+      "query": "site.tbs.co.jp \"ダンス\" \"2026年10月30日\"",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
+    },
+    {
+      "genreId": "railway",
+      "route": "genre",
+      "query": "site.bs-asahi.co.jp \"鉄道\" \"2026年10月29日\"",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "windowStart": "2026-10-27T00:00:00+09:00",
+      "windowEnd": "2026-11-03T00:00:00+09:00",
+      "result": "検索実行済み。検索一致と公式日時確認を区別。候補・保留理由は台帳とsource-checks.json参照。"
     }
   ],
   "discoveries": [
@@ -1259,56 +1598,6 @@
       "origin": "phase7_research"
     },
     {
-      "id": "official-bs12-20261101-1900-genma",
-      "seriesId": "official-bs12-20261101-1900-genma-series",
-      "title": "幻魔大戦",
-      "stationId": "bs12",
-      "claimedStation": "BS12 トゥエルビ",
-      "claimedStart": "2026-11-01T19:00:00+09:00",
-      "claimedEnd": null,
-      "start": "2026-11-01T19:00:00+09:00",
-      "end": null,
-      "genreIds": [
-        "movie",
-        "anime"
-      ],
-      "candidateGenreIds": [
-        "movie",
-        "anime"
-      ],
-      "sourceUrls": [
-        "https://www.atpress.ne.jp/news/2830607",
-        "https://www.twellv.co.jp/program/anime/sunday-animation/"
-      ],
-      "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
-      "discoveredAt": "2026-10-26T17:20:26+09:00",
-      "checkedAt": "2026-10-26T17:20:26+09:00",
-      "lastAttemptAt": "2026-10-26T17:20:26+09:00",
-      "officialVerification": {
-        "title": true,
-        "station": true,
-        "datetime": true,
-        "end": false,
-        "content": true,
-        "sourceUrl": "https://www.atpress.ne.jp/news/2830607"
-      },
-      "classification": {
-        "level": "clear",
-        "basis": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
-      },
-      "decision": "held",
-      "holdReasons": [
-        "BS12自身の配信発表で11/1・19時・作品を確認。局ページは503で取得不能。配信サービスの第11条(7)等と最小事実の公開利用の関係が未確認のため保留し、包括的な再配信許可を仮定しない。"
-      ],
-      "sourcePolicyId": "official_unreviewed",
-      "genreEvidence": {
-        "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
-        "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
-      },
-      "acquisitionMethod": "ai_web_reference",
-      "origin": "phase7_research"
-    },
-    {
       "id": "phase7-onsen-drama-unverified-20261028",
       "seriesId": "phase7-onsen-drama-unverified-20261028-series",
       "title": "ザ・ミステリー『湯けむりドクター 華岡万里子の温泉事件簿３』",
@@ -1389,6 +1678,145 @@
       "genreEvidence": {},
       "acquisitionMethod": "web_search_result",
       "origin": "phase7_incidental_search"
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "seriesId": "official-bs12-20261101-1900-genma-series",
+      "title": "幻魔大戦",
+      "stationId": "bs12",
+      "claimedStation": "BS12 トゥエルビ",
+      "claimedStart": "2026-11-01T19:00:00+09:00",
+      "claimedEnd": null,
+      "start": "2026-11-01T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "candidateGenreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrls": [
+        "https://www.atpress.ne.jp/news/2830607",
+        "https://www.twellv.co.jp/program/anime/sunday-animation/"
+      ],
+      "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+      "discoveredAt": "2026-10-26T17:20:26+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "end": false,
+        "content": true,
+        "sourceUrl": "https://www.atpress.ne.jp/news/2830607"
+      },
+      "classification": {
+        "level": "clear",
+        "basis": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。",
+        "anime": "放送局自身のプレスリリースで劇場アニメ作品として確認。超能力・SFというだけでUFO/心霊には分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "origin": "phase7_research",
+      "distribution": "free_bs",
+      "factUseReview": {
+        "reviewId": "phase8-bs12-issuer-fact",
+        "checkedAt": "2026-10-27T13:16:00+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bs12-20261101-1900-genma",
+          "seriesId": "official-bs12-20261101-1900-genma-series",
+          "title": "幻魔大戦",
+          "stationId": "bs12",
+          "start": "2026-11-01T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie",
+            "anime"
+          ],
+          "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+          "operation": "upsert"
+        }
+      }
+    },
+    {
+      "id": "phase8-psycho-20261031",
+      "seriesId": "phase8-psycho-20261031-series",
+      "title": "サイコ",
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "discoveredAt": "2026-10-27T13:16:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "related",
+        "basis": "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
+      },
+      "decision": "held",
+      "holdReasons": [
+        "映画専門サイトで候補発見。NHK BSP4Kの10/31 21:00という記載は公式未照合。ジャンルも独立した作品情報の確認待ち。現在の局ホワイトリスト外のため公開しない。"
+      ],
+      "origin": "phase8_specialist_discovery",
+      "claimedStation": "NHK BSP4K",
+      "claimedStart": "2026-10-31T21:00:00+09:00",
+      "claimedEnd": "2026-10-31T22:50:00+09:00"
+    },
+    {
+      "id": "phase8-paid-freddys-20261027",
+      "seriesId": "phase8-paid-freddys-20261027-series",
+      "title": "ファイブ・ナイツ・アット・フレディーズ2",
+      "candidateGenreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://www.wowow.co.jp/",
+      "sourceUrls": [
+        "https://www.wowow.co.jp/"
+      ],
+      "discoveredAt": "2026-10-27T13:16:00+09:00",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "lastAttemptAt": "2026-10-27T13:16:00+09:00",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "classification": {
+        "level": "excluded",
+        "basis": "有料チャンネルでの放送候補。無料放送枠を確認していない。"
+      },
+      "decision": "excluded",
+      "holdReasons": [
+        "検索で有料WOWOWの枠を発見。対象の地上波・無料BS枠ではない。別の無料枠まで除外する意味ではない。"
+      ],
+      "origin": "phase8_specialist_discovery",
+      "claimedStation": "WOWOW",
+      "distribution": "paid_bs"
     }
   ]
 }

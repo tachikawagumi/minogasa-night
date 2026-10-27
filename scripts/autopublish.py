@@ -5,6 +5,8 @@ from urllib.parse import urlparse
 from datetime import datetime, timedelta
 from feed import ROOT, JST, GENRE_IDS, STATIONS, Syobocal, read_json, atomic_json, parse_dt, iso, canonical, merge_rows, build_feed, validate_public, window
 
+from source_rules import policy_error, station_error
+
 class PublicationBlocked(ValueError): pass
 
 def host_allowed(url, policy):
@@ -61,9 +63,8 @@ def integrate_candidates(existing, batch, previous_rows, provider, policies, now
             if c["id"] in seen and seen[c["id"]]!=c: raise ValueError("同一IDに矛盾する複数候補")
             seen[c["id"]]=c
             policy=policies.get("sources",{}).get(c["sourcePolicyId"],{})
-            scopes=set(policy.get("permissions",[]))
-            if not policy.get("enabled") or not {"metadata","cache","redistribute","automated_access"} <= scopes:
-                raise ValueError("情報源の取得・再配信条件が未確認")
+            problem=policy_error(c,policy) or station_error(c,STATIONS)
+            if problem: raise ValueError(problem)
             if not host_allowed(c["sourceUrl"],policy): raise ValueError("出典URLが情報源ポリシーと不一致")
             scope=policy.get("factRecordScope")
             if scope:

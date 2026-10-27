@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from urllib.parse import urlparse
 from feed import ROOT,JST,GENRE_IDS,STATIONS,canonical,parse_dt,iso,read_json,atomic_json
 
-FIELDS={"id","seriesId","title","stationId","claimedStation","claimedStart","claimedEnd","start","end","genreIds","candidateGenreIds","sourceUrl","sourceUrls","discoveredAt","checkedAt","lastAttemptAt","officialVerification","classification","decision","holdReasons","sourcePolicyId","genreEvidence","acquisitionMethod","origin"}
+FIELDS={"id","seriesId","title","stationId","claimedStation","claimedStart","claimedEnd","start","end","genreIds","candidateGenreIds","sourceUrl","sourceUrls","discoveredAt","checkedAt","lastAttemptAt","officialVerification","classification","decision","holdReasons","sourcePolicyId","genreEvidence","acquisitionMethod","origin","factUseReview","distribution"}
 LEVELS={"clear","related","excluded"}
 
 def valid_url(url):
@@ -48,7 +48,7 @@ def project(record):
     if record.get("stationId") not in STATIONS or not record.get("genreIds"): return None
     parse_dt(record["start"])
     if v["sourceUrl"] not in record.get("sourceUrls",[]): return None
-    keys=("id","seriesId","title","stationId","start","end","genreIds","checkedAt","sourcePolicyId","genreEvidence","acquisitionMethod")
+    keys=("id","seriesId","title","stationId","start","end","genreIds","checkedAt","sourcePolicyId","genreEvidence","acquisitionMethod","factUseReview","distribution")
     c={k:record.get(k) for k in keys}
     c.update(sourceUrl=v["sourceUrl"],status="official_confirmed",officialVerified=True,updatedAt=record["checkedAt"],publicationApproved=False,operation="upsert")
     return c

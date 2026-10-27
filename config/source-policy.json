@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "sources": {
     "syobocal": {
       "enabled": true,
@@ -108,6 +108,74 @@
         "終了時刻は未確認のためnull。番組本文・画像・出演者・番組表配列を保存・転載しない",
         "番組全体でなく当該回の超常現象検証企画に限り分類",
         "このURL・日時・番組に限定。他回の取得・サイト全体の再配信許諾ではない"
+      ]
+    },
+    "reviewed_independent_facts": {
+      "enabled": true,
+      "mode": "official_facts",
+      "hosts": [
+        "www.bs-asahi.co.jp",
+        "www.tv-tokyo.co.jp",
+        "www.atpress.ne.jp"
+      ],
+      "allowedUrls": [
+        "https://www.bs-asahi.co.jp/business_hotel/",
+        "https://www.bs-asahi.co.jp/cgtv/",
+        "https://www.bs-asahi.co.jp/tatsumi/",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+        "https://www.bs-asahi.co.jp/itadakinosakie/",
+        "https://www.atpress.ne.jp/news/2830607"
+      ],
+      "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
+      "permissions": [],
+      "individualFactReviews": {
+        "phase8-official-5175d86a5b23c2d551acb056": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。"
+        },
+        "phase8-official-95f2d23a6c58e3fcba1e42a3": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。"
+        },
+        "phase8-official-bab590a4f8e59ce88597843a": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。"
+        },
+        "phase8-official-tvtokyo-20261031-1730-thefishing": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。"
+        },
+        "phase8-official-bsasahi-20261031-1500-itadaki": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。"
+        },
+        "phase8-bs12-issuer-fact": {
+          "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+          "termsUrl": "https://www.atpress.ne.jp/term_use",
+          "checkedAt": "2026-10-27T13:16:00+09:00",
+          "outcome": "minimal_facts_only",
+          "rationale": "BS12運営会社が発信した公開リリースの個別事実。第2条の配信サービス/会員定義、第4条の会員ログイン、第11条の会員向け制限を再確認。会員登録・配信サービス・DB提供を利用しない公開読者の独立した最小事実記録に、文章転載や会員データ再利用と同じ包括許諾条件を機械適用しない。放送局発表の日時と作品名のみ独自整理。終了不明はnull、本文・画像・配列は不使用。ポータル全体の取得許諾ではない。"
+        }
+      },
+      "conditions": [
+        "個別公開ページの放送事実を参照し独自に記録。文章・画像・番組表配列・データベースを複製しない。",
+        "この判断は対象URLの個別参照に限る。Actionsの継続スクレイピング・会員サービス利用を許可しない。",
+        "未知の出典は自動許可しない。条件を再確認しポリシー変更を検証する。"
       ]
     }
   }

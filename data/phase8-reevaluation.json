@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-27T13:16:00+09:00",
+  "records": [
+    {
+      "id": "official-5175d86a5b23c2d551acb056",
+      "decision": "eligible",
+      "reason": "公式の個別放送事実と分類を確認。最小事実の独立記録として利用判断を個別記録。"
+    },
+    {
+      "id": "official-95f2d23a6c58e3fcba1e42a3",
+      "decision": "eligible",
+      "reason": "公式の個別放送事実と分類を確認。最小事実の独立記録として利用判断を個別記録。"
+    },
+    {
+      "id": "official-bab590a4f8e59ce88597843a",
+      "decision": "eligible",
+      "reason": "公式の個別放送事実と分類を確認。最小事実の独立記録として利用判断を個別記録。"
+    },
+    {
+      "id": "official-tvtokyo-20261031-1730-thefishing",
+      "decision": "eligible",
+      "reason": "公式の個別放送事実と分類を確認。最小事実の独立記録として利用判断を個別記録。"
+    },
+    {
+      "id": "official-bsasahi-20261031-1500-itadaki",
+      "decision": "eligible",
+      "reason": "公式の個別放送事実と分類を確認。最小事実の独立記録として利用判断を個別記録。"
+    },
+    {
+      "id": "official-bs12-20261101-1900-genma",
+      "decision": "eligible",
+      "reason": "BS12運営会社が発信した公開リリースの個別事実。第2条の配信サービス/会員定義、第4条の会員ログイン、第11条の会員向け制限を再確認。会員登録・配信サービス・DB提供を利用しない公開読者の独立した最小事実記録に、文章転載や会員データ再利用と同じ包括許諾条件を機械適用しない。放送局発表の日時と作品名のみ独自整理。終了不明はnull、本文・画像・配列は不使用。ポータル全体の取得許諾ではない。"
+    },
+    {
+      "id": "phase7-darkside-immortality-20261029",
+      "decision": "held",
+      "reason": "公式の現行放送日時が未確認。権利だけが理由ではない。NHKのアクセス制限を回避しない。"
+    },
+    {
+      "id": "phase7-darkside-hell-20261030",
+      "decision": "held",
+      "reason": "公式の現行放送日時が未確認。権利だけが理由ではない。NHKのアクセス制限を回避しない。"
+    },
+    {
+      "id": "phase7-oichi-20261101-1845",
+      "decision": "held",
+      "reason": "公式の現行放送日時が未確認。権利だけが理由ではない。NHKのアクセス制限を回避しない。"
+    },
+    {
+      "id": "official-662f",
+      "title": "極上ゴルフ場探訪（10/26）",
+      "decision": "excluded",
+      "reason": "公式確認済みの回は過去。翌週へ移動しない。"
+    }
+  ]
+}

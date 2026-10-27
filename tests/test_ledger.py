@@ -70,9 +70,9 @@ class LedgerQualityTest(unittest.TestCase):
     def test_excluded_is_not_an_omission_or_held(self):
         q=self.audit([lead(decision="excluded",classification=dict(level="excluded",basis="wrong genre"))])
         self.assertEqual(1,q["excluded"]);self.assertEqual(0,q["held"]);self.assertFalse(q["confirmedOmissions"])
-    def test_all_genres_have_four_discovery_routes(self):
+    def test_all_genres_have_five_discovery_routes(self):
         p=plan(read_json(ROOT/"config/discovery.json"),NOW)
-        self.assertEqual(80,len(p["queries"]))
+        self.assertEqual(100,len(p["queries"]))
         self.assertEqual(20,len([r for r in p["queries"] if r["route"]=="miss_learning"]))
     def test_search_does_not_prove_absence(self):
         q=self.audit([]);self.assertTrue(all(g["zeroReasonCode"]=="search_insufficient" for g in q["genres"]))

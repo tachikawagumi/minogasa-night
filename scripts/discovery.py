@@ -7,6 +7,8 @@ from collections import Counter
 from datetime import datetime, timedelta
 from feed import ROOT, JST, GENRE_IDS, GENRES, STATIONS, read_json, atomic_json, parse_dt, iso, window, canonical
 
+from source_rules import policy_error, station_error
+
 REASONS = {
  "datetime_unconfirmed":"放送日時が確認できない", "station_unconfirmed":"放送局が確認できない",
  "genre_uncertain":"ジャンル分類が不明", "terms_unconfirmed":"情報源の利用条件が未確認",
@@ -23,7 +25,10 @@ def plan(config, now):
         span = start.strftime("%Y年%m月%d日")+" "+(end-timedelta(days=1)).strftime("%Y年%m月%d日")
         domains = " OR ".join("site:"+x for x in item["officialHosts"])
         for route, terms in (("program_name",item["programs"]),("genre",item["keywords"])):
-            result.append(dict(genreId=g,route=route,query=" OR ".join(terms)+" 放送予定 "+span+" ("+domains+")"))
+            result.append(dict(genreId=g,route=route,query=" OR ".join(terms)+(" 番組内容 予告 放送予定 " if route=="genre" else " 放送予定 ")+span+" ("+domains+")"))
+        sources=[config.get("sourceCatalog",{}).get(s) for s in item.get("sourceIds",[])]
+        sources=[s for s in sources if s and "discovery" in s.get("roles",[])]
+        result.append(dict(genreId=g,route="specialist",urls=[s["url"] for s in sources],query=" OR ".join(item["keywords"])+" 番組内容 予告 放送予定 "+span))
         result.append(dict(genreId=g,route="official_schedule",urls=item["officialScheduleUrls"]))
         result.append(dict(genreId=g,route="miss_learning",features=item.get("learning",{}).get("missFeatures",[]),recheckAfterHours=item.get("learning",{}).get("recheckAfterHours",48)))
     return dict(windowStart=iso(start),windowEnd=iso(end),queries=result,
@@ -35,14 +40,13 @@ def issues(c, policies, now):
         dt=parse_dt(c.get("start")); begin,end=window(now)
         if not now < dt < end: found.append("outside_window")
     except (ValueError,TypeError): found.append("datetime_unconfirmed")
-    if c.get("stationId") not in STATIONS: found.append("station_unconfirmed")
+    if station_error(c,STATIONS): found.append("station_unconfirmed")
     tags=c.get("genreIds",[])
     evidence=c.get("genreEvidence",{})
     if not isinstance(tags,list) or not tags or not set(tags)<=set(GENRE_IDS) or not all(evidence.get(g) for g in tags):
         found.append("genre_uncertain")
     p=policies.get("sources",{}).get(c.get("sourcePolicyId"),{})
-    if not p.get("enabled") or not {"metadata","cache","redistribute","automated_access"}<=set(p.get("permissions",[])):
-        found.append("terms_unconfirmed")
+    if policy_error(c,p): found.append("terms_unconfirmed")
     return found
 
 def matching(c, programs):
@@ -151,6 +155,8 @@ def quality(batch, public, held, update, policies, now, ledger=None):
                 if r.get("genreId")==gid and r.get("status")=="executed" and r.get("tool") and r.get("query") and now-timedelta(hours=96)<=parse_dt(r.get("checkedAt"))<=now+timedelta(minutes=5):
                     logs.append((r.get("route"),r["query"],r["checkedAt"]))
             except (ValueError,TypeError): pass
+        current=[r for r in batch.get("research",[]) if r.get("genreId")==gid and r.get("status")=="executed" and r.get("tool") and r.get("query") and r.get("windowStart")==iso(window(now)[0]) and r.get("windowEnd")==iso(window(now)[1])]
+        g["currentWindowSearches"]=len({(r.get("route"),r.get("query"),r.get("checkedAt")) for r in current})
         g.update(searches=len(set(logs)),datetimeConfirmed=sum(r["datetimeConfirmed"] for r in members),
                  held=sum(r["held"] for r in members),excluded=sum(r["excluded"] for r in members),
                  omissions=sum(r["omission"] for r in members))

@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "note": "通常の受信設備・NHK受信契約と追加の有料チャンネル契約は別。未知の無料局は有料と断定せず追加照合まで保留。",
+  "stations": [
+    {
+      "id": "nhk_g",
+      "name": "NHK総合",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "nhk_e",
+      "name": "NHK Eテレ",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "フジテレビ",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "ntv",
+      "name": "日本テレビ",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "tbs",
+      "name": "TBS",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "tvasahi",
+      "name": "テレビ朝日",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "tvtokyo",
+      "name": "テレビ東京",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "chiba",
+      "name": "チバテレ",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bstvtokyo",
+      "name": "BSテレ東",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bstbs",
+      "name": "BS-TBS",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bsfuji",
+      "name": "BSフジ",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bsasahi",
+      "name": "BS朝日",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "mx",
+      "name": "TOKYO MX",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bsntv",
+      "name": "BS日テレ",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bs11",
+      "name": "BS11イレブン",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "bs12",
+      "name": "BS12トゥエルビ",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "mx2",
+      "name": "TOKYO MX2",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    },
+    {
+      "id": "nhk_bs",
+      "name": "NHK BS",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ]
+    }
+  ],
+  "excludedDistributions": [
+    "paid_cs",
+    "paid_bs",
+    "subscription",
+    "streaming"
+  ]
+}

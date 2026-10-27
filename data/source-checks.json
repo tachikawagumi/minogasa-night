@@ -1,0 +1,248 @@
+{
+  "checkedAt": "2026-10-27T13:16:00+09:00",
+  "windowStart": "2026-10-27T00:00:00+09:00",
+  "windowEnd": "2026-11-03T00:00:00+09:00",
+  "checks": [
+    {
+      "sourceId": "occult",
+      "url": "https://j.occultic.net/category/occultictv/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "access_denied_403",
+      "conditions": "403。制限を回避しない。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "movie",
+      "url": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "discovery_only",
+      "conditions": "個別候補発見のみ。本文・表全体を複製しない。",
+      "confirmedFacts": [
+        "幻魔大戦の候補を発見。放送局発表へ照合。",
+        "サイコの候補は公式未照合。"
+      ],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "golf",
+      "url": "https://www.alba.co.jp/tour/tv-information/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "visible_entries_expired",
+      "conditions": "有料CS・配信が混在。過去日付を移動しない。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "sports",
+      "url": "https://sports.yahoo.co.jp/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "discovery_only",
+      "conditions": "試合開催と放送日時を区別し公式照合。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "railway",
+      "url": "https://cc-www2.myjcom.jp/special/tv/thema/tetsudou/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "unavailable",
+      "conditions": "取得できず。制限を回避しない。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "syobocal",
+      "url": "https://cal.syoboi.jp/",
+      "roles": [
+        "discovery",
+        "broadcast_facts"
+      ],
+      "method": "permitted_api",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "existing_actions_api_unchanged",
+      "conditions": "既存のUser-Agent・直列アクセス・許諾条件を維持。",
+      "confirmedFacts": [],
+      "automatedCollection": true
+    },
+    {
+      "sourceId": "phase8-official-5175d86a5b23c2d551acb056",
+      "url": "https://www.bs-asahi.co.jp/business_hotel/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。",
+      "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "confirmedFacts": {
+        "id": "official-5175d86a5b23c2d551acb056",
+        "title": "ケンコバのほろ酔いビジホ泊 全国版",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T22:30:00+09:00",
+        "end": "2026-10-29T23:00:00+09:00",
+        "genreIds": [
+          "travel",
+          "onsen"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase8-official-95f2d23a6c58e3fcba1e42a3",
+      "url": "https://www.bs-asahi.co.jp/cgtv/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。",
+      "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "confirmedFacts": {
+        "id": "official-95f2d23a6c58e3fcba1e42a3",
+        "title": "カーグラフィックTV",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T23:00:00+09:00",
+        "end": "2026-10-29T23:30:00+09:00",
+        "genreIds": [
+          "car"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase8-official-bab590a4f8e59ce88597843a",
+      "url": "https://www.bs-asahi.co.jp/tatsumi/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。",
+      "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "confirmedFacts": {
+        "id": "official-bab590a4f8e59ce88597843a",
+        "title": "辰巳琢郎の家物語　リモデル★きらり",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T12:00:00+09:00",
+        "end": "2026-10-31T12:30:00+09:00",
+        "genreIds": [
+          "architecture"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase8-official-tvtokyo-20261031-1730-thefishing",
+      "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "confirmedFacts": {
+        "id": "official-tvtokyo-20261031-1730-thefishing",
+        "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T17:30:00+09:00",
+        "end": "2026-10-31T18:00:00+09:00",
+        "genreIds": [
+          "fishing"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase8-official-bsasahi-20261031-1500-itadaki",
+      "url": "https://www.bs-asahi.co.jp/itadakinosakie/",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "一般公開の当該回ページを個別参照。放送番組・本文の著作権注意と個別の放送事実を区別。公開するのは局・開始/確認できた終了・番組名と独自分類だけ。サイト全体・番組表の再配信や継続クローリングを行わない。",
+      "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "confirmedFacts": {
+        "id": "official-bsasahi-20261031-1500-itadaki",
+        "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T15:00:00+09:00",
+        "end": "2026-10-31T15:54:00+09:00",
+        "genreIds": [
+          "golf"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "phase8-bs12-issuer-fact",
+      "url": "https://www.atpress.ne.jp/news/2830607",
+      "roles": [
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "individual_facts_confirmed",
+      "conditions": "BS12運営会社が発信した公開リリースの個別事実。第2条の配信サービス/会員定義、第4条の会員ログイン、第11条の会員向け制限を再確認。会員登録・配信サービス・DB提供を利用しない公開読者の独立した最小事実記録に、文章転載や会員データ再利用と同じ包括許諾条件を機械適用しない。放送局発表の日時と作品名のみ独自整理。終了不明はnull、本文・画像・配列は不使用。ポータル全体の取得許諾ではない。",
+      "termsUrl": "https://www.atpress.ne.jp/term_use",
+      "confirmedFacts": {
+        "id": "official-bs12-20261101-1900-genma",
+        "title": "幻魔大戦",
+        "stationId": "bs12",
+        "start": "2026-11-01T19:00:00+09:00",
+        "end": null,
+        "genreIds": [
+          "movie",
+          "anime"
+        ]
+      },
+      "automatedCollection": false
+    },
+    {
+      "sourceId": "nhk",
+      "url": "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/",
+      "roles": [
+        "broadcast_facts"
+      ],
+      "method": "ai_web_reference",
+      "checkedAt": "2026-10-27T13:16:00+09:00",
+      "status": "robots_denied",
+      "conditions": "公式日時を取得できず。別手段でアクセス制限を回避しない。配信カタログの作品実在と放送日時を区別。",
+      "confirmedFacts": [],
+      "automatedCollection": false
+    }
+  ]
+}

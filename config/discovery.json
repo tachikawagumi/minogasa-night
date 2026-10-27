@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "priorityTitles": [
     "ほんとにあった怖い話",
     "世界の何だコレ!?ミステリー",
@@ -52,7 +52,20 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "occult",
+        "official_www_fujitv_co_jp",
+        "official_www_nhk_jp",
+        "official_www_web_nhk"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "ufo": {
       "programs": [
@@ -91,7 +104,20 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "occult",
+        "official_www_fujitv_co_jp",
+        "official_www_tv_tokyo_co_jp",
+        "official_www_web_nhk"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "movie": {
       "programs": [
@@ -122,7 +148,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "movie",
+        "official_www_ntv_co_jp",
+        "official_www_tv_tokyo_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "horror_movie": {
       "programs": [
@@ -150,7 +188,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "movie",
+        "official_www_tv_tokyo_co_jp",
+        "official_www_bsfuji_tv"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "disney": {
       "programs": [
@@ -181,7 +231,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_ntv_co_jp",
+        "official_www_tbs_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "usj": {
       "programs": [
@@ -209,7 +270,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tbs_co_jp",
+        "official_www_ntv_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "big_eating": {
       "programs": [
@@ -237,7 +309,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tv_tokyo_co_jp",
+        "official_www_tbs_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "onsen": {
       "programs": [
@@ -266,7 +349,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_bs_asahi_co_jp",
+        "official_www_tv_asahi_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "architecture": {
       "programs": [
@@ -297,7 +391,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tv_asahi_co_jp",
+        "official_www_bs_asahi_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "car": {
       "programs": [
@@ -330,7 +435,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_bsfuji_tv",
+        "official_www_bs_asahi_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "dance": {
       "programs": [
@@ -360,7 +476,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tbs_co_jp",
+        "official_www_tv_tokyo_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "golf": {
       "programs": [
@@ -391,7 +518,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "golf",
+        "official_www_bs_asahi_co_jp",
+        "official_www_ntv_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "soccer": {
       "programs": [
@@ -420,7 +559,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "sports",
+        "official_www_tbs_co_jp",
+        "official_www_tv_tokyo_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "baseball": {
       "programs": [
@@ -450,7 +601,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "sports",
+        "official_www_tbs_co_jp",
+        "official_www_ntv_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "fishing": {
       "programs": [
@@ -485,7 +648,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tv_tokyo_co_jp",
+        "official_www_bsfuji_tv"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "health": {
       "programs": [
@@ -517,7 +691,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tbs_co_jp",
+        "official_www_nhk_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "travel": {
       "programs": [
@@ -551,7 +736,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_nhk_jp",
+        "official_www_tv_tokyo_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "challenge": {
       "programs": [
@@ -586,7 +782,18 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "official_www_tbs_co_jp",
+        "official_www_fujitv_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "anime": {
       "programs": [
@@ -615,7 +822,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "syobocal",
+        "official_www_tv_tokyo_co_jp",
+        "official_www_tbs_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     },
     "railway": {
       "programs": [
@@ -648,7 +867,19 @@
         ],
         "recheckAfterHours": 48,
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
-      }
+      },
+      "sourceIds": [
+        "railway",
+        "official_www_bsfuji_tv",
+        "official_www_bs_asahi_co_jp"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ]
     }
   },
   "classification": {
@@ -678,5 +909,161 @@
         "phase7-darkside-hell-20261030"
       ]
     }
-  ]
+  ],
+  "sourceCatalog": {
+    "occult": {
+      "url": "https://j.occultic.net/category/occultictv/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "403。制限を回避しない。"
+    },
+    "movie": {
+      "url": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別候補発見のみ。本文・表全体を複製しない。"
+    },
+    "golf": {
+      "url": "https://www.alba.co.jp/tour/tv-information/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "有料CS・配信が混在。過去日付を移動しない。"
+    },
+    "sports": {
+      "url": "https://sports.yahoo.co.jp/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "試合開催と放送日時を区別し公式照合。"
+    },
+    "railway": {
+      "url": "https://cc-www2.myjcom.jp/special/tv/thema/tetsudou/",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "取得できず。制限を回避しない。"
+    },
+    "syobocal": {
+      "url": "https://cal.syoboi.jp/",
+      "roles": [
+        "discovery",
+        "broadcast_facts"
+      ],
+      "method": "permitted_api",
+      "automatedCollection": true,
+      "conditions": "既存のUser-Agent・直列アクセス・許諾条件を維持。"
+    },
+    "official_www_fujitv_co_jp": {
+      "url": "https://www.fujitv.co.jp/timetable/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_nhk_jp": {
+      "url": "https://www.nhk.jp/timetable/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_web_nhk": {
+      "url": "https://www.web.nhk/tv/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_tv_tokyo_co_jp": {
+      "url": "https://www.tv-tokyo.co.jp/timetable/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_ntv_co_jp": {
+      "url": "https://www.ntv.co.jp/program/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_bsfuji_tv": {
+      "url": "https://www.bsfuji.tv/top/timetable/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_tbs_co_jp": {
+      "url": "https://www.tbs.co.jp/tv/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_bs_asahi_co_jp": {
+      "url": "https://www.bs-asahi.co.jp/timetable/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "official_www_tv_asahi_co_jp": {
+      "url": "https://www.tv-asahi.co.jp/bangumi/",
+      "roles": [
+        "discovery",
+        "broadcast_facts",
+        "genre_classification"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    }
+  }
 }
