@@ -635,5 +635,33 @@
       "semanticSha256": "d3dd2e680907cbb6d5a6647f66151095aba3532d2900c9d5aa95cb474f33efc9",
       "programs": 160
     }
+  },
+  {
+    "at": "2026-10-27T16:51:53+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 163,
+    "aiAccepted": 10,
+    "aiHeld": 11,
+    "batchId": "phase9-direct-schedule-20261027",
+    "diff": {
+      "added": [
+        "official-chiba-20261027-2100-satozaki",
+        "official-chiba-20261027-2330-kanto-baseball",
+        "official-chiba-20261028-0030-motorzone"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 3,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
