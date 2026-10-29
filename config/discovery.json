@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "priorityTitles": [
     "ほんとにあった怖い話",
     "世界の何だコレ!?ミステリー",
@@ -8,7 +8,10 @@
     "ブラタモリ",
     "巨大マグロ戦争",
     "おいち不思議がたり",
-    "幻魔大戦"
+    "幻魔大戦",
+    "ワールド・トラックロード",
+    "週刊バイクTV",
+    "おぎやはぎの愛車遍歴"
   ],
   "note": "発見用。検索結果や番組名だけで分類・公開しない。各放送回を検証する。officialScheduleUrlsは調査開始点であり、自動取得・再配信許可を示さない。",
   "genres": {
@@ -65,6 +68,33 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "ghost",
+          "label": "心霊",
+          "keywords": [
+            "心霊",
+            "心霊体験",
+            "心霊特番"
+          ]
+        },
+        {
+          "id": "kaidan",
+          "label": "怪談",
+          "keywords": [
+            "怪談",
+            "恐怖体験"
+          ]
+        },
+        {
+          "id": "phenomena",
+          "label": "怪奇現象",
+          "keywords": [
+            "怪奇現象",
+            "怪異"
+          ]
+        }
       ]
     },
     "ufo": {
@@ -117,6 +147,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "ufo",
+          "label": "UFO",
+          "keywords": [
+            "UFO",
+            "宇宙人"
+          ]
+        },
+        {
+          "id": "legend",
+          "label": "都市伝説",
+          "keywords": [
+            "都市伝説",
+            "UMA"
+          ]
+        },
+        {
+          "id": "mystery",
+          "label": "未解決ミステリー",
+          "keywords": [
+            "未解決ミステリー",
+            "超常現象"
+          ]
+        }
       ]
     },
     "movie": {
@@ -160,6 +216,41 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "japanese",
+          "label": "邦画",
+          "keywords": [
+            "邦画",
+            "日本映画"
+          ]
+        },
+        {
+          "id": "foreign",
+          "label": "洋画",
+          "keywords": [
+            "洋画",
+            "外国映画"
+          ]
+        },
+        {
+          "id": "animated",
+          "label": "アニメ映画",
+          "keywords": [
+            "アニメ映画",
+            "劇場版アニメ"
+          ]
+        },
+        {
+          "id": "slots",
+          "label": "午後のロードショー",
+          "keywords": [
+            "午後のロードショー",
+            "BSシネマ",
+            "映画放送枠"
+          ]
+        }
       ]
     },
     "horror_movie": {
@@ -200,6 +291,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "horror",
+          "label": "ホラー映画",
+          "keywords": [
+            "ホラー映画",
+            "恐怖映画"
+          ]
+        },
+        {
+          "id": "occult",
+          "label": "オカルト映画",
+          "keywords": [
+            "オカルト映画",
+            "怪奇映画"
+          ]
+        },
+        {
+          "id": "classic",
+          "label": "古典ホラー",
+          "keywords": [
+            "古典ホラー",
+            "怪獣ホラー"
+          ]
+        }
       ]
     },
     "disney": {
@@ -242,6 +359,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "parks",
+          "label": "ディズニーパーク",
+          "keywords": [
+            "ディズニーパーク",
+            "東京ディズニーリゾート"
+          ]
+        },
+        {
+          "id": "works",
+          "label": "ディズニー作品",
+          "keywords": [
+            "ディズニー作品",
+            "ピクサー"
+          ]
+        },
+        {
+          "id": "stay_food",
+          "label": "ディズニーホテル",
+          "keywords": [
+            "ディズニーホテル",
+            "パーク食べ歩き"
+          ]
+        }
       ]
     },
     "usj": {
@@ -281,6 +424,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "parks",
+          "label": "USJ特集",
+          "keywords": [
+            "USJ特集",
+            "ユニバーサルスタジオジャパン"
+          ]
+        },
+        {
+          "id": "attractions",
+          "label": "アトラクション",
+          "keywords": [
+            "アトラクション",
+            "パーク紹介"
+          ]
+        },
+        {
+          "id": "food",
+          "label": "USJグルメ",
+          "keywords": [
+            "USJグルメ",
+            "パーク食べ歩き"
+          ]
+        }
       ]
     },
     "big_eating": {
@@ -320,6 +489,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "eating",
+          "label": "大食い",
+          "keywords": [
+            "大食い",
+            "爆食"
+          ]
+        },
+        {
+          "id": "large",
+          "label": "デカ盛り",
+          "keywords": [
+            "デカ盛り",
+            "メガ盛り"
+          ]
+        },
+        {
+          "id": "contest",
+          "label": "フードファイト",
+          "keywords": [
+            "フードファイト",
+            "完食チャレンジ"
+          ]
+        }
       ]
     },
     "onsen": {
@@ -360,6 +555,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "hidden",
+          "label": "秘湯",
+          "keywords": [
+            "秘湯",
+            "露天風呂"
+          ]
+        },
+        {
+          "id": "lodging",
+          "label": "温泉旅館",
+          "keywords": [
+            "温泉旅館",
+            "温泉宿"
+          ]
+        },
+        {
+          "id": "trip",
+          "label": "温泉旅",
+          "keywords": [
+            "温泉旅",
+            "湯めぐり"
+          ]
+        }
       ]
     },
     "architecture": {
@@ -402,12 +623,43 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "homes",
+          "label": "住宅",
+          "keywords": [
+            "住宅",
+            "豪邸"
+          ]
+        },
+        {
+          "id": "design",
+          "label": "建築",
+          "keywords": [
+            "建築",
+            "名建築"
+          ]
+        },
+        {
+          "id": "renovation",
+          "label": "リノベーション",
+          "keywords": [
+            "リノベーション",
+            "リフォーム",
+            "建築修復"
+          ]
+        }
       ]
     },
     "car": {
       "programs": [
+        "ワールド・トラックロード ～俺の助手席に乗らないか～",
+        "カーグラフィックTV",
+        "おぎやはぎの愛車遍歴",
         "所さんの世田谷ベース",
-        "カーグラフィックTV"
+        "クルマでいこう！",
+        "週刊バイクTV"
       ],
       "keywords": [
         "カーグラフィックTV",
@@ -416,15 +668,41 @@
         "旧車",
         "カスタムカー",
         "試乗",
-        "EV"
+        "EV",
+        "新車",
+        "自動車レビュー",
+        "名車",
+        "レストア",
+        "スーパーカー",
+        "高級車",
+        "トラック",
+        "大型車",
+        "長距離ドライバー",
+        "バス",
+        "特殊車両",
+        "重機",
+        "バイク",
+        "オートバイ",
+        "ツーリング",
+        "モータースポーツ",
+        "レース",
+        "車両が主役の旅",
+        "ロードトリップ"
       ],
       "officialHosts": [
         "www.bsfuji.tv",
-        "www.bs-asahi.co.jp"
+        "www.bs-asahi.co.jp",
+        "www.nhk.jp",
+        "www.web.nhk",
+        "www.bs4.jp",
+        "www.chiba-tv.com"
       ],
       "officialScheduleUrls": [
         "https://www.bsfuji.tv/top/timetable/",
-        "https://www.bs-asahi.co.jp/timetable/"
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.nhk.jp/timetable/",
+        "https://www.chiba-tv.com/program/detail/1010",
+        "https://www.bs4.jp/aisya_henreki/"
       ],
       "learning": {
         "missFeatures": [
@@ -438,7 +716,9 @@
       },
       "sourceIds": [
         "official_www_bsfuji_tv",
-        "official_www_bs_asahi_co_jp"
+        "official_www_bs_asahi_co_jp",
+        "official_www_nhk_jp",
+        "official_www_web_nhk"
       ],
       "searchMethods": [
         "program_title",
@@ -446,6 +726,77 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "new",
+          "label": "新車",
+          "keywords": [
+            "新車",
+            "試乗",
+            "自動車レビュー"
+          ]
+        },
+        {
+          "id": "classic",
+          "label": "旧車",
+          "keywords": [
+            "旧車",
+            "名車",
+            "レストア"
+          ]
+        },
+        {
+          "id": "luxury",
+          "label": "スーパーカー",
+          "keywords": [
+            "スーパーカー",
+            "高級車"
+          ]
+        },
+        {
+          "id": "trucks",
+          "label": "トラック",
+          "keywords": [
+            "トラック",
+            "大型車",
+            "長距離ドライバー"
+          ]
+        },
+        {
+          "id": "special",
+          "label": "バス",
+          "keywords": [
+            "バス",
+            "特殊車両",
+            "重機"
+          ]
+        },
+        {
+          "id": "motorcycles",
+          "label": "バイク",
+          "keywords": [
+            "バイク",
+            "オートバイ",
+            "ツーリング"
+          ]
+        },
+        {
+          "id": "racing",
+          "label": "モータースポーツ",
+          "keywords": [
+            "モータースポーツ",
+            "レース"
+          ]
+        },
+        {
+          "id": "roadtrip",
+          "label": "車両が主役の旅",
+          "keywords": [
+            "車両が主役の旅",
+            "ロードトリップ"
+          ]
+        }
       ]
     },
     "dance": {
@@ -487,6 +838,31 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "dance",
+          "label": "ダンス",
+          "keywords": [
+            "ダンス",
+            "パフォーマンス"
+          ]
+        },
+        {
+          "id": "ballet",
+          "label": "バレエ",
+          "keywords": [
+            "バレエ"
+          ]
+        },
+        {
+          "id": "competition",
+          "label": "ダンス大会",
+          "keywords": [
+            "ダンス大会",
+            "ダンスバトル"
+          ]
+        }
       ]
     },
     "golf": {
@@ -530,6 +906,33 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "tournaments",
+          "label": "ゴルフ大会",
+          "keywords": [
+            "ゴルフ大会",
+            "プロゴルフ",
+            "無料中継"
+          ]
+        },
+        {
+          "id": "lessons",
+          "label": "ゴルフレッスン",
+          "keywords": [
+            "ゴルフレッスン",
+            "技術解説"
+          ]
+        },
+        {
+          "id": "trips",
+          "label": "ゴルフ旅",
+          "keywords": [
+            "ゴルフ旅",
+            "ゴルフ場探訪"
+          ]
+        }
       ]
     },
     "soccer": {
@@ -571,6 +974,32 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "matches",
+          "label": "サッカー中継",
+          "keywords": [
+            "サッカー中継",
+            "国内リーグ",
+            "海外リーグ"
+          ]
+        },
+        {
+          "id": "national",
+          "label": "サッカー代表戦",
+          "keywords": [
+            "サッカー代表戦"
+          ]
+        },
+        {
+          "id": "features",
+          "label": "サッカー情報",
+          "keywords": [
+            "サッカー情報",
+            "選手特集"
+          ]
+        }
       ]
     },
     "baseball": {
@@ -613,6 +1042,39 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "professional",
+          "label": "プロ野球",
+          "keywords": [
+            "プロ野球",
+            "日本シリーズ"
+          ]
+        },
+        {
+          "id": "school",
+          "label": "高校野球",
+          "keywords": [
+            "高校野球"
+          ]
+        },
+        {
+          "id": "mlb",
+          "label": "MLB",
+          "keywords": [
+            "MLB",
+            "大リーグ"
+          ]
+        },
+        {
+          "id": "features",
+          "label": "野球特集",
+          "keywords": [
+            "野球特集",
+            "野球情報"
+          ]
+        }
       ]
     },
     "fishing": {
@@ -659,6 +1121,42 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "sea",
+          "label": "海釣り",
+          "keywords": [
+            "海釣り",
+            "沖釣り"
+          ]
+        },
+        {
+          "id": "river",
+          "label": "川釣り",
+          "keywords": [
+            "川釣り",
+            "鮎",
+            "渓流"
+          ]
+        },
+        {
+          "id": "tuna",
+          "label": "マグロ",
+          "keywords": [
+            "マグロ",
+            "大間",
+            "漁師密着"
+          ]
+        },
+        {
+          "id": "travel",
+          "label": "釣り紀行",
+          "keywords": [
+            "釣り紀行",
+            "釣り旅"
+          ]
+        }
       ]
     },
     "health": {
@@ -702,6 +1200,40 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "information",
+          "label": "健康情報",
+          "keywords": [
+            "健康情報",
+            "生活改善"
+          ]
+        },
+        {
+          "id": "exercise",
+          "label": "運動",
+          "keywords": [
+            "運動",
+            "身体"
+          ]
+        },
+        {
+          "id": "prevention",
+          "label": "病気予防",
+          "keywords": [
+            "病気予防",
+            "予防医学"
+          ]
+        },
+        {
+          "id": "medicine",
+          "label": "医療特集",
+          "keywords": [
+            "医療特集",
+            "治療情報"
+          ]
+        }
       ]
     },
     "travel": {
@@ -747,6 +1279,41 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "domestic",
+          "label": "国内旅行",
+          "keywords": [
+            "国内旅行",
+            "街歩き",
+            "食べ歩き"
+          ]
+        },
+        {
+          "id": "overseas",
+          "label": "海外旅行",
+          "keywords": [
+            "海外旅行",
+            "海外紀行"
+          ]
+        },
+        {
+          "id": "rail",
+          "label": "鉄道旅",
+          "keywords": [
+            "鉄道旅"
+          ]
+        },
+        {
+          "id": "road",
+          "label": "ロードトリップ",
+          "keywords": [
+            "ロードトリップ",
+            "車旅",
+            "バイク旅"
+          ]
+        }
       ]
     },
     "challenge": {
@@ -793,6 +1360,33 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "athletic",
+          "label": "SASUKE",
+          "keywords": [
+            "SASUKE",
+            "運動チャレンジ"
+          ]
+        },
+        {
+          "id": "escape",
+          "label": "逃走中",
+          "keywords": [
+            "逃走中",
+            "戦闘中"
+          ]
+        },
+        {
+          "id": "games",
+          "label": "ゲーム企画",
+          "keywords": [
+            "ゲーム企画",
+            "対決",
+            "挑戦番組"
+          ]
+        }
       ]
     },
     "anime": {
@@ -834,6 +1428,31 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "tv",
+          "label": "TVアニメ",
+          "keywords": [
+            "TVアニメ",
+            "新作アニメ"
+          ]
+        },
+        {
+          "id": "special",
+          "label": "アニメ特番",
+          "keywords": [
+            "アニメ特番"
+          ]
+        },
+        {
+          "id": "film",
+          "label": "劇場版アニメ",
+          "keywords": [
+            "劇場版アニメ",
+            "アニメ映画"
+          ]
+        }
       ]
     },
     "railway": {
@@ -879,6 +1498,40 @@
         "station_schedule",
         "specialist_discovery",
         "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "travel",
+          "label": "鉄道旅",
+          "keywords": [
+            "鉄道旅",
+            "ローカル線"
+          ]
+        },
+        {
+          "id": "vehicles",
+          "label": "鉄道車両",
+          "keywords": [
+            "鉄道車両",
+            "運転席"
+          ]
+        },
+        {
+          "id": "lines",
+          "label": "路線",
+          "keywords": [
+            "路線",
+            "廃線"
+          ]
+        },
+        {
+          "id": "technology",
+          "label": "鉄道技術",
+          "keywords": [
+            "鉄道技術",
+            "鉄道施設"
+          ]
+        }
       ]
     }
   },
@@ -898,6 +1551,21 @@
     "anime": {
       "include": "アニメーション作品のテレビ放送。劇場版は映画も付与可能",
       "exclude": "実写SF・超能力ドラマ"
+    },
+    "car": {
+      "vehicleTypes": [
+        "automobile",
+        "motorcycle",
+        "truck",
+        "bus",
+        "special_vehicle",
+        "heavy_machinery",
+        "motorsport"
+      ],
+      "requiredRole": "central",
+      "exclude": "交通手段として映るだけの車両。回の紹介・運転・構造・整備・車両文化の根拠が必要。",
+      "travelAllowed": true,
+      "titleKeywordAlone": false
     }
   },
   "learningHistory": [

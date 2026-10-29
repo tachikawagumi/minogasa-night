@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "description": "Work実検索によるA+B発見。ActionsにAI検索や新しいクローラーを追加しない。",
+  "A": {
+    "enabled": true,
+    "subcategories": true,
+    "regularReference": "config/regular-programs.json"
+  },
+  "B": {
+    "enabled": true,
+    "mode": "individual_reference",
+    "bulkFetch": false,
+    "maxStationDateQueries": 8,
+    "queryHosts": [
+      "www.tv-tokyo.co.jp",
+      "www.bs-asahi.co.jp",
+      "www.bs4.jp",
+      "www.tbs.co.jp"
+    ],
+    "sourcePolicyId": "reviewed_independent_facts",
+    "note": "個別事実参照のみ。上限は負荷制御で完了目標ではない。出典条件未確認・制限回避・表全体取得は不可。"
+  },
+  "classification": {
+    "keywordsAreDiscoveryOnly": true
+  },
+  "timeZone": "Asia/Tokyo"
+}

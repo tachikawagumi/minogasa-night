@@ -31,7 +31,9 @@ def plan(config, now):
         result.append(dict(genreId=g,route="specialist",urls=[s["url"] for s in sources],query=" OR ".join(item["keywords"])+" 番組内容 予告 放送予定 "+span))
         result.append(dict(genreId=g,route="official_schedule",urls=item["officialScheduleUrls"]))
         result.append(dict(genreId=g,route="miss_learning",features=item.get("learning",{}).get("missFeatures",[]),recheckAfterHours=item.get("learning",{}).get("recheckAfterHours",48)))
-    return dict(windowStart=iso(start),windowEnd=iso(end),queries=result,
+    from hybrid import build_plan
+    hybrid=build_plan(config,read_json(ROOT/"config/collection.json",{"B":{"enabled":False}}),now)
+    return dict(windowStart=iso(start),windowEnd=iso(end),queries=result,hybrid=hybrid,
                 execution="AI connected web search only; GitHub Actions does not execute web search")
 
 def issues(c, policies, now):

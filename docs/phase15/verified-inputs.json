@@ -1,0 +1,716 @@
+{
+  "checkedAt": "2026-10-29T20:23:49+09:00",
+  "inputs": [
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bsasahi-20261102-2100-kyototabi",
+        "seriesId": "official-series-kyototabi",
+        "title": "あなたの知らない京都旅 名画から名刹まで！都の秘蔵めぐり",
+        "stationId": "bsasahi",
+        "start": "2026-11-02T21:00:00+09:00",
+        "end": "2026-11-02T21:54:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+        "sourceUrls": [
+          "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回の地域巡訪を確認。銭湯名の出現だけでは温泉にしない。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "travel": "当該回の地域巡訪を確認。銭湯名の出現だけでは温泉にしない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bsasahi-20261102-2100-kyototabi",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bsasahi-20261102-2100-kyototabi",
+            "seriesId": "official-series-kyototabi",
+            "title": "あなたの知らない京都旅 名画から名刹まで！都の秘蔵めぐり",
+            "stationId": "bsasahi",
+            "start": "2026-11-02T21:00:00+09:00",
+            "end": "2026-11-02T21:54:00+09:00",
+            "genreIds": [
+              "travel"
+            ],
+            "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261031-1830-degawacharging",
+        "seriesId": "official-series-degawacharging",
+        "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T18:30:00+09:00",
+        "end": "2026-10-31T20:55:00+09:00",
+        "genreIds": [
+          "car",
+          "travel"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。",
+          "vehicleEvidence": {
+            "vehicleType": "motorcycle",
+            "role": "central",
+            "basis": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。"
+          }
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "car": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。",
+          "travel": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-tvtokyo-20261031-1830-degawacharging",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261031-1830-degawacharging",
+            "seriesId": "official-series-degawacharging",
+            "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+            "stationId": "tvtokyo",
+            "start": "2026-10-31T18:30:00+09:00",
+            "end": "2026-10-31T20:55:00+09:00",
+            "genreIds": [
+              "car",
+              "travel"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bstvtokyo-20261101-1430-airwalk-special",
+        "seriesId": "official-bstvtokyo-20261101-1430-airwalk-special",
+        "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T14:30:00+09:00",
+        "end": "2026-11-01T16:25:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回の河川沿いの景観・地域の見所を確認。駅名が出るだけでは鉄道にしない。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "travel": "当該回の河川沿いの景観・地域の見所を確認。駅名が出るだけでは鉄道にしない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bstvtokyo-20261101-1430-airwalk-special",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bstvtokyo-20261101-1430-airwalk-special",
+            "seriesId": "official-bstvtokyo-20261101-1430-airwalk-special",
+            "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+            "stationId": "bstvtokyo",
+            "start": "2026-11-01T14:30:00+09:00",
+            "end": "2026-11-01T16:25:00+09:00",
+            "genreIds": [
+              "travel"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bstvtokyo-20261101-2230-gaia",
+        "seriesId": "official-series-gaia",
+        "title": "ガイアの夜明け【世界遺産、その先に…】",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T22:30:00+09:00",
+        "end": "2026-11-01T23:25:00+09:00",
+        "genreIds": [
+          "architecture"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回で建築物の劣化保全と伝統木造建築の修復技術を扱うことを確認。番組名からではなく回の内容で建築分類。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "architecture": "当該回で建築物の劣化保全と伝統木造建築の修復技術を扱うことを確認。番組名からではなく回の内容で建築分類。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bstvtokyo-20261101-2230-gaia",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bstvtokyo-20261101-2230-gaia",
+            "seriesId": "official-series-gaia",
+            "title": "ガイアの夜明け【世界遺産、その先に…】",
+            "stationId": "bstvtokyo",
+            "start": "2026-11-01T22:30:00+09:00",
+            "end": "2026-11-01T23:25:00+09:00",
+            "genreIds": [
+              "architecture"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bsntv-20261031-1700-yumetyoko",
+        "seriesId": "official-series-yumetyoko",
+        "title": "夢釣行～一魚一会の旅～",
+        "stationId": "bsntv",
+        "start": "2026-10-31T17:00:00+09:00",
+        "end": "2026-10-31T17:30:00+09:00",
+        "genreIds": [
+          "fishing"
+        ],
+        "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+        "sourceUrls": [
+          "https://www.bs4.jp/yumetyoko/"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式の次回10/31と同ページの放送時刻を照合し、当該回の鮎の友釣りを確認。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.bs4.jp/yumetyoko/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "fishing": "公式の次回10/31と同ページの放送時刻を照合し、当該回の鮎の友釣りを確認。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bsntv-20261031-1700-yumetyoko",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bsntv-20261031-1700-yumetyoko",
+            "seriesId": "official-series-yumetyoko",
+            "title": "夢釣行～一魚一会の旅～",
+            "stationId": "bsntv",
+            "start": "2026-10-31T17:00:00+09:00",
+            "end": "2026-10-31T17:30:00+09:00",
+            "genreIds": [
+              "fishing"
+            ],
+            "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bsntv-20261031-1800-italy",
+        "seriesId": "official-series-italy",
+        "title": "小さな村の物語 イタリア",
+        "stationId": "bsntv",
+        "start": "2026-10-31T18:00:00+09:00",
+        "end": "2026-10-31T18:54:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.bs4.jp/italy/",
+        "sourceUrls": [
+          "https://www.bs4.jp/italy/"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "現行次回10/31・放送時間と、イタリアの村の風土を扱う回を照合。日曜アンコール枠は生成しない。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.bs4.jp/italy/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "travel": "現行次回10/31・放送時間と、イタリアの村の風土を扱う回を照合。日曜アンコール枠は生成しない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bsntv-20261031-1800-italy",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bsntv-20261031-1800-italy",
+            "seriesId": "official-series-italy",
+            "title": "小さな村の物語 イタリア",
+            "stationId": "bsntv",
+            "start": "2026-10-31T18:00:00+09:00",
+            "end": "2026-10-31T18:54:00+09:00",
+            "genreIds": [
+              "travel"
+            ],
+            "sourceUrl": "https://www.bs4.jp/italy/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261101-1830-private-rail-special",
+        "seriesId": "official-tvtokyo-20261101-1830-private-rail-special",
+        "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+        "stationId": "tvtokyo",
+        "start": "2026-11-01T18:30:00+09:00",
+        "end": "2026-11-01T20:50:00+09:00",
+        "genreIds": [
+          "railway"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回の私鉄車両・運転席・鉄道設備の取材を確認。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "railway": "当該回の私鉄車両・運転席・鉄道設備の取材を確認。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-tvtokyo-20261101-1830-private-rail-special",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261101-1830-private-rail-special",
+            "seriesId": "official-tvtokyo-20261101-1830-private-rail-special",
+            "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+            "stationId": "tvtokyo",
+            "start": "2026-11-01T18:30:00+09:00",
+            "end": "2026-11-01T20:50:00+09:00",
+            "genreIds": [
+              "railway"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261103-1200-ai-sama-special",
+        "seriesId": "official-tvtokyo-20261103-1200-ai-sama-special",
+        "title": "さらばのＡＩサマの言うとおり～ガチ検証で奇跡連発！～",
+        "stationId": "tvtokyo",
+        "start": "2026-11-03T12:00:00+09:00",
+        "end": "2026-11-03T12:55:00+09:00",
+        "genreIds": [
+          "challenge"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回でオセロと運動競技でAIの助言を検証する対決企画を確認。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "challenge": "当該回でオセロと運動競技でAIの助言を検証する対決企画を確認。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-tvtokyo-20261103-1200-ai-sama-special",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261103-1200-ai-sama-special",
+            "seriesId": "official-tvtokyo-20261103-1200-ai-sama-special",
+            "title": "さらばのＡＩサマの言うとおり～ガチ検証で奇跡連発！～",
+            "stationId": "tvtokyo",
+            "start": "2026-11-03T12:00:00+09:00",
+            "end": "2026-11-03T12:55:00+09:00",
+            "genreIds": [
+              "challenge"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tbs-20261101-1800-heritage",
+        "seriesId": "official-series-tbs-heritage",
+        "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+        "stationId": "tbs",
+        "start": "2026-11-01T18:00:00+09:00",
+        "end": "2026-11-01T18:30:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+        "sourceUrls": [
+          "https://www.tbs.co.jp/heritage/next/"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "当該回のジンバブエの地理・文化的景観の訪問を確認。日時は公式週間表と照合。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tbs.co.jp/heritage/next/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "travel": "当該回のジンバブエの地理・文化的景観の訪問を確認。日時は公式週間表と照合。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-tbs-20261101-1800-heritage",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tbs-20261101-1800-heritage",
+            "seriesId": "official-series-tbs-heritage",
+            "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+            "stationId": "tbs",
+            "start": "2026-11-01T18:00:00+09:00",
+            "end": "2026-11-01T18:30:00+09:00",
+            "genreIds": [
+              "travel"
+            ],
+            "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "A",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-chiba-20261104-2230-weekly-bike-tv",
+        "seriesId": "official-series-weekly-bike-tv",
+        "title": "週刊バイクTV ヤマハの155ccでプチ散歩②",
+        "stationId": "chiba",
+        "start": "2026-11-04T22:30:00+09:00",
+        "end": "2026-11-04T23:00:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.chiba-tv.com/program/detail/1010",
+        "sourceUrls": [
+          "https://www.chiba-tv.com/program/detail/1010"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "11/4の当該回は2車種のオートバイを千葉市内で試乗・評価する企画。車両紹介と運転が中心のため車に分類。曜日だけから日時を推定していない。",
+          "vehicleEvidence": {
+            "vehicleType": "motorcycle",
+            "role": "central",
+            "basis": "11/4の当該回は2車種のオートバイを千葉市内で試乗・評価する企画。車両紹介と運転が中心のため車に分類。曜日だけから日時を推定していない。"
+          }
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.chiba-tv.com/program/detail/1010"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "car": "11/4の当該回は2車種のオートバイを千葉市内で試乗・評価する企画。車両紹介と運転が中心のため車に分類。曜日だけから日時を推定していない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-chiba-20261104-2230-weekly-bike-tv",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-chiba-20261104-2230-weekly-bike-tv",
+            "seriesId": "official-series-weekly-bike-tv",
+            "title": "週刊バイクTV ヤマハの155ccでプチ散歩②",
+            "stationId": "chiba",
+            "start": "2026-11-04T22:30:00+09:00",
+            "end": "2026-11-04T23:00:00+09:00",
+            "genreIds": [
+              "car"
+            ],
+            "sourceUrl": "https://www.chiba-tv.com/program/detail/1010",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "A",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bsntv-20261031-2100-aisya-henreki",
+        "seriesId": "official-series-aisya-henreki",
+        "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
+        "stationId": "bsntv",
+        "start": "2026-10-31T21:00:00+09:00",
+        "end": "2026-10-31T21:54:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
+        "sourceUrls": [
+          "https://www.bs4.jp/aisya_henreki/"
+        ],
+        "checkedAt": "2026-10-29T20:23:49+09:00",
+        "discoveredAt": "2026-10-29T20:23:49+09:00",
+        "lastAttemptAt": "2026-10-29T20:23:49+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "10/31の当該回でコペンの開発を扱う。公式に日付と21:00〜21:54の放送時間を照合し、自動車の設計・車両文化が中心と確認。",
+          "vehicleEvidence": {
+            "vehicleType": "automobile",
+            "role": "central",
+            "basis": "10/31の当該回でコペンの開発を扱う。公式に日付と21:00〜21:54の放送時間を照合し、自動車の設計・車両文化が中心と確認。"
+          }
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.bs4.jp/aisya_henreki/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "car": "10/31の当該回でコペンの開発を扱う。公式に日付と21:00〜21:54の放送時間を照合し、自動車の設計・車両文化が中心と確認。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "phase15-official-bsntv-20261031-2100-aisya-henreki",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bsntv-20261031-2100-aisya-henreki",
+            "seriesId": "official-series-aisya-henreki",
+            "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
+            "stationId": "bsntv",
+            "start": "2026-10-31T21:00:00+09:00",
+            "end": "2026-10-31T21:54:00+09:00",
+            "genreIds": [
+              "car"
+            ],
+            "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "phase15_interactive_research"
+      }
+    }
+  ]
+}

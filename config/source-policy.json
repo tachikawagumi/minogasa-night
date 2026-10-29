@@ -155,7 +155,18 @@
         "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
         "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
         "https://www.tokai-tv.com/vtc/",
-        "https://www.bs11.jp/sports/akane-golf/"
+        "https://www.bs11.jp/sports/akane-golf/",
+        "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+        "https://www.bs4.jp/yumetyoko/",
+        "https://www.bs4.jp/italy/",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+        "https://www.tbs.co.jp/heritage/next/",
+        "https://www.chiba-tv.com/program/detail/1010",
+        "https://www.bs4.jp/aisya_henreki/"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -435,6 +446,94 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "official",
           "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase15-official-bsasahi-20261102-2100-kyototabi": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-tvtokyo-20261031-1830-degawacharging": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-bstvtokyo-20261101-1430-airwalk-special": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-bstvtokyo-20261101-2230-gaia": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-bsntv-20261031-1700-yumetyoko": {
+          "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+          "termsUrl": "https://www.bs4.jp/yumetyoko/",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-bsntv-20261031-1800-italy": {
+          "sourceUrl": "https://www.bs4.jp/italy/",
+          "termsUrl": "https://www.bs4.jp/italy/",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-tvtokyo-20261101-1830-private-rail-special": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-tvtokyo-20261103-1200-ai-sama-special": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-tbs-20261101-1800-heritage": {
+          "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+          "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-chiba-20261104-2230-weekly-bike-tv": {
+          "sourceUrl": "https://www.chiba-tv.com/program/detail/1010",
+          "termsUrl": "https://www.chiba-tv.com/support/18370",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "phase15-official-bsntv-20261031-2100-aisya-henreki": {
+          "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
+          "termsUrl": "https://www.bs4.jp/aisya_henreki/",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
         }
       },
       "conditions": [

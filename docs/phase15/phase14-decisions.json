@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-29T20:23:49+09:00",
+  "records": [
+    {
+      "phase14Id": "shadow-38b60574d37e92e41b4e995e",
+      "id": "official-bsasahi-20261102-2100-kyototabi",
+      "title": "あなたの知らない京都旅 名画から名刹まで！都の秘蔵めぐり",
+      "decision": "submitted",
+      "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-75e7cee4b05ba8e99fb8e8bc",
+      "id": "official-tvtokyo-20261031-1830-degawacharging",
+      "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-e0a7c0dd40b20b97d6215530",
+      "id": "official-bstvtokyo-20261101-1430-airwalk-special",
+      "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-c39a66cea92a1fe3abe906b7",
+      "id": "official-bstvtokyo-20261101-2230-gaia",
+      "title": "ガイアの夜明け【世界遺産、その先に…】",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-b1399ce50b15d7b21b81e5dd",
+      "id": "official-bsntv-20261031-1700-yumetyoko",
+      "title": "夢釣行～一魚一会の旅～",
+      "decision": "submitted",
+      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-b79e8c1f5fa13fc5ce0dfd29",
+      "id": "official-bsntv-20261031-1800-italy",
+      "title": "小さな村の物語 イタリア",
+      "decision": "submitted",
+      "sourceUrl": "https://www.bs4.jp/italy/",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-e5710c8b351302a243168648",
+      "id": "official-tvtokyo-20261101-1830-private-rail-special",
+      "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-08bf97b3061f6b2233ef3a53",
+      "id": "official-tvtokyo-20261103-1200-ai-sama-special",
+      "title": "さらばのＡＩサマの言うとおり～ガチ検証で奇跡連発！～",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-6a374c3763ee3b05f3dcdcb8",
+      "title": "2026-27 WEリーグ 日テレ・東京ヴェルディベレーザ×ＲＢ大宮アルディージャＷＯＭＥＮ",
+      "decision": "held",
+      "reason": "BS日テレ142chのみと公式索引に明記。既存151chの局IDへ読み替えない。",
+      "sourceUrl": "https://www.bs4.jp/weleague2026/",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    },
+    {
+      "phase14Id": "shadow-a5b841a06c8eb16b8b05c086",
+      "id": "official-tbs-20261101-1800-heritage",
+      "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+      "decision": "submitted",
+      "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+      "checkedAt": "2026-10-29T20:23:49+09:00"
+    }
+  ]
+}

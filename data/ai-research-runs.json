@@ -667,6 +667,26 @@
         }
       },
       "unattendedOnTimeVerified": false
+    },
+    {
+      "runId": "phase15-interactive-20261029",
+      "executionContext": "interactive_preflight",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00",
+      "genresSearched": 1,
+      "scope": "重点6車番組と第14次10枠。20ジャンルの設定維持と、20ジャンルを今回全実検索したことは別。",
+      "newCandidates": 11,
+      "discoveryContributions": {
+        "A_newlyDiscovered": 2,
+        "B_newlyDiscoveredThisRun": 0,
+        "B_revalidatedPriorFinds": 9,
+        "B_heldPriorFinds": 1
+      },
+      "status": "submitted_for_validation",
+      "publicationVerified": false,
+      "onTime": null,
+      "scheduledFor": null
     }
   ]
 }

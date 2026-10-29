@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T14:42:05+09:00",
+  "checkedAt": "2026-10-29T20:23:49+09:00",
   "windowStart": "2026-10-29T00:00:00+09:00",
   "windowEnd": "2026-11-05T00:00:00+09:00",
   "checks": [
@@ -2631,6 +2631,237 @@
         "golf": "現行2026ページの次回第31回11月1日と17:30〜18:00を照合。実技課題を扱うレッスン回。"
       },
       "contentCopied": false
+    },
+    {
+      "sourceId": "official-bsasahi-20261102-2100-kyototabi",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+      "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "travel": "当該回の地域巡訪を確認。銭湯名の出現だけでは温泉にしない。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-tvtokyo-20261031-1830-degawacharging",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "car": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。",
+        "travel": "当該回の電動バイク走行・残電量による行程制約と充電交渉が企画の中心で、長野の観光も扱う。単なる送迎ではないため車・旅の複数分類。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-bstvtokyo-20261101-1430-airwalk-special",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "travel": "当該回の河川沿いの景観・地域の見所を確認。駅名が出るだけでは鉄道にしない。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-bstvtokyo-20261101-2230-gaia",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "architecture": "当該回で建築物の劣化保全と伝統木造建築の修復技術を扱うことを確認。番組名からではなく回の内容で建築分類。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-bsntv-20261031-1700-yumetyoko",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+      "termsUrl": "https://www.bs4.jp/yumetyoko/",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "fishing": "公式の次回10/31と同ページの放送時刻を照合し、当該回の鮎の友釣りを確認。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-bsntv-20261031-1800-italy",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.bs4.jp/italy/",
+      "termsUrl": "https://www.bs4.jp/italy/",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "travel": "現行次回10/31・放送時間と、イタリアの村の風土を扱う回を照合。日曜アンコール枠は生成しない。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-tvtokyo-20261101-1830-private-rail-special",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "railway": "当該回の私鉄車両・運転席・鉄道設備の取材を確認。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-tvtokyo-20261103-1200-ai-sama-special",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+      "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "challenge": "当該回でオセロと運動競技でAIの助言を検証する対決企画を確認。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-tbs-20261101-1800-heritage",
+      "route": "B",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+      "termsUrl": "https://www.tbs.co.jp/sitepolicy/rights.html",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "travel": "当該回のジンバブエの地理・文化的景観の訪問を確認。日時は公式週間表と照合。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-chiba-20261104-2230-weekly-bike-tv",
+      "route": "A",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.chiba-tv.com/program/detail/1010",
+      "termsUrl": "https://www.chiba-tv.com/support/18370",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "car": "11/4の当該回は2車種のオートバイを千葉市内で試乗・評価する企画。車両紹介と運転が中心のため車に分類。曜日だけから日時を推定していない。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "official-bsntv-20261031-2100-aisya-henreki",
+      "route": "A",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
+      "termsUrl": "https://www.bs4.jp/aisya_henreki/",
+      "method": "official_individual_reference",
+      "verificationKind": "official",
+      "result": "resubmitted_to_existing_validation",
+      "genreEvidence": {
+        "car": "10/31の当該回でコペンの開発を扱う。公式に日付と21:00〜21:54の放送時間を照合し、自動車の設計・車両文化が中心と確認。"
+      },
+      "contentCopied": false
+    },
+    {
+      "sourceId": "phase15-held-subchannel",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "sourceUrl": "https://www.bs4.jp/weleague2026/",
+      "method": "official_dated_search_index",
+      "result": "142ch_only_not_existing_151ch_id",
+      "officialPageRetrieval": "Cache miss",
+      "publicationApproved": false
+    },
+    {
+      "sourceId": "phase15-car-searches",
+      "checkedAt": "2026-10-29T20:23:49+09:00",
+      "research": [
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "\"週刊バイクTV\" \"2026\" \"11月4日\" チバテレ",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        },
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "site:chiba-tv.com \"週刊バイクTV\" \"2026年11月1日\"",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        },
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "site:bs4.jp/aisya_henreki/ \"10月31日\" \"2026\"",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        },
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "site:bsfuji.tv/tsb/ \"2026年\" \"11月\"",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        },
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "\"ワールド・トラックロード\" \"モンゴル編\" \"18:00\" NHK 2026",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        },
+        {
+          "genreId": "car",
+          "route": "program_name",
+          "query": "site:tvk-yokohama.com/kuruma/ \"2026/11/1\"",
+          "tool": "web.run",
+          "status": "executed",
+          "checkedAt": "2026-10-29T20:23:49+09:00",
+          "windowStart": "2026-10-29T00:00:00+09:00",
+          "windowEnd": "2026-11-05T00:00:00+09:00"
+        }
+      ],
+      "scope": "重点6番組と第14次10枠の個別再確認。全20ジャンルを今回すべて実検索したとは扱わない。"
     }
   ]
 }

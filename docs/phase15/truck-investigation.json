@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-29T20:23:49+09:00",
+  "claimed": {
+    "title": "ワールド・トラックロード ～俺の助手席に乗らないか～ モンゴル編（2）",
+    "stationId": "nhk_bs",
+    "start": "2026-10-29T18:00:00+09:00",
+    "end": "2026-10-29T19:00:00+09:00"
+  },
+  "verification": {
+    "thirdPartyScheduleConfirmed": true,
+    "officialDatedScheduleConfirmed": false,
+    "officialFailure": "nhk.jp robots.txt; no bypass",
+    "sourceUrls": [
+      "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
+      "https://thetv.jp/program/0001015159/plot/"
+    ]
+  },
+  "classification": {
+    "genreIds": [
+      "car",
+      "travel"
+    ],
+    "vehicleRole": "central",
+    "basis": "当該回は長距離トラックの配達行程とドライバー視点のロード紀行。トラック走行が企画の軸。"
+  },
+  "oldEvidence": {
+    "carPrograms": [
+      "所さんの世田谷ベース",
+      "カーグラフィックTV"
+    ],
+    "carHosts": [
+      "www.bsfuji.tv",
+      "www.bs-asahi.co.jp"
+    ],
+    "truckTitleQueryInRetainedLog": false,
+    "truckCandidateInRetainedBatch": false,
+    "truckInRegular50": false,
+    "nhkPresentInOtherGenres": true
+  },
+  "finding": "保持された検索記録に番組名検索がなく、車設定の定番・語彙・局範囲にトラック/NHKが不足。候補登録前の取りこぼし。分類条件や公開検証で除外された証跡はなく、検索順位の寄与は未確認。",
+  "publicationDecision": "not_submitted",
+  "reasons": [
+    "調査開始20:05時点で18〜19時の枠は終了済み",
+    "公式の日付付き情報は未照合"
+  ],
+  "noFutureSlotGenerated": true
+}

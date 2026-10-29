@@ -64,7 +64,12 @@ def ready_for_research(record,now,hours=48):
 def prepare(batch,root=None):
     root=root or ROOT
     previous=read_json(root/"data/discovered-candidates.json",{"records":[]})
-    rows=upsert(previous.get("records",[]),batch.get("discoveries",[]))
+    from hybrid import merge_inputs
+    incoming,audit=merge_inputs(batch.get("discoveries",[]),batch.get("discoveryInputs",[]),
+        previous.get("records",[]),read_json(root/"public/v1/programs.json",{"programs":[]}).get("programs",[]),
+        read_json(root/"config/collection.json",{"B":{"enabled":False}}))
+    atomic_json(root/"data/hybrid-audit.json",dict(checkedAt=iso(datetime.now(JST)),**audit))
+    rows=upsert(previous.get("records",[]),incoming)
     # Persist every discovery before any source/API acquisition or publication decision.
     atomic_json(root/"data/discovered-candidates.json",dict(checkedAt=iso(datetime.now(JST)),records=rows))
     projected=[c for r in rows if (c:=project(r)) is not None]

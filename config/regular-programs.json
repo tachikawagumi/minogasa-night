@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T14:42:05+09:00",
+  "updatedAt": "2026-10-29T20:23:49+09:00",
   "purpose": "検索の補助資料。掲載・時刻推定・自動登録の入力ではない。referenceUrlsは探索の入口を含み、そのページで現行放送を確認済みという意味ではない。",
   "windowStart": "2026-10-29T00:00:00+09:00",
   "windowEnd": "2026-11-05T00:00:00+09:00",
@@ -861,6 +861,89 @@
       "lifecycle": "candidate_unconfirmed",
       "lastResult": "no_window_airing_verified",
       "searchCaution": "年末など過去の慣例で今回の7日間へ登録しない。"
+    },
+    {
+      "id": "regular-car-truckroad",
+      "title": "ワールド・トラックロード ～俺の助手席に乗らないか～",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29"
+      ],
+      "lastCheckedAt": "2026-10-29T20:23:49+09:00",
+      "lifecycle": "past_airing_only",
+      "lastResult": "past_slot_third_party_confirmed_official_blocked",
+      "searchCaution": "10/29 18〜19時は第三者表で照合、開始時点20:05ですでに終了。公式はrobots制限で未照合。過去枠を未来へ動かさない。"
+    },
+    {
+      "id": "regular-car-aisya-henreki",
+      "title": "おぎやはぎの愛車遍歴",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [
+        "bsntv"
+      ],
+      "referenceUrls": [
+        "https://www.bs4.jp/aisya_henreki/"
+      ],
+      "lastCheckedAt": "2026-10-29T20:23:49+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "window_airing_confirmed",
+      "searchCaution": "10/31の次回と21:00〜21:54、開発者を扱う回の内容を確認。"
+    },
+    {
+      "id": "regular-car-setagaya-base",
+      "title": "所さんの世田谷ベース",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [
+        "bsfuji"
+      ],
+      "referenceUrls": [
+        "https://www.bsfuji.tv/tsb/"
+      ],
+      "lastCheckedAt": "2026-10-29T20:23:49+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_date_and_episode_content",
+      "searchCaution": "車・バイクを扱う番組でも全回を車扱いしない。現行次回日時・内容未確認。"
+    },
+    {
+      "id": "regular-car-kurumadeikou",
+      "title": "クルマでいこう！",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [],
+      "referenceUrls": [
+        "https://thetv.jp/program/0000813933/plot/"
+      ],
+      "lastCheckedAt": "2026-10-29T20:23:49+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "outside_station_policy_tvk",
+      "searchCaution": "11/1はtvk候補。対象地域で受信を保証しない局なので既存局方針では除外。"
+    },
+    {
+      "id": "regular-car-weekly-bike-tv",
+      "title": "週刊バイクTV",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [
+        "chiba"
+      ],
+      "referenceUrls": [
+        "https://www.chiba-tv.com/program/detail/1010"
+      ],
+      "lastCheckedAt": "2026-10-29T20:23:49+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "window_airing_confirmed",
+      "searchCaution": "11/4 22:30〜23:00、当該回の2車種インプレと千葉市内走行を確認。日曜再放送は個別日付未確認なので生成しない。"
     }
   ]
 }
