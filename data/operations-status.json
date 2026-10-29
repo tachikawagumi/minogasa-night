@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-10-29T14:13:39.550285+09:00",
+  "targetWindow": {
+    "start": "2026-10-29T00:00:00+09:00",
+    "endExclusive": "2026-11-05T00:00:00+09:00"
+  },
+  "lastAIResearch": {
+    "at": "2026-10-29T14:08:06.000+09:00",
+    "executionContext": "interactive_preflight",
+    "batchId": "phase12-interactive-20261029",
+    "genresSearched": 20,
+    "queries": 47,
+    "currentWindowQueries": 47,
+    "searchResult": "executed_search_logs",
+    "newCandidates": 4,
+    "newPublic": 4,
+    "publicationStatus": "published",
+    "hoursSinceResearch": 0.09,
+    "targetWindowStart": "2026-10-29T00:00:00+09:00",
+    "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
+    "evidence": "candidate search logs; does not establish scheduler timing"
+  },
+  "latestScheduledSlot": {
+    "expectedAt": "2026-10-29T09:00:00+09:00",
+    "heartbeatObserved": true,
+    "triggerReceivedAt": "2026-10-29T13:04:47.716+09:00",
+    "onTime": false,
+    "status": "late_observed",
+    "platformExecutionId": null
+  },
+  "lastAnimeSuccessAt": "2026-10-29T14:13:05+09:00",
+  "lastUpdate": {
+    "status": "published",
+    "at": "2026-10-29T14:13:05+09:00",
+    "counts": {
+      "added": 4,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    }
+  },
+  "lastActions": {
+    "runId": "40822069402",
+    "event": "push",
+    "observedAt": "2026-10-29T14:13:39.550285+09:00",
+    "startTime": null,
+    "note": "observation time is not workflow start time"
+  },
+  "lastPages": {
+    "verifiedAt": "2026-10-29T14:13:39+09:00",
+    "verified": true,
+    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+    "semanticSha256": "f085516812ddddab6dc4a55b20840ca047eb376e2b1bc9173c2b3e5d0f4d9f8b"
+  },
+  "genreCoverage": [
+    {
+      "genreId": "ghost",
+      "name": "心霊・怪談",
+      "programs": 2,
+      "lastStart": "2026-10-31T21:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "name": "UFO・都市伝説",
+      "programs": 0,
+      "lastStart": null
+    },
+    {
+      "genreId": "movie",
+      "name": "映画",
+      "programs": 15,
+      "lastStart": "2026-11-04T19:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "name": "ホラー映画",
+      "programs": 1,
+      "lastStart": "2026-10-31T21:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "name": "ディズニー",
+      "programs": 0,
+      "lastStart": null
+    },
+    {
+      "genreId": "usj",
+      "name": "USJ",
+      "programs": 0,
+      "lastStart": null
+    },
+    {
+      "genreId": "big_eating",
+      "name": "大食い",
+      "programs": 0,
+      "lastStart": null
+    },
+    {
+      "genreId": "onsen",
+      "name": "温泉",
+      "programs": 2,
+      "lastStart": "2026-10-31T07:30:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "name": "建物探訪",
+      "programs": 1,
+      "lastStart": "2026-10-31T12:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "name": "車",
+      "programs": 2,
+      "lastStart": "2026-11-02T13:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "name": "ダンス",
+      "programs": 1,
+      "lastStart": "2026-11-01T14:30:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "name": "ゴルフ",
+      "programs": 1,
+      "lastStart": "2026-10-31T15:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "name": "サッカー",
+      "programs": 1,
+      "lastStart": "2026-11-02T01:13:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "name": "野球",
+      "programs": 0,
+      "lastStart": null
+    },
+    {
+      "genreId": "fishing",
+      "name": "釣り",
+      "programs": 1,
+      "lastStart": "2026-10-31T17:30:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "name": "健康",
+      "programs": 1,
+      "lastStart": "2026-11-01T07:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "name": "旅",
+      "programs": 5,
+      "lastStart": "2026-11-03T21:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "name": "ゲーム・チャレンジ",
+      "programs": 2,
+      "lastStart": "2026-11-01T07:30:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "name": "アニメ",
+      "programs": 118,
+      "lastStart": "2026-11-04T23:30:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "name": "電車・鉄道",
+      "programs": 2,
+      "lastStart": "2026-11-03T21:00:00+09:00"
+    }
+  ],
+  "publicPrograms": 148,
+  "limitations": [
+    "GitHub Actions does not perform AI Web search.",
+    "No observed heartbeat is not proof of why it did not start.",
+    "No slots in a genre does not prove there are no broadcasts."
+  ]
+}
