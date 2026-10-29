@@ -458,6 +458,38 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "third_party_schedule",
           "rationale": "既存審査済みの同一URLの個別枠を通常閲覧し最小放送事実のみ独自記録。本文・配列・画像の複製なし。プライバシーページ再取得は失敗し包括許諾を再確認済みとはしない。既存の個別事実参照条件の範囲だけで扱う。"
+        },
+        "phase12-verified-bs12-20261030-1900-royalwarriors": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T14:08:06.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存の審査済みURLの個別放送事実のみを独自整理。同じ取得・利用条件の範囲。本文・番組表配列・画像・出演者を複製せず、包括的転載許諾やクローラー許可を新設しない。"
+        },
+        "phase12-verified-bs12-20261102-1900-showazankyo4": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T14:08:06.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存の審査済みURLの個別放送事実のみを独自整理。同じ取得・利用条件の範囲。本文・番組表配列・画像・出演者を複製せず、包括的転載許諾やクローラー許可を新設しない。"
+        },
+        "phase12-verified-bs12-20261103-1900-truckyaro4": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T14:08:06.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存の審査済みURLの個別放送事実のみを独自整理。同じ取得・利用条件の範囲。本文・番組表配列・画像・出演者を複製せず、包括的転載許諾やクローラー許可を新設しない。"
+        },
+        "phase12-verified-bs12-20261104-1900-satomi1983": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T14:08:06.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存の審査済みURLの個別放送事実のみを独自整理。同じ取得・利用条件の範囲。本文・番組表配列・画像・出演者を複製せず、包括的転載許諾やクローラー許可を新設しない。"
         }
       },
       "conditions": [

@@ -186,6 +186,26 @@
         "CINEMORE page failed after search; not counted as full verification",
         "Some terms/privacy page fetches failed; no new host or blanket licence was enabled"
       ]
+    },
+    {
+      "runId": "phase12-interactive-20261029",
+      "executionContext": "interactive_preflight",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00",
+      "genresSearched": 20,
+      "genreSearches": 43,
+      "verificationSearches": 4,
+      "queries": 47,
+      "newCandidates": 4,
+      "held": 2,
+      "duplicates": 4,
+      "evaluated": 10,
+      "status": "submitted_for_validation",
+      "publicationVerified": false,
+      "onTime": null,
+      "scheduledFor": null,
+      "note": "Human-requested phase 12 run. Does not prove scheduled unattended operation."
     }
   ]
 }
