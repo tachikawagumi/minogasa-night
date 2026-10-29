@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-29T13:09:39+09:00",
+  "checkedAt": "2026-10-29T13:09:59+09:00",
   "batchId": "scheduled-heartbeat-20261029T130447JST",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 53,
   "inputDuplicates": 0,
   "conflictingIds": [],
