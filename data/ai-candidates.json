@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "batchId": "phase10-interactive-web-search-20261027",
-  "researchedAt": "2026-10-27T17:41:36+09:00",
-  "windowStart": "2026-10-27T00:00:00+09:00",
-  "windowEnd": "2026-11-03T00:00:00+09:00",
+  "batchId": "scheduled-heartbeat-20261029T130447JST",
+  "researchedAt": "2026-10-29T13:08:23.000+09:00",
+  "windowStart": "2026-10-29T00:00:00+09:00",
+  "windowEnd": "2026-11-05T00:00:00+09:00",
   "records": [
     {
       "id": "official-81221f862e50feba0f729d41",
@@ -1902,6 +1902,436 @@
       "checkedAt": "2026-10-27T17:41:36+09:00",
       "windowStart": "2026-10-27T00:00:00+09:00",
       "windowEnd": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "心霊 怪談 テレビ 放送予定 2026年10月29日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "ほんとにあった怖い話 ダークサイドミステリー 2026年11月 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "UFO 都市伝説 テレビ 番組表 2026年10月29日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "世界の何だコレ ミステリー 2026年11月4日 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "地上波 BS 映画 放送予定 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "午後のロードショー 2026年11月3日 11月4日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "BS 地上波 ホラー映画 2026年10月29日 11月4日 放送",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "サイコ 恐怖映画 テレビ 放送予定 2026年11月",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "ホラー 映画 番組表 無料BS 2026年11月3日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "ディズニー テレビ特集 2026年10月29日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "東京ディズニーリゾート 番組 2026年11月 テレビ",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "ディズニー 地上波 放送予定 2026年11月4日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ テレビ 特集 2026年10月29日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "ユニバーサルスタジオジャパン テレビ番組 2026年11月",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ ヒルナンデス 放送予定 2026年11月",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "大食い 番組表 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "デカ盛りハンター 2026年11月 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "温泉 テレビ 番組表 2026年10月29日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "秘湯ロマン 2026年11月1日 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "建物探訪 豪邸 テレビ 番組 2026年10月31日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "渡辺篤史 建もの探訪 2026年10月31日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "車 カスタム 番組表 2026年11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "カーグラフィックTV 2026年10月29日 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "ダンス テレビ 番組表 2026年11月1日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "全日本バレエ くるみ割り人形 2026年11月1日 TBS",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフ 無料BS テレビ 放送予定 2026年11月3日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフペアマッチ選手権 2026年11月2日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "サッカー 地上波 BS 放送予定 2026年11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "KICK OFF J 2026年11月1日 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "日本シリーズ 2026年10月31日 11月1日 テレビ 放送",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "野球 無料BS 放送予定 2026年11月3日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "釣り テレビ 番組表 2026年10月31日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "THEフィッシング 2026年10月31日 マグロ 大間",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "健康 テレビ 番組表 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "きょうの健康 2026年11月2日 放送時間",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "旅 BS テレビ 番組表 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "ブラタモリ 2026年10月31日 放送",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "逃走中 SASUKE 戦闘中 放送予定 2026年11月",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "ゲーム チャレンジ テレビ番組 2026年11月3日 11月4日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "アニメ 地上波 無料BS 週間 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "東京 MX アニメ 2026年11月4日 番組表",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "鉄道旅 BS 番組表 2026年11月3日 11月4日",
+      "route": "genre",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "友近 礼二 妄想トレイン 2026年11月3日",
+      "route": "programme_name",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
     }
   ],
   "discoveries": [
@@ -3371,7 +3801,342 @@
         "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
       ],
       "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-bsntv-20261103-2100-mousoutrain",
+      "seriesId": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+      "stationId": "bsntv",
+      "start": "2026-11-03T21:00:00+09:00",
+      "end": "2026-11-03T21:54:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/mousou-train/",
+      "sourceUrls": [
+        "https://www.bs4.jp/mousou-train/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "travel": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。",
+        "railway": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-official-bsntv-20261103-2100-mousoutrain",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsntv-20261103-2100-mousoutrain",
+          "seriesId": "official-series-mousoutrain",
+          "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+          "stationId": "bsntv",
+          "start": "2026-11-03T21:00:00+09:00",
+          "end": "2026-11-03T21:54:00+09:00",
+          "genreIds": [
+            "travel",
+            "railway"
+          ],
+          "sourceUrl": "https://www.bs4.jp/mousou-train/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs4.jp/mousou-train/"
+      }
+    },
+    {
+      "id": "official-tvtokyo-20261101-0730-pokedoko",
+      "seriesId": "official-series-pokedoko",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-01T07:30:00+09:00",
+      "end": "2026-11-01T08:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式個別予定の2026年11月1日7時30分から8時30分を確認。当該回は選択型ゲームのチャレンジ企画。アニメ作品そのものとは分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "challenge": "公式個別予定の2026年11月1日7時30分から8時30分を確認。当該回は選択型ゲームのチャレンジ企画。アニメ作品そのものとは分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-official-tvtokyo-20261101-0730-pokedoko",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261101-0730-pokedoko",
+          "seriesId": "official-series-pokedoko",
+          "title": "ポケモンとどこいく！？",
+          "stationId": "tvtokyo",
+          "start": "2026-11-01T07:30:00+09:00",
+          "end": "2026-11-01T08:30:00+09:00",
+          "genreIds": [
+            "challenge"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261104-1300-warhorse",
+      "seriesId": "verified-series-warhorse",
+      "title": "戦火の馬",
+      "stationId": "nhk_bs",
+      "start": "2026-11-04T13:00:00+09:00",
+      "end": "2026-11-04T15:28:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "対象日・NHK BS・開始終了を個別表で確認。映画枠。別の専門映画記事でも同日の13時開始を発見したが本文取得失敗は照合完了に含めない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "対象日・NHK BS・開始終了を個別表で確認。映画枠。別の専門映画記事でも同日の13時開始を発見したが本文取得失敗は照合完了に含めない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-verified-nhkbs-20261104-1300-warhorse",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261104-1300-warhorse",
+          "seriesId": "verified-series-warhorse",
+          "title": "戦火の馬",
+          "stationId": "nhk_bs",
+          "start": "2026-11-04T13:00:00+09:00",
+          "end": "2026-11-04T15:28:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "verified-tvtokyo-20261104-1340-unknown",
+      "seriesId": "verified-series-unknown2011",
+      "title": "アンノウン",
+      "stationId": "tvtokyo",
+      "start": "2026-11-04T13:40:00+09:00",
+      "end": "2026-11-04T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-verified-tvtokyo-20261104-1340-unknown",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-tvtokyo-20261104-1340-unknown",
+          "seriesId": "verified-series-unknown2011",
+          "title": "アンノウン",
+          "stationId": "tvtokyo",
+          "start": "2026-11-04T13:40:00+09:00",
+          "end": "2026-11-04T15:40:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "watch-fuji-nandakore-20261104",
+      "title": "世界の何だコレ!?ミステリー",
+      "candidateGenreIds": [
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
+    },
+    {
+      "id": "watch-tatemono-20261031",
+      "title": "渡辺篤史の建もの探訪",
+      "candidateGenreIds": [
+        "architecture"
+      ],
+      "sourceUrls": [
+        "https://bangumi.org/tv_events/AmQQQoHwMAM"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "10/31の第三者表で候補を発見。該当ホストは既存の許可範囲外のためポリシーを勝手に拡大せず保留。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "10/31の第三者表で候補を発見。該当ホストは既存の許可範囲外のためポリシーを勝手に拡大せず保留。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
+    },
+    {
+      "id": "watch-health-20261103",
+      "title": "きょうの健康",
+      "candidateGenreIds": [
+        "health"
+      ],
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-03"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "地域別番組表の候補は発見したが対象東京の枠との照合を完了していない。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "地域別番組表の候補は発見したが対象東京の枠との照合を完了していない。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
     }
   ],
-  "executionContext": "interactive_preflight"
+  "executionContext": "scheduled_heartbeat"
 }

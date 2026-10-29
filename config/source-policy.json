@@ -144,7 +144,8 @@
         "https://newscast.jp/news/1942427",
         "https://kinro.ntv.co.jp/article/detail/20261002",
         "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
-        "https://www.bs4.jp/mousou-train/"
+        "https://www.bs4.jp/mousou-train/",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -344,6 +345,22 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "official",
           "rationale": "放送局または発信主体自身の個別発表から最小放送事実だけ独自整理。著作権のある本文・画像・番組表構成を複製しない。会員サービスや大量取得は利用せず、他のURLや回の包括許諾とはしない。"
+        },
+        "heartbeat-20261029-official-bsntv-20261103-2100-mousoutrain": {
+          "sourceUrl": "https://www.bs4.jp/mousou-train/",
+          "termsUrl": "https://www.bs4.jp/mousou-train/",
+          "checkedAt": "2026-10-29T13:08:23.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "既存の個別事実参照ポリシーに従い番組名・局・日時だけ独自に記録。本文・画像・番組表配列を複製しない。一般公開の個別閲覧のみ。著作物転載・継続クローラー・包括ライセンスの許可ではない。"
+        },
+        "heartbeat-20261029-official-tvtokyo-20261101-0730-pokedoko": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T13:08:23.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "既存の個別事実参照ポリシーに従い番組名・局・日時だけ独自に記録。本文・画像・番組表配列を複製しない。一般公開の個別閲覧のみ。著作物転載・継続クローラー・包括ライセンスの許可ではない。"
         }
       },
       "conditions": [
@@ -425,6 +442,22 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "third_party_schedule",
           "rationale": "一般公開ページの個別参照で日付・局・番組名・開始終了を確認。文章・画像・番組表の配列を複製せず最小事実を独自整理する個別判断。確認した範囲にこの通常の独立した最小事実記録を禁ずる固有条件は見つからず。継続収集やDB/番組表再配信の包括許諾ではない。"
+        },
+        "heartbeat-20261029-verified-nhkbs-20261104-1300-warhorse": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T13:08:23.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存審査済みの同一URLの個別枠を通常閲覧し最小放送事実のみ独自記録。本文・配列・画像の複製なし。プライバシーページ再取得は失敗し包括許諾を再確認済みとはしない。既存の個別事実参照条件の範囲だけで扱う。"
+        },
+        "heartbeat-20261029-verified-tvtokyo-20261104-1340-unknown": {
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "termsUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "checkedAt": "2026-10-29T13:08:23.000+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "third_party_schedule",
+          "rationale": "既存審査済みの同一URLの個別枠を通常閲覧し最小放送事実のみ独自記録。本文・配列・画像の複製なし。プライバシーページ再取得は失敗し包括許諾を再確認済みとはしない。既存の個別事実参照条件の範囲だけで扱う。"
         }
       },
       "conditions": [

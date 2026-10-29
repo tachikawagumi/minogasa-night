@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "runs": [
+    {
+      "runId": "scheduled-heartbeat-20261029T130447JST",
+      "automationId": "automation",
+      "scheduledFor": "2026-10-29T09:00:00+09:00",
+      "triggerReceivedAt": "2026-10-29T13:04:47.716+09:00",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "executionContext": "scheduled_heartbeat",
+      "onTime": false,
+      "triggerDelaySeconds": 14687.716,
+      "platformExecutionId": null,
+      "genreSearches": 43,
+      "genresSearched": 20,
+      "evaluated": 7,
+      "eligibleNew": 4,
+      "held": 3,
+      "status": "submitted_for_validation",
+      "githubWriteVerified": false,
+      "publicationVerified": false,
+      "previousScheduledActions": {
+        "id": 40795566494,
+        "event": "schedule",
+        "startedAt": "2026-10-29T09:40:17+09:00",
+        "conclusion": "success",
+        "publicPrograms": 142
+      },
+      "pending": [
+        "GitHub write",
+        "Actions validation",
+        "Pages exact JSON verification"
+      ],
+      "additionalPaidServices": 0
+    }
+  ]
+}
