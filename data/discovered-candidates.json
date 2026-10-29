@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T09:40:31+09:00",
+  "checkedAt": "2026-10-29T13:09:34+09:00",
   "records": [
     {
       "id": "official-fuji-20261028-1900-nandakore",
@@ -1467,6 +1467,341 @@
         "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
       ],
       "origin": "phase10_ai_web_search"
+    },
+    {
+      "id": "official-bsntv-20261103-2100-mousoutrain",
+      "seriesId": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+      "stationId": "bsntv",
+      "start": "2026-11-03T21:00:00+09:00",
+      "end": "2026-11-03T21:54:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/mousou-train/",
+      "sourceUrls": [
+        "https://www.bs4.jp/mousou-train/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "travel": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。",
+        "railway": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-official-bsntv-20261103-2100-mousoutrain",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsntv-20261103-2100-mousoutrain",
+          "seriesId": "official-series-mousoutrain",
+          "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+          "stationId": "bsntv",
+          "start": "2026-11-03T21:00:00+09:00",
+          "end": "2026-11-03T21:54:00+09:00",
+          "genreIds": [
+            "travel",
+            "railway"
+          ],
+          "sourceUrl": "https://www.bs4.jp/mousou-train/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs4.jp/mousou-train/"
+      }
+    },
+    {
+      "id": "official-tvtokyo-20261101-0730-pokedoko",
+      "seriesId": "official-series-pokedoko",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-01T07:30:00+09:00",
+      "end": "2026-11-01T08:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式個別予定の2026年11月1日7時30分から8時30分を確認。当該回は選択型ゲームのチャレンジ企画。アニメ作品そのものとは分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "challenge": "公式個別予定の2026年11月1日7時30分から8時30分を確認。当該回は選択型ゲームのチャレンジ企画。アニメ作品そのものとは分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-official-tvtokyo-20261101-0730-pokedoko",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261101-0730-pokedoko",
+          "seriesId": "official-series-pokedoko",
+          "title": "ポケモンとどこいく！？",
+          "stationId": "tvtokyo",
+          "start": "2026-11-01T07:30:00+09:00",
+          "end": "2026-11-01T08:30:00+09:00",
+          "genreIds": [
+            "challenge"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      }
+    },
+    {
+      "id": "verified-nhkbs-20261104-1300-warhorse",
+      "seriesId": "verified-series-warhorse",
+      "title": "戦火の馬",
+      "stationId": "nhk_bs",
+      "start": "2026-11-04T13:00:00+09:00",
+      "end": "2026-11-04T15:28:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "対象日・NHK BS・開始終了を個別表で確認。映画枠。別の専門映画記事でも同日の13時開始を発見したが本文取得失敗は照合完了に含めない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "対象日・NHK BS・開始終了を個別表で確認。映画枠。別の専門映画記事でも同日の13時開始を発見したが本文取得失敗は照合完了に含めない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-verified-nhkbs-20261104-1300-warhorse",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-nhkbs-20261104-1300-warhorse",
+          "seriesId": "verified-series-warhorse",
+          "title": "戦火の馬",
+          "stationId": "nhk_bs",
+          "start": "2026-11-04T13:00:00+09:00",
+          "end": "2026-11-04T15:28:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "verified-tvtokyo-20261104-1340-unknown",
+      "seriesId": "verified-series-unknown2011",
+      "title": "アンノウン",
+      "stationId": "tvtokyo",
+      "start": "2026-11-04T13:40:00+09:00",
+      "end": "2026-11-04T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261029-verified-tvtokyo-20261104-1340-unknown",
+        "checkedAt": "2026-10-29T13:08:23.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-tvtokyo-20261104-1340-unknown",
+          "seriesId": "verified-series-unknown2011",
+          "title": "アンノウン",
+          "stationId": "tvtokyo",
+          "start": "2026-11-04T13:40:00+09:00",
+          "end": "2026-11-04T15:40:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "scheduled_web_search_20261029",
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      }
+    },
+    {
+      "id": "watch-fuji-nandakore-20261104",
+      "title": "世界の何だコレ!?ミステリー",
+      "candidateGenreIds": [
+        "ufo"
+      ],
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
+    },
+    {
+      "id": "watch-tatemono-20261031",
+      "title": "渡辺篤史の建もの探訪",
+      "candidateGenreIds": [
+        "architecture"
+      ],
+      "sourceUrls": [
+        "https://bangumi.org/tv_events/AmQQQoHwMAM"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "10/31の第三者表で候補を発見。該当ホストは既存の許可範囲外のためポリシーを勝手に拡大せず保留。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "10/31の第三者表で候補を発見。該当ホストは既存の許可範囲外のためポリシーを勝手に拡大せず保留。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
+    },
+    {
+      "id": "watch-health-20261103",
+      "title": "きょうの健康",
+      "candidateGenreIds": [
+        "health"
+      ],
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-03"
+      ],
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "lastAttemptAt": "2026-10-29T13:08:23.000+09:00",
+      "discoveredAt": "2026-10-29T13:08:23.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "地域別番組表の候補は発見したが対象東京の枠との照合を完了していない。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "地域別番組表の候補は発見したが対象東京の枠との照合を完了していない。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "scheduled_web_search_20261029"
     }
   ]
 }

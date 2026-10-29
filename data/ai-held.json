@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-29T09:40:31+09:00",
-  "batchId": "phase10-interactive-web-search-20261027",
+  "checkedAt": "2026-10-29T13:09:34+09:00",
+  "batchId": "scheduled-heartbeat-20261029T130447JST",
   "records": [
     {
       "candidate": {
@@ -194,6 +194,20 @@
           "railway"
         ],
         "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "verified-nhkbs-20261029-1300-brothersanta",
+        "title": "シネマ「ブラザーサンタ」",
+        "stationId": "nhk_bs",
+        "start": "2026-10-29T13:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
         "sourcePolicyId": "reviewed_schedule_facts"
       },
       "reason": "過去または7日間の対象外"

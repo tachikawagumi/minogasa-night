@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-29T09:40:58+09:00",
-  "batchId": "phase10-interactive-web-search-20261027",
-  "target": "current_public_json",
-  "discovered": 46,
+  "checkedAt": "2026-10-29T13:09:39+09:00",
+  "batchId": "scheduled-heartbeat-20261029T130447JST",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 53,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 22,
+  "newRegistrations": 4,
   "updates": 0,
-  "alreadyPublished": 23,
-  "held": 21,
+  "alreadyPublished": 26,
+  "held": 25,
   "heldReasonCounts": {
-    "outside_window": 12,
-    "terms_unconfirmed": 16,
-    "datetime_unconfirmed": 5,
-    "genre_uncertain": 5,
-    "other": 5,
-    "station_unconfirmed": 2
+    "outside_window": 13,
+    "terms_unconfirmed": 19,
+    "datetime_unconfirmed": 8,
+    "genre_uncertain": 8,
+    "other": 8,
+    "station_unconfirmed": 5
   },
   "reasonLabels": {
     "datetime_unconfirmed": "放送日時が確認できない",
@@ -90,6 +90,37 @@
       ],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "watch-fuji-nandakore-20261104",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "holdReasons": [
+        "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      ],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "genres": [
@@ -100,8 +131,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 8,
+      "currentWindowSearches": 2,
+      "searches": 10,
       "datetimeConfirmed": 2,
       "held": 2,
       "excluded": 2,
@@ -111,14 +142,14 @@
     {
       "genreId": "ufo",
       "name": "UFO・都市伝説",
-      "candidates": 2,
+      "candidates": 3,
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "判定保留",
-      "currentWindowSearches": 0,
-      "searches": 7,
+      "currentWindowSearches": 2,
+      "searches": 9,
       "datetimeConfirmed": 2,
-      "held": 2,
+      "held": 3,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": "decision_pending"
@@ -126,14 +157,14 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "candidates": 18,
-      "publicPrograms": 11,
+      "candidates": 20,
+      "publicPrograms": 12,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 9,
-      "datetimeConfirmed": 15,
-      "held": 6,
+      "currentWindowSearches": 2,
+      "searches": 11,
+      "datetimeConfirmed": 17,
+      "held": 7,
       "excluded": 3,
       "omissions": 0,
       "zeroReasonCode": null
@@ -145,8 +176,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 8,
+      "currentWindowSearches": 3,
+      "searches": 11,
       "datetimeConfirmed": 1,
       "held": 0,
       "excluded": 2,
@@ -160,8 +191,8 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 0,
-      "searches": 6,
+      "currentWindowSearches": 3,
+      "searches": 9,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 1,
@@ -175,8 +206,8 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 0,
-      "searches": 6,
+      "currentWindowSearches": 3,
+      "searches": 9,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -190,8 +221,8 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "判定保留",
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -205,8 +236,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -216,14 +247,14 @@
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "candidates": 1,
+      "candidates": 2,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
-      "held": 0,
+      "held": 1,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -235,8 +266,8 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 2,
       "held": 1,
       "excluded": 0,
@@ -250,8 +281,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -265,8 +296,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 3,
       "held": 2,
       "excluded": 0,
@@ -280,8 +311,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 0,
       "held": 0,
       "excluded": 0,
@@ -295,8 +326,8 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "判定保留",
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
@@ -310,8 +341,8 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
       "held": 0,
       "excluded": 0,
@@ -321,14 +352,14 @@
     {
       "genreId": "health",
       "name": "健康",
-      "candidates": 2,
+      "candidates": 3,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
+      "currentWindowSearches": 2,
+      "searches": 7,
       "datetimeConfirmed": 1,
-      "held": 1,
+      "held": 2,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -336,13 +367,13 @@
     {
       "genreId": "travel",
       "name": "旅",
-      "candidates": 4,
-      "publicPrograms": 4,
+      "candidates": 5,
+      "publicPrograms": 5,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
-      "datetimeConfirmed": 3,
+      "currentWindowSearches": 2,
+      "searches": 7,
+      "datetimeConfirmed": 4,
       "held": 1,
       "excluded": 1,
       "omissions": 0,
@@ -351,13 +382,13 @@
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
-      "candidates": 1,
-      "publicPrograms": 1,
+      "candidates": 2,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 5,
-      "datetimeConfirmed": 1,
+      "currentWindowSearches": 2,
+      "searches": 7,
+      "datetimeConfirmed": 2,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
@@ -370,8 +401,8 @@
       "publicPrograms": 118,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 6,
+      "currentWindowSearches": 2,
+      "searches": 8,
       "datetimeConfirmed": 3,
       "held": 1,
       "excluded": 0,
@@ -381,13 +412,13 @@
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "candidates": 3,
-      "publicPrograms": 1,
+      "candidates": 4,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 0,
-      "searches": 7,
-      "datetimeConfirmed": 2,
+      "currentWindowSearches": 2,
+      "searches": 9,
+      "datetimeConfirmed": 3,
       "held": 2,
       "excluded": 1,
       "omissions": 0,
@@ -1169,12 +1200,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "過去または7日間の対象外",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1594,6 +1627,192 @@
       ],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "official-bsntv-20261103-2100-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/mousou-train/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261101-0730-pokedoko",
+      "title": "ポケモンとどこいく！？",
+      "genreIds": [
+        "challenge"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-nhkbs-20261104-1300-warhorse",
+      "title": "戦火の馬",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "verified-tvtokyo-20261104-1340-unknown",
+      "title": "アンノウン",
+      "genreIds": [
+        "movie"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "watch-fuji-nandakore-20261104",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "holdReasons": [
+        "11/4の候補を発見したが公式ページは前回分を表示。当該回の超常現象の内容を確認できず保留。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "watch-tatemono-20261031",
+      "title": "渡辺篤史の建もの探訪",
+      "genreIds": [
+        "architecture"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://bangumi.org/tv_events/AmQQQoHwMAM"
+      ],
+      "holdReasons": [
+        "10/31の第三者表で候補を発見。該当ホストは既存の許可範囲外のためポリシーを勝手に拡大せず保留。"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "watch-health-20261103",
+      "title": "きょうの健康",
+      "genreIds": [
+        "health"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "datetime_unconfirmed",
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": false,
+      "datetimeConfirmed": false,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-03"
+      ],
+      "holdReasons": [
+        "地域別番組表の候補は発見したが対象東京の枠との照合を完了していない。"
+      ],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "limitations": [
@@ -1603,7 +1822,7 @@
   ],
   "pipelineErrors": 0,
   "confirmedOmissions": [],
-  "ledgerCandidates": 28,
+  "ledgerCandidates": 35,
   "excluded": 6,
-  "unconfirmedDiscoveries": 5
+  "unconfirmedDiscoveries": 8
 }

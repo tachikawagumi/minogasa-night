@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T09:40:31+09:00",
+  "checkedAt": "2026-10-29T13:09:34+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-29T09:40:31+09:00",
-      "updatedAt": "2026-10-29T09:40:31+09:00",
+      "checkedAt": "2026-10-29T13:09:34+09:00",
+      "updatedAt": "2026-10-29T13:09:34+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -469,6 +469,92 @@
       "updatedAt": "2026-10-27T17:41:36+09:00",
       "genreEvidence": {
         "movie": "当該日付のテレビ東京映画枠を確認。フィクションの感染症映画を健康情報番組として分類しない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "official-bsntv-20261103-2100-mousoutrain",
+      "seriesId": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+      "stationId": "bsntv",
+      "start": "2026-11-03T21:00:00+09:00",
+      "end": "2026-11-03T21:54:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://www.bs4.jp/mousou-train/",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "updatedAt": "2026-10-29T13:08:23.000+09:00",
+      "genreEvidence": {
+        "travel": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。",
+        "railway": "次回11月3日と21時開始を公式ページで確認。銚子電鉄沿線の旅を扱う回。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "official-tvtokyo-20261101-0730-pokedoko",
+      "seriesId": "official-series-pokedoko",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-01T07:30:00+09:00",
+      "end": "2026-11-01T08:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "updatedAt": "2026-10-29T13:08:23.000+09:00",
+      "genreEvidence": {
+        "challenge": "公式個別予定の2026年11月1日7時30分から8時30分を確認。当該回は選択型ゲームのチャレンジ企画。アニメ作品そのものとは分類しない。"
+      },
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_official_facts",
+      "sourcePolicyId": "reviewed_independent_facts"
+    },
+    {
+      "id": "verified-nhkbs-20261104-1300-warhorse",
+      "seriesId": "verified-series-warhorse",
+      "title": "戦火の馬",
+      "stationId": "nhk_bs",
+      "start": "2026-11-04T13:00:00+09:00",
+      "end": "2026-11-04T15:28:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "updatedAt": "2026-10-29T13:08:23.000+09:00",
+      "genreEvidence": {
+        "movie": "対象日・NHK BS・開始終了を個別表で確認。映画枠。別の専門映画記事でも同日の13時開始を発見したが本文取得失敗は照合完了に含めない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-tvtokyo-20261104-1340-unknown",
+      "seriesId": "verified-series-unknown2011",
+      "title": "アンノウン",
+      "stationId": "tvtokyo",
+      "start": "2026-11-04T13:40:00+09:00",
+      "end": "2026-11-04T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T13:08:23.000+09:00",
+      "updatedAt": "2026-10-29T13:08:23.000+09:00",
+      "genreEvidence": {
+        "movie": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
       },
       "status": "provider_confirmed",
       "publicationApproved": true,

@@ -1000,5 +1000,37 @@
       "semanticSha256": "99bf6a2fe781956b5831c1d841dacb47c8722a3e30ee64f75054347f860d585e",
       "programs": 142
     }
+  },
+  {
+    "at": "2026-10-29T13:09:34+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 145,
+    "aiAccepted": 21,
+    "aiHeld": 16,
+    "batchId": "scheduled-heartbeat-20261029T130447JST",
+    "researchExecutionContext": "scheduled_heartbeat",
+    "diff": {
+      "added": [
+        "official-bsntv-20261103-2100-mousoutrain",
+        "official-tvtokyo-20261101-0730-pokedoko",
+        "verified-nhkbs-20261104-1300-warhorse",
+        "verified-tvtokyo-20261104-1340-unknown"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "verified-nhkbs-20261029-1300-brothersanta"
+      ]
+    },
+    "counts": {
+      "added": 4,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
   }
 ]
