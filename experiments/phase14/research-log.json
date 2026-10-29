@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-29T06:59:30Z",
+  "executionContext": "interactive_experiment",
+  "windowStart": "2026-10-29T00:00:00+09:00",
+  "windowEnd": "2026-11-05T00:00:00+09:00",
+  "B_queries": [
+    "site:tbs.co.jp/tv/ \"2026年11月1日\"",
+    "site:bs-asahi.co.jp \"2026年10月31日\" \"放送\"",
+    "site:bs-asahi.co.jp \"2026年11月2日\" \"放送\"",
+    "site:tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/ \"2026/10/31\"",
+    "site:tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/ \"2026/11/3\"",
+    "site:tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/ \"2026/11/1\"",
+    "site:tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/ \"2026/11/3\"",
+    "site:bs11.jp \"11月1日放送\" \"2026\"",
+    "site:ntv.co.jp \"2026年11月2日\" \"放送\"",
+    "site:chiba-tv.com \"2026年11月3日\"",
+    "site:bs4.jp \"2026年10月31日\"",
+    "site:bsfuji.tv \"2026年11月4日\""
+  ],
+  "A_followup_queries": [
+    {
+      "genreId": "golf",
+      "query": "ゴルフサバイバル ゴルフ侍 Weekly女子ゴルフ 2026年10月29日 11月4日 無料BS",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "fishing",
+      "query": "THEフィッシング 夢釣行 マグロ 番組 2026年10月31日 11月4日",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "health",
+      "query": "健康カプセル きょうの健康 医療 テレビ 2026年11月1日 11月4日",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "architecture",
+      "query": "辰巳琢郎 家物語 建もの探訪 2026年10月31日 住宅",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "travel",
+      "query": "ブラタモリ モヤモヤさまぁ ぶらり 2026年10月31日 11月4日",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "disney",
+      "query": "ディズニー ヒルナンデス テレビ特集 2026年10月29日 11月4日",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ ユニバーサル テレビ特集 2026年10月29日 11月4日",
+      "route": "A_followup_after_B_not_blinded"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "有吉ゼミ デカ盛り 大食い 2026年11月2日 番組内容",
+      "route": "A_followup_after_B_not_blinded"
+    }
+  ],
+  "discoveryFailures": [
+    {
+      "source": "NHK API portal and FAQ",
+      "result": "zero parsed lines; credentials and terms unverified"
+    },
+    {
+      "source": "TVTokyo timetable",
+      "result": "static view no programme slots; no hidden endpoint bypass"
+    },
+    {
+      "source": "BSAsahi weekly timetable",
+      "result": "flattened text loses day/hour grid relations; not used to infer timestamps"
+    },
+    {
+      "source": "BSFuji Koishi",
+      "result": "index and body disagree; held"
+    },
+    {
+      "source": "BS4 WELeague",
+      "result": "official dated index verified; body cache miss"
+    }
+  ],
+  "stoppingReason": "Bounded feasibility sample. Broad source authorisation not secured; further bulk collection is not justified. Complementary new facts and known misses are sufficient to reject a full switch in this experiment."
+}

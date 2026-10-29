@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-29T06:59:30Z",
+  "selection": "Post-hoc anchors checked against individual official URLs, separate from published JSON; not random, not blinded, not an exhaustive or statistically independent ground truth.",
+  "records": [
+    {
+      "title": "女子ゴルフペアマッチ選手権",
+      "stationId": "bsasahi",
+      "start": "2026-11-02T21:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+      "checkedAt": "2026-10-29T06:59:30Z"
+    },
+    {
+      "title": "ＴＨＥフィッシング 大型トラウト乱舞！エリアトラウトフィッシング",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T17:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+      "checkedAt": "2026-10-29T06:59:30Z"
+    },
+    {
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-29T06:59:30Z"
+    },
+    {
+      "title": "辰巳琢郎の家物語 リモデル★きらり",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T12:00:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+      "checkedAt": "2026-10-29T06:59:30Z"
+    },
+    {
+      "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T11:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/samaazu2/smp/",
+      "checkedAt": "2026-10-29T06:59:30Z"
+    }
+  ],
+  "unresolvedGenres": [
+    "disney",
+    "usj",
+    "big_eating"
+  ],
+  "warning": "Do not calculate true-negative rate or global recall from no programmes found."
+}

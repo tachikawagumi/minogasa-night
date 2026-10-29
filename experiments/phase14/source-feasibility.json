@@ -1,0 +1,228 @@
+{
+  "checkedAt": "2026-10-29T06:59:30Z",
+  "sources": {
+    "tvtokyo": {
+      "urls": [
+        "https://www.tv-tokyo.co.jp/timetable/",
+        "https://www.tv-tokyo.co.jp/index/company/link.html"
+      ],
+      "coverage": "東京地上波・BSテレ東。今回の個別日付ページは確認できたが週間表の静的テキストは枠を展開しなかった。",
+      "sevenDays": "今回10/31〜11/3の個別ページ確認、全7日全枠は未検証",
+      "automated": false,
+      "reason": "一般公開と大量自動取得/再配信の許諾は別。今回の個別最小事実のみ。",
+      "id": "tvtokyo",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17578_202611011155.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22158_202611031005.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22135_202611031825.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/12978_202611032054.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26970_202611032312.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/25390_202611032155.html"
+      ],
+      "stationIds": [
+        "tvtokyo",
+        "bstvtokyo"
+      ]
+    },
+    "bsasahi": {
+      "urls": [
+        "https://www.bs-asahi.co.jp/bangumi/",
+        "https://www.bs-asahi.co.jp/business_hotel/"
+      ],
+      "coverage": "無料BS朝日。週間表テキストは日列と時刻の対応が失われ、そのまま時刻を結合できない。",
+      "sevenDays": "日付UIは11/4まであるが全日データ抽出の正確性は未検証",
+      "automated": false,
+      "reason": "既存の個別事実審査の範囲のみ。表全体の自動再提供の許諾なし。",
+      "id": "bsasahi",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [
+        "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+        "https://www.bs-asahi.co.jp/aotomidori/",
+        "https://www.bs-asahi.co.jp/jinseiutagaaru/lineup/prg2_0323/",
+        "https://www.bs-asahi.co.jp/onestep/lineup/prg_030/",
+        "https://www.bs-asahi.co.jp/jibunryu/",
+        "https://www.bs-asahi.co.jp/zommasu-anime/",
+        "https://www.bs-asahi.co.jp/figure2026/"
+      ],
+      "stationIds": [
+        "bsasahi"
+      ]
+    },
+    "tbs": {
+      "urls": [
+        "https://www.tbs.co.jp/tv/",
+        "https://www.tbs.co.jp/sitepolicy/rights.html"
+      ],
+      "coverage": "関東TBS。日付付き枠リンクに開始/終了数値あり。",
+      "sevenDays": "今回の取得結果は10/26〜11/1中心、11/2〜4の全枠を保証できない",
+      "automated": false,
+      "reason": "著作物の無断転載禁止を確認。個別最小事実の参照と全表自動複製を区別。",
+      "id": "tbs",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C34E.html",
+        "https://www.tbs.co.jp/heritage/next/",
+        "https://www.tbs.co.jp/tv/20261101_C350.html"
+      ],
+      "stationIds": [
+        "tbs"
+      ]
+    },
+    "bsntv": {
+      "urls": [
+        "https://www.bs4.jp/programschedule/",
+        "https://www.bs4.jp/yumetyoko/"
+      ],
+      "coverage": "無料BS日テレ。全体表の静的取得不可、番組の個別次回は取得可能。",
+      "sevenDays": "10/31回確認、全7日の完全取得は未検証",
+      "automated": false,
+      "reason": "この試作は通常閲覧による個別事実のみ。広域自動取得条件は未確保。",
+      "id": "bsntv",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [
+        "https://www.bs4.jp/yumetyoko/",
+        "https://www.bs4.jp/italy/",
+        "https://www.bs4.jp/weleague2026/"
+      ],
+      "stationIds": [
+        "bsntv"
+      ]
+    },
+    "bs11": {
+      "urls": [
+        "https://www.bs11.jp/copyright/"
+      ],
+      "coverage": "BS11。既存アニメ/ゴルフ個別情報あり。",
+      "sevenDays": "広域全7日未検証",
+      "automated": false,
+      "reason": "著作物転載禁止。全表自動取得/再提供の許諾として扱わない。",
+      "id": "bs11",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [],
+      "stationIds": [
+        "bs11"
+      ]
+    },
+    "nhk": {
+      "urls": [
+        "https://api-portal.nhk.or.jp/",
+        "https://api-portal.nhk.or.jp/faq-page"
+      ],
+      "coverage": "NHK各波向けAPIの公式案内が検索で見つかった。",
+      "sevenDays": "本実行でポータル/FAQ本文取得0行。仕様/利用条件/キー取得を検証できず",
+      "automated": false,
+      "reason": "APIキーが必要という索引情報のみ。未登録、未契約。サービス終了と断定せず、アプリ再配信条件は未確認。",
+      "id": "nhk",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "今回は未利用・支出0。APIの現行料金・登録条件は未検証。",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [],
+      "stationIds": [
+        "nhk_g",
+        "nhk_e",
+        "nhk_bs",
+        "nhk_bsp4k"
+      ]
+    },
+    "syobocal": {
+      "urls": [
+        "https://docs.cal.syoboi.jp/about/",
+        "https://docs.cal.syoboi.jp/spec/feeds/",
+        "https://docs.cal.syoboi.jp/rule/bot/"
+      ],
+      "coverage": "アニメ・関連番組のみ。全20ジャンルの総合EPGではない。",
+      "sevenDays": "既存本番に11/4までの未来枠あり。新たなAPI照会なし",
+      "automated": true,
+      "reason": "自動取得・コピーの公開方針あり。固有User-Agent、使用URL明示、レート制限を守る既存処理を維持。",
+      "id": "syobocal",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "既存API取得は可。AI分類/検索は別環境",
+      "individuallyReviewedUrls": [],
+      "stationIds": [
+        "nhk_g",
+        "nhk_e",
+        "fuji",
+        "ntv",
+        "tbs",
+        "tvasahi",
+        "tvtokyo",
+        "chiba",
+        "bstvtokyo",
+        "bstbs",
+        "bsfuji",
+        "bsasahi",
+        "mx",
+        "bsntv",
+        "bs11",
+        "bs12",
+        "mx2",
+        "nhk_bs",
+        "nhk_bsp4k"
+      ]
+    },
+    "gguide": {
+      "urls": [
+        "https://bangumi.org/policies/user_policy"
+      ],
+      "coverage": "地上波・BS等の広域表。",
+      "sevenDays": "未取得（採用しない）",
+      "automated": false,
+      "reason": "第3条の情報再提供、第4条の無許可自動収集・類似サービス構築等の制限。採用しない。",
+      "id": "gguide",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [],
+      "stationIds": []
+    },
+    "xmltv_japanepg": {
+      "urls": [
+        "https://github.com/richardallensmith/japan-epg"
+      ],
+      "coverage": "READMEに地上波・BS/CS混在、民放の元データGガイドと記載。",
+      "sevenDays": "未取得（上流条件不足）",
+      "automated": false,
+      "reason": "公開XMLを取得できることは上流番組データの再配信権限を保証しない。Gガイド条件を継承する問題があり採用しない。",
+      "id": "xmltv_japanepg",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [],
+      "stationIds": []
+    },
+    "xmltv_japanterebi": {
+      "urls": [
+        "https://github.com/Animenosekai/japanterebi-xmltv",
+        "https://github.com/iptv-org/epg/blob/master/README.md"
+      ],
+      "coverage": "各EPGサイトを収集するコード。局データと放送枠データは別。",
+      "sevenDays": "今回XML未取得。上流ごとの日数/更新に依存",
+      "automated": false,
+      "reason": "OSSコードや局一覧のライセンスと番組枠の権利を混同しない。上流ごとの許諾未確認につき不採用。",
+      "id": "xmltv_japanterebi",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "cost": "追加支出0円（有料契約なし）",
+      "actions": "技術的に取得可能でも条件未確保のため自動収集しない",
+      "individuallyReviewedUrls": [],
+      "stationIds": []
+    }
+  },
+  "conclusion": "No verified zero-cost all-genre broad timetable source with automated retrieval AND redistribution rights was secured. Existing anime source remains usable."
+}

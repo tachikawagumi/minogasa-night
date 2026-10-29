@@ -1,0 +1,483 @@
+{
+  "windowStart": "2026-10-29T00:00:00+09:00",
+  "windowEnd": "2026-11-05T00:00:00+09:00",
+  "checkedAt": "2026-10-29T06:59:30Z",
+  "observations": [
+    {
+      "observationId": "B-kyoto",
+      "title": "あなたの知らない京都旅 名画から名刹まで！都の秘蔵めぐり",
+      "stationId": "bsasahi",
+      "start": "2026-11-02T21:00:00+09:00",
+      "end": "2026-11-02T21:54:00+09:00",
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-charge",
+      "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+      "stationId": "tvtokyo",
+      "start": "2026-10-31T18:30:00+09:00",
+      "end": "2026-10-31T20:55:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-airwalk",
+      "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-01T14:30:00+09:00",
+      "end": "2026-11-01T16:25:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-gaia",
+      "title": "ガイアの夜明け【世界遺産、その先に…】",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-01T22:30:00+09:00",
+      "end": "2026-11-01T23:25:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-yumetyoko",
+      "title": "夢釣行～一魚一会の旅～",
+      "stationId": "bsntv",
+      "start": "2026-10-31T17:00:00+09:00",
+      "end": "2026-10-31T17:30:00+09:00",
+      "sourceId": "bsntv",
+      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-italy",
+      "title": "小さな村の物語 イタリア",
+      "stationId": "bsntv",
+      "start": "2026-10-31T18:00:00+09:00",
+      "end": "2026-10-31T18:54:00+09:00",
+      "sourceId": "bsntv",
+      "sourceUrl": "https://www.bs4.jp/italy/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-private-rail",
+      "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+      "stationId": "tvtokyo",
+      "start": "2026-11-01T18:30:00+09:00",
+      "end": "2026-11-01T20:50:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-ai-challenge",
+      "title": "さらばのＡＩサマの言うとおり～ガチ検証で奇跡連発！～",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T12:00:00+09:00",
+      "end": "2026-11-03T12:55:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-weleague",
+      "title": "2026-27 WEリーグ 日テレ・東京ヴェルディベレーザ×ＲＢ大宮アルディージャＷＯＭＥＮ",
+      "stationId": "bsntv",
+      "start": "2026-10-31T15:00:00+09:00",
+      "end": "2026-10-31T17:30:00+09:00",
+      "sourceId": "bsntv",
+      "sourceUrl": "https://www.bs4.jp/weleague2026/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-genki",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-01T07:00:00+09:00",
+      "end": "2026-11-01T07:30:00+09:00",
+      "sourceId": "tbs",
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-heritage",
+      "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+      "stationId": "tbs",
+      "start": "2026-11-01T18:00:00+09:00",
+      "end": "2026-11-01T18:30:00+09:00",
+      "sourceId": "tbs",
+      "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-aotomidori",
+      "title": "青と碧 第5話",
+      "stationId": "bsasahi",
+      "start": "2026-11-02T23:24:00+09:00",
+      "end": "2026-11-02T23:54:00+09:00",
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/aotomidori/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_individual_reference",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-songs",
+      "title": "人生、歌がある",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T19:00:00+09:00",
+      "end": "2026-10-31T20:54:00+09:00",
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/jinseiutagaaru/lineup/prg2_0323/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-onestep",
+      "title": "銀のマルシェ presents 人生のワンステップ",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T18:30:00+09:00",
+      "end": "2026-10-31T18:54:00+09:00",
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/onestep/lineup/prg_030/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-jibunryu",
+      "title": "自分流～“知”の探求者たち～",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T23:00:00+09:00",
+      "end": "2026-10-31T23:30:00+09:00",
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/jibunryu/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-sunday",
+      "title": "サンデーモーニング",
+      "stationId": "tbs",
+      "start": "2026-11-01T08:00:00+09:00",
+      "end": "2026-11-01T09:54:00+09:00",
+      "sourceId": "tbs",
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C350.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-mystery-drama",
+      "title": "傑作ミステリー『小杉健治サスペンス 当番弁護士２・梶原藤子の事件ファイル』",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-01T11:55:00+09:00",
+      "end": "2026-11-01T14:00:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17578_202611011155.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-horse",
+      "title": "青春サラブレッド",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T10:05:00+09:00",
+      "end": null,
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22158_202611031005.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-shock",
+      "title": "衝撃ファイル～動物ハプニング＆金採掘！3人の凄腕ゴールドハンター＆41歳母殺人",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T18:25:00+09:00",
+      "end": "2026-11-03T20:54:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22135_202611031825.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-kantei",
+      "title": "開運！なんでも鑑定団",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T20:54:00+09:00",
+      "end": "2026-11-03T21:55:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/12978_202611032054.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-money",
+      "title": "世の中お金で見てみよう",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T23:12:00+09:00",
+      "end": "2026-11-04T00:01:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26970_202611032312.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-tokyogood",
+      "title": "東京ＧＯＯＤ！TREASUREMAP",
+      "stationId": "tvtokyo",
+      "start": "2026-11-03T21:55:00+09:00",
+      "end": "2026-11-03T22:00:00+09:00",
+      "sourceId": "tvtokyo",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/25390_202611032155.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "verificationMethod": "official_dated_search_index",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "rerun": null
+    },
+    {
+      "observationId": "B-stale-koishi",
+      "title": "ドクター小石の事件カルテ 血痕",
+      "stationId": "bsfuji",
+      "start": null,
+      "end": null,
+      "sourceId": "bsfuji",
+      "sourceUrl": "https://www.bsfuji.tv/docterkoishi/pub/index.html",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": false
+      },
+      "claimedStart": "2026-11-04T11:58:00+09:00",
+      "holdReason": "検索索引は11/4、本文は4/27。矛盾を推測で解消しない。",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference"
+    },
+    {
+      "observationId": "B-zombie-midnight",
+      "title": "#ゾンビさがしてます",
+      "stationId": "bsasahi",
+      "start": null,
+      "end": null,
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/zommasu-anime/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": false
+      },
+      "claimedLiteral": "2026年10月31日 深夜1:00〜1:30",
+      "holdReason": "放送日表記と暦日の対応を追加照合待ち。ホラー映画扱いもしない。",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference"
+    },
+    {
+      "observationId": "B-figure-subchannel",
+      "title": "フィギュアスケートグランプリシリーズ2026 カナダ大会 女子フリー",
+      "stationId": "bsasahi152",
+      "start": "2026-11-02T05:00:00+09:00",
+      "end": null,
+      "sourceId": "bsasahi",
+      "sourceUrl": "https://www.bs-asahi.co.jp/figure2026/",
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "verification": {
+        "title": true,
+        "station": true,
+        "datetime": true
+      },
+      "holdReason": "152chを151chへ読み替えない。対象局の登録・20ジャンルの根拠なし。",
+      "discoveryRoute": "station_date_no_genre",
+      "acquisitionMode": "individual_reference",
+      "verificationMethod": "official_dated_search_index"
+    }
+  ],
+  "coverage": "bounded individual official schedule/page observations, not all station-days or a bulk EPG"
+}

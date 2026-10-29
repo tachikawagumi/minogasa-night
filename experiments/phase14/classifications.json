@@ -1,0 +1,292 @@
+{
+  "checkedAt": "2026-10-29T06:59:30Z",
+  "method": "Actual ChatGPT Work review of episode content; replay does not call AI",
+  "annotations": [
+    {
+      "observationId": "B-kyoto",
+      "genreIds": [
+        "travel"
+      ],
+      "decision": "supported",
+      "basis": "当該回の地域巡訪を確認。銭湯名の出現だけでは温泉にしない。",
+      "contentSourceUrls": [
+        "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-charge",
+      "genreIds": [
+        "travel"
+      ],
+      "decision": "supported",
+      "basis": "当該回は長野での移動・観光を扱う。電動バイクの利用だけで車ジャンルを付けない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-airwalk",
+      "genreIds": [
+        "travel"
+      ],
+      "decision": "supported",
+      "basis": "当該回の河川沿いの景観・地域の見所を確認。駅名が出るだけでは鉄道にしない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-gaia",
+      "genreIds": [
+        "architecture"
+      ],
+      "decision": "supported",
+      "basis": "当該回で建築物の劣化保全と伝統木造建築の修復技術を扱うことを確認。番組名からではなく回の内容で建築分類。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-yumetyoko",
+      "genreIds": [
+        "fishing"
+      ],
+      "decision": "supported",
+      "basis": "公式の次回10/31と同ページの放送時刻を照合し、当該回の鮎の友釣りを確認。",
+      "contentSourceUrls": [
+        "https://www.bs4.jp/yumetyoko/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-italy",
+      "genreIds": [
+        "travel"
+      ],
+      "decision": "supported",
+      "basis": "現行次回10/31・放送時間と、イタリアの村の風土を扱う回を照合。日曜アンコール枠は生成しない。",
+      "contentSourceUrls": [
+        "https://www.bs4.jp/italy/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-private-rail",
+      "genreIds": [
+        "railway"
+      ],
+      "decision": "supported",
+      "basis": "当該回の私鉄車両・運転席・鉄道設備の取材を確認。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-ai-challenge",
+      "genreIds": [
+        "challenge"
+      ],
+      "decision": "supported",
+      "basis": "当該回でオセロと運動競技でAIの助言を検証する対決企画を確認。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-weleague",
+      "genreIds": [
+        "soccer"
+      ],
+      "decision": "supported",
+      "basis": "公式の日付付き検索索引に女子サッカーの試合名・局・日時を確認。本文はCache missで索引照合と区別。",
+      "contentSourceUrls": [
+        "https://www.bs4.jp/weleague2026/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-genki",
+      "genreIds": [
+        "health"
+      ],
+      "decision": "supported",
+      "basis": "公式の健康情報の目的と日付・開始、公式週間表の終了を照合。",
+      "contentSourceUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C34E.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-heritage",
+      "genreIds": [
+        "travel"
+      ],
+      "decision": "supported",
+      "basis": "当該回のジンバブエの地理・文化的景観の訪問を確認。日時は公式週間表と照合。",
+      "contentSourceUrls": [
+        "https://www.tbs.co.jp/heritage/next/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-aotomidori",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "一般ドラマの回。20ジャンルへの該当根拠なし。",
+      "contentSourceUrls": [
+        "https://www.bs-asahi.co.jp/aotomidori/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-songs",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "歌唱番組。音楽や出演者だけでダンスを付けない。",
+      "contentSourceUrls": [
+        "https://www.bs-asahi.co.jp/jinseiutagaaru/lineup/prg2_0323/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-onestep",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "当該回の主題は猫関連事業への転身。家の購入だけで住宅探訪を付けない。",
+      "contentSourceUrls": [
+        "https://www.bs-asahi.co.jp/onestep/lineup/prg_030/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-jibunryu",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "当該回は美術家の活動。20ジャンルに無理に分類しない。",
+      "contentSourceUrls": [
+        "https://www.bs-asahi.co.jp/jibunryu/"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-sunday",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "一般ニュース・スポーツの案内だけでは特定競技の当該回特集を確定しない。",
+      "contentSourceUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C350.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-mystery-drama",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "刑事・法廷ドラマ。ミステリーという文字だけでUFO・ホラー映画へ分類しない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17578_202611011155.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-horse",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "当該回は獣医師と競走馬。人間向け健康情報として分類しない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22158_202611031005.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-shock",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "金採掘や犯罪の案内だけではゴルフ・ホラー映画・UFO・ゲーム競技の根拠にならない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/22135_202611031825.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-kantei",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "当該回の骨董鑑定から住宅探訪を推定しない。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/12978_202611032054.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-money",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "経済番組。20ジャンルの回内容根拠なし。終了24:01は翌日00:01へ明示変換。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26970_202611032312.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    },
+    {
+      "observationId": "B-tokyogood",
+      "genreIds": [],
+      "decision": "no_supported_genre",
+      "basis": "当該回は町工場の技術。工場というだけで建物探訪にせず追加内容照合が必要。",
+      "contentSourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/25390_202611032155.html"
+      ],
+      "checkedAt": "2026-10-29T06:59:30Z",
+      "reviewer": "ChatGPT Work interactive episode-content review",
+      "derivedFromTitleOnly": false
+    }
+  ]
+}
