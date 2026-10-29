@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-10-29T15:15:36.030724+09:00",
+  "observedAt": "2026-10-29T20:26:05.361989+09:00",
   "targetWindow": {
     "start": "2026-10-29T00:00:00+09:00",
     "endExclusive": "2026-11-05T00:00:00+09:00"
   },
   "lastAIResearch": {
-    "at": "2026-10-29T14:42:05+09:00",
+    "at": "2026-10-29T20:23:49+09:00",
     "executionContext": "interactive_preflight",
-    "batchId": "phase13-interactive-20261029",
-    "genresSearched": 20,
-    "queries": 68,
-    "currentWindowQueries": 68,
+    "batchId": "phase15-interactive-20261029",
+    "genresSearched": 1,
+    "queries": 8,
+    "currentWindowQueries": 8,
     "searchResult": "executed_search_logs",
-    "newCandidates": 8,
-    "newPublic": 0,
+    "newCandidates": 11,
+    "newPublic": 11,
     "publicationStatus": "published",
-    "hoursSinceResearch": 0.56,
+    "hoursSinceResearch": 0.04,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,12 +29,12 @@
     "status": "late_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-10-29T15:15:07+09:00",
+  "lastAnimeSuccessAt": "2026-10-29T20:25:38+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-10-29T15:15:07+09:00",
+    "at": "2026-10-29T20:25:38+09:00",
     "counts": {
-      "added": 0,
+      "added": 11,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "40828054919",
+    "runId": "40865270896",
     "event": "push",
-    "observedAt": "2026-10-29T15:15:36.030724+09:00",
+    "observedAt": "2026-10-29T20:26:05.361989+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-10-29T15:15:35+09:00",
+    "verifiedAt": "2026-10-29T20:26:05+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "28e8b8d5fb0266471d9afbdee8d112019b87500334ba2e4639d88d7ed6ae7816"
+    "semanticSha256": "7b0f733219bf0f4ce9e25d37e2f6e75acf8c2dde2f926e7ceedb34244368ec6d"
   },
   "genreCoverage": [
     {
@@ -106,14 +106,14 @@
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "programs": 1,
-      "lastStart": "2026-10-31T12:00:00+09:00"
+      "programs": 2,
+      "lastStart": "2026-11-01T22:30:00+09:00"
     },
     {
       "genreId": "car",
       "name": "車",
-      "programs": 2,
-      "lastStart": "2026-11-02T13:00:00+09:00"
+      "programs": 5,
+      "lastStart": "2026-11-04T22:30:00+09:00"
     },
     {
       "genreId": "dance",
@@ -142,7 +142,7 @@
     {
       "genreId": "fishing",
       "name": "釣り",
-      "programs": 1,
+      "programs": 2,
       "lastStart": "2026-10-31T17:30:00+09:00"
     },
     {
@@ -154,14 +154,14 @@
     {
       "genreId": "travel",
       "name": "旅",
-      "programs": 5,
+      "programs": 10,
       "lastStart": "2026-11-03T21:00:00+09:00"
     },
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
-      "programs": 2,
-      "lastStart": "2026-11-01T07:30:00+09:00"
+      "programs": 3,
+      "lastStart": "2026-11-03T12:00:00+09:00"
     },
     {
       "genreId": "anime",
@@ -172,11 +172,11 @@
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "programs": 2,
+      "programs": 3,
       "lastStart": "2026-11-03T21:00:00+09:00"
     }
   ],
-  "publicPrograms": 156,
+  "publicPrograms": 167,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",

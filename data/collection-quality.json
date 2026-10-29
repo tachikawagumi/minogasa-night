@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-29T20:25:44+09:00",
+  "checkedAt": "2026-10-29T20:26:05+09:00",
   "batchId": "phase15-interactive-20261029",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 79,
   "inputDuplicates": 0,
   "conflictingIds": [],
