@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-27T18:01:23+09:00",
+  "checkedAt": "2026-10-29T09:40:31+09:00",
   "batchId": "phase10-interactive-web-search-20261027",
   "records": [
     {
@@ -155,6 +155,63 @@
         "sourcePolicyId": "official_unreviewed"
       },
       "reason": "情報源の取得・再配信条件が未確認"
+    },
+    {
+      "candidate": {
+        "id": "official-fuji-20261028-1900-nandakore",
+        "title": "世界の何だコレ!?ミステリー",
+        "stationId": "fuji",
+        "start": "2026-10-28T19:00:00+09:00",
+        "genreIds": [
+          "ufo"
+        ],
+        "sourceUrl": "https://www.fujitv.co.jp/sekainonandakore/",
+        "sourcePolicyId": "fuji_nandakore_20261028_minimal_fact"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "verified-bs12-20261028-1900-jeans",
+        "title": "ジーンズブルース 明日なき無頼派",
+        "stationId": "bs12",
+        "start": "2026-10-28T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "verified-nhke-20261028-2200-backyard",
+        "title": "ザ・バックヤード 鉄道総合技術研究所 鉄道の未来を変える最前線",
+        "stationId": "nhk_e",
+        "start": "2026-10-28T22:00:00+09:00",
+        "genreIds": [
+          "railway"
+        ],
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bsntv-20261027-2100-mousoutrain",
+        "title": "友近・礼二の妄想トレイン 日帰りで楽しむ 紅葉鉄道旅",
+        "stationId": "bsntv",
+        "start": "2026-10-27T21:00:00+09:00",
+        "genreIds": [
+          "travel",
+          "railway"
+        ],
+        "sourceUrl": "https://www.bs4.jp/mousou-train/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-10-27T18:02:32+09:00",
+  "checkedAt": "2026-10-29T09:40:36+09:00",
   "batchId": "phase10-interactive-web-search-20261027",
-  "target": "current_public_json",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 46,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 12,
+  "newRegistrations": 22,
   "updates": 0,
-  "alreadyPublished": 30,
-  "held": 16,
+  "alreadyPublished": 23,
+  "held": 21,
   "heldReasonCounts": {
-    "outside_window": 5,
+    "outside_window": 12,
     "terms_unconfirmed": 16,
     "datetime_unconfirmed": 5,
     "genre_uncertain": 5,
@@ -57,7 +57,7 @@
       "holdReasons": [
         "第三者の再放送告知はあるが2026/11/1の局・開始終了を公式で再確認できない。オンデマンドの過去回を未来枠にしない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -100,7 +100,7 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 8,
       "datetimeConfirmed": 2,
       "held": 2,
@@ -112,28 +112,28 @@
       "genreId": "ufo",
       "name": "UFO・都市伝説",
       "candidates": 2,
-      "publicPrograms": 2,
+      "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "zeroExplanation": "判定保留",
+      "currentWindowSearches": 0,
       "searches": 7,
       "datetimeConfirmed": 2,
-      "held": 0,
+      "held": 2,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "movie",
       "name": "映画",
       "candidates": 18,
-      "publicPrograms": 14,
+      "publicPrograms": 11,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 7,
+      "currentWindowSearches": 0,
       "searches": 9,
       "datetimeConfirmed": 15,
-      "held": 5,
+      "held": 6,
       "excluded": 3,
       "omissions": 0,
       "zeroReasonCode": null
@@ -145,7 +145,7 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 6,
+      "currentWindowSearches": 0,
       "searches": 8,
       "datetimeConfirmed": 1,
       "held": 0,
@@ -160,7 +160,7 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 4,
+      "currentWindowSearches": 0,
       "searches": 6,
       "datetimeConfirmed": 0,
       "held": 0,
@@ -175,7 +175,7 @@
       "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": "情報源不足・個別の公式予定未確認（不存在とは断定しない）",
-      "currentWindowSearches": 4,
+      "currentWindowSearches": 0,
       "searches": 6,
       "datetimeConfirmed": 0,
       "held": 0,
@@ -187,16 +187,16 @@
       "genreId": "big_eating",
       "name": "大食い",
       "candidates": 1,
-      "publicPrograms": 1,
+      "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "zeroExplanation": "判定保留",
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "onsen",
@@ -205,7 +205,7 @@
       "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
@@ -220,7 +220,7 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 0,
@@ -232,10 +232,10 @@
       "genreId": "car",
       "name": "車",
       "candidates": 3,
-      "publicPrograms": 3,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 2,
       "held": 1,
@@ -250,7 +250,7 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 0,
       "held": 0,
@@ -262,10 +262,10 @@
       "genreId": "golf",
       "name": "ゴルフ",
       "candidates": 3,
-      "publicPrograms": 2,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 3,
       "held": 2,
@@ -277,10 +277,10 @@
       "genreId": "soccer",
       "name": "サッカー",
       "candidates": 0,
-      "publicPrograms": 2,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 0,
       "held": 0,
@@ -292,16 +292,16 @@
       "genreId": "baseball",
       "name": "野球",
       "candidates": 1,
-      "publicPrograms": 1,
+      "publicPrograms": 0,
       "searchCoverage": "name_and_genre_searched",
-      "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "zeroExplanation": "判定保留",
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "decision_pending"
     },
     {
       "genreId": "fishing",
@@ -310,7 +310,7 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 0,
@@ -325,7 +325,7 @@
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
@@ -337,13 +337,13 @@
       "genreId": "travel",
       "name": "旅",
       "candidates": 4,
-      "publicPrograms": 7,
+      "publicPrograms": 4,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 3,
-      "held": 0,
+      "held": 1,
       "excluded": 1,
       "omissions": 0,
       "zeroReasonCode": null
@@ -352,10 +352,10 @@
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
       "candidates": 1,
-      "publicPrograms": 2,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 5,
       "datetimeConfirmed": 1,
       "held": 1,
@@ -367,10 +367,10 @@
       "genreId": "anime",
       "name": "アニメ",
       "candidates": 3,
-      "publicPrograms": 136,
+      "publicPrograms": 118,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 3,
+      "currentWindowSearches": 0,
       "searches": 6,
       "datetimeConfirmed": 3,
       "held": 1,
@@ -382,13 +382,13 @@
       "genreId": "railway",
       "name": "電車・鉄道",
       "candidates": 3,
-      "publicPrograms": 3,
+      "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 5,
+      "currentWindowSearches": 0,
       "searches": 7,
       "datetimeConfirmed": 2,
-      "held": 0,
+      "held": 2,
       "excluded": 1,
       "omissions": 0,
       "zeroReasonCode": null
@@ -418,7 +418,7 @@
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -444,7 +444,7 @@
         "https://www.bs-asahi.co.jp/golfmatch/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -470,7 +470,7 @@
         "https://www.bs-asahi.co.jp/golfjo-tanbo/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -496,7 +496,7 @@
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -522,7 +522,7 @@
         "https://www.tbs.co.jp/tv/20261027_C477.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -531,14 +531,15 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
+        "outside_window",
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -547,7 +548,7 @@
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -556,14 +557,15 @@
       "genreIds": [
         "big_eating"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
+        "outside_window",
         "terms_unconfirmed"
       ],
       "validationReason": "情報源の取得・再配信条件が未確認",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -572,7 +574,7 @@
         "https://www.tbs.co.jp/tv/20261028_C2DA.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -597,7 +599,7 @@
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -669,7 +671,7 @@
         "https://www.tbs.co.jp/tv/20261029_C2FF.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -694,7 +696,7 @@
         "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -719,7 +721,7 @@
         "https://www.tbs.co.jp/tv/20261030_C31B.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -766,7 +768,7 @@
         "https://www.fujitv.co.jp/honkowa/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -812,7 +814,7 @@
         "https://cal.syoboi.jp/6694/time?Filter=7"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -867,12 +869,14 @@
       "genreIds": [
         "ufo"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "過去または7日間の対象外",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -881,7 +885,7 @@
         "https://www.fujitv.co.jp/sekainonandakore/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -890,12 +894,14 @@
       "genreIds": [
         "ufo"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
       "validationReason": null,
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -961,7 +967,7 @@
       "holdReasons": [
         "第三者の再放送告知はあるが2026/11/1の局・開始終了を公式で再確認できない。オンデマンドの過去回を未来枠にしない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1016,7 +1022,7 @@
       "holdReasons": [
         "検索結果で発見。公式個別ページの取得はCache miss。温泉という題名だけでは温泉情報番組に該当するか未確定。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1046,7 +1052,7 @@
       "holdReasons": [
         "検索結果に怪談関連語を発見。本文の個別参照・日時照合は未実施で、犯罪ドラマの怪談語を心霊作品と断定しない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1112,12 +1118,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "過去または7日間の対象外",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1135,12 +1143,14 @@
       "genreIds": [
         "railway"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "過去または7日間の対象外",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1298,12 +1308,14 @@
         "travel",
         "railway"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "過去または7日間の対象外",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
