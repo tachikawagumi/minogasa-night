@@ -2802,6 +2802,686 @@
       "checkedAt": "2026-10-29T14:08:06.000+09:00",
       "windowStart": "2026-10-29T00:00:00+09:00",
       "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "ゴルフサバイバル 2026年10月30日 21:00 番組表 BS日テレ",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "ゴルフサバイバル男 2026年10月30日 22:00",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "ゴルフ侍 見参 2026年11月1日 8:00 番組表",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "Weekly女子ゴルフ 2026年11月1日 23:20 番組表",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "2026年 三菱電機レディス ゴルフ 10月31日 11月1日 テレビ朝日 BS朝日 放送",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "2026年 マイナビABC ゴルフ 10月31日 11月1日 テレビ放送",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "米国 海外ゴルフ 無料 BS 2026年10月29日 11月4日",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "regular_or_tournament",
+      "query": "無料BS ゴルフ レッスン 2026年11月 ゴルフ 交遊抄 トリプルマッチ",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:tv-tokyo.co.jp/broad_bstvtokyo 20261101 ゴルフ侍",
+      "route": "station",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:tv-tokyo.co.jp/broad_tvtokyo 20261101 Weekly 女子",
+      "route": "station",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp 2026.10.30 ゴルフサバイバル",
+      "route": "station",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp 2026.11.01 ゴルフサバイバル男",
+      "route": "station",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "ほんとにあった怖い話 ダークサイドミステリー 怪談 東京 BS 2026年10月29日 11月4日",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "世界の何だコレ ミステリー 2026年11月4日 19時 番組内容 UFO 都市伝説",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "NHK BS 映画 2026年11月3日 追憶 11月4日 戦火の馬 放送局",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "無料BS ホラー サイコ 2026年10月31日 NHK BSプレミアム4K",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "ヒルナンデス ディズニー 特集 2026年10月30日 11月2日 11月3日 11月4日",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "USJ テレビ特集 2026年10月30日 11月1日 11月4日 東京 地上波",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "有吉ゼミ 2026年11月2日 ギャル曽根 大食い 19時",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "秘湯ロマン 2026年10月30日 深夜 3時 温泉 テレビ朝日",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "渡辺篤史 建もの探訪 2026年10月31日 千葉 印西 下山",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "おぎやはぎの愛車遍歴 2026年10月31日 BS日テレ 放送",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "ダンス 大会 テレビ 番組 2026年10月31日 11月4日 熊川哲也",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "サッカー 無料 地上波 BS 2026年10月31日 ルヴァンカップ 決勝 放送",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "日本シリーズ 2026 第6戦 10月31日 第7戦11月1日 放送局 時刻",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "釣り百景 2026年10月29日 11月 BS TBS 22時",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "きょうの健康 東洋医学 鍼灸 2026年11月3日 20時30 Eテレ",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "ぶらり途中下車の旅 2026年10月31日 日本テレビ 放送",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "SASUKE 逃走中 デカ盛り チャレンジ 番組 2026年11月4日",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "日曜アニメ劇場 幻魔大戦 2026年11月1日 BS12 19時",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "鉄オタ選手権 鉄道 絶景の旅 2026年10月29日 11月4日 BS",
+      "route": "broad_to_regular",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "BS 無料 ゴルフ レッスン 岡田圭右 ゴルフのノビシロ 2026年10月31日",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフ 尾崎直道 飯合肇 2026年11月1日 BS11 イレブン",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "国内男子 ゴルフ 2026年10月29日 11月1日 マイナビABC 開催",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "メイバンク選手権 2026 無料 テレビ BS 放送 NHK",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bangumi.org/tv_events \"ゴルフサバイバル\" \"10月30日\"",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bangumi.org/tv_events \"ゴルフ侍\" \"11月1日\" \"8:00\"",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "site:bangumi.org \"有吉ゼミ\" \"11月2日\" \"大食い\"",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "site:ntv.co.jp \"2026\" \"11月2日\" \"有吉ゼミ\"",
+      "route": "regular_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "バンテリン東海クラシック 2026 10月31日 11月1日 放送 フジテレビ 時間",
+      "route": "tournament_or_lesson",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "岡田圭右のゴルフのノビシロ 2026年10月31日 番組表",
+      "route": "tournament_or_lesson",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフレッスン 2026年11月1日 BS11 枠",
+      "route": "tournament_or_lesson",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "ゴルフ侍 2026年11月1日 BSテレ東 午前8時",
+      "route": "tournament_or_lesson",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp/golf_survival/articles/ \"2026年10月\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp/golf_survival_men/articles/ \"2026年10月\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp/golf_survival \"10月2日\" \"10月30日\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs4.jp/golf_survival_men \"10月30日\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:tv-tokyo.co.jp \"岡田圭右\" \"2026/10/31\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "query": "site:bs11.jp \"2026年11月1日\" \"ゴルフ\"",
+      "route": "official_date",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "query": "心霊番組 怪談 特番 2026年11月 無料BS 東京 放送予定",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "query": "UFO 都市伝説 番組表 2026年10月29日 11月4日 ダークサイド",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "query": "地上波 無料BS 映画 週間 2026年11月2日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "query": "ホラー映画 怪奇映画 地上波 BS 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "query": "東京ディズニーリゾート テレビ特集 2026年11月1日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "query": "ユニバーサルスタジオジャパン 情報番組 特集 2026年11月1日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "query": "大食い 爆食 テレビ 放送予定 2026年11月 東京",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "query": "温泉 秘湯 テレビ 番組表 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "query": "住宅 豪邸 建築 BS テレビ 2026年11月 放送予定",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "query": "自動車 モータースポーツ 無料放送 2026年11月1日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "query": "ダンス 大会 パフォーマンス 無料BS 2026年11月 放送",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "query": "サッカー 特集 中継 地上波 無料BS 2026年11月1日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "query": "野球 関連番組 チバテレ 里崎 2026年11月3日 放送",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "query": "釣り マグロ 大間 番組表 2026年11月1日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "query": "健康 医療 テレビ BS 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "query": "旅 旅行 食べ歩き 番組表 無料BS 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "query": "ゲーム 挑戦 テレビ 番組表 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "query": "アニメ 特番 映画 無料BS 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "query": "鉄道旅 車両 テレビ 番組表 2026年11月3日 11月4日",
+      "route": "broad_gap_recheck",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "status": "executed",
+      "tool": "web.run",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00"
     }
   ],
   "discoveries": [
