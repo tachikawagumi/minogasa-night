@@ -1,0 +1,168 @@
+{
+  "completedAt": "2026-10-29T11:31:37.000Z",
+  "executionContext": "interactive_preflight",
+  "implementationCommit": "f14140ac3d332f7c581435b62f5d5bfd1e2728d8",
+  "actions": {
+    "runId": 40865270896,
+    "url": "https://github.com/tachikawagumi/minogasa-night/actions/runs/40865270896",
+    "startedAt": "2026-10-29T20:25:22+09:00",
+    "validate": "success",
+    "refresh": "success",
+    "deploy": "success"
+  },
+  "pages": {
+    "verifiedAt": "2026-10-29T20:26:05+09:00",
+    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+    "httpStatus": 200,
+    "semanticSha256": "7b0f733219bf0f4ce9e25d37e2f6e75acf8c2dde2f926e7ceedb34244368ec6d",
+    "programs": 167
+  },
+  "publicPrograms": 167,
+  "publishedGenres": 15,
+  "carBefore": 2,
+  "carAfter": 5,
+  "genreCoverage": [
+    {
+      "genreId": "ghost",
+      "name": "心霊・怪談",
+      "programs": 2
+    },
+    {
+      "genreId": "ufo",
+      "name": "UFO・都市伝説",
+      "programs": 0
+    },
+    {
+      "genreId": "movie",
+      "name": "映画",
+      "programs": 15
+    },
+    {
+      "genreId": "horror_movie",
+      "name": "ホラー映画",
+      "programs": 1
+    },
+    {
+      "genreId": "disney",
+      "name": "ディズニー",
+      "programs": 0
+    },
+    {
+      "genreId": "usj",
+      "name": "USJ",
+      "programs": 0
+    },
+    {
+      "genreId": "big_eating",
+      "name": "大食い",
+      "programs": 0
+    },
+    {
+      "genreId": "onsen",
+      "name": "温泉",
+      "programs": 2
+    },
+    {
+      "genreId": "architecture",
+      "name": "建物探訪",
+      "programs": 2
+    },
+    {
+      "genreId": "car",
+      "name": "車",
+      "programs": 5
+    },
+    {
+      "genreId": "dance",
+      "name": "ダンス",
+      "programs": 1
+    },
+    {
+      "genreId": "golf",
+      "name": "ゴルフ",
+      "programs": 9
+    },
+    {
+      "genreId": "soccer",
+      "name": "サッカー",
+      "programs": 1
+    },
+    {
+      "genreId": "baseball",
+      "name": "野球",
+      "programs": 0
+    },
+    {
+      "genreId": "fishing",
+      "name": "釣り",
+      "programs": 2
+    },
+    {
+      "genreId": "health",
+      "name": "健康",
+      "programs": 1
+    },
+    {
+      "genreId": "travel",
+      "name": "旅",
+      "programs": 10
+    },
+    {
+      "genreId": "challenge",
+      "name": "ゲーム・チャレンジ",
+      "programs": 3
+    },
+    {
+      "genreId": "anime",
+      "name": "アニメ",
+      "programs": 118
+    },
+    {
+      "genreId": "railway",
+      "name": "電車・鉄道",
+      "programs": 3
+    }
+  ],
+  "changes": {
+    "added": 11,
+    "scheduleChanged": 0,
+    "genreChanged": 0,
+    "removed": 0,
+    "expired": 0
+  },
+  "contributions": {
+    "A_newlyDiscovered": 2,
+    "B_newlyDiscoveredThisRun": 0,
+    "B_revalidatedAndPublished": 9,
+    "B_held": 1
+  },
+  "old156IdsAndSeriesPreserved": true,
+  "tests": {
+    "python": {
+      "total": 109,
+      "failed": 0
+    },
+    "android": {
+      "total": 37,
+      "passed": 31,
+      "skipped": 6,
+      "failed": 0,
+      "productionHttpSourceVerified": true,
+      "physicalUiVerified": false
+    }
+  },
+  "apk": {
+    "version": "0.3.0",
+    "rebuilt": false,
+    "sha256": "257f990c1d06c2d00d7ecf18a4d08c0897c00ffde030dcbd1e52371466f5f32a"
+  },
+  "automation": {
+    "id": "automation",
+    "updated": true,
+    "duplicateCreated": false,
+    "schedule": "Monday and Thursday 09:00 Asia/Tokyo",
+    "unattendedOnTimeVerified": false,
+    "nextVerification": "2026-11-02T09:00:00+09:00"
+  },
+  "additionalMonthlyCost": 0
+}
