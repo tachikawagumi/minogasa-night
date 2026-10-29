@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T13:09:34+09:00",
+  "checkedAt": "2026-10-29T14:13:05+09:00",
   "records": [
     {
       "id": "official-fuji-20261028-1900-nandakore",
@@ -1802,6 +1802,328 @@
         "content": false
       },
       "origin": "scheduled_web_search_20261029"
+    },
+    {
+      "id": "verified-bs12-20261030-1900-royalwarriors",
+      "seriesId": "verified-series-royalwarriors",
+      "title": "皇家戦士",
+      "stationId": "bs12",
+      "start": "2026-10-30T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "当該日付のBS12映画枠を個別照合。追加のテレビ情報記事でも10月30日19時の放送を発見。映画のみ、終了未確認はnull。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "当該日付のBS12映画枠を個別照合。追加のテレビ情報記事でも10月30日19時の放送を発見。映画のみ、終了未確認はnull。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase12-verified-bs12-20261030-1900-royalwarriors",
+        "checkedAt": "2026-10-29T14:08:06.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-bs12-20261030-1900-royalwarriors",
+          "seriesId": "verified-series-royalwarriors",
+          "title": "皇家戦士",
+          "stationId": "bs12",
+          "start": "2026-10-30T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase12_interactive_research"
+    },
+    {
+      "id": "verified-bs12-20261102-1900-showazankyo4",
+      "seriesId": "verified-series-showazankyo-chizome",
+      "title": "昭和残侠伝 血染の唐獅子",
+      "stationId": "bs12",
+      "start": "2026-11-02T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "2026年11月2日BS12の個別映画枠を確認。映画のみ。終了未確認はnull。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "2026年11月2日BS12の個別映画枠を確認。映画のみ。終了未確認はnull。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase12-verified-bs12-20261102-1900-showazankyo4",
+        "checkedAt": "2026-10-29T14:08:06.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-bs12-20261102-1900-showazankyo4",
+          "seriesId": "verified-series-showazankyo-chizome",
+          "title": "昭和残侠伝 血染の唐獅子",
+          "stationId": "bs12",
+          "start": "2026-11-02T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase12_interactive_research"
+    },
+    {
+      "id": "verified-bs12-20261103-1900-truckyaro4",
+      "seriesId": "verified-series-truckyaro-tenkagomen",
+      "title": "トラック野郎 天下御免",
+      "stationId": "bs12",
+      "start": "2026-11-03T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "2026年11月3日BS12の個別映画枠を確認。車の番組だと題名だけで断定せず映画に分類。ORICONの別記事でも同日19時を照合。終了未確認はnull。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "2026年11月3日BS12の個別映画枠を確認。車の番組だと題名だけで断定せず映画に分類。ORICONの別記事でも同日19時を照合。終了未確認はnull。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase12-verified-bs12-20261103-1900-truckyaro4",
+        "checkedAt": "2026-10-29T14:08:06.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-bs12-20261103-1900-truckyaro4",
+          "seriesId": "verified-series-truckyaro-tenkagomen",
+          "title": "トラック野郎 天下御免",
+          "stationId": "bs12",
+          "start": "2026-11-03T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase12_interactive_research"
+    },
+    {
+      "id": "verified-bs12-20261104-1900-satomi1983",
+      "seriesId": "verified-series-satomi1983",
+      "title": "里見八犬伝（1983）",
+      "stationId": "bs12",
+      "start": "2026-11-04T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "2026年11月4日BS12の個別映画枠を確認。妖怪を扱うというだけでホラーへ分類せず映画のみ。終了未確認はnull。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "scheduleVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/"
+      },
+      "sourcePolicyId": "reviewed_schedule_facts",
+      "genreEvidence": {
+        "movie": "2026年11月4日BS12の個別映画枠を確認。妖怪を扱うというだけでホラーへ分類せず映画のみ。終了未確認はnull。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase12-verified-bs12-20261104-1900-satomi1983",
+        "checkedAt": "2026-10-29T14:08:06.000+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "verified-bs12-20261104-1900-satomi1983",
+          "seriesId": "verified-series-satomi1983",
+          "title": "里見八犬伝（1983）",
+          "stationId": "bs12",
+          "start": "2026-11-04T19:00:00+09:00",
+          "end": null,
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase12_interactive_research"
+    },
+    {
+      "id": "watch-tsuioku-20261103",
+      "title": "追憶（1973）",
+      "candidateGenreIds": [
+        "movie"
+      ],
+      "claimedStart": "2026-11-03T13:00:00+09:00",
+      "claimedStation": "NHK BS / NHK BSプレミアム4K（情報が不一致）",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/",
+        "https://cinemore.jp/jp/news-feature/4810/article_p3.html"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "映画候補は発見したが情報源で放送局がBSと4Kに分かれる。別記事本文は取得失敗。放送局を推測せず保留。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "映画候補は発見したが情報源で放送局がBSと4Kに分かれる。別記事本文は取得失敗。放送局を推測せず保留。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "phase12_interactive_research"
+    },
+    {
+      "id": "watch-disney-moana-20261113",
+      "title": "モアナと伝説の海2",
+      "candidateGenreIds": [
+        "movie",
+        "disney"
+      ],
+      "claimedStart": "2026-11-13T21:00:00+09:00",
+      "claimedStation": "日本テレビ（候補）",
+      "sourceUrls": [
+        "https://entafukuzou.com/terrestrial-movie/"
+      ],
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "lastAttemptAt": "2026-10-29T14:08:06.000+09:00",
+      "discoveredAt": "2026-10-29T14:08:06.000+09:00",
+      "classification": {
+        "level": "related",
+        "basis": "現在の対象7日間ではなく11月13日の候補。別の期間内表記も混在しており、期間内へ移動して登録しない。"
+      },
+      "decision": "hold",
+      "holdReasons": [
+        "現在の対象7日間ではなく11月13日の候補。別の期間内表記も混在しており、期間内へ移動して登録しない。"
+      ],
+      "officialVerification": {
+        "title": false,
+        "station": false,
+        "datetime": false,
+        "content": false
+      },
+      "origin": "phase12_interactive_research"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T13:09:34+09:00",
+  "checkedAt": "2026-10-29T14:13:05+09:00",
   "records": [
     {
       "id": "syobocal-720594",
@@ -12,8 +12,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00",
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00",
       "sourceUpdatedAt": "2026-09-25 17:25:20",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -555,6 +555,90 @@
       "updatedAt": "2026-10-29T13:08:23.000+09:00",
       "genreEvidence": {
         "movie": "対象日・テレビ東京・開始終了を個別表で確認。映画として分類。医師の物語だが健康番組ではない。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-bs12-20261030-1900-royalwarriors",
+      "seriesId": "verified-series-royalwarriors",
+      "title": "皇家戦士",
+      "stationId": "bs12",
+      "start": "2026-10-30T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00",
+      "genreEvidence": {
+        "movie": "当該日付のBS12映画枠を個別照合。追加のテレビ情報記事でも10月30日19時の放送を発見。映画のみ、終了未確認はnull。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-bs12-20261102-1900-showazankyo4",
+      "seriesId": "verified-series-showazankyo-chizome",
+      "title": "昭和残侠伝 血染の唐獅子",
+      "stationId": "bs12",
+      "start": "2026-11-02T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00",
+      "genreEvidence": {
+        "movie": "2026年11月2日BS12の個別映画枠を確認。映画のみ。終了未確認はnull。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-bs12-20261103-1900-truckyaro4",
+      "seriesId": "verified-series-truckyaro-tenkagomen",
+      "title": "トラック野郎 天下御免",
+      "stationId": "bs12",
+      "start": "2026-11-03T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00",
+      "genreEvidence": {
+        "movie": "2026年11月3日BS12の個別映画枠を確認。車の番組だと題名だけで断定せず映画に分類。ORICONの別記事でも同日19時を照合。終了未確認はnull。"
+      },
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "ai_schedule_facts",
+      "sourcePolicyId": "reviewed_schedule_facts"
+    },
+    {
+      "id": "verified-bs12-20261104-1900-satomi1983",
+      "seriesId": "verified-series-satomi1983",
+      "title": "里見八犬伝（1983）",
+      "stationId": "bs12",
+      "start": "2026-11-04T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00",
+      "genreEvidence": {
+        "movie": "2026年11月4日BS12の個別映画枠を確認。妖怪を扱うというだけでホラーへ分類せず映画のみ。終了未確認はnull。"
       },
       "status": "provider_confirmed",
       "publicationApproved": true,

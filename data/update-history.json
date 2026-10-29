@@ -1071,5 +1071,37 @@
       "semanticSha256": "627a2242315d7c80f7dd789955fae62d9f411c59934c706cd03141c44a1630db",
       "programs": 145
     }
+  },
+  {
+    "at": "2026-10-29T14:13:05+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 148,
+    "aiAccepted": 25,
+    "aiHeld": 16,
+    "batchId": "phase12-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "verified-bs12-20261030-1900-royalwarriors",
+        "verified-bs12-20261102-1900-showazankyo4",
+        "verified-bs12-20261103-1900-truckyaro4",
+        "verified-bs12-20261104-1900-satomi1983"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "official-4a9c16fb7436ca6009605718"
+      ]
+    },
+    "counts": {
+      "added": 4,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
   }
 ]

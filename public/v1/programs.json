@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceMode": "real",
   "timeZone": "Asia/Tokyo",
-  "generatedAt": "2026-10-29T13:09:34+09:00",
+  "generatedAt": "2026-10-29T14:13:05+09:00",
   "windowStart": "2026-10-29T00:00:00+09:00",
   "windowEnd": "2026-11-05T00:00:00+09:00",
   "updateStatus": "ok",
@@ -173,7 +173,7 @@
       "station": "NHK総合",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -181,7 +181,7 @@
       "station": "NHK Eテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -189,7 +189,7 @@
       "station": "フジテレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -197,7 +197,7 @@
       "station": "日本テレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -205,7 +205,7 @@
       "station": "TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -213,7 +213,7 @@
       "station": "テレビ朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -221,7 +221,7 @@
       "station": "テレビ東京",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -229,7 +229,7 @@
       "station": "チバテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -237,7 +237,7 @@
       "station": "BSテレ東",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -245,7 +245,7 @@
       "station": "BS-TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -253,7 +253,7 @@
       "station": "BSフジ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -261,7 +261,7 @@
       "station": "BS朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -269,7 +269,7 @@
       "station": "TOKYO MX",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -277,7 +277,7 @@
       "station": "BS日テレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -285,7 +285,7 @@
       "station": "BS11イレブン",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -293,7 +293,7 @@
       "station": "BS12トゥエルビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -301,7 +301,7 @@
       "station": "TOKYO MX2",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-10-29T13:09:34+09:00",
+      "animeCheckedAt": "2026-10-29T14:13:05+09:00",
       "complete": false
     },
     {
@@ -322,20 +322,6 @@
     }
   ],
   "programs": [
-    {
-      "id": "official-4a9c16fb7436ca6009605718",
-      "seriesId": "official-series-e2961e602daee66724a31ec9",
-      "title": "ペイバック",
-      "stationId": "tvtokyo",
-      "start": "2026-10-29T13:40:00+09:00",
-      "end": null,
-      "genreIds": [
-        "movie"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-10-24T02:13:50Z",
-      "updatedAt": "2026-10-24T02:13:50Z"
-    },
     {
       "id": "official-5175d86a5b23c2d551acb056",
       "seriesId": "official-series-678637e17660ff2b470c34a2",
@@ -362,8 +348,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-95f2d23a6c58e3fcba1e42a3",
@@ -390,8 +376,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-e70af6e582c0f367c487ed50",
@@ -418,8 +404,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718733",
@@ -432,8 +418,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718633",
@@ -446,8 +432,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-f445556778bac34a57abbf19",
@@ -474,8 +460,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-dad04548a318fe855b73862f",
@@ -502,8 +488,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "phase7-darkside-hell-20261030",
@@ -558,8 +544,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719275",
@@ -572,8 +558,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720594",
@@ -586,8 +572,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
+    },
+    {
+      "id": "verified-bs12-20261030-1900-royalwarriors",
+      "seriesId": "verified-series-royalwarriors",
+      "title": "皇家戦士",
+      "stationId": "bs12",
+      "start": "2026-10-30T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00"
     },
     {
       "id": "official-9e656b41231a20dd6464c746",
@@ -628,8 +628,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718721",
@@ -642,8 +642,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-715387",
@@ -656,8 +656,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720269",
@@ -670,8 +670,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720006",
@@ -684,8 +684,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718844",
@@ -698,8 +698,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722291",
@@ -712,8 +712,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718489",
@@ -726,8 +726,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718511",
@@ -740,8 +740,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716589",
@@ -754,8 +754,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716493",
@@ -768,8 +768,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-721674",
@@ -782,8 +782,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718140",
@@ -796,8 +796,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716614",
@@ -810,8 +810,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722428",
@@ -824,8 +824,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-724329",
@@ -838,8 +838,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "verified-nhkbs-20261031-0630-matsuura",
@@ -882,8 +882,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-715545",
@@ -896,8 +896,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720930",
@@ -910,8 +910,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718342",
@@ -924,8 +924,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722416",
@@ -938,8 +938,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-tvtokyo-20261031-1130-moyasama",
@@ -994,8 +994,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722453",
@@ -1008,8 +1008,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-tvtokyo-20261031-1730-thefishing",
@@ -1036,8 +1036,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719884",
@@ -1050,8 +1050,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-bs12-20261031-1900-diehard3",
@@ -1107,8 +1107,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717643",
@@ -1121,8 +1121,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717749",
@@ -1135,8 +1135,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718764",
@@ -1149,8 +1149,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720256",
@@ -1163,8 +1163,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720671",
@@ -1177,8 +1177,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717585",
@@ -1191,8 +1191,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717562",
@@ -1205,8 +1205,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718265",
@@ -1219,8 +1219,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719896",
@@ -1233,8 +1233,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716854",
@@ -1247,8 +1247,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716724",
@@ -1261,8 +1261,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716944",
@@ -1275,8 +1275,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716712",
@@ -1289,8 +1289,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717146",
@@ -1303,8 +1303,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718236",
@@ -1317,8 +1317,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716482",
@@ -1331,8 +1331,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718411",
@@ -1345,8 +1345,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-710725",
@@ -1359,8 +1359,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-ce810c015779acc089ba403a",
@@ -1401,8 +1401,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722821",
@@ -1415,8 +1415,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-721181",
@@ -1429,8 +1429,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722646",
@@ -1443,8 +1443,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-tbs-20261101-1430-kurumi",
@@ -1471,8 +1471,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717133",
@@ -1485,8 +1485,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720243",
@@ -1499,8 +1499,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-bs12-20261101-1900-genma",
@@ -1542,8 +1542,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717433",
@@ -1556,8 +1556,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716518",
@@ -1570,8 +1570,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718673",
@@ -1584,8 +1584,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717837",
@@ -1598,8 +1598,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722632",
@@ -1612,8 +1612,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718277",
@@ -1626,8 +1626,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717884",
@@ -1640,8 +1640,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720722",
@@ -1654,8 +1654,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-721030",
@@ -1668,8 +1668,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717370",
@@ -1682,8 +1682,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718401",
@@ -1696,8 +1696,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718193",
@@ -1710,8 +1710,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718545",
@@ -1724,8 +1724,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-721312",
@@ -1738,8 +1738,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716578",
@@ -1752,8 +1752,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-721242",
@@ -1766,8 +1766,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-724300",
@@ -1780,8 +1780,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720334",
@@ -1794,8 +1794,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "official-tbs-20261102-0113-kickoffj",
@@ -1822,8 +1822,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718698",
@@ -1836,8 +1836,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717458",
@@ -1850,8 +1850,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "verified-nhkbs-20261102-1300-fordferrari",
@@ -1883,6 +1883,20 @@
       "updatedAt": "2026-10-27T17:41:36+09:00"
     },
     {
+      "id": "verified-bs12-20261102-1900-showazankyo4",
+      "seriesId": "verified-series-showazankyo-chizome",
+      "title": "昭和残侠伝 血染の唐獅子",
+      "stationId": "bs12",
+      "start": "2026-11-02T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00"
+    },
+    {
       "id": "syobocal-720889",
       "seriesId": "syobocal-title-8060",
       "title": "ふんばるず",
@@ -1893,8 +1907,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717345",
@@ -1907,8 +1921,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718423",
@@ -1921,8 +1935,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-724298",
@@ -1935,8 +1949,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718354",
@@ -1949,8 +1963,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-724285",
@@ -1963,8 +1977,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719321",
@@ -1977,8 +1991,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720043",
@@ -1991,8 +2005,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719297",
@@ -2005,8 +2019,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717383",
@@ -2019,8 +2033,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717111",
@@ -2033,8 +2047,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717785",
@@ -2047,8 +2061,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716638",
@@ -2061,8 +2075,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
+    },
+    {
+      "id": "verified-bs12-20261103-1900-truckyaro4",
+      "seriesId": "verified-series-truckyaro-tenkagomen",
+      "title": "トラック野郎 天下御免",
+      "stationId": "bs12",
+      "start": "2026-11-03T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00"
     },
     {
       "id": "official-bsntv-20261103-2100-mousoutrain",
@@ -2090,8 +2118,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719436",
@@ -2104,8 +2132,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718833",
@@ -2118,8 +2146,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719496",
@@ -2132,8 +2160,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719448",
@@ -2146,8 +2174,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-719472",
@@ -2160,8 +2188,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720110",
@@ -2174,8 +2202,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717848",
@@ -2188,8 +2216,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718499",
@@ -2202,8 +2230,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-716445",
@@ -2216,8 +2244,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717761",
@@ -2230,8 +2258,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-720644",
@@ -2244,8 +2272,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722800",
@@ -2258,8 +2286,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-718522",
@@ -2272,8 +2300,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "verified-nhkbs-20261104-1300-warhorse",
@@ -2304,6 +2332,20 @@
       "updatedAt": "2026-10-29T13:08:23.000+09:00"
     },
     {
+      "id": "verified-bs12-20261104-1900-satomi1983",
+      "seriesId": "verified-series-satomi1983",
+      "title": "里見八犬伝（1983）",
+      "stationId": "bs12",
+      "start": "2026-11-04T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-10-29T14:08:06.000+09:00",
+      "updatedAt": "2026-10-29T14:08:06.000+09:00"
+    },
+    {
       "id": "syobocal-716530",
       "seriesId": "syobocal-title-8003",
       "title": "世界最強の魔女、始めました",
@@ -2314,8 +2356,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717122",
@@ -2328,8 +2370,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-717774",
@@ -2342,8 +2384,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     },
     {
       "id": "syobocal-722897",
@@ -2356,8 +2398,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-10-29T13:09:34+09:00",
-      "updatedAt": "2026-10-29T13:09:34+09:00"
+      "checkedAt": "2026-10-29T14:13:05+09:00",
+      "updatedAt": "2026-10-29T14:13:05+09:00"
     }
   ]
 }

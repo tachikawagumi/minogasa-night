@@ -1,24 +1,24 @@
 {
-  "at": "2026-10-29T13:09:34+09:00",
-  "status": "published",
+  "at": "2026-10-29T14:13:05+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 145,
-  "aiAccepted": 21,
+  "publicPrograms": 148,
+  "aiAccepted": 25,
   "aiHeld": 16,
-  "batchId": "scheduled-heartbeat-20261029T130447JST",
-  "researchExecutionContext": "scheduled_heartbeat",
+  "batchId": "phase12-interactive-20261029",
+  "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "official-bsntv-20261103-2100-mousoutrain",
-      "official-tvtokyo-20261101-0730-pokedoko",
-      "verified-nhkbs-20261104-1300-warhorse",
-      "verified-tvtokyo-20261104-1340-unknown"
+      "verified-bs12-20261030-1900-royalwarriors",
+      "verified-bs12-20261102-1900-showazankyo4",
+      "verified-bs12-20261103-1900-truckyaro4",
+      "verified-bs12-20261104-1900-satomi1983"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
     "expired": [
-      "verified-nhkbs-20261029-1300-brothersanta"
+      "official-4a9c16fb7436ca6009605718"
     ]
   },
   "counts": {
@@ -28,12 +28,5 @@
     "removed": 0,
     "expired": 1
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-10-29T13:09:59+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "627a2242315d7c80f7dd789955fae62d9f411c59934c706cd03141c44a1630db",
-    "programs": 145
-  }
+  "publicationVerified": false
 }
