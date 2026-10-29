@@ -1,0 +1,477 @@
+{
+  "checkedAt": "2026-10-29T14:42:05+09:00",
+  "records": [
+    {
+      "id": "official-tvtokyo-20261101-2320-weekly-women-golf",
+      "seriesId": "official-series-weekly-women-golf",
+      "title": "Ｗｅｅｋｌｙ女子ゴルフ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-01T23:20:00+09:00",
+      "end": "2026-11-01T23:45:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "日付付き次回放送ページで女子ゴルフ情報番組と日時を照合。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "日付付き次回放送ページで女子ゴルフ情報番組と日時を照合。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-tvtokyo-20261101-2320-weekly-women-golf",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261101-2320-weekly-women-golf",
+          "seriesId": "official-series-weekly-women-golf",
+          "title": "Ｗｅｅｋｌｙ女子ゴルフ",
+          "stationId": "tvtokyo",
+          "start": "2026-11-01T23:20:00+09:00",
+          "end": "2026-11-01T23:45:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bsasahi-20261102-2154-golfmatch",
+      "seriesId": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
+      "stationId": "bsasahi",
+      "start": "2026-11-02T21:54:00+09:00",
+      "end": "2026-11-02T22:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfmatch/"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "次回のシーズン22準決勝と個別日時を確認。過去10/26枠は変更せずシリーズIDだけ引継ぎ。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "次回のシーズン22準決勝と個別日時を確認。過去10/26枠は変更せずシリーズIDだけ引継ぎ。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bsasahi-20261102-2154-golfmatch",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsasahi-20261102-2154-golfmatch",
+          "seriesId": "official-series-142a8e1007439f2e224e685c",
+          "title": "女子ゴルフペアマッチ選手権",
+          "stationId": "bsasahi",
+          "start": "2026-11-02T21:54:00+09:00",
+          "end": "2026-11-02T22:30:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bsasahi-20261102-2230-golfjotanbo",
+      "seriesId": "official-series-cc47d22fd1c283c6874694ce",
+      "title": "極上！ゴルフ場探訪",
+      "stationId": "bsasahi",
+      "start": "2026-11-02T22:30:00+09:00",
+      "end": "2026-11-02T22:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "赤倉ゴルフコースを扱う当該回の個別日時を確認。ゴルフ場紹介を住宅ジャンルにしない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "赤倉ゴルフコースを扱う当該回の個別日時を確認。ゴルフ場紹介を住宅ジャンルにしない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bsasahi-20261102-2230-golfjotanbo",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsasahi-20261102-2230-golfjotanbo",
+          "seriesId": "official-series-cc47d22fd1c283c6874694ce",
+          "title": "極上！ゴルフ場探訪",
+          "stationId": "bsasahi",
+          "start": "2026-11-02T22:30:00+09:00",
+          "end": "2026-11-02T22:54:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bsasahi-20261031-1700-mitsubishi-ladies",
+      "seriesId": "official-series-mitsubishi-ladies2026",
+      "title": "樋口久子 三菱電機レディスゴルフトーナメント",
+      "stationId": "bsasahi",
+      "start": "2026-10-31T17:00:00+09:00",
+      "end": "2026-10-31T18:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golf/",
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golf/"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "2026年の女子大会とBS朝日の個別放送日時を確認。有料CSの別枠を混ぜない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs-asahi.co.jp/golf/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "2026年の女子大会とBS朝日の個別放送日時を確認。有料CSの別枠を混ぜない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bsasahi-20261031-1700-mitsubishi-ladies",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsasahi-20261031-1700-mitsubishi-ladies",
+          "seriesId": "official-series-mitsubishi-ladies2026",
+          "title": "樋口久子 三菱電機レディスゴルフトーナメント",
+          "stationId": "bsasahi",
+          "start": "2026-10-31T17:00:00+09:00",
+          "end": "2026-10-31T18:00:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/golf/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bstvtokyo-20261101-0800-golf-samurai",
+      "seriesId": "official-series-golf-samurai",
+      "title": "ゴルフ侍、見参！",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-01T08:00:00+09:00",
+      "end": "2026-11-01T09:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "BSテレ東2Kの日付付き公式ページの検索索引で番組名・局・2026/11/1 08:00〜09:00を確認。本文取得はCache miss、週間規則からの推定ではない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "BSテレ東2Kの日付付き公式ページの検索索引で番組名・局・2026/11/1 08:00〜09:00を確認。本文取得はCache miss、週間規則からの推定ではない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bstvtokyo-20261101-0800-golf-samurai",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bstvtokyo-20261101-0800-golf-samurai",
+          "seriesId": "official-series-golf-samurai",
+          "title": "ゴルフ侍、見参！",
+          "stationId": "bstvtokyo",
+          "start": "2026-11-01T08:00:00+09:00",
+          "end": "2026-11-01T09:00:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bstvtokyo-20261101-0730-golf-koyusho",
+      "seriesId": "official-series-golf-koyusho",
+      "title": "ゴルフ交遊抄",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-01T07:30:00+09:00",
+      "end": "2026-11-01T08:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "日付付き公式ページでゴルフの実技・技術助言を確認。ゲストの競技歴から別スポーツへ分類しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "日付付き公式ページでゴルフの実技・技術助言を確認。ゲストの競技歴から別スポーツへ分類しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bstvtokyo-20261101-0730-golf-koyusho",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bstvtokyo-20261101-0730-golf-koyusho",
+          "seriesId": "official-series-golf-koyusho",
+          "title": "ゴルフ交遊抄",
+          "stationId": "bstvtokyo",
+          "start": "2026-11-01T07:30:00+09:00",
+          "end": "2026-11-01T08:00:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-fuji-20261101-1605-vantelin-final",
+      "seriesId": "official-series-vantelin-tokai-classic2026",
+      "title": "バンテリン東海クラシック2026 最終日",
+      "stationId": "fuji",
+      "start": "2026-11-01T16:05:00+09:00",
+      "end": "2026-11-01T17:35:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tokai-tv.com/vtc/",
+      "sourceUrls": [
+        "https://www.tokai-tv.com/vtc/"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "主催放送局の2026大会案内にフジテレビ系全国ネットの最終日中継を確認。東海ローカル・有料CS・配信は除外。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tokai-tv.com/vtc/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "主催放送局の2026大会案内にフジテレビ系全国ネットの最終日中継を確認。東海ローカル・有料CS・配信は除外。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-fuji-20261101-1605-vantelin-final",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-fuji-20261101-1605-vantelin-final",
+          "seriesId": "official-series-vantelin-tokai-classic2026",
+          "title": "バンテリン東海クラシック2026 最終日",
+          "stationId": "fuji",
+          "start": "2026-11-01T16:05:00+09:00",
+          "end": "2026-11-01T17:35:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.tokai-tv.com/vtc/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    },
+    {
+      "id": "official-bs11-20261101-1730-akane-golf",
+      "seriesId": "official-series-akane-golf",
+      "title": "飯島茜のアカネ式！大学女子ゴルフ部",
+      "stationId": "bs11",
+      "start": "2026-11-01T17:30:00+09:00",
+      "end": "2026-11-01T18:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs11.jp/sports/akane-golf/",
+      "sourceUrls": [
+        "https://www.bs11.jp/sports/akane-golf/"
+      ],
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "lastAttemptAt": "2026-10-29T14:42:05+09:00",
+      "discoveredAt": "2026-10-29T14:42:05+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "現行2026ページの次回第31回11月1日と17:30〜18:00を照合。実技課題を扱うレッスン回。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs11.jp/sports/akane-golf/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "golf": "現行2026ページの次回第31回11月1日と17:30〜18:00を照合。実技課題を扱うレッスン回。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "phase13-official-bs11-20261101-1730-akane-golf",
+        "checkedAt": "2026-10-29T14:42:05+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bs11-20261101-1730-akane-golf",
+          "seriesId": "official-series-akane-golf",
+          "title": "飯島茜のアカネ式！大学女子ゴルフ部",
+          "stationId": "bs11",
+          "start": "2026-11-01T17:30:00+09:00",
+          "end": "2026-11-01T18:00:00+09:00",
+          "genreIds": [
+            "golf"
+          ],
+          "sourceUrl": "https://www.bs11.jp/sports/akane-golf/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "phase13_interactive_research"
+    }
+  ]
+}

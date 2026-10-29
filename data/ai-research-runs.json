@@ -240,6 +240,224 @@
         "This was an interactive phase12 run, not scheduled execution.",
         "Actual 09:00 AI start and reason for late heartbeat remain unverified."
       ]
+    },
+    {
+      "runId": "phase13-interactive-20261029",
+      "executionContext": "interactive_preflight",
+      "checkedAt": "2026-10-29T14:42:05+09:00",
+      "windowStart": "2026-10-29T00:00:00+09:00",
+      "windowEnd": "2026-11-05T00:00:00+09:00",
+      "genresSearched": 20,
+      "queries": 68,
+      "queryCountScope": "persisted actual search query log; additional verification queries not counted",
+      "newCandidates": 8,
+      "status": "submitted_for_validation",
+      "publicationVerified": false,
+      "onTime": null,
+      "scheduledFor": null,
+      "regularTracking": [
+        {
+          "id": "official-series-darkside",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-2b9729b602a554921245711f",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "verified-series-goodbadugly",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-6e7ae420f07f3d52fe994dac",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "phase8-psycho-20261031-series",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-678637e17660ff2b470c34a2",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "verified-series-yuttari-onsen",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-58eeda6e1ef87d058531e872",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-8a36a321d3c0ae6bfcc29cb7",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "verified-series-fordvferrari",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-kballet-documentary",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-itadakinosakie",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-kickoffj",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-thefishing",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-3244aed9715be5c50feea624",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "verified-series-nippon-burari-tetsudotabi",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-31753a9bb8c06a95daadfac6",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-pokedoko",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-77e6d8a7ebb52e4f1d6edcbf",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-e9379c64da74b078c063eca6",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-mousoutrain",
+          "result": "existing_published_reference"
+        },
+        {
+          "id": "official-series-weekly-women-golf",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-142a8e1007439f2e224e685c",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-cc47d22fd1c283c6874694ce",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-mitsubishi-ladies2026",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-golf-samurai",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-golf-koyusho",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-vantelin-tokai-classic2026",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "official-series-akane-golf",
+          "result": "dated_airing_confirmed"
+        },
+        {
+          "id": "regular-golf-survival",
+          "result": "held_independent_dated_source"
+        },
+        {
+          "id": "regular-golf-survival-men",
+          "result": "held_independent_dated_source"
+        },
+        {
+          "id": "regular-golf-triplematch",
+          "result": "held_dated_airing"
+        },
+        {
+          "id": "regular-golf-nobishiro",
+          "result": "held_dated_airing"
+        },
+        {
+          "id": "regular-golf-madame",
+          "result": "current_series_no_window_airing"
+        },
+        {
+          "id": "regular-golf-overseas",
+          "result": "no_free_window_broadcast_verified"
+        },
+        {
+          "id": "regular-nandakore",
+          "result": "held_episode_content"
+        },
+        {
+          "id": "regular-disney-hirunandes",
+          "result": "no_window_episode_verified"
+        },
+        {
+          "id": "regular-disney-kinro",
+          "result": "outside_window"
+        },
+        {
+          "id": "regular-usj-hirunandes",
+          "result": "no_window_episode_verified"
+        },
+        {
+          "id": "regular-usj-adomachi",
+          "result": "historical_feature_only"
+        },
+        {
+          "id": "regular-big-ariyoshizemi",
+          "result": "held_episode_content_and_source"
+        },
+        {
+          "id": "regular-big-dekamori",
+          "result": "past_episode_only"
+        },
+        {
+          "id": "regular-baseball-japanseries",
+          "result": "series_finished"
+        },
+        {
+          "id": "regular-baseball-satozaki",
+          "result": "window_airing_not_verified"
+        },
+        {
+          "id": "regular-fishing-hyakkei",
+          "result": "ended_20260924"
+        },
+        {
+          "id": "regular-architecture-tatemono",
+          "result": "held_source_retrieval"
+        },
+        {
+          "id": "regular-health-kyonokenko",
+          "result": "held_target_region"
+        },
+        {
+          "id": "regular-rail-tetsuota",
+          "result": "held_additional_schedule_check"
+        },
+        {
+          "id": "regular-challenge-tosochu",
+          "result": "no_window_airing_verified"
+        },
+        {
+          "id": "regular-challenge-sasuke",
+          "result": "no_window_airing_verified"
+        }
+      ],
+      "note": "対話中の手動検証。定刻無人の成功を意味しない。"
     }
   ]
 }

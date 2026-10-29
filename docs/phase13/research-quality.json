@@ -1,0 +1,366 @@
+{
+  "checkedAt": "2026-10-29T14:42:05+09:00",
+  "executionContext": "interactive_preflight",
+  "baseline": {
+    "programs": 148,
+    "genres": 15,
+    "golf": 1
+  },
+  "golf": {
+    "trackedCandidates": 14,
+    "datedVerifiedNew": 8,
+    "submitted": 8,
+    "held": 6,
+    "existing": 1,
+    "reason": "前回は広域検索が浅く、定番の個別日付ページ、女子・男子大会、レッスンへの展開不足。定番一覧だけでは放送確定しない。"
+  },
+  "regularTracking": [
+    {
+      "id": "official-series-darkside",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-2b9729b602a554921245711f",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "verified-series-goodbadugly",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-6e7ae420f07f3d52fe994dac",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "phase8-psycho-20261031-series",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-678637e17660ff2b470c34a2",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "verified-series-yuttari-onsen",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-58eeda6e1ef87d058531e872",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "verified-series-fordvferrari",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-kballet-documentary",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-itadakinosakie",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-kickoffj",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-thefishing",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-3244aed9715be5c50feea624",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "verified-series-nippon-burari-tetsudotabi",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-31753a9bb8c06a95daadfac6",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-pokedoko",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-77e6d8a7ebb52e4f1d6edcbf",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-e9379c64da74b078c063eca6",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-mousoutrain",
+      "result": "existing_published_reference"
+    },
+    {
+      "id": "official-series-weekly-women-golf",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-142a8e1007439f2e224e685c",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-cc47d22fd1c283c6874694ce",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-mitsubishi-ladies2026",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-golf-samurai",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-golf-koyusho",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-vantelin-tokai-classic2026",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "official-series-akane-golf",
+      "result": "dated_airing_confirmed"
+    },
+    {
+      "id": "regular-golf-survival",
+      "result": "held_independent_dated_source"
+    },
+    {
+      "id": "regular-golf-survival-men",
+      "result": "held_independent_dated_source"
+    },
+    {
+      "id": "regular-golf-triplematch",
+      "result": "held_dated_airing"
+    },
+    {
+      "id": "regular-golf-nobishiro",
+      "result": "held_dated_airing"
+    },
+    {
+      "id": "regular-golf-madame",
+      "result": "current_series_no_window_airing"
+    },
+    {
+      "id": "regular-golf-overseas",
+      "result": "no_free_window_broadcast_verified"
+    },
+    {
+      "id": "regular-nandakore",
+      "result": "held_episode_content"
+    },
+    {
+      "id": "regular-disney-hirunandes",
+      "result": "no_window_episode_verified"
+    },
+    {
+      "id": "regular-disney-kinro",
+      "result": "outside_window"
+    },
+    {
+      "id": "regular-usj-hirunandes",
+      "result": "no_window_episode_verified"
+    },
+    {
+      "id": "regular-usj-adomachi",
+      "result": "historical_feature_only"
+    },
+    {
+      "id": "regular-big-ariyoshizemi",
+      "result": "held_episode_content_and_source"
+    },
+    {
+      "id": "regular-big-dekamori",
+      "result": "past_episode_only"
+    },
+    {
+      "id": "regular-baseball-japanseries",
+      "result": "series_finished"
+    },
+    {
+      "id": "regular-baseball-satozaki",
+      "result": "window_airing_not_verified"
+    },
+    {
+      "id": "regular-fishing-hyakkei",
+      "result": "ended_20260924"
+    },
+    {
+      "id": "regular-architecture-tatemono",
+      "result": "held_source_retrieval"
+    },
+    {
+      "id": "regular-health-kyonokenko",
+      "result": "held_target_region"
+    },
+    {
+      "id": "regular-rail-tetsuota",
+      "result": "held_additional_schedule_check"
+    },
+    {
+      "id": "regular-challenge-tosochu",
+      "result": "no_window_airing_verified"
+    },
+    {
+      "id": "regular-challenge-sasuke",
+      "result": "no_window_airing_verified"
+    }
+  ],
+  "genreResults": [
+    {
+      "genreId": "ghost",
+      "name": "心霊・怪談",
+      "baselineCount": 2,
+      "newSubmitted": 0,
+      "result": "ほん怖の公式10/31を再発見、既存枠と重複。ダークサイド既存枠を維持。"
+    },
+    {
+      "genreId": "ufo",
+      "name": "UFO・都市伝説",
+      "baselineCount": 0,
+      "newSubmitted": 0,
+      "result": "何だコレの古い9/9 UFO企画を11/4へ転用しない。対象回の内容未確認。CS・配信は対象外。"
+    },
+    {
+      "genreId": "movie",
+      "name": "映画",
+      "baselineCount": 15,
+      "newSubmitted": 0,
+      "result": "11/3・4の映画枠は既存公開と照合。追憶はNHK BS/4Kの局混同を継続保留。"
+    },
+    {
+      "genreId": "horror_movie",
+      "name": "ホラー映画",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "サイコは既存枠。犯罪・サスペンスというだけでホラーを付けない。"
+    },
+    {
+      "genreId": "disney",
+      "name": "ディズニー",
+      "baselineCount": 0,
+      "newSubmitted": 0,
+      "result": "パーク情報番組・ヒルナンデス・作品を再検索。モアナ2は公式11/13、ムファサは11/6で期間外。検索断片の11/4を採用しない。"
+    },
+    {
+      "genreId": "usj",
+      "name": "USJ",
+      "baselineCount": 0,
+      "newSubmitted": 0,
+      "result": "USJ/ユニバーサル/ヒルナンデス/パーク特集を再検索。過去特集・営業日案内は見つかるが対象回の局日時内容を確認できず。"
+    },
+    {
+      "genreId": "big_eating",
+      "name": "大食い",
+      "baselineCount": 0,
+      "newSubmitted": 0,
+      "result": "有吉ゼミ11/2候補。対象回の大食い内容は利用可能な独立出典で未照合。モニタリング10/22・デカ盛り9/23は過去。"
+    },
+    {
+      "genreId": "onsen",
+      "name": "温泉",
+      "baselineCount": 2,
+      "newSubmitted": 0,
+      "result": "秘湯ロマンの古い次回案内から未来日時を作らない。既存温泉2枠を維持。"
+    },
+    {
+      "genreId": "architecture",
+      "name": "建物探訪",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "建もの探訪10/31候補、公式406で取得失敗。回避せず保留。家物語は既存枠。"
+    },
+    {
+      "genreId": "car",
+      "name": "車",
+      "baselineCount": 2,
+      "newSubmitted": 0,
+      "result": "CGTVは既存。愛車遍歴の過去告知から10/31を推定しない。世田谷ベースは当該回の車内容未確認。"
+    },
+    {
+      "genreId": "dance",
+      "name": "ダンス",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "11/1熊川哲也バレエは既存。歌手出演だけでダンス分類しない。"
+    },
+    {
+      "genreId": "golf",
+      "name": "ゴルフ",
+      "baselineCount": 1,
+      "newSubmitted": 8,
+      "result": "定番・大会・レッスンを個別追跡し新規8枠。旧告知・CS・東海ローカル・週間パターンのみを除外。"
+    },
+    {
+      "genreId": "soccer",
+      "name": "サッカー",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "KICK OFF!Jは既存。大会の開催年・無料地上波/有料CSを区別。"
+    },
+    {
+      "genreId": "baseball",
+      "name": "野球",
+      "baselineCount": 0,
+      "newSubmitted": 0,
+      "result": "NPB公式の4勝0敗・10/28決着を確認。第6/7戦の仮日程を将来枠として公開しない。チバテレ関連番組の期間内個別日時は未確認。"
+    },
+    {
+      "genreId": "fishing",
+      "name": "釣り",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "釣り百景は公式の9/24最終回を確認、終了扱い。THEフィッシングは既存。マグロ特番の日時未確認。"
+    },
+    {
+      "genreId": "health",
+      "name": "健康",
+      "baselineCount": 1,
+      "newSubmitted": 0,
+      "result": "ゲンキの時間は既存。きょうの健康11/3は地域を混同せず東京の日時を追加照合待ち。"
+    },
+    {
+      "genreId": "travel",
+      "name": "旅",
+      "baselineCount": 5,
+      "newSubmitted": 0,
+      "result": "ぶらり・ブラタモリ・街歩き・温泉を横断。既存回と重複、未確認の毎週時刻を転用しない。"
+    },
+    {
+      "genreId": "challenge",
+      "name": "ゲーム・チャレンジ",
+      "baselineCount": 2,
+      "newSubmitted": 0,
+      "result": "SASUKE・逃走中は対象期間内の特番日時未確認。ポケどこ等は既存。CSゲームセンターCXは対象外。"
+    },
+    {
+      "genreId": "anime",
+      "name": "アニメ",
+      "baselineCount": 118,
+      "newSubmitted": 0,
+      "result": "既存アニメAPI維持、重複照会なし。幻魔大戦は既存。新たな特番は放送日時未確定。"
+    },
+    {
+      "genreId": "railway",
+      "name": "電車・鉄道",
+      "baselineCount": 2,
+      "newSubmitted": 0,
+      "result": "妄想トレイン等既存。鉄オタ選手権11/3候補は追加照合待ち。乗れない鉄道はBSテレ東4Kのみ確認、2Kへ勝手に転記しない。"
+    }
+  ],
+  "unattended": {
+    "nextScheduledFor": "2026-11-02T09:00:00+09:00",
+    "onTimeExecutionVerified": false
+  },
+  "publicationVerified": false
+}

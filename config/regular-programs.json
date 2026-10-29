@@ -1,0 +1,866 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-29T14:42:05+09:00",
+  "purpose": "検索の補助資料。掲載・時刻推定・自動登録の入力ではない。referenceUrlsは探索の入口を含み、そのページで現行放送を確認済みという意味ではない。",
+  "windowStart": "2026-10-29T00:00:00+09:00",
+  "windowEnd": "2026-11-05T00:00:00+09:00",
+  "entries": [
+    {
+      "id": "official-series-darkside",
+      "title": "ダークサイドミステリー ようこそ！地獄ワンダーランド",
+      "genreIds": [
+        "ghost"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "ほん怖の公式10/31を再発見、既存枠と重複。ダークサイド既存枠を維持。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-2b9729b602a554921245711f",
+      "title": "ほんとにあった怖い話 秋の特別編2026",
+      "genreIds": [
+        "ghost"
+      ],
+      "stationCandidates": [
+        "fuji"
+      ],
+      "referenceUrls": [
+        "https://www.fujitv.co.jp/fujitv/news/20261150.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "ほん怖の公式10/31を再発見、既存枠と重複。ダークサイド既存枠を維持。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "verified-series-goodbadugly",
+      "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+      "genreIds": [
+        "movie"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "11/3・4の映画枠は既存公開と照合。追憶はNHK BS/4Kの局混同を継続保留。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-6e7ae420f07f3d52fe994dac",
+      "title": "狼よさらば",
+      "genreIds": [
+        "movie"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "11/3・4の映画枠は既存公開と照合。追憶はNHK BS/4Kの局混同を継続保留。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "phase8-psycho-20261031-series",
+      "title": "サイコ",
+      "genreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "stationCandidates": [
+        "nhk_bsp4k"
+      ],
+      "referenceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "サイコは既存枠。犯罪・サスペンスというだけでホラーを付けない。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-678637e17660ff2b470c34a2",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/business_hotel/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "秘湯ロマンの古い次回案内から未来日時を作らない。既存温泉2枠を維持。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "verified-series-yuttari-onsen",
+      "title": "ゆったり温泉ひとり旅 宮城・鳴子温泉郷",
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "秘湯ロマンの古い次回案内から未来日時を作らない。既存温泉2枠を維持。 既存公開枠参照であり将来回の確認ではない。 参照先は探索の入口であり、このURLで当該回を再確認したという意味ではない。"
+    },
+    {
+      "id": "official-series-58eeda6e1ef87d058531e872",
+      "title": "辰巳琢郎の家物語　リモデル★きらり",
+      "genreIds": [
+        "architecture"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/tatsumi/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "建もの探訪10/31候補、公式406で取得失敗。回避せず保留。家物語は既存枠。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV",
+      "genreIds": [
+        "car"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/cgtv/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "CGTVは既存。愛車遍歴の過去告知から10/31を推定しない。世田谷ベースは当該回の車内容未確認。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "verified-series-fordvferrari",
+      "title": "フォードvsフェラーリ",
+      "genreIds": [
+        "movie",
+        "car"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://entafukuzou.com/terrestrial-bs-movie/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "CGTVは既存。愛車遍歴の過去告知から10/31を推定しない。世田谷ベースは当該回の車内容未確認。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-kballet-documentary",
+      "title": "時を超えて輝く究極のクリスマス・バレエ 熊川哲也『くるみ割り人形』",
+      "genreIds": [
+        "dance"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "11/1熊川哲也バレエは既存。歌手出演だけでダンス分類しない。 既存公開枠参照であり将来回の確認ではない。 参照先は探索の入口であり、このURLで当該回を再確認したという意味ではない。"
+    },
+    {
+      "id": "official-series-itadakinosakie",
+      "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/itadakinosakie/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "定番・大会・レッスンを個別追跡し新規8枠。旧告知・CS・東海ローカル・週間パターンのみを除外。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-kickoffj",
+      "title": "ＫＩＣＫ　ＯＦＦ！Ｊ",
+      "genreIds": [
+        "soccer"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "KICK OFF!Jは既存。大会の開催年・無料地上波/有料CSを区別。 既存公開枠参照であり将来回の確認ではない。 参照先は探索の入口であり、このURLで当該回を再確認したという意味ではない。"
+    },
+    {
+      "id": "official-series-thefishing",
+      "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+      "genreIds": [
+        "fishing"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "釣り百景は公式の9/24最終回を確認、終了扱い。THEフィッシングは既存。マグロ特番の日時未確認。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-3244aed9715be5c50feea624",
+      "title": "健康カプセル！ゲンキの時間",
+      "genreIds": [
+        "health"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/20261101_C34E.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "ゲンキの時間は既存。きょうの健康11/3は地域を混同せず東京の日時を追加照合待ち。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "verified-series-nippon-burari-tetsudotabi",
+      "title": "ニッポンぶらり鉄道旅 春の九州で福めぐり！松浦鉄道",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "stationCandidates": [
+        "nhk_bs"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "ぶらり・ブラタモリ・街歩き・温泉を横断。既存回と重複、未確認の毎週時刻を転用しない。 既存公開枠参照であり将来回の確認ではない。 参照先は探索の入口であり、このURLで当該回を再確認したという意味ではない。"
+    },
+    {
+      "id": "official-series-31753a9bb8c06a95daadfac6",
+      "title": "ドア×ドアクエスト★このお菓子何作ってる？クイズ★桐谷健太・M!LK山中参戦！",
+      "genreIds": [
+        "challenge"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/20261030_C31B.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "SASUKE・逃走中は対象期間内の特番日時未確認。ポケどこ等は既存。CSゲームセンターCXは対象外。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-pokedoko",
+      "title": "ポケモンとどこいく！？",
+      "genreIds": [
+        "challenge"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "SASUKE・逃走中は対象期間内の特番日時未確認。ポケどこ等は既存。CSゲームセンターCXは対象外。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-77e6d8a7ebb52e4f1d6edcbf",
+      "title": "氷の城壁　第19話",
+      "genreIds": [
+        "anime"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/20261029_C2FF.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "既存アニメAPI維持、重複照会なし。幻魔大戦は既存。新たな特番は放送日時未確定。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-e9379c64da74b078c063eca6",
+      "title": "追放された転生重騎士はゲーム知識で無双する#１８◆スーパーアニメイズムTURBO",
+      "genreIds": [
+        "anime"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/tv/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "既存アニメAPI維持、重複照会なし。幻魔大戦は既存。新たな特番は放送日時未確定。 既存公開枠参照であり将来回の確認ではない。 参照先は探索の入口であり、このURLで当該回を再確認したという意味ではない。"
+    },
+    {
+      "id": "official-series-mousoutrain",
+      "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "stationCandidates": [
+        "bsntv"
+      ],
+      "referenceUrls": [
+        "https://www.bs4.jp/mousou-train/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "published_in_current_window",
+      "lastResult": "existing_published_reference",
+      "searchCaution": "妄想トレイン等既存。鉄オタ選手権11/3候補は追加照合待ち。乗れない鉄道はBSテレ東4Kのみ確認、2Kへ勝手に転記しない。 既存公開枠参照であり将来回の確認ではない。"
+    },
+    {
+      "id": "official-series-weekly-women-golf",
+      "title": "Ｗｅｅｋｌｙ女子ゴルフ",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "日付付き次回放送ページで女子ゴルフ情報番組と日時を照合。"
+    },
+    {
+      "id": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/golfmatch/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "次回のシーズン22準決勝と個別日時を確認。過去10/26枠は変更せずシリーズIDだけ引継ぎ。"
+    },
+    {
+      "id": "official-series-cc47d22fd1c283c6874694ce",
+      "title": "極上！ゴルフ場探訪",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "赤倉ゴルフコースを扱う当該回の個別日時を確認。ゴルフ場紹介を住宅ジャンルにしない。"
+    },
+    {
+      "id": "official-series-mitsubishi-ladies2026",
+      "title": "樋口久子 三菱電機レディスゴルフトーナメント",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsasahi"
+      ],
+      "referenceUrls": [
+        "https://www.bs-asahi.co.jp/golf/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "2026年の女子大会とBS朝日の個別放送日時を確認。有料CSの別枠を混ぜない。"
+    },
+    {
+      "id": "official-series-golf-samurai",
+      "title": "ゴルフ侍、見参！",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bstvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "BSテレ東2Kの日付付き公式ページの検索索引で番組名・局・2026/11/1 08:00〜09:00を確認。本文取得はCache miss、週間規則からの推定ではない。"
+    },
+    {
+      "id": "official-series-golf-koyusho",
+      "title": "ゴルフ交遊抄",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bstvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "日付付き公式ページでゴルフの実技・技術助言を確認。ゲストの競技歴から別スポーツへ分類しない。"
+    },
+    {
+      "id": "official-series-vantelin-tokai-classic2026",
+      "title": "バンテリン東海クラシック2026 最終日",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "fuji"
+      ],
+      "referenceUrls": [
+        "https://www.tokai-tv.com/vtc/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "主催放送局の2026大会案内にフジテレビ系全国ネットの最終日中継を確認。東海ローカル・有料CS・配信は除外。"
+    },
+    {
+      "id": "official-series-akane-golf",
+      "title": "飯島茜のアカネ式！大学女子ゴルフ部",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bs11"
+      ],
+      "referenceUrls": [
+        "https://www.bs11.jp/sports/akane-golf/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "dated_airing_confirmed",
+      "searchCaution": "現行2026ページの次回第31回11月1日と17:30〜18:00を照合。実技課題を扱うレッスン回。"
+    },
+    {
+      "id": "regular-golf-survival",
+      "title": "ゴルフサバイバル",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsntv"
+      ],
+      "referenceUrls": [
+        "https://www.bs4.jp/golf_survival/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_independent_dated_source",
+      "searchCaution": "10/30候補。公式は曜日・月の案内のみ。Gガイドだけを公開根拠にしない。"
+    },
+    {
+      "id": "regular-golf-survival-men",
+      "title": "ゴルフサバイバル男",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsntv"
+      ],
+      "referenceUrls": [
+        "https://www.bs4.jp/golf_survival_men/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_independent_dated_source",
+      "searchCaution": "10/30候補。2024/11/1告知と2026年を混同しない。曜日から日時を生成しない。"
+    },
+    {
+      "id": "regular-golf-triplematch",
+      "title": "ゴルフトリプルマッチ",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bsfuji"
+      ],
+      "referenceUrls": [
+        "https://www.bsfuji.tv/triplematch/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_dated_airing",
+      "searchCaution": "ページの10/14放送・11/4応募締切を放送日に転用しない。"
+    },
+    {
+      "id": "regular-golf-nobishiro",
+      "title": "岡田圭右のゴルフのノビシロ",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [
+        "bstvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_dated_airing",
+      "searchCaution": "現行の個別放送予定確認が必要。"
+    },
+    {
+      "id": "regular-golf-madame",
+      "title": "マダム×ムッシュのゴルフ旅",
+      "genreIds": [
+        "golf",
+        "travel"
+      ],
+      "stationCandidates": [
+        "bsntv"
+      ],
+      "referenceUrls": [
+        "https://www.bs4.jp/madame_and_monsieur_golftrip/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "current_series_no_window_airing",
+      "searchCaution": "第1・第3土曜の案内を第5土曜10/31に適用しない。"
+    },
+    {
+      "id": "regular-golf-overseas",
+      "title": "海外ゴルフトーナメント無料放送",
+      "genreIds": [
+        "golf"
+      ],
+      "stationCandidates": [],
+      "referenceUrls": [
+        "https://www.jgto.org/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "no_free_window_broadcast_verified",
+      "searchCaution": "メイバンク等の有料配信を無料BSへ登録しない。海外大会の無料枠不存在を断定しない。"
+    },
+    {
+      "id": "regular-nandakore",
+      "title": "世界の何だコレ!?ミステリー",
+      "genreIds": [
+        "ufo",
+        "ghost"
+      ],
+      "stationCandidates": [
+        "fuji"
+      ],
+      "referenceUrls": [
+        "https://www.fujitv.co.jp/sekainonandakore/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_episode_content",
+      "searchCaution": "何だコレの古い9/9 UFO企画を11/4へ転用しない。対象回の内容未確認。CS・配信は対象外。"
+    },
+    {
+      "id": "regular-disney-hirunandes",
+      "title": "ヒルナンデス！（ディズニー特集候補）",
+      "genreIds": [
+        "disney"
+      ],
+      "stationCandidates": [
+        "ntv"
+      ],
+      "referenceUrls": [
+        "https://www.ntv.co.jp/hirunan/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "no_window_episode_verified",
+      "searchCaution": "パーク情報番組・ヒルナンデス・作品を再検索。モアナ2は公式11/13、ムファサは11/6で期間外。検索断片の11/4を採用しない。"
+    },
+    {
+      "id": "regular-disney-kinro",
+      "title": "金曜ロードショー（ディズニー作品候補）",
+      "genreIds": [
+        "disney",
+        "movie"
+      ],
+      "stationCandidates": [
+        "ntv"
+      ],
+      "referenceUrls": [
+        "https://kinro.ntv.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "outside_window",
+      "searchCaution": "ムファサ11/6・モアナと伝説の海2 11/13。10/29〜11/4には登録しない。"
+    },
+    {
+      "id": "regular-usj-hirunandes",
+      "title": "ヒルナンデス！（USJ特集候補）",
+      "genreIds": [
+        "usj"
+      ],
+      "stationCandidates": [
+        "ntv"
+      ],
+      "referenceUrls": [
+        "https://www.ntv.co.jp/hirunan/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "no_window_episode_verified",
+      "searchCaution": "USJ/ユニバーサル/ヒルナンデス/パーク特集を再検索。過去特集・営業日案内は見つかるが対象回の局日時内容を確認できず。"
+    },
+    {
+      "id": "regular-usj-adomachi",
+      "title": "出没！アド街ック天国（パーク特集探索）",
+      "genreIds": [
+        "usj",
+        "disney"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "historical_feature_only",
+      "searchCaution": "ディズニー9/19等の過去特集を将来へ動かさない。USJ回の存在・日時を推定しない。"
+    },
+    {
+      "id": "regular-big-ariyoshizemi",
+      "title": "有吉ゼミ",
+      "genreIds": [
+        "big_eating"
+      ],
+      "stationCandidates": [
+        "ntv"
+      ],
+      "referenceUrls": [
+        "https://www.ntv.co.jp/ariyoshizemi/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_episode_content_and_source",
+      "searchCaution": "有吉ゼミ11/2候補。対象回の大食い内容は利用可能な独立出典で未照合。モニタリング10/22・デカ盛り9/23は過去。"
+    },
+    {
+      "id": "regular-big-dekamori",
+      "title": "デカ盛りハンター",
+      "genreIds": [
+        "big_eating"
+      ],
+      "stationCandidates": [
+        "tvtokyo"
+      ],
+      "referenceUrls": [
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "past_episode_only",
+      "searchCaution": "検索で見つかった9/23予習復習回は過去。現在も毎週放送しているとは判定しない。"
+    },
+    {
+      "id": "regular-baseball-japanseries",
+      "title": "SMBC日本シリーズ2026",
+      "genreIds": [
+        "baseball"
+      ],
+      "stationCandidates": [],
+      "referenceUrls": [
+        "https://npb.jp/nippons/2026/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "event_finished",
+      "lastResult": "series_finished",
+      "searchCaution": "公式で10/28決着。仮の第6/7戦を公開しない。"
+    },
+    {
+      "id": "regular-baseball-satozaki",
+      "title": "チバテレの野球関連番組（里崎関連枠などの探索）",
+      "genreIds": [
+        "baseball"
+      ],
+      "stationCandidates": [
+        "chiba"
+      ],
+      "referenceUrls": [
+        "https://www.chiba-tv.com/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "window_airing_not_verified",
+      "searchCaution": "具体的な番組名・当該回の内容・局日時を照合する。人物の経歴だけで野球分類にしない。"
+    },
+    {
+      "id": "regular-fishing-hyakkei",
+      "title": "釣り百景",
+      "genreIds": [
+        "fishing"
+      ],
+      "stationCandidates": [
+        "bstbs"
+      ],
+      "referenceUrls": [
+        "https://bs.tbs.co.jp/tsuri/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "ended",
+      "lastResult": "ended_20260924",
+      "searchCaution": "公式の最終回を確認。古い木曜22時の表示から未来枠を生成しない。"
+    },
+    {
+      "id": "regular-architecture-tatemono",
+      "title": "渡辺篤史の建もの探訪",
+      "genreIds": [
+        "architecture"
+      ],
+      "stationCandidates": [
+        "tvasahi"
+      ],
+      "referenceUrls": [
+        "https://www.tv-asahi.co.jp/tatemono/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_source_retrieval",
+      "searchCaution": "公式406、アクセス制限を回避せず独立した日付情報を追加確認する。"
+    },
+    {
+      "id": "regular-health-kyonokenko",
+      "title": "きょうの健康",
+      "genreIds": [
+        "health"
+      ],
+      "stationCandidates": [
+        "nhk_e"
+      ],
+      "referenceUrls": [
+        "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-03"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_target_region",
+      "searchCaution": "静岡Eテレの情報を東京の予定と無条件同一視しない。"
+    },
+    {
+      "id": "regular-rail-tetsuota",
+      "title": "鉄オタ選手権",
+      "genreIds": [
+        "railway"
+      ],
+      "stationCandidates": [
+        "nhk_bs",
+        "nhk_bsp4k"
+      ],
+      "referenceUrls": [
+        "https://yashion.jp/news/45721/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "held_additional_schedule_check",
+      "searchCaution": "BS11/3とBSP4K11/7を混同しない。"
+    },
+    {
+      "id": "regular-challenge-tosochu",
+      "title": "逃走中",
+      "genreIds": [
+        "challenge"
+      ],
+      "stationCandidates": [
+        "fuji"
+      ],
+      "referenceUrls": [
+        "https://www.fujitv.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "no_window_airing_verified",
+      "searchCaution": "過去特番や次回未定の情報から日時を作らない。"
+    },
+    {
+      "id": "regular-challenge-sasuke",
+      "title": "SASUKE",
+      "genreIds": [
+        "challenge"
+      ],
+      "stationCandidates": [
+        "tbs"
+      ],
+      "referenceUrls": [
+        "https://www.tbs.co.jp/"
+      ],
+      "lastCheckedAt": "2026-10-29T14:42:05+09:00",
+      "lifecycle": "candidate_unconfirmed",
+      "lastResult": "no_window_airing_verified",
+      "searchCaution": "年末など過去の慣例で今回の7日間へ登録しない。"
+    }
+  ]
+}

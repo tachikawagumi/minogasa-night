@@ -122,7 +122,9 @@
         "www.chiba-tv.com",
         "kinro.ntv.co.jp",
         "newscast.jp",
-        "www.bs4.jp"
+        "www.bs4.jp",
+        "www.tokai-tv.com",
+        "www.bs11.jp"
       ],
       "allowedUrls": [
         "https://www.bs-asahi.co.jp/business_hotel/",
@@ -145,7 +147,15 @@
         "https://kinro.ntv.co.jp/article/detail/20261002",
         "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
         "https://www.bs4.jp/mousou-train/",
-        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html"
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+        "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
+        "https://www.bs-asahi.co.jp/golfmatch/",
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+        "https://www.bs-asahi.co.jp/golf/",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
+        "https://www.tokai-tv.com/vtc/",
+        "https://www.bs11.jp/sports/akane-golf/"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -361,6 +371,70 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "official",
           "rationale": "既存の個別事実参照ポリシーに従い番組名・局・日時だけ独自に記録。本文・画像・番組表配列を複製しない。一般公開の個別閲覧のみ。著作物転載・継続クローラー・包括ライセンスの許可ではない。"
+        },
+        "phase13-official-tvtokyo-20261101-2320-weekly-women-golf": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bsasahi-20261102-2154-golfmatch": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bsasahi-20261102-2230-golfjotanbo": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bsasahi-20261031-1700-mitsubishi-ladies": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/golf/",
+          "termsUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bstvtokyo-20261101-0800-golf-samurai": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bstvtokyo-20261101-0730-golf-koyusho": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-fuji-20261101-1605-vantelin-final": {
+          "sourceUrl": "https://www.tokai-tv.com/vtc/",
+          "termsUrl": "https://www.tokai-tv.com/others/web/",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
+        },
+        "phase13-official-bs11-20261101-1730-akane-golf": {
+          "sourceUrl": "https://www.bs11.jp/sports/akane-golf/",
+          "termsUrl": "https://www.bs11.jp/copyright/",
+          "checkedAt": "2026-10-29T14:42:05+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "一般公開ページを単発で参照し、当該番組名・局・日時を独自に記録。著作権注意の対象である文章・映像・写真・ロゴ・表の編集構成は転載しない。個別の最小放送事実についての判断であり、サイトのライセンス取得・継続クローリング・データベース再配信の許可ではない。"
         }
       },
       "conditions": [
