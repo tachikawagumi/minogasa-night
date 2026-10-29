@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-10-29T14:13:39.550285+09:00",
+  "observedAt": "2026-10-29T15:10:39.093333+09:00",
   "targetWindow": {
     "start": "2026-10-29T00:00:00+09:00",
     "endExclusive": "2026-11-05T00:00:00+09:00"
   },
   "lastAIResearch": {
-    "at": "2026-10-29T14:08:06.000+09:00",
+    "at": "2026-10-29T14:42:05+09:00",
     "executionContext": "interactive_preflight",
-    "batchId": "phase12-interactive-20261029",
-    "genresSearched": 20,
-    "queries": 47,
-    "currentWindowQueries": 47,
-    "searchResult": "executed_search_logs",
-    "newCandidates": 4,
-    "newPublic": 4,
+    "batchId": "phase13-interactive-20261029",
+    "genresSearched": 0,
+    "queries": 0,
+    "currentWindowQueries": 0,
+    "searchResult": "not_confirmed",
+    "newCandidates": 8,
+    "newPublic": 8,
     "publicationStatus": "published",
-    "hoursSinceResearch": 0.09,
+    "hoursSinceResearch": 0.48,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "late_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-10-29T14:13:05+09:00",
+  "lastAnimeSuccessAt": "2026-10-29T15:10:13+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-10-29T14:13:05+09:00",
+    "at": "2026-10-29T15:10:13+09:00",
     "counts": {
-      "added": 4,
+      "added": 8,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 1
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "40822069402",
+    "runId": "40827567795",
     "event": "push",
-    "observedAt": "2026-10-29T14:13:39.550285+09:00",
+    "observedAt": "2026-10-29T15:10:39.093333+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-10-29T14:13:39+09:00",
+    "verifiedAt": "2026-10-29T15:10:39+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "f085516812ddddab6dc4a55b20840ca047eb376e2b1bc9173c2b3e5d0f4d9f8b"
+    "semanticSha256": "688079bbb4594bd914c37f93d43a021d62a5deb536b474a2b8ed852e734ae29b"
   },
   "genreCoverage": [
     {
@@ -124,8 +124,8 @@
     {
       "genreId": "golf",
       "name": "ゴルフ",
-      "programs": 1,
-      "lastStart": "2026-10-31T15:00:00+09:00"
+      "programs": 9,
+      "lastStart": "2026-11-02T22:30:00+09:00"
     },
     {
       "genreId": "soccer",
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-03T21:00:00+09:00"
     }
   ],
-  "publicPrograms": 148,
+  "publicPrograms": 156,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
