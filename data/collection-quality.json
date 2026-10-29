@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-29T09:40:36+09:00",
+  "checkedAt": "2026-10-29T09:40:58+09:00",
   "batchId": "phase10-interactive-web-search-20261027",
-  "target": "validated_candidate_not_yet_deployed",
+  "target": "current_public_json",
   "discovered": 46,
   "inputDuplicates": 0,
   "conflictingIds": [],
