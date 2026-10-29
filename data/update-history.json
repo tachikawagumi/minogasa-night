@@ -1274,5 +1274,42 @@
       "semanticSha256": "28e8b8d5fb0266471d9afbdee8d112019b87500334ba2e4639d88d7ed6ae7816",
       "programs": 156
     }
+  },
+  {
+    "at": "2026-10-29T20:25:38+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 167,
+    "aiAccepted": 44,
+    "aiHeld": 16,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "official-bsasahi-20261102-2100-kyototabi",
+        "official-bsntv-20261031-1700-yumetyoko",
+        "official-bsntv-20261031-1800-italy",
+        "official-bsntv-20261031-2100-aisya-henreki",
+        "official-bstvtokyo-20261101-1430-airwalk-special",
+        "official-bstvtokyo-20261101-2230-gaia",
+        "official-chiba-20261104-2230-weekly-bike-tv",
+        "official-tbs-20261101-1800-heritage",
+        "official-tvtokyo-20261031-1830-degawacharging",
+        "official-tvtokyo-20261101-1830-private-rail-special",
+        "official-tvtokyo-20261103-1200-ai-sama-special"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 11,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]

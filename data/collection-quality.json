@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-29T15:15:35+09:00",
-  "batchId": "phase13-interactive-20261029",
-  "target": "current_public_json",
-  "discovered": 67,
+  "checkedAt": "2026-10-29T20:25:44+09:00",
+  "batchId": "phase15-interactive-20261029",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 79,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 0,
+  "newRegistrations": 11,
   "updates": 0,
-  "alreadyPublished": 37,
-  "held": 27,
+  "alreadyPublished": 48,
+  "held": 28,
   "heldReasonCounts": {
     "outside_window": 14,
-    "terms_unconfirmed": 21,
+    "terms_unconfirmed": 22,
     "datetime_unconfirmed": 10,
-    "genre_uncertain": 10,
-    "other": 10,
-    "station_unconfirmed": 7
+    "genre_uncertain": 11,
+    "other": 11,
+    "station_unconfirmed": 8
   },
   "reasonLabels": {
     "datetime_unconfirmed": "放送日時が確認できない",
@@ -27,7 +27,7 @@
     "other": "その他",
     "pipeline_handoff_missing": "公開処理への受け渡し漏れ"
   },
-  "unpublishedFuture": 0,
+  "unpublishedFuture": 1,
   "attention": [
     {
       "id": "phase7-oichi-20261101-1845",
@@ -88,7 +88,7 @@
       "holdReasons": [
         "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -247,13 +247,13 @@
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "candidates": 2,
-      "publicPrograms": 1,
+      "candidates": 3,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 11,
-      "datetimeConfirmed": 1,
+      "datetimeConfirmed": 2,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
@@ -262,13 +262,13 @@
     {
       "genreId": "car",
       "name": "車",
-      "candidates": 3,
-      "publicPrograms": 2,
+      "candidates": 6,
+      "publicPrograms": 5,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
-      "currentWindowSearches": 6,
-      "searches": 11,
-      "datetimeConfirmed": 2,
+      "currentWindowSearches": 12,
+      "searches": 17,
+      "datetimeConfirmed": 5,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
@@ -307,14 +307,14 @@
     {
       "genreId": "soccer",
       "name": "サッカー",
-      "candidates": 0,
+      "candidates": 1,
       "publicPrograms": 1,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 11,
-      "datetimeConfirmed": 0,
-      "held": 0,
+      "datetimeConfirmed": 1,
+      "held": 1,
       "excluded": 0,
       "omissions": 0,
       "zeroReasonCode": null
@@ -337,13 +337,13 @@
     {
       "genreId": "fishing",
       "name": "釣り",
-      "candidates": 1,
-      "publicPrograms": 1,
+      "candidates": 2,
+      "publicPrograms": 2,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 11,
-      "datetimeConfirmed": 1,
+      "datetimeConfirmed": 2,
       "held": 0,
       "excluded": 0,
       "omissions": 0,
@@ -367,13 +367,13 @@
     {
       "genreId": "travel",
       "name": "旅",
-      "candidates": 5,
-      "publicPrograms": 5,
+      "candidates": 10,
+      "publicPrograms": 10,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 11,
-      "datetimeConfirmed": 4,
+      "datetimeConfirmed": 9,
       "held": 1,
       "excluded": 1,
       "omissions": 0,
@@ -382,13 +382,13 @@
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
-      "candidates": 2,
-      "publicPrograms": 2,
+      "candidates": 3,
+      "publicPrograms": 3,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 11,
-      "datetimeConfirmed": 2,
+      "datetimeConfirmed": 3,
       "held": 1,
       "excluded": 0,
       "omissions": 0,
@@ -412,13 +412,13 @@
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "candidates": 4,
-      "publicPrograms": 2,
+      "candidates": 5,
+      "publicPrograms": 3,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 6,
       "searches": 13,
-      "datetimeConfirmed": 3,
+      "datetimeConfirmed": 4,
       "held": 2,
       "excluded": 1,
       "omissions": 0,
@@ -823,7 +823,7 @@
         "https://www.tbs.co.jp/tv/20261101_C34E.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -944,7 +944,7 @@
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-28"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -968,7 +968,7 @@
         "https://www.nhk.jp/p/darkside/ts/4847XJM6K8/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1109,7 +1109,7 @@
         "https://player.bfi.org.uk/rentals/film/watch-psycho-1960-online"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1166,7 +1166,7 @@
         "https://lp.p.pia.jp/article/news/514536/index.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1192,7 +1192,7 @@
         "https://thetv.jp/person/1000023837/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1217,7 +1217,7 @@
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1240,7 +1240,7 @@
         "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1263,7 +1263,7 @@
         "https://kinro.ntv.co.jp/lineup/20261030"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1286,7 +1286,7 @@
         "https://newscast.jp/news/1942427"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1309,7 +1309,7 @@
         "https://kinro.ntv.co.jp/article/detail/20261002"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1332,7 +1332,7 @@
         "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1359,7 +1359,7 @@
         "https://thetv.jp/program/0000980619/226/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1383,7 +1383,7 @@
         "https://entafukuzou.com/terrestrial-bs-movie/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1406,7 +1406,7 @@
         "https://entafukuzou.com/terrestrial-bs-movie/"
       ],
       "holdReasons": [],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1437,7 +1437,7 @@
       "holdReasons": [
         "MONDO TVは対象の無料局ではない。無料局での別放送枠まで除外する意味ではない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1468,7 +1468,7 @@
       "holdReasons": [
         "今回発見した枠はテレビ大阪で対象地域外。東京・千葉の放送日時を確認できていない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1500,7 +1500,7 @@
       "holdReasons": [
         "10/26 13時は過去。今週へ移動しない。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1532,7 +1532,7 @@
       "holdReasons": [
         "確認できた候補日は11/6。今回の10/27〜11/2の対象期間外。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1564,7 +1564,7 @@
       "holdReasons": [
         "公式発表の初回は11/11。今回の対象期間外。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1595,7 +1595,7 @@
       "holdReasons": [
         "検索で日付候補と番組を発見したが、個別ページはCache miss。開始・終了時刻まで読み取れず。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -1626,7 +1626,7 @@
       "holdReasons": [
         "番組名だけでは当該回が車の特集と確定できない。現在見える紹介は軍装・雑貨関連で分類根拠不足。"
       ],
-      "researchDue": false,
+      "researchDue": true,
       "omission": false
     },
     {
@@ -2154,6 +2154,290 @@
       "holdReasons": [],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "held-bsntv142-20261031-1500-weleague",
+      "title": "2026-27 WEリーグ 日テレ・東京ヴェルディベレーザ×ＲＢ大宮アルディージャＷＯＭＥＮ",
+      "genreIds": [
+        "soccer"
+      ],
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "station_unconfirmed",
+        "genre_uncertain",
+        "terms_unconfirmed",
+        "other"
+      ],
+      "validationReason": null,
+      "missingStage": "held",
+      "classificationLevel": "related",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/weleague2026/"
+      ],
+      "holdReasons": [
+        "subchannel_not_in_station_policy"
+      ],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsasahi-20261102-2100-kyototabi",
+      "title": "あなたの知らない京都旅 名画から名刹まで！都の秘蔵めぐり",
+      "genreIds": [
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/kyototabi/lineup/prg_172/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261031-1830-degawacharging",
+      "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+      "genreIds": [
+        "car",
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bstvtokyo-20261101-1430-airwalk-special",
+      "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+      "genreIds": [
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bstvtokyo-20261101-2230-gaia",
+      "title": "ガイアの夜明け【世界遺産、その先に…】",
+      "genreIds": [
+        "architecture"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsntv-20261031-1700-yumetyoko",
+      "title": "夢釣行～一魚一会の旅～",
+      "genreIds": [
+        "fishing"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/yumetyoko/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsntv-20261031-1800-italy",
+      "title": "小さな村の物語 イタリア",
+      "genreIds": [
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/italy/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261101-1830-private-rail-special",
+      "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+      "genreIds": [
+        "railway"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261103-1200-ai-sama-special",
+      "title": "さらばのＡＩサマの言うとおり～ガチ検証で奇跡連発！～",
+      "genreIds": [
+        "challenge"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-tbs-20261101-1800-heritage",
+      "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+      "genreIds": [
+        "travel"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tbs.co.jp/heritage/next/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-chiba-20261104-2230-weekly-bike-tv",
+      "title": "週刊バイクTV ヤマハの155ccでプチ散歩②",
+      "genreIds": [
+        "car"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.chiba-tv.com/program/detail/1010"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsntv-20261031-2100-aisya-henreki",
+      "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
+      "genreIds": [
+        "car"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs4.jp/aisya_henreki/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "limitations": [
@@ -2163,7 +2447,7 @@
   ],
   "pipelineErrors": 0,
   "confirmedOmissions": [],
-  "ledgerCandidates": 49,
+  "ledgerCandidates": 61,
   "excluded": 6,
   "unconfirmedDiscoveries": 10
 }

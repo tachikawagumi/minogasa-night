@@ -344,28 +344,33 @@
     {
       "genreId": "car",
       "route": "program_name",
-      "query": "所さんの世田谷ベース OR カーグラフィックTV 放送予定 2026年10月29日 2026年11月04日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+      "query": "ワールド・トラックロード ～俺の助手席に乗らないか～ OR カーグラフィックTV OR おぎやはぎの愛車遍歴 OR 所さんの世田谷ベース OR クルマでいこう！ OR 週刊バイクTV 放送予定 2026年10月29日 2026年11月04日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
     },
     {
       "genreId": "car",
       "route": "genre",
-      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV 番組内容 予告 放送予定 2026年10月29日 2026年11月04日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年10月29日 2026年11月04日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
     },
     {
       "genreId": "car",
       "route": "specialist",
       "urls": [
         "https://www.bsfuji.tv/top/timetable/",
-        "https://www.bs-asahi.co.jp/timetable/"
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.nhk.jp/timetable/",
+        "https://www.web.nhk/tv/"
       ],
-      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV 番組内容 予告 放送予定 2026年10月29日 2026年11月04日"
+      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年10月29日 2026年11月04日"
     },
     {
       "genreId": "car",
       "route": "official_schedule",
       "urls": [
         "https://www.bsfuji.tv/top/timetable/",
-        "https://www.bs-asahi.co.jp/timetable/"
+        "https://www.bs-asahi.co.jp/timetable/",
+        "https://www.nhk.jp/timetable/",
+        "https://www.chiba-tv.com/program/detail/1010",
+        "https://www.bs4.jp/aisya_henreki/"
       ]
     },
     {
@@ -758,5 +763,488 @@
       "recheckAfterHours": 48
     }
   ],
+  "hybrid": {
+    "A": [
+      {
+        "genreId": "ghost",
+        "subcategoryId": "ghost",
+        "query": "心霊 OR 心霊体験 OR 心霊特番 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "ghost",
+        "subcategoryId": "kaidan",
+        "query": "怪談 OR 恐怖体験 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "ghost",
+        "subcategoryId": "phenomena",
+        "query": "怪奇現象 OR 怪異 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "ufo",
+        "subcategoryId": "ufo",
+        "query": "UFO OR 宇宙人 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "ufo",
+        "subcategoryId": "legend",
+        "query": "都市伝説 OR UMA 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "ufo",
+        "subcategoryId": "mystery",
+        "query": "未解決ミステリー OR 超常現象 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "movie",
+        "subcategoryId": "japanese",
+        "query": "邦画 OR 日本映画 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "movie",
+        "subcategoryId": "foreign",
+        "query": "洋画 OR 外国映画 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "movie",
+        "subcategoryId": "animated",
+        "query": "アニメ映画 OR 劇場版アニメ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "movie",
+        "subcategoryId": "slots",
+        "query": "午後のロードショー OR BSシネマ OR 映画放送枠 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "horror_movie",
+        "subcategoryId": "horror",
+        "query": "ホラー映画 OR 恐怖映画 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "horror_movie",
+        "subcategoryId": "occult",
+        "query": "オカルト映画 OR 怪奇映画 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "horror_movie",
+        "subcategoryId": "classic",
+        "query": "古典ホラー OR 怪獣ホラー 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "disney",
+        "subcategoryId": "parks",
+        "query": "ディズニーパーク OR 東京ディズニーリゾート 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "disney",
+        "subcategoryId": "works",
+        "query": "ディズニー作品 OR ピクサー 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "disney",
+        "subcategoryId": "stay_food",
+        "query": "ディズニーホテル OR パーク食べ歩き 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "usj",
+        "subcategoryId": "parks",
+        "query": "USJ特集 OR ユニバーサルスタジオジャパン 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "usj",
+        "subcategoryId": "attractions",
+        "query": "アトラクション OR パーク紹介 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "usj",
+        "subcategoryId": "food",
+        "query": "USJグルメ OR パーク食べ歩き 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "big_eating",
+        "subcategoryId": "eating",
+        "query": "大食い OR 爆食 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "big_eating",
+        "subcategoryId": "large",
+        "query": "デカ盛り OR メガ盛り 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "big_eating",
+        "subcategoryId": "contest",
+        "query": "フードファイト OR 完食チャレンジ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "onsen",
+        "subcategoryId": "hidden",
+        "query": "秘湯 OR 露天風呂 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "onsen",
+        "subcategoryId": "lodging",
+        "query": "温泉旅館 OR 温泉宿 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "onsen",
+        "subcategoryId": "trip",
+        "query": "温泉旅 OR 湯めぐり 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "architecture",
+        "subcategoryId": "homes",
+        "query": "住宅 OR 豪邸 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "architecture",
+        "subcategoryId": "design",
+        "query": "建築 OR 名建築 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "architecture",
+        "subcategoryId": "renovation",
+        "query": "リノベーション OR リフォーム OR 建築修復 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "new",
+        "query": "新車 OR 試乗 OR 自動車レビュー 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "classic",
+        "query": "旧車 OR 名車 OR レストア 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "luxury",
+        "query": "スーパーカー OR 高級車 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "trucks",
+        "query": "トラック OR 大型車 OR 長距離ドライバー 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "special",
+        "query": "バス OR 特殊車両 OR 重機 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "motorcycles",
+        "query": "バイク OR オートバイ OR ツーリング 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "racing",
+        "query": "モータースポーツ OR レース 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "car",
+        "subcategoryId": "roadtrip",
+        "query": "車両が主役の旅 OR ロードトリップ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "dance",
+        "subcategoryId": "dance",
+        "query": "ダンス OR パフォーマンス 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "dance",
+        "subcategoryId": "ballet",
+        "query": "バレエ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "dance",
+        "subcategoryId": "competition",
+        "query": "ダンス大会 OR ダンスバトル 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "golf",
+        "subcategoryId": "tournaments",
+        "query": "ゴルフ大会 OR プロゴルフ OR 無料中継 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "golf",
+        "subcategoryId": "lessons",
+        "query": "ゴルフレッスン OR 技術解説 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "golf",
+        "subcategoryId": "trips",
+        "query": "ゴルフ旅 OR ゴルフ場探訪 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "soccer",
+        "subcategoryId": "matches",
+        "query": "サッカー中継 OR 国内リーグ OR 海外リーグ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "soccer",
+        "subcategoryId": "national",
+        "query": "サッカー代表戦 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "soccer",
+        "subcategoryId": "features",
+        "query": "サッカー情報 OR 選手特集 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "baseball",
+        "subcategoryId": "professional",
+        "query": "プロ野球 OR 日本シリーズ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "baseball",
+        "subcategoryId": "school",
+        "query": "高校野球 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "baseball",
+        "subcategoryId": "mlb",
+        "query": "MLB OR 大リーグ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "baseball",
+        "subcategoryId": "features",
+        "query": "野球特集 OR 野球情報 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "fishing",
+        "subcategoryId": "sea",
+        "query": "海釣り OR 沖釣り 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "fishing",
+        "subcategoryId": "river",
+        "query": "川釣り OR 鮎 OR 渓流 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "fishing",
+        "subcategoryId": "tuna",
+        "query": "マグロ OR 大間 OR 漁師密着 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "fishing",
+        "subcategoryId": "travel",
+        "query": "釣り紀行 OR 釣り旅 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "health",
+        "subcategoryId": "information",
+        "query": "健康情報 OR 生活改善 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "health",
+        "subcategoryId": "exercise",
+        "query": "運動 OR 身体 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "health",
+        "subcategoryId": "prevention",
+        "query": "病気予防 OR 予防医学 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "health",
+        "subcategoryId": "medicine",
+        "query": "医療特集 OR 治療情報 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "travel",
+        "subcategoryId": "domestic",
+        "query": "国内旅行 OR 街歩き OR 食べ歩き 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "travel",
+        "subcategoryId": "overseas",
+        "query": "海外旅行 OR 海外紀行 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "travel",
+        "subcategoryId": "rail",
+        "query": "鉄道旅 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "travel",
+        "subcategoryId": "road",
+        "query": "ロードトリップ OR 車旅 OR バイク旅 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "challenge",
+        "subcategoryId": "athletic",
+        "query": "SASUKE OR 運動チャレンジ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "challenge",
+        "subcategoryId": "escape",
+        "query": "逃走中 OR 戦闘中 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "challenge",
+        "subcategoryId": "games",
+        "query": "ゲーム企画 OR 対決 OR 挑戦番組 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "anime",
+        "subcategoryId": "tv",
+        "query": "TVアニメ OR 新作アニメ 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "anime",
+        "subcategoryId": "special",
+        "query": "アニメ特番 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "anime",
+        "subcategoryId": "film",
+        "query": "劇場版アニメ OR アニメ映画 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "railway",
+        "subcategoryId": "travel",
+        "query": "鉄道旅 OR ローカル線 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "railway",
+        "subcategoryId": "vehicles",
+        "query": "鉄道車両 OR 運転席 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "railway",
+        "subcategoryId": "lines",
+        "query": "路線 OR 廃線 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "railway",
+        "subcategoryId": "technology",
+        "query": "鉄道技術 OR 鉄道施設 番組 放送予定 2026-10-29〜2026-11-05（末尾日を含まない）",
+        "status": "planned"
+      }
+    ],
+    "B": [
+      {
+        "route": "B",
+        "query": "site:www.tv-tokyo.co.jp 2026-10-29 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.tv-tokyo.co.jp 2026-11-04 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.bs-asahi.co.jp 2026-10-29 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.bs-asahi.co.jp 2026-11-04 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.bs4.jp 2026-10-29 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.bs4.jp 2026-11-04 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.tbs.co.jp 2026-10-29 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      },
+      {
+        "route": "B",
+        "query": "site:www.tbs.co.jp 2026-11-04 番組 放送予定",
+        "mode": "individual_reference",
+        "status": "planned"
+      }
+    ],
+    "execution": "Workの実検索が必要。計画を実行済みと扱わない。キーワードから分類しない。",
+    "bulkCollectionEnabled": false,
+    "budgetCapIsNotCompletionCriterion": true
+  },
   "execution": "AI connected web search only; GitHub Actions does not execute web search"
 }
