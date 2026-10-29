@@ -16,9 +16,9 @@
       "evaluated": 7,
       "eligibleNew": 4,
       "held": 3,
-      "status": "submitted_for_validation",
-      "githubWriteVerified": false,
-      "publicationVerified": false,
+      "status": "published",
+      "githubWriteVerified": true,
+      "publicationVerified": true,
       "previousScheduledActions": {
         "id": 40795566494,
         "event": "schedule",
@@ -26,12 +26,166 @@
         "conclusion": "success",
         "publicPrograms": 142
       },
-      "pending": [
-        "GitHub write",
-        "Actions validation",
-        "Pages exact JSON verification"
+      "pending": [],
+      "additionalPaidServices": 0,
+      "commitSha": "8f7a5641d8b6a0c8d9fc0904b801614d54fb4f43",
+      "actionsRunId": 40816137702,
+      "actionsConclusion": "success",
+      "publicationVerification": {
+        "verifiedAt": "2026-10-29T13:09:59+09:00",
+        "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+        "httpStatus": 200,
+        "semanticSha256": "627a2242315d7c80f7dd789955fae62d9f411c59934c706cd03141c44a1630db",
+        "programs": 145
+      },
+      "counts": {
+        "added": 4,
+        "scheduleChanged": 0,
+        "genreChanged": 0,
+        "removed": 0,
+        "expired": 1
+      },
+      "publicPrograms": 145,
+      "publicGenres": 15,
+      "publishedProgramIds": [
+        "official-bsntv-20261103-2100-mousoutrain",
+        "official-tvtokyo-20261101-0730-pokedoko",
+        "verified-nhkbs-20261104-1300-warhorse",
+        "verified-tvtokyo-20261104-1340-unknown"
       ],
-      "additionalPaidServices": 0
+      "genreCoverage": [
+        {
+          "genreId": "ghost",
+          "searches": 2,
+          "publishedPrograms": 2,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "ufo",
+          "searches": 2,
+          "publishedPrograms": 0,
+          "zeroExplanation": "今回の対象期間の掲載枠を確認できず。実検索済みだが不存在とは断定しない。"
+        },
+        {
+          "genreId": "movie",
+          "searches": 2,
+          "publishedPrograms": 12,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "horror_movie",
+          "searches": 3,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "disney",
+          "searches": 3,
+          "publishedPrograms": 0,
+          "zeroExplanation": "今回の対象期間の掲載枠を確認できず。実検索済みだが不存在とは断定しない。"
+        },
+        {
+          "genreId": "usj",
+          "searches": 3,
+          "publishedPrograms": 0,
+          "zeroExplanation": "今回の対象期間の掲載枠を確認できず。実検索済みだが不存在とは断定しない。"
+        },
+        {
+          "genreId": "big_eating",
+          "searches": 2,
+          "publishedPrograms": 0,
+          "zeroExplanation": "今回の対象期間の掲載枠を確認できず。実検索済みだが不存在とは断定しない。"
+        },
+        {
+          "genreId": "onsen",
+          "searches": 2,
+          "publishedPrograms": 2,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "architecture",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "car",
+          "searches": 2,
+          "publishedPrograms": 2,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "dance",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "golf",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "soccer",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "baseball",
+          "searches": 2,
+          "publishedPrograms": 0,
+          "zeroExplanation": "今回の対象期間の掲載枠を確認できず。実検索済みだが不存在とは断定しない。"
+        },
+        {
+          "genreId": "fishing",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "health",
+          "searches": 2,
+          "publishedPrograms": 1,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "travel",
+          "searches": 2,
+          "publishedPrograms": 5,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "challenge",
+          "searches": 2,
+          "publishedPrograms": 2,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "anime",
+          "searches": 2,
+          "publishedPrograms": 118,
+          "zeroExplanation": null
+        },
+        {
+          "genreId": "railway",
+          "searches": 2,
+          "publishedPrograms": 2,
+          "zeroExplanation": null
+        }
+      ],
+      "endToEndLimitations": [
+        "13:04 JST heartbeat received; not evidence of AI starting at scheduled 09:00. Cause of delay unknown.",
+        "Platform execution ID unavailable; actual scheduler history was not independently retrieved.",
+        "Public JSON could not be fetched by the Web tool; Actions independently verified HTTP200 and semantic hash, and repository snapshot contains all four IDs.",
+        "No Android UI test or APK rebuild in this scheduled research run."
+      ],
+      "sourceRetrievalErrors": [
+        "NHK third-party daily page failed; no guessed dates published",
+        "CINEMORE page failed after search; not counted as full verification",
+        "Some terms/privacy page fetches failed; no new host or blanket licence was enabled"
+      ]
     }
   ]
 }
