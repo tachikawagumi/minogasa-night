@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-10-29T15:10:39.093333+09:00",
+  "observedAt": "2026-10-29T15:15:36.030724+09:00",
   "targetWindow": {
     "start": "2026-10-29T00:00:00+09:00",
     "endExclusive": "2026-11-05T00:00:00+09:00"
@@ -9,14 +9,14 @@
     "at": "2026-10-29T14:42:05+09:00",
     "executionContext": "interactive_preflight",
     "batchId": "phase13-interactive-20261029",
-    "genresSearched": 0,
-    "queries": 0,
-    "currentWindowQueries": 0,
-    "searchResult": "not_confirmed",
+    "genresSearched": 20,
+    "queries": 68,
+    "currentWindowQueries": 68,
+    "searchResult": "executed_search_logs",
     "newCandidates": 8,
-    "newPublic": 8,
+    "newPublic": 0,
     "publicationStatus": "published",
-    "hoursSinceResearch": 0.48,
+    "hoursSinceResearch": 0.56,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,12 +29,12 @@
     "status": "late_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-10-29T15:10:13+09:00",
+  "lastAnimeSuccessAt": "2026-10-29T15:15:07+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-10-29T15:10:13+09:00",
+    "at": "2026-10-29T15:15:07+09:00",
     "counts": {
-      "added": 8,
+      "added": 0,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "40827567795",
+    "runId": "40828054919",
     "event": "push",
-    "observedAt": "2026-10-29T15:10:39.093333+09:00",
+    "observedAt": "2026-10-29T15:15:36.030724+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-10-29T15:10:39+09:00",
+    "verifiedAt": "2026-10-29T15:15:35+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "688079bbb4594bd914c37f93d43a021d62a5deb536b474a2b8ed852e734ae29b"
+    "semanticSha256": "28e8b8d5fb0266471d9afbdee8d112019b87500334ba2e4639d88d7ed6ae7816"
   },
   "genreCoverage": [
     {
