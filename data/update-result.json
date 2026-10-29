@@ -1,6 +1,6 @@
 {
-  "at": "2026-10-29T15:10:13+09:00",
-  "status": "published",
+  "at": "2026-10-29T15:15:07+09:00",
+  "status": "prepared",
   "animeSuccess": true,
   "publicPrograms": 156,
   "aiAccepted": 33,
@@ -8,34 +8,18 @@
   "batchId": "phase13-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
-    "added": [
-      "official-bs11-20261101-1730-akane-golf",
-      "official-bsasahi-20261031-1700-mitsubishi-ladies",
-      "official-bsasahi-20261102-2154-golfmatch",
-      "official-bsasahi-20261102-2230-golfjotanbo",
-      "official-bstvtokyo-20261101-0730-golf-koyusho",
-      "official-bstvtokyo-20261101-0800-golf-samurai",
-      "official-fuji-20261101-1605-vantelin-final",
-      "official-tvtokyo-20261101-2320-weekly-women-golf"
-    ],
+    "added": [],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
     "expired": []
   },
   "counts": {
-    "added": 8,
+    "added": 0,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-10-29T15:10:39+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "688079bbb4594bd914c37f93d43a021d62a5deb536b474a2b8ed852e734ae29b",
-    "programs": 156
-  }
+  "publicationVerified": false
 }
