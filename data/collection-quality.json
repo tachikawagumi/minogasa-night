@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-10-29T14:13:39+09:00",
-  "batchId": "phase12-interactive-20261029",
-  "target": "current_public_json",
-  "discovered": 59,
+  "checkedAt": "2026-10-29T15:10:17+09:00",
+  "batchId": "phase13-interactive-20261029",
+  "target": "validated_candidate_not_yet_deployed",
+  "discovered": 67,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 4,
+  "newRegistrations": 8,
   "updates": 0,
-  "alreadyPublished": 29,
+  "alreadyPublished": 37,
   "held": 27,
   "heldReasonCounts": {
     "outside_window": 14,
@@ -292,13 +292,13 @@
     {
       "genreId": "golf",
       "name": "ゴルフ",
-      "candidates": 3,
-      "publicPrograms": 1,
+      "candidates": 11,
+      "publicPrograms": 9,
       "searchCoverage": "name_and_genre_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 4,
       "searches": 9,
-      "datetimeConfirmed": 3,
+      "datetimeConfirmed": 11,
       "held": 2,
       "excluded": 0,
       "omissions": 0,
@@ -1970,6 +1970,190 @@
       ],
       "researchDue": false,
       "omission": false
+    },
+    {
+      "id": "official-tvtokyo-20261101-2320-weekly-women-golf",
+      "title": "Ｗｅｅｋｌｙ女子ゴルフ",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsasahi-20261102-2154-golfmatch",
+      "title": "女子ゴルフペアマッチ選手権",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfmatch/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsasahi-20261102-2230-golfjotanbo",
+      "title": "極上！ゴルフ場探訪",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golfjo-tanbo/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bsasahi-20261031-1700-mitsubishi-ladies",
+      "title": "樋口久子 三菱電機レディスゴルフトーナメント",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/golf/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bstvtokyo-20261101-0800-golf-samurai",
+      "title": "ゴルフ侍、見参！",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bstvtokyo-20261101-0730-golf-koyusho",
+      "title": "ゴルフ交遊抄",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-fuji-20261101-1605-vantelin-final",
+      "title": "バンテリン東海クラシック2026 最終日",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.tokai-tv.com/vtc/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
+    },
+    {
+      "id": "official-bs11-20261101-1730-akane-golf",
+      "title": "飯島茜のアカネ式！大学女子ゴルフ部",
+      "genreIds": [
+        "golf"
+      ],
+      "published": true,
+      "publishedExact": true,
+      "held": false,
+      "reasonCodes": [],
+      "validationReason": null,
+      "missingStage": "published",
+      "classificationLevel": "clear",
+      "officialDatetimeConfirmed": true,
+      "datetimeConfirmed": true,
+      "excluded": false,
+      "sourceUrls": [
+        "https://www.bs11.jp/sports/akane-golf/"
+      ],
+      "holdReasons": [],
+      "researchDue": false,
+      "omission": false
     }
   ],
   "limitations": [
@@ -1979,7 +2163,7 @@
   ],
   "pipelineErrors": 0,
   "confirmedOmissions": [],
-  "ledgerCandidates": 41,
+  "ledgerCandidates": 49,
   "excluded": 6,
   "unconfirmedDiscoveries": 10
 }

@@ -1142,5 +1142,39 @@
       "semanticSha256": "f085516812ddddab6dc4a55b20840ca047eb376e2b1bc9173c2b3e5d0f4d9f8b",
       "programs": 148
     }
+  },
+  {
+    "at": "2026-10-29T15:10:13+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 156,
+    "aiAccepted": 33,
+    "aiHeld": 16,
+    "batchId": "phase13-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "official-bs11-20261101-1730-akane-golf",
+        "official-bsasahi-20261031-1700-mitsubishi-ladies",
+        "official-bsasahi-20261102-2154-golfmatch",
+        "official-bsasahi-20261102-2230-golfjotanbo",
+        "official-bstvtokyo-20261101-0730-golf-koyusho",
+        "official-bstvtokyo-20261101-0800-golf-samurai",
+        "official-fuji-20261101-1605-vantelin-final",
+        "official-tvtokyo-20261101-2320-weekly-women-golf"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 8,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
