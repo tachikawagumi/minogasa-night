@@ -201,11 +201,45 @@
       "held": 2,
       "duplicates": 4,
       "evaluated": 10,
-      "status": "submitted_for_validation",
-      "publicationVerified": false,
+      "status": "published",
+      "publicationVerified": true,
       "onTime": null,
       "scheduledFor": null,
-      "note": "Human-requested phase 12 run. Does not prove scheduled unattended operation."
+      "note": "Human-requested phase 12 run. Does not prove scheduled unattended operation.",
+      "commitSha": "9904c576906aa3093c449858847a450b66b24220",
+      "actions": {
+        "runId": 40822069402,
+        "startedAt": "2026-10-29T14:12:46+09:00",
+        "conclusion": "success"
+      },
+      "verification": {
+        "verifiedAt": "2026-10-29T14:13:39+09:00",
+        "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+        "httpStatus": 200,
+        "semanticSha256": "f085516812ddddab6dc4a55b20840ca047eb376e2b1bc9173c2b3e5d0f4d9f8b",
+        "programs": 148
+      },
+      "newPublic": 4,
+      "publicPrograms": 148,
+      "counts": {
+        "added": 4,
+        "scheduleChanged": 0,
+        "genreChanged": 0,
+        "removed": 0,
+        "expired": 1
+      },
+      "tests": {
+        "pythonPassed": 92,
+        "androidTotal": 35,
+        "androidPassed": 29,
+        "androidSkipped": 6,
+        "androidFailures": 0,
+        "deviceUiTested": false
+      },
+      "limitations": [
+        "This was an interactive phase12 run, not scheduled execution.",
+        "Actual 09:00 AI start and reason for late heartbeat remain unverified."
+      ]
     }
   ]
 }
