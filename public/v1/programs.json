@@ -870,6 +870,20 @@
       "updatedAt": "2026-10-29T14:08:06.000+09:00"
     },
     {
+      "id": "official-fuji-20261104-1900-nandakore",
+      "seriesId": "official-fuji-nandakore-series",
+      "title": "世界の何だコレ!?ミステリー",
+      "stationId": "fuji",
+      "start": "2026-11-04T19:00:00+09:00",
+      "end": "2026-11-04T20:00:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-02T15:00:00+09:00",
+      "updatedAt": "2026-11-02T15:00:00+09:00"
+    },
+    {
       "id": "syobocal-716530",
       "seriesId": "syobocal-title-8003",
       "title": "世界最強の魔女、始めました",
