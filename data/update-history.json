@@ -1909,5 +1909,32 @@
       "semanticSha256": "996e078981e5045bf8d9e8b464f52f5fda461b065754e0aac78ce2dfdfb589a0",
       "programs": 129
     }
+  },
+  {
+    "at": "2026-11-02T15:26:22+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 129,
+    "aiAccepted": 3,
+    "aiHeld": 57,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [
+        "official-fuji-20261104-1900-nandakore"
+      ],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 1,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
