@@ -1869,5 +1869,45 @@
       "expired": 2
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-02T15:24:44+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 129,
+    "aiAccepted": 3,
+    "aiHeld": 57,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [
+        "official-bsntv-20261107-1700-yumetyoko",
+        "official-tvtokyo-20261105-2154-dnos",
+        "official-tvtokyo-20261107-1730-fishing",
+        "official-tvtokyo-20261108-0000-racinglabo"
+      ],
+      "expired": [
+        "verified-nhkbs-20261102-1300-fordferrari",
+        "verified-tvtokyo-20261102-1340-outbreak"
+      ]
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 4,
+      "expired": 2
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-02T15:25:30+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "996e078981e5045bf8d9e8b464f52f5fda461b065754e0aac78ce2dfdfb589a0",
+      "programs": 129
+    }
   }
 ]
