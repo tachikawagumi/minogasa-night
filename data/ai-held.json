@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-29T20:25:38+09:00",
+  "checkedAt": "2026-11-02T09:48:42+09:00",
   "batchId": "phase15-interactive-20261029",
   "records": [
     {
@@ -116,6 +116,35 @@
     },
     {
       "candidate": {
+        "id": "official-5175d86a5b23c2d551acb056",
+        "title": "ケンコバのほろ酔いビジホ泊 全国版",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T22:30:00+09:00",
+        "genreIds": [
+          "travel",
+          "onsen"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-95f2d23a6c58e3fcba1e42a3",
+        "title": "カーグラフィックTV",
+        "stationId": "bsasahi",
+        "start": "2026-10-29T23:00:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
         "id": "official-e70af6e582c0f367c487ed50",
         "title": "氷の城壁　第19話",
         "stationId": "tbs",
@@ -158,6 +187,90 @@
     },
     {
       "candidate": {
+        "id": "official-bab590a4f8e59ce88597843a",
+        "title": "辰巳琢郎の家物語　リモデル★きらり",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T12:00:00+09:00",
+        "genreIds": [
+          "architecture"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/tatsumi/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-f9558d382a201f8b6603526e",
+        "title": "ほんとにあった怖い話 秋の特別編2026",
+        "stationId": "fuji",
+        "start": "2026-10-31T21:00:00+09:00",
+        "genreIds": [
+          "ghost"
+        ],
+        "sourceUrl": "https://www.fujitv.co.jp/fujitv/news/20261150.html",
+        "sourcePolicyId": "fuji_honkowa_minimal_fact"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-ce810c015779acc089ba403a",
+        "title": "健康カプセル！ゲンキの時間",
+        "stationId": "tbs",
+        "start": "2026-11-01T07:00:00+09:00",
+        "genreIds": [
+          "health"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/tv/20261101_C34E.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "syobocal-720594",
+        "title": "ポケットモンスター(2023)",
+        "stationId": "tvtokyo",
+        "start": "2026-10-30T18:55:00+09:00",
+        "genreIds": [
+          "anime"
+        ],
+        "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
+        "sourcePolicyId": "syobocal"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261031-1730-thefishing",
+        "title": "ＴＨＥフィッシング　大型トラウト乱舞！エリアトラウトフィッシング",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T17:30:00+09:00",
+        "genreIds": [
+          "fishing"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/13037_202610311730.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bsasahi-20261031-1500-itadaki",
+        "title": "松坂大輔vs河本力 ゴルフガチ対決 in 蒲生GC　頂の先へ！",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T15:00:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/itadakinosakie/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
         "id": "official-fuji-20261028-1900-nandakore",
         "title": "世界の何だコレ!?ミステリー",
         "stationId": "fuji",
@@ -168,7 +281,37 @@
         "sourceUrl": "https://www.fujitv.co.jp/sekainonandakore/",
         "sourcePolicyId": "fuji_nandakore_20261028_minimal_fact"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bs12-20261101-1900-genma",
+        "title": "幻魔大戦",
+        "stationId": "bs12",
+        "start": "2026-11-01T19:00:00+09:00",
+        "genreIds": [
+          "movie",
+          "anime"
+        ],
+        "sourceUrl": "https://www.atpress.ne.jp/news/2830607",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "phase8-psycho-20261031",
+        "title": "サイコ",
+        "stationId": "nhk_bsp4k",
+        "start": "2026-10-31T21:00:00+09:00",
+        "genreIds": [
+          "movie",
+          "horror_movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -182,7 +325,7 @@
         "sourceUrl": "https://lp.p.pia.jp/article/news/514536/index.html",
         "sourcePolicyId": "reviewed_schedule_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -196,7 +339,7 @@
         "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/210/e1/2026-10-28",
         "sourcePolicyId": "reviewed_schedule_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -210,7 +353,77 @@
         "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-29",
         "sourcePolicyId": "reviewed_schedule_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-nhkbs-20261030-1300-goodbadugly",
+        "title": "シネマ「続 夕陽のガンマン 地獄の決斗」",
+        "stationId": "nhk_bs",
+        "start": "2026-10-30T13:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/340/s1/2026-10-30",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-ntv-20261030-2100-godzilla-minusone",
+        "title": "ゴジラ-1.0",
+        "stationId": "ntv",
+        "start": "2026-10-30T21:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261030",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bs12-20261031-1900-diehard3",
+        "title": "ダイ・ハード3",
+        "stationId": "bs12",
+        "start": "2026-10-31T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://newscast.jp/news/1942427",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bsntv-20261101-1900-godzilla1954",
+        "title": "ゴジラ（1954）",
+        "stationId": "bsntv",
+        "start": "2026-11-01T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://kinro.ntv.co.jp/article/detail/20261002",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261031-1130-moyasama",
+        "title": "モヤモヤさまぁ〜ず２ ハワイ2026③",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T11:30:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202610/20297.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -223,6 +436,260 @@
           "railway"
         ],
         "sourceUrl": "https://www.bs4.jp/mousou-train/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-nhkbs-20261102-1300-fordferrari",
+        "title": "フォードvsフェラーリ",
+        "stationId": "nhk_bs",
+        "start": "2026-11-02T13:00:00+09:00",
+        "genreIds": [
+          "movie",
+          "car"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-tvtokyo-20261102-1340-outbreak",
+        "title": "アウトブレイク",
+        "stationId": "tvtokyo",
+        "start": "2026-11-02T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261101-0730-pokedoko",
+        "title": "ポケモンとどこいく！？",
+        "stationId": "tvtokyo",
+        "start": "2026-11-01T07:30:00+09:00",
+        "genreIds": [
+          "challenge"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "verified-bs12-20261030-1900-royalwarriors",
+        "title": "皇家戦士",
+        "stationId": "bs12",
+        "start": "2026-10-30T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261101-2320-weekly-women-golf",
+        "title": "Ｗｅｅｋｌｙ女子ゴルフ",
+        "stationId": "tvtokyo",
+        "start": "2026-11-01T23:20:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bsasahi-20261031-1700-mitsubishi-ladies",
+        "title": "樋口久子 三菱電機レディスゴルフトーナメント",
+        "stationId": "bsasahi",
+        "start": "2026-10-31T17:00:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/golf/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bstvtokyo-20261101-0800-golf-samurai",
+        "title": "ゴルフ侍、見参！",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T08:00:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bstvtokyo-20261101-0730-golf-koyusho",
+        "title": "ゴルフ交遊抄",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T07:30:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-fuji-20261101-1605-vantelin-final",
+        "title": "バンテリン東海クラシック2026 最終日",
+        "stationId": "fuji",
+        "start": "2026-11-01T16:05:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.tokai-tv.com/vtc/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bs11-20261101-1730-akane-golf",
+        "title": "飯島茜のアカネ式！大学女子ゴルフ部",
+        "stationId": "bs11",
+        "start": "2026-11-01T17:30:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs11.jp/sports/akane-golf/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261031-1830-degawacharging",
+        "title": "出川哲朗の充電させてもらえませんか？ 長野絶景＆秋の味覚！初登場☆神木隆之介",
+        "stationId": "tvtokyo",
+        "start": "2026-10-31T18:30:00+09:00",
+        "genreIds": [
+          "car",
+          "travel"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202610/23249_202610311830.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bstvtokyo-20261101-1430-airwalk-special",
+        "title": "川島明と絶景“空中散歩”★神田川に家康の大発明＆鴨川に残る秀吉のワガママ解明SP",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T14:30:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/29390_202611011430.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bstvtokyo-20261101-2230-gaia",
+        "title": "ガイアの夜明け【世界遺産、その先に…】",
+        "stationId": "bstvtokyo",
+        "start": "2026-11-01T22:30:00+09:00",
+        "genreIds": [
+          "architecture"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/17105_202611012230.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bsntv-20261031-1700-yumetyoko",
+        "title": "夢釣行～一魚一会の旅～",
+        "stationId": "bsntv",
+        "start": "2026-10-31T17:00:00+09:00",
+        "genreIds": [
+          "fishing"
+        ],
+        "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bsntv-20261031-1800-italy",
+        "title": "小さな村の物語 イタリア",
+        "stationId": "bsntv",
+        "start": "2026-10-31T18:00:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.bs4.jp/italy/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-tvtokyo-20261101-1830-private-rail-special",
+        "title": "私鉄界隈の裏側をのぞき見！(秘)常識を徹底調査SP",
+        "stationId": "tvtokyo",
+        "start": "2026-11-01T18:30:00+09:00",
+        "genreIds": [
+          "railway"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28549_202611011830.html",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-tbs-20261101-1800-heritage",
+        "title": "世界遺産〜アフリカの奇岩・１万３０００年前の岩絵",
+        "stationId": "tbs",
+        "start": "2026-11-01T18:00:00+09:00",
+        "genreIds": [
+          "travel"
+        ],
+        "sourceUrl": "https://www.tbs.co.jp/heritage/next/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "過去または7日間の対象外"
+    },
+    {
+      "candidate": {
+        "id": "official-bsntv-20261031-2100-aisya-henreki",
+        "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
+        "stationId": "bsntv",
+        "start": "2026-10-31T21:00:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
         "sourcePolicyId": "reviewed_independent_facts"
       },
       "reason": "過去または7日間の対象外"
