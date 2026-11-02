@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T09:48:42+09:00",
+  "checkedAt": "2026-11-02T15:24:44+09:00",
   "batchId": "phase15-interactive-20261029",
   "records": [
     {
@@ -471,6 +471,21 @@
     },
     {
       "candidate": {
+        "id": "official-bsntv-20261103-2100-mousoutrain",
+        "title": "友近・礼二の妄想トレイン 潮風香る銚子電鉄沿線旅",
+        "stationId": "bsntv",
+        "start": "2026-11-03T21:00:00+09:00",
+        "genreIds": [
+          "travel",
+          "railway"
+        ],
+        "sourceUrl": "https://www.bs4.jp/mousou-train/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
         "id": "official-tvtokyo-20261101-0730-pokedoko",
         "title": "ポケモンとどこいく！？",
         "stationId": "tvtokyo",
@@ -481,7 +496,35 @@
         "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26884_202611010730.html",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-nhkbs-20261104-1300-warhorse",
+        "title": "戦火の馬",
+        "stationId": "nhk_bs",
+        "start": "2026-11-04T13:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-tvtokyo-20261104-1340-unknown",
+        "title": "アンノウン",
+        "stationId": "tvtokyo",
+        "start": "2026-11-04T13:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -495,7 +538,49 @@
         "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
         "sourcePolicyId": "reviewed_schedule_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-bs12-20261102-1900-showazankyo4",
+        "title": "昭和残侠伝 血染の唐獅子",
+        "stationId": "bs12",
+        "start": "2026-11-02T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-bs12-20261103-1900-truckyaro4",
+        "title": "トラック野郎 天下御免",
+        "stationId": "bs12",
+        "start": "2026-11-03T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "verified-bs12-20261104-1900-satomi1983",
+        "title": "里見八犬伝（1983）",
+        "stationId": "bs12",
+        "start": "2026-11-04T19:00:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://entafukuzou.com/terrestrial-bs-movie/",
+        "sourcePolicyId": "reviewed_schedule_facts"
+      },
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -509,7 +594,35 @@
         "sourceUrl": "https://www.tv-tokyo.co.jp/weekly_woman_golf/lineup/202611/28032_202611012320.html",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bsasahi-20261102-2154-golfmatch",
+        "title": "女子ゴルフペアマッチ選手権",
+        "stationId": "bsasahi",
+        "start": "2026-11-02T21:54:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
+    },
+    {
+      "candidate": {
+        "id": "official-bsasahi-20261102-2230-golfjotanbo",
+        "title": "極上！ゴルフ場探訪",
+        "stationId": "bsasahi",
+        "start": "2026-11-02T22:30:00+09:00",
+        "genreIds": [
+          "golf"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+        "sourcePolicyId": "reviewed_independent_facts"
+      },
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -523,7 +636,7 @@
         "sourceUrl": "https://www.bs-asahi.co.jp/golf/",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -537,7 +650,7 @@
         "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611010800.html",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -551,7 +664,7 @@
         "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611010730.html",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -565,7 +678,7 @@
         "sourceUrl": "https://www.tokai-tv.com/vtc/",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
@@ -579,7 +692,7 @@
         "sourceUrl": "https://www.bs11.jp/sports/akane-golf/",
         "sourcePolicyId": "reviewed_independent_facts"
       },
-      "reason": "過去または7日間の対象外"
+      "reason": "確認時刻が古い／未来"
     },
     {
       "candidate": {
