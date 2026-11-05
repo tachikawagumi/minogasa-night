@@ -1159,8 +1159,228 @@
           "operation": "upsert"
         }
       }
+    },
+    {
+      "id": "chatgpt-20261105-2154-d-nosenritsu",
+      "seriesId": "chatgpt-series-d-nosenritsu",
+      "title": "Ｄの旋律～ダンスと音楽のシンフォニー～",
+      "stationId": "tvtokyo",
+      "start": "2026-11-05T21:54:00+09:00",
+      "end": "2026-11-05T22:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26331_202611052154.html",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "当該回はストリートダンス（Waacking/Popping）の披露。テレ東公式の局・日時・内容を個別確認。"
+    },
+    {
+      "id": "chatgpt-20261106-2100-mufasa",
+      "seriesId": "chatgpt-series-lion-king-mufasa",
+      "title": "ライオン・キング：ムファサ",
+      "stationId": "ntv",
+      "start": "2026-11-06T21:00:00+09:00",
+      "end": "2026-11-06T23:24:00+09:00",
+      "genreIds": [
+        "movie",
+        "disney"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261106",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "日テレ金曜ロードショー公式でディズニー映画の作品名、日時、放送枠を確認。"
+    },
+    {
+      "id": "chatgpt-20261107-1700-yumetyoko",
+      "seriesId": "chatgpt-series-yumetyoko",
+      "title": "夢釣行～一魚一会の旅～",
+      "stationId": "bsntv",
+      "start": "2026-11-07T17:00:00+09:00",
+      "end": "2026-11-07T17:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレ公式の第743回『南紀のキハダマグロ』と2026/11/7の日時を照合。"
+    },
+    {
+      "id": "chatgpt-20261107-1730-the-fishing",
+      "seriesId": "chatgpt-series-the-fishing",
+      "title": "THEフィッシング",
+      "stationId": "tvtokyo",
+      "start": "2026-11-07T17:30:00+09:00",
+      "end": "2026-11-07T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13037_202611071730.html",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレ東公式の伊勢湾カワハギ釣り特集と放送日時を確認。"
+    },
+    {
+      "id": "chatgpt-20261107-1830-tora-kamifusen",
+      "seriesId": "chatgpt-series-tora-san",
+      "title": "男はつらいよ 寅次郎紙風船",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-07T18:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.bs-tvtokyo.co.jp/cinema/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BSテレ東の2026/11/7 18:30公式映画ラインナップを個別確認。終了時刻は未確認。"
+    },
+    {
+      "id": "chatgpt-20261107-2100-aisya-henreki",
+      "seriesId": "chatgpt-series-aisya-henreki",
+      "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
+      "stationId": "bsntv",
+      "start": "2026-11-07T21:00:00+09:00",
+      "end": "2026-11-07T21:54:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレ公式に11/7第533回・石原伸晃の愛車遍歴と放送時刻を確認。車が主役。"
+    },
+    {
+      "id": "chatgpt-20261108-0800-golf-samurai",
+      "seriesId": "chatgpt-series-golf-samurai",
+      "title": "ゴルフ侍、見参！",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-08T08:00:00+09:00",
+      "end": "2026-11-08T09:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611080800.html",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BSテレ東公式に立山光広プロ対トップアマの放送日時を確認。"
+    },
+    {
+      "id": "chatgpt-20261108-1030-classic-car",
+      "seriesId": "chatgpt-series-the-classic-car",
+      "title": "The Classic Car～クラシックカーってカッコイイ！～",
+      "stationId": "bsfuji",
+      "start": "2026-11-08T10:30:00+09:00",
+      "end": "2026-11-08T11:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/classiccar/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BSフジ公式で1947年式CISITALIA特集と日時を確認。車両紹介が番組の中心。"
+    },
+    {
+      "id": "chatgpt-20261108-1800-world-heritage",
+      "seriesId": "chatgpt-series-world-heritage",
+      "title": "世界遺産",
+      "stationId": "tbs",
+      "start": "2026-11-08T18:00:00+09:00",
+      "end": "2026-11-08T18:30:00+09:00",
+      "genreIds": [
+        "architecture",
+        "travel"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261108_C457.html",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "TBS公式でシェキ歴史地区・ハーン宮殿の建築・街並みを特集する当該回を確認。"
+    },
+    {
+      "id": "chatgpt-20261109-2230-golfjo-tanbo",
+      "seriesId": "chatgpt-series-golfjo-tanbo",
+      "title": "極上！ゴルフ場探訪",
+      "stationId": "bsasahi",
+      "start": "2026-11-09T22:30:00+09:00",
+      "end": "2026-11-09T22:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfjo-tanbo/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS朝日公式でスリーレイクスカントリークラブ①の放送日時を確認。"
+    },
+    {
+      "id": "chatgpt-20261111-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-11-11T21:00:00+09:00",
+      "end": "2026-11-11T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレ公式で第1夜・田中要次の鉄道と自転車による紀行を確認。"
+    },
+    {
+      "id": "chatgpt-20261112-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": "2026-11-12T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレ公式で第2夜・ウド鈴木の鉄道と自転車による紀行を確認。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
-  "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。"
+  "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。"
 }
