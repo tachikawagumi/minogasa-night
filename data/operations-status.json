@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-05T09:52:24.787633+09:00",
+  "observedAt": "2026-11-05T19:19:23.190182+09:00",
   "targetWindow": {
     "start": "2026-11-05T00:00:00+09:00",
     "endExclusive": "2026-11-12T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 46,
+    "newPublic": 11,
     "publicationStatus": "published",
-    "hoursSinceResearch": 157.48,
+    "hoursSinceResearch": 166.93,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-05T09:51:54+09:00",
+  "lastAnimeSuccessAt": "2026-11-05T19:18:50+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-05T09:51:54+09:00",
+    "at": "2026-11-05T19:18:50+09:00",
     "counts": {
-      "added": 46,
+      "added": 11,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 59
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "41944441498",
-    "event": "schedule",
-    "observedAt": "2026-11-05T09:52:24.787633+09:00",
+    "runId": "42009630667",
+    "event": "push",
+    "observedAt": "2026-11-05T19:19:23.190182+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-05T09:52:24+09:00",
+    "verifiedAt": "2026-11-05T19:19:23+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "4b85b5cdcbbec1120d863d3458b7bd49e37a850138b6cb7464bc1c0c90ed6311"
+    "semanticSha256": "6a82d861c033a58950fc52ccc260fc6b0d0194445b29a9897219de7be5af759c"
   },
   "genreCoverage": [
     {
@@ -70,8 +70,8 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-07T18:30:00+09:00"
     },
     {
       "genreId": "horror_movie",
@@ -82,8 +82,8 @@
     {
       "genreId": "disney",
       "name": "ディズニー",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-06T21:00:00+09:00"
     },
     {
       "genreId": "usj",
@@ -106,26 +106,26 @@
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-08T18:00:00+09:00"
     },
     {
       "genreId": "car",
       "name": "車",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-08T10:30:00+09:00"
     },
     {
       "genreId": "dance",
       "name": "ダンス",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-05T21:54:00+09:00"
     },
     {
       "genreId": "golf",
       "name": "ゴルフ",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-09T22:30:00+09:00"
     },
     {
       "genreId": "soccer",
@@ -142,8 +142,8 @@
     {
       "genreId": "fishing",
       "name": "釣り",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-07T17:30:00+09:00"
     },
     {
       "genreId": "health",
@@ -154,8 +154,8 @@
     {
       "genreId": "travel",
       "name": "旅",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-11T21:00:00+09:00"
     },
     {
       "genreId": "challenge",
@@ -172,11 +172,11 @@
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-11T21:00:00+09:00"
     }
   ],
-  "publicPrograms": 116,
+  "publicPrograms": 127,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",

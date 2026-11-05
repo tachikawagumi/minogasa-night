@@ -2278,5 +2278,49 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-05T19:18:50+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 127,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-20261105-2154-d-nosenritsu",
+        "chatgpt-20261106-2100-mufasa",
+        "chatgpt-20261107-1700-yumetyoko",
+        "chatgpt-20261107-1730-the-fishing",
+        "chatgpt-20261107-1830-tora-kamifusen",
+        "chatgpt-20261107-2100-aisya-henreki",
+        "chatgpt-20261108-0800-golf-samurai",
+        "chatgpt-20261108-1030-classic-car",
+        "chatgpt-20261108-1800-world-heritage",
+        "chatgpt-20261109-2230-golfjo-tanbo",
+        "chatgpt-20261111-2100-charitetsu"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 11,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-05T19:19:23+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "6a82d861c033a58950fc52ccc260fc6b0d0194445b29a9897219de7be5af759c",
+      "programs": 127
+    }
   }
 ]
