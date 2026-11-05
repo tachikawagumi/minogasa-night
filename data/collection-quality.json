@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-11-02T15:27:01+09:00",
+  "checkedAt": "2026-11-05T09:52:00+09:00",
   "batchId": "phase15-interactive-20261029",
-  "target": "current_public_json",
+  "target": "validated_candidate_not_yet_deployed",
   "discovered": 79,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 0,
+  "newRegistrations": 46,
   "updates": 0,
-  "alreadyPublished": 11,
-  "held": 70,
+  "alreadyPublished": 0,
+  "held": 73,
   "heldReasonCounts": {
-    "outside_window": 52,
+    "outside_window": 63,
     "terms_unconfirmed": 22,
     "datetime_unconfirmed": 10,
     "genre_uncertain": 11,
-    "other": 19,
+    "other": 11,
     "station_unconfirmed": 8
   },
   "reasonLabels": {
@@ -158,16 +158,16 @@
       "genreId": "movie",
       "name": "映画",
       "candidates": 26,
-      "publicPrograms": 5,
+      "publicPrograms": 0,
       "searchCoverage": "not_searched",
-      "zeroExplanation": null,
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
       "searches": 0,
       "datetimeConfirmed": 21,
       "held": 23,
       "excluded": 3,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     },
     {
       "genreId": "horror_movie",
@@ -263,16 +263,16 @@
       "genreId": "car",
       "name": "車",
       "candidates": 6,
-      "publicPrograms": 1,
-      "searchCoverage": "partially_searched",
-      "zeroExplanation": null,
+      "publicPrograms": 0,
+      "searchCoverage": "not_searched",
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
-      "searches": 6,
+      "searches": 0,
       "datetimeConfirmed": 5,
-      "held": 5,
+      "held": 6,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     },
     {
       "genreId": "dance",
@@ -293,16 +293,16 @@
       "genreId": "golf",
       "name": "ゴルフ",
       "candidates": 11,
-      "publicPrograms": 2,
+      "publicPrograms": 0,
       "searchCoverage": "not_searched",
-      "zeroExplanation": null,
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
       "searches": 0,
       "datetimeConfirmed": 11,
       "held": 11,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     },
     {
       "genreId": "soccer",
@@ -368,37 +368,37 @@
       "genreId": "travel",
       "name": "旅",
       "candidates": 10,
-      "publicPrograms": 2,
+      "publicPrograms": 0,
       "searchCoverage": "not_searched",
-      "zeroExplanation": null,
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
       "searches": 0,
       "datetimeConfirmed": 9,
-      "held": 8,
+      "held": 9,
       "excluded": 1,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     },
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
       "candidates": 3,
-      "publicPrograms": 1,
+      "publicPrograms": 0,
       "searchCoverage": "not_searched",
-      "zeroExplanation": null,
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
       "searches": 0,
       "datetimeConfirmed": 3,
-      "held": 2,
+      "held": 3,
       "excluded": 0,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     },
     {
       "genreId": "anime",
       "name": "アニメ",
       "candidates": 3,
-      "publicPrograms": 118,
+      "publicPrograms": 116,
       "searchCoverage": "not_searched",
       "zeroExplanation": null,
       "currentWindowSearches": 0,
@@ -413,16 +413,16 @@
       "genreId": "railway",
       "name": "電車・鉄道",
       "candidates": 5,
-      "publicPrograms": 1,
+      "publicPrograms": 0,
       "searchCoverage": "not_searched",
-      "zeroExplanation": null,
+      "zeroExplanation": "検索不足",
       "currentWindowSearches": 0,
       "searches": 0,
       "datetimeConfirmed": 4,
       "held": 4,
       "excluded": 1,
       "omissions": 0,
-      "zeroReasonCode": null
+      "zeroReasonCode": "search_insufficient"
     }
   ],
   "records": [
@@ -1675,14 +1675,14 @@
         "travel",
         "railway"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -1725,14 +1725,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1750,14 +1750,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1893,14 +1893,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1918,14 +1918,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -1943,14 +1943,14 @@
       "genreIds": [
         "movie"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": false,
       "datetimeConfirmed": true,
@@ -2057,14 +2057,14 @@
       "genreIds": [
         "golf"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -2082,14 +2082,14 @@
       "genreIds": [
         "golf"
       ],
-      "published": true,
-      "publishedExact": true,
+      "published": false,
+      "publishedExact": false,
       "held": true,
       "reasonCodes": [
-        "other"
+        "outside_window"
       ],
       "validationReason": "確認時刻が古い／未来",
-      "missingStage": "published",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -2263,12 +2263,14 @@
       "genreIds": [
         "travel"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "確認時刻が古い／未来",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -2293,7 +2295,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2318,7 +2320,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2343,7 +2345,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2368,7 +2370,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2393,7 +2395,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2418,7 +2420,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2437,12 +2439,14 @@
       "genreIds": [
         "challenge"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "確認時刻が古い／未来",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -2466,7 +2470,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
@@ -2485,12 +2489,14 @@
       "genreIds": [
         "car"
       ],
-      "published": true,
-      "publishedExact": true,
-      "held": false,
-      "reasonCodes": [],
-      "validationReason": null,
-      "missingStage": "published",
+      "published": false,
+      "publishedExact": false,
+      "held": true,
+      "reasonCodes": [
+        "outside_window"
+      ],
+      "validationReason": "確認時刻が古い／未来",
+      "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
       "datetimeConfirmed": true,
@@ -2514,7 +2520,7 @@
       "reasonCodes": [
         "outside_window"
       ],
-      "validationReason": "過去または7日間の対象外",
+      "validationReason": "確認時刻が古い／未来",
       "missingStage": "held",
       "classificationLevel": "clear",
       "officialDatetimeConfirmed": true,
