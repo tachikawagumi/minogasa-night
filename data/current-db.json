@@ -1,1809 +1,23 @@
 {
-  "generatedAt": "2026-11-05T19:18:50+09:00",
+  "generatedAt": "2026-11-09T08:58:27+09:00",
   "records": [
     {
-      "id": "chatgpt-20261105-2154-d-nosenritsu",
-      "seriesId": "chatgpt-series-d-nosenritsu",
-      "title": "Ｄの旋律～ダンスと音楽のシンフォニー～",
-      "stationId": "tvtokyo",
-      "start": "2026-11-05T21:54:00+09:00",
-      "end": "2026-11-05T22:00:00+09:00",
-      "genreIds": [
-        "dance"
-      ],
-      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26331_202611052154.html",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "当該回はストリートダンス（Waacking/Popping）の披露。テレ東公式の局・日時・内容を個別確認。"
-    },
-    {
-      "id": "syobocal-716471",
-      "seriesId": "syobocal-title-7998",
-      "title": "FX戦士くるみちゃん",
-      "stationId": "mx",
-      "start": "2026-11-05T22:30:00+09:00",
-      "end": "2026-11-05T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 22:07:39",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716471",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717873",
-      "seriesId": "syobocal-title-8023",
-      "title": "佐々木とピーちゃん Season2",
-      "stationId": "bsntv",
-      "start": "2026-11-05T23:00:00+09:00",
-      "end": "2026-11-05T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8023/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-12 03:39:08",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717873",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716749",
-      "seriesId": "syobocal-title-8008",
-      "title": "氷の城壁(第2期)",
-      "stationId": "tbs",
-      "start": "2026-11-05T23:56:00+09:00",
-      "end": "2026-11-06T00:26:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8008/time?Filter=5",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 02:12:29",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716749",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716555",
-      "seriesId": "syobocal-title-7998",
-      "title": "FX戦士くるみちゃん",
-      "stationId": "bs11",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 23:56:04",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716555",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718734",
-      "seriesId": "syobocal-title-8038",
-      "title": "てつりょー！ meet with 鉄道むすめ",
-      "stationId": "bsfuji",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=17",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 00:15:20",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718734",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718634",
-      "seriesId": "syobocal-title-8038",
-      "title": "てつりょー！ meet with 鉄道むすめ",
-      "stationId": "mx",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 23:14:47",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718634",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717658",
-      "seriesId": "syobocal-title-7878",
-      "title": "追放された転生重騎士はゲーム知識で無双する",
-      "stationId": "tbs",
-      "start": "2026-11-06T00:26:00+09:00",
-      "end": "2026-11-06T00:56:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7878/time?Filter=5",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 22:48:51",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717658",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-723741",
-      "seriesId": "syobocal-title-8087",
-      "title": "無脳魔女 ブレインレス・ウィッチ",
-      "stationId": "bsntv",
-      "start": "2026-11-06T01:00:00+09:00",
-      "end": "2026-11-06T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8087/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-15 12:02:35",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "723741",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-718573",
-      "seriesId": "syobocal-title-8037",
-      "title": "冰剣の魔術師が世界を統べるⅡ",
-      "stationId": "tbs",
-      "start": "2026-11-06T01:28:00+09:00",
-      "end": "2026-11-06T01:58:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8037/time?Filter=5",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 22:59:10",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718573",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-724624",
-      "seriesId": "syobocal-title-1903",
-      "title": "はなかっぱ",
-      "stationId": "nhk_e",
-      "start": "2026-11-06T07:20:00+09:00",
-      "end": "2026-11-06T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-11-02 01:05:47",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "724624",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720620",
-      "seriesId": "syobocal-title-6236",
-      "title": "パウ・パトロール(シーズン4)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-06T17:55:00+09:00",
-      "end": "2026-11-06T18:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/6236/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-25 17:27:42",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720620",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-719276",
-      "seriesId": "syobocal-title-8043",
-      "title": "パンどろぼう",
-      "stationId": "nhk_e",
-      "start": "2026-11-06T18:40:00+09:00",
-      "end": "2026-11-06T18:50:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8043/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-20 03:38:54",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "719276",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720595",
-      "seriesId": "syobocal-title-6694",
-      "title": "ポケットモンスター(2023)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-06T18:55:00+09:00",
-      "end": "2026-11-06T19:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-25 17:25:20",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720595",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261106-2100-mufasa",
-      "seriesId": "chatgpt-series-lion-king-mufasa",
-      "title": "ライオン・キング：ムファサ",
-      "stationId": "ntv",
-      "start": "2026-11-06T21:00:00+09:00",
-      "end": "2026-11-06T23:24:00+09:00",
-      "genreIds": [
-        "movie",
-        "disney"
-      ],
-      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261106",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "日テレ金曜ロードショー公式でディズニー映画の作品名、日時、放送枠を確認。"
-    },
-    {
-      "id": "syobocal-720472",
-      "seriesId": "syobocal-title-8058",
-      "title": "蒼き伝承 ウェルシュ＆シェダー",
-      "stationId": "mx",
-      "start": "2026-11-06T21:25:00+09:00",
-      "end": "2026-11-06T21:54:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8058/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-24 21:48:34",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720472",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718722",
-      "seriesId": "syobocal-title-8037",
-      "title": "冰剣の魔術師が世界を統べるⅡ",
-      "stationId": "bs11",
-      "start": "2026-11-06T23:00:00+09:00",
-      "end": "2026-11-06T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8037/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 00:11:04",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718722",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-715388",
-      "seriesId": "syobocal-title-7981",
-      "title": "転生したら剣でしたⅡ",
+      "id": "chatgpt-bsasahi-20261109-2154-golf",
+      "seriesId": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
       "stationId": "bsasahi",
-      "start": "2026-11-06T23:00:00+09:00",
-      "end": "2026-11-06T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7981/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-08-17 00:54:55",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "715388",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-720270",
-      "seriesId": "syobocal-title-8055",
-      "title": "テムパル～アイテムの力～",
-      "stationId": "bs11",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-24 20:53:37",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720270",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-720007",
-      "seriesId": "syobocal-title-8051",
-      "title": "幻想水滸伝",
-      "stationId": "bsasahi",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8051/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-22 22:21:56",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720007",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718845",
-      "seriesId": "syobocal-title-8040",
-      "title": "ホタルの嫁入り",
-      "stationId": "fuji",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8040/time?Filter=3",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 22:43:57",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718845",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-722292",
-      "seriesId": "syobocal-title-8055",
-      "title": "テムパル～アイテムの力～",
-      "stationId": "mx",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-01 15:15:45",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722292",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718490",
-      "seriesId": "syobocal-title-7906",
-      "title": "うちの弟どもがすみません",
-      "stationId": "bs11",
-      "start": "2026-11-07T00:00:00+09:00",
-      "end": "2026-11-07T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-19 01:58:17",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718490",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-718512",
-      "seriesId": "syobocal-title-7906",
-      "title": "うちの弟どもがすみません",
-      "stationId": "mx",
-      "start": "2026-11-07T00:00:00+09:00",
-      "end": "2026-11-07T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-19 01:44:47",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718512",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-716590",
-      "seriesId": "syobocal-title-8000",
-      "title": "とある暗部の少女共棲",
-      "stationId": "bs11",
-      "start": "2026-11-07T00:30:00+09:00",
-      "end": "2026-11-07T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 23:58:31",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716590",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716494",
-      "seriesId": "syobocal-title-8000",
-      "title": "とある暗部の少女共棲",
-      "stationId": "mx",
-      "start": "2026-11-07T00:30:00+09:00",
-      "end": "2026-11-07T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 22:24:34",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716494",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-721675",
-      "seriesId": "syobocal-title-350",
-      "title": "ワンピース",
-      "stationId": "bsfuji",
-      "start": "2026-11-07T01:00:00+09:00",
-      "end": "2026-11-07T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/350/time?Filter=17",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-29 01:00:16",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721675",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716507",
-      "seriesId": "syobocal-title-8001",
-      "title": "東京リベンジャーズ 三天戦争編",
-      "stationId": "tbs",
-      "start": "2026-11-07T01:23:00+09:00",
-      "end": "2026-11-07T01:53:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8001/time?Filter=5",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 22:47:37",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716507",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718141",
-      "seriesId": "syobocal-title-7878",
-      "title": "追放された転生重騎士はゲーム知識で無双する",
-      "stationId": "bsntv",
-      "start": "2026-11-07T02:00:00+09:00",
-      "end": "2026-11-07T02:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7878/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 02:11:18",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718141",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-716615",
-      "seriesId": "syobocal-title-8001",
-      "title": "東京リベンジャーズ 三天戦争編",
-      "stationId": "bstbs",
-      "start": "2026-11-07T02:30:00+09:00",
-      "end": "2026-11-07T03:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8001/time?Filter=16",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 00:01:15",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716615",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-724491",
-      "seriesId": "syobocal-title-4152",
-      "title": "ぼのぼの(2016)",
-      "stationId": "fuji",
-      "start": "2026-11-07T05:22:00+09:00",
-      "end": "2026-11-07T05:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/4152/time?Filter=3",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-31 08:37:39",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "724491",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-722809",
-      "seriesId": "syobocal-title-6212",
-      "title": "ニンジャラ",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T07:30:00+09:00",
-      "end": "2026-11-07T08:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/6212/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-04 17:59:48",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722809",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-715546",
-      "seriesId": "syobocal-title-7816",
-      "title": "おしりたんてい(第10シリーズ)",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:00:00+09:00",
-      "end": "2026-11-07T09:20:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7816/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-08-22 01:11:29",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "715546",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-720931",
-      "seriesId": "syobocal-title-8063",
-      "title": "ねずみくんのチョッキ(第2期)",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:30:00+09:00",
-      "end": "2026-11-07T09:35:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8063/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-26 23:45:26",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720931",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718343",
-      "seriesId": "syobocal-title-8033",
-      "title": "ケロロ軍曹☆",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T09:30:00+09:00",
-      "end": "2026-11-07T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8033/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-15 14:05:35",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718343",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-722417",
-      "seriesId": "syobocal-title-3732",
-      "title": "ゴー！ゴー！キッチン戦隊クックルン",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:35:00+09:00",
-      "end": "2026-11-07T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/3732/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-24 22:35:58",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722417",
-      "revision": "2"
-    },
-    {
-      "id": "syobocal-722382",
-      "seriesId": "syobocal-title-8074",
-      "title": "しろたん",
-      "stationId": "tvasahi",
-      "start": "2026-11-07T16:29:00+09:00",
-      "end": "2026-11-07T16:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8074/time?Filter=6",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-02 18:37:50",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722382",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261107-1700-yumetyoko",
-      "seriesId": "chatgpt-series-yumetyoko",
-      "title": "夢釣行～一魚一会の旅～",
-      "stationId": "bsntv",
-      "start": "2026-11-07T17:00:00+09:00",
-      "end": "2026-11-07T17:30:00+09:00",
-      "genreIds": [
-        "fishing"
-      ],
-      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "BS日テレ公式の第743回『南紀のキハダマグロ』と2026/11/7の日時を照合。"
-    },
-    {
-      "id": "syobocal-722454",
-      "seriesId": "syobocal-title-8076",
-      "title": "朱色の仮面",
-      "stationId": "ntv",
-      "start": "2026-11-07T17:30:00+09:00",
-      "end": "2026-11-07T18:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=4",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-03 01:17:25",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722454",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261107-1730-the-fishing",
-      "seriesId": "chatgpt-series-the-fishing",
-      "title": "THEフィッシング",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T17:30:00+09:00",
-      "end": "2026-11-07T18:00:00+09:00",
-      "genreIds": [
-        "fishing"
-      ],
-      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13037_202611071730.html",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "テレ東公式の伊勢湾カワハギ釣り特集と放送日時を確認。"
-    },
-    {
-      "id": "syobocal-719403",
-      "seriesId": "syobocal-title-518",
-      "title": "名探偵コナン",
-      "stationId": "ntv",
-      "start": "2026-11-07T18:00:00+09:00",
-      "end": "2026-11-07T18:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/518/time?Filter=4",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-17 18:40:54",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "719403",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-719885",
-      "seriesId": "syobocal-title-8048",
-      "title": "マロニエ王国の七人の騎士",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T18:25:00+09:00",
-      "end": "2026-11-07T18:50:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8048/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-22 01:26:26",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "719885",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261107-1830-tora-kamifusen",
-      "seriesId": "chatgpt-series-tora-san",
-      "title": "男はつらいよ 寅次郎紙風船",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-07T18:30:00+09:00",
-      "end": null,
-      "genreIds": [
-        "movie"
-      ],
-      "sourceUrl": "https://www.bs-tvtokyo.co.jp/cinema/",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "BSテレ東の2026/11/7 18:30公式映画ラインナップを個別確認。終了時刻は未確認。"
-    },
-    {
-      "id": "chatgpt-20261107-2100-aisya-henreki",
-      "seriesId": "chatgpt-series-aisya-henreki",
-      "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
-      "stationId": "bsntv",
-      "start": "2026-11-07T21:00:00+09:00",
-      "end": "2026-11-07T21:54:00+09:00",
-      "genreIds": [
-        "car"
-      ],
-      "sourceUrl": "https://www.bs4.jp/aisya_henreki/",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "BS日テレ公式に11/7第533回・石原伸晃の愛車遍歴と放送時刻を確認。車が主役。"
-    },
-    {
-      "id": "syobocal-717632",
-      "seriesId": "syobocal-title-8014",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "stationId": "bs11",
-      "start": "2026-11-07T22:00:00+09:00",
-      "end": "2026-11-07T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 22:08:24",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717632",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717644",
-      "seriesId": "syobocal-title-8014",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "stationId": "mx",
-      "start": "2026-11-07T22:00:00+09:00",
-      "end": "2026-11-07T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 22:44:36",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717644",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717750",
-      "seriesId": "syobocal-title-8021",
-      "title": "野生のラスボスが現れた！(第2期)",
-      "stationId": "mx",
-      "start": "2026-11-07T22:30:00+09:00",
-      "end": "2026-11-07T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-12 00:30:56",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717750",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718765",
-      "seriesId": "syobocal-title-8025",
-      "title": "薬屋のひとりごと(第3期)",
-      "stationId": "bsntv",
-      "start": "2026-11-07T23:00:00+09:00",
-      "end": "2026-11-07T23:28:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8025/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-26 00:21:00",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718765",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720257",
-      "seriesId": "syobocal-title-8026",
-      "title": "ブラッククローバー 2nd Season",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T23:00:00+09:00",
-      "end": "2026-11-07T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8026/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-05 15:54:10",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720257",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720672",
-      "seriesId": "syobocal-title-7626",
-      "title": "元祖！バンドリちゃん",
-      "stationId": "bsntv",
-      "start": "2026-11-07T23:28:00+09:00",
-      "end": "2026-11-07T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7626/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-26 00:20:37",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720672",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717586",
-      "seriesId": "syobocal-title-8020",
-      "title": "バーテックスフォース",
-      "stationId": "bs11",
-      "start": "2026-11-07T23:30:00+09:00",
-      "end": "2026-11-08T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 16:23:41",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717586",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717563",
-      "seriesId": "syobocal-title-8020",
-      "title": "バーテックスフォース",
-      "stationId": "mx",
-      "start": "2026-11-07T23:30:00+09:00",
-      "end": "2026-11-08T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 13:49:56",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717563",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-719897",
-      "seriesId": "syobocal-title-8049",
-      "title": "恐怖コレクター",
-      "stationId": "nhk_g",
-      "start": "2026-11-07T23:45:00+09:00",
-      "end": "2026-11-08T00:10:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8049/time?Filter=1",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-22 01:45:22",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "719897",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716855",
-      "seriesId": "syobocal-title-8006",
-      "title": "マジカル★エクスプローラー",
-      "stationId": "bs11",
-      "start": "2026-11-08T00:00:00+09:00",
-      "end": "2026-11-08T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 21:18:24",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716855",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716725",
-      "seriesId": "syobocal-title-8006",
-      "title": "マジカル★エクスプローラー",
-      "stationId": "mx",
-      "start": "2026-11-08T00:00:00+09:00",
-      "end": "2026-11-08T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 01:45:33",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716725",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716945",
-      "seriesId": "syobocal-title-8005",
-      "title": "生徒会にも穴はある！",
-      "stationId": "bs11",
-      "start": "2026-11-08T00:30:00+09:00",
-      "end": "2026-11-08T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 21:43:23",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716945",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716713",
-      "seriesId": "syobocal-title-8005",
-      "title": "生徒会にも穴はある！",
-      "stationId": "mx",
-      "start": "2026-11-08T00:30:00+09:00",
-      "end": "2026-11-08T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-04 01:30:37",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716713",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-710726",
-      "seriesId": "syobocal-title-6694",
-      "title": "ポケットモンスター(2023)",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-08T07:00:00+09:00",
-      "end": "2026-11-08T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=15",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-05 00:36:52",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "710726",
-      "revision": "6"
-    },
-    {
-      "id": "chatgpt-20261108-0800-golf-samurai",
-      "seriesId": "chatgpt-series-golf-samurai",
-      "title": "ゴルフ侍、見参！",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-08T08:00:00+09:00",
-      "end": "2026-11-08T09:00:00+09:00",
+      "start": "2026-11-09T21:54:00+09:00",
+      "end": "2026-11-09T22:30:00+09:00",
       "genreIds": [
         "golf"
       ],
-      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611080800.html",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
       "status": "official_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "BSテレ東公式に立山光広プロ対トップアマの放送日時を確認。"
-    },
-    {
-      "id": "syobocal-722279",
-      "seriesId": "syobocal-title-8064",
-      "title": "僕らが選んだベストアドベンチャー",
-      "stationId": "fuji",
-      "start": "2026-11-08T09:00:00+09:00",
-      "end": "2026-11-08T09:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8064/time?Filter=3",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-01 12:57:03",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722279",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-722822",
-      "seriesId": "syobocal-title-7055",
-      "title": "ギャビーのドールハウス",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:00:00+09:00",
-      "end": "2026-11-08T09:15:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7055/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-04 18:00:47",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722822",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-721182",
-      "seriesId": "syobocal-title-8065",
-      "title": "ぷにるんず ぷに4",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:15:00+09:00",
-      "end": "2026-11-08T09:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8065/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-27 09:07:19",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721182",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-722647",
-      "seriesId": "syobocal-title-7782",
-      "title": "おねがいアイプリ",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:30:00+09:00",
-      "end": "2026-11-08T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7782/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-04 02:00:13",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722647",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261108-1030-classic-car",
-      "seriesId": "chatgpt-series-the-classic-car",
-      "title": "The Classic Car～クラシックカーってカッコイイ！～",
-      "stationId": "bsfuji",
-      "start": "2026-11-08T10:30:00+09:00",
-      "end": "2026-11-08T11:00:00+09:00",
-      "genreIds": [
-        "car"
-      ],
-      "sourceUrl": "https://www.bsfuji.tv/classiccar/",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "BSフジ公式で1947年式CISITALIA特集と日時を確認。車両紹介が番組の中心。"
-    },
-    {
-      "id": "syobocal-718253",
-      "seriesId": "syobocal-title-8029",
-      "title": "アオアシ Season2",
-      "stationId": "nhk_e",
-      "start": "2026-11-08T17:00:00+09:00",
-      "end": "2026-11-08T17:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8029/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-14 23:45:07",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718253",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717134",
-      "seriesId": "syobocal-title-8011",
-      "title": "夜桜さんちの大作戦(第2期)第2クール",
-      "stationId": "tbs",
-      "start": "2026-11-08T17:00:00+09:00",
-      "end": "2026-11-08T17:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8011/time?Filter=5",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-06 01:39:20",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717134",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-720244",
-      "seriesId": "syobocal-title-8054",
-      "title": "ダイヤのA actII -Second Season-(第2クール)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T17:30:00+09:00",
-      "end": "2026-11-08T18:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8054/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-24 20:48:06",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720244",
-      "revision": "0"
-    },
-    {
-      "id": "chatgpt-20261108-1800-world-heritage",
-      "seriesId": "chatgpt-series-world-heritage",
-      "title": "世界遺産",
-      "stationId": "tbs",
-      "start": "2026-11-08T18:00:00+09:00",
-      "end": "2026-11-08T18:30:00+09:00",
-      "genreIds": [
-        "architecture",
-        "travel"
-      ],
-      "sourceUrl": "https://www.tbs.co.jp/tv/20261108_C457.html",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00",
-      "status": "official_confirmed",
-      "publicationApproved": true,
-      "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "TBS公式でシェキ歴史地区・ハーン宮殿の建築・街並みを特集する当該回を確認。"
-    },
-    {
-      "id": "syobocal-718534",
-      "seriesId": "syobocal-title-8035",
-      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "stationId": "mx",
-      "start": "2026-11-08T21:30:00+09:00",
-      "end": "2026-11-08T22:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 22:34:24",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718534",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717434",
-      "seriesId": "syobocal-title-8018",
-      "title": "おじさんはカワイイものがお好き。",
-      "stationId": "mx",
-      "start": "2026-11-08T22:00:00+09:00",
-      "end": "2026-11-08T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8018/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 01:58:11",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717434",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-716519",
-      "seriesId": "syobocal-title-8002",
-      "title": "魔法の姉妹ルルットリリィ(第2クール)",
-      "stationId": "mx",
-      "start": "2026-11-08T22:30:00+09:00",
-      "end": "2026-11-08T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8002/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 22:58:49",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716519",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718674",
-      "seriesId": "syobocal-title-8035",
-      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "stationId": "bs11",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 00:05:10",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718674",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717838",
-      "seriesId": "syobocal-title-8021",
-      "title": "野生のラスボスが現れた！(第2期)",
-      "stationId": "bsasahi",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 21:52:51",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717838",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-722633",
-      "seriesId": "syobocal-title-8076",
-      "title": "朱色の仮面",
-      "stationId": "bsntv",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-04 00:27:34",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "722633",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718278",
-      "seriesId": "syobocal-title-8027",
-      "title": "TANK CHAIR-戦車椅子-",
-      "stationId": "mx",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8027/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-15 00:48:58",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718278",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717885",
-      "seriesId": "syobocal-title-8024",
-      "title": "信者ゼロの女神サマと始める異世界攻略",
-      "stationId": "bsasahi",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8024/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-12 03:44:17",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717885",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-720723",
-      "seriesId": "syobocal-title-7943",
-      "title": "刃牙道",
-      "stationId": "bsntv",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-26 00:38:30",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720723",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-721031",
-      "seriesId": "syobocal-title-7943",
-      "title": "刃牙道",
-      "stationId": "mx",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-27 00:34:50",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721031",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717371",
-      "seriesId": "syobocal-title-8016",
-      "title": "ホテル・インヒューマンズ(第2期)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T23:45:00+09:00",
-      "end": "2026-11-09T00:15:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8016/time?Filter=7",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 01:31:27",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717371",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718402",
-      "seriesId": "syobocal-title-8032",
-      "title": "彼方から",
-      "stationId": "mx",
-      "start": "2026-11-09T00:00:00+09:00",
-      "end": "2026-11-09T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8032/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 00:30:34",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718402",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718194",
-      "seriesId": "syobocal-title-8027",
-      "title": "TANK CHAIR-戦車椅子-",
-      "stationId": "bs11",
-      "start": "2026-11-09T00:30:00+09:00",
-      "end": "2026-11-09T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8027/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-14 22:15:23",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718194",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-718546",
-      "seriesId": "syobocal-title-8036",
-      "title": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-      "stationId": "mx",
-      "start": "2026-11-09T00:30:00+09:00",
-      "end": "2026-11-09T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8036/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-16 22:43:52",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718546",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-721313",
-      "seriesId": "syobocal-title-8067",
-      "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-      "stationId": "bs11",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:05:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8067/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-26 00:40:07",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721313",
-      "revision": "3"
-    },
-    {
-      "id": "syobocal-716579",
-      "seriesId": "syobocal-title-7999",
-      "title": "貸した魔力は【リボ払い】で強制徴収",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/7999/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-03 23:57:29",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "716579",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-721243",
-      "seriesId": "syobocal-title-8067",
-      "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-      "stationId": "mx",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:05:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8067/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-25 22:28:42",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721243",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-721699",
-      "seriesId": "syobocal-title-8070",
-      "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
-      "stationId": "bs11",
-      "start": "2026-11-09T01:05:00+09:00",
-      "end": "2026-11-09T01:10:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8070/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-10-27 00:35:26",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "721699",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720335",
-      "seriesId": "syobocal-title-8057",
-      "title": "彼女の友達",
-      "stationId": "mx",
-      "start": "2026-11-09T01:05:00+09:00",
-      "end": "2026-11-09T01:20:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8057/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-28 00:45:12",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720335",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-720309",
-      "seriesId": "syobocal-title-8056",
-      "title": "ダークサモナーとデキている",
-      "stationId": "mx",
-      "start": "2026-11-09T01:20:00+09:00",
-      "end": "2026-11-09T01:35:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8056/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-28 00:43:10",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "720309",
-      "revision": "1"
-    },
-    {
-      "id": "syobocal-718699",
-      "seriesId": "syobocal-title-8036",
-      "title": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T01:30:00+09:00",
-      "end": "2026-11-09T02:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8036/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-17 00:09:25",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "718699",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-717459",
-      "seriesId": "syobocal-title-8018",
-      "title": "おじさんはカワイイものがお好き。",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T02:00:00+09:00",
-      "end": "2026-11-09T02:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/8018/time?Filter=18",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-09-10 03:45:51",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "717459",
-      "revision": "0"
-    },
-    {
-      "id": "syobocal-724625",
-      "seriesId": "syobocal-title-1903",
-      "title": "はなかっぱ",
-      "stationId": "nhk_e",
-      "start": "2026-11-09T07:20:00+09:00",
-      "end": "2026-11-09T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
-      "sourceUpdatedAt": "2026-11-02 01:06:24",
-      "status": "provider_confirmed",
-      "publicationApproved": true,
-      "origin": "syobocal",
-      "sourcePid": "724625",
-      "revision": "0"
+      "genreBasis": "女子プロのペア対抗マッチプレー。荒川・藤井ペアと池羽・高橋ペアの対戦"
     },
     {
       "id": "syobocal-720890",
@@ -1816,8 +30,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8060/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-26 12:17:32",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1836,8 +50,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8015/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-10 01:16:05",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1874,8 +88,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8030/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-16 00:35:13",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1894,8 +108,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8053/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-10-27 00:29:37",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1914,8 +128,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8030/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-15 23:12:56",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1934,8 +148,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8053/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-10-26 23:33:29",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1954,8 +168,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8042/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-19 02:30:30",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1974,8 +188,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8052/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-22 22:28:01",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -1994,8 +208,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8042/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-19 02:01:52",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2014,8 +228,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8015/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-10 01:44:38",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2034,8 +248,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8009/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-26 00:01:31",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2054,8 +268,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8024/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-12 01:36:55",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2074,8 +288,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8002/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-04 00:04:49",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2094,8 +308,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-11-02 01:06:24",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2114,8 +328,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7997/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-03 21:41:27",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2134,8 +348,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8045/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-20 01:07:48",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2154,8 +368,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8039/time?Filter=3",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-17 22:43:05",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2174,8 +388,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8046/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-20 01:27:23",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2194,8 +408,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8046/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-20 01:20:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2214,8 +428,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8045/time?Filter=16",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-20 01:23:26",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2234,8 +448,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8051/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-23 00:40:10",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2254,8 +468,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8022/time?Filter=128",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-12 03:35:06",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2274,8 +488,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8034/time?Filter=17",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-16 21:53:45",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2294,8 +508,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/7997/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-03 16:42:54",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2314,8 +528,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8022/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-12 01:14:39",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2334,8 +548,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8011/time?Filter=71",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-26 00:06:33",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2354,8 +568,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8070/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-10-04 14:37:04",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2374,8 +588,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8034/time?Filter=3",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-16 22:19:57",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2394,8 +608,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-11-02 01:06:24",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2433,8 +647,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8003/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-03 23:10:35",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2453,8 +667,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8010/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-23 22:51:42",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2473,8 +687,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8023/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-12 01:25:47",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2493,8 +707,8 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8078/time?Filter=19",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-10-05 23:57:07",
       "status": "provider_confirmed",
       "publicationApproved": true,
@@ -2513,13 +727,1808 @@
         "anime"
       ],
       "sourceUrl": "https://cal.syoboi.jp/8019/time?Filter=6",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
       "sourceUpdatedAt": "2026-09-10 13:48:28",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "syobocal",
       "sourcePid": "717553",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716651",
+      "seriesId": "syobocal-title-8003",
+      "title": "世界最強の魔女、始めました",
+      "stationId": "bs11",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8003/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 00:05:51",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716651",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716675",
+      "seriesId": "syobocal-title-8004",
+      "title": "魔法少女育成計画restart",
+      "stationId": "bsfuji",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8004/time?Filter=17",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 00:08:31",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716675",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718751",
+      "seriesId": "syobocal-title-7939",
+      "title": "天は赤い河のほとり",
+      "stationId": "bsntv",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7939/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 00:35:10",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718751",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-715377",
+      "seriesId": "syobocal-title-7981",
+      "title": "転生したら剣でしたⅡ",
+      "stationId": "mx",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7981/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-08-16 22:20:08",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "715377",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716247",
+      "seriesId": "syobocal-title-7996",
+      "title": "獣王武神ダンデヴァイン",
+      "stationId": "bs11",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7996/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-01 23:50:35",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716247",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-719740",
+      "seriesId": "syobocal-title-8047",
+      "title": "百妖譜 第3期京師篇",
+      "stationId": "bsfuji",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8047/time?Filter=17",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-21 01:26:57",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719740",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717159",
+      "seriesId": "syobocal-title-8010",
+      "title": "探偵はもう、死んでいる。 Season2",
+      "stationId": "bsntv",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8010/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-23 22:51:42",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717159",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-716235",
+      "seriesId": "syobocal-title-7996",
+      "title": "獣王武神ダンデヴァイン",
+      "stationId": "mx",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7996/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-01 18:11:19",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716235",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-719310",
+      "seriesId": "syobocal-title-8041",
+      "title": "帰還者の魔法は特別です(第二期)",
+      "stationId": "fuji",
+      "start": "2026-11-12T00:45:00+09:00",
+      "end": "2026-11-12T01:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8041/time?Filter=3",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 20:55:39",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719310",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-720510",
+      "seriesId": "syobocal-title-8057",
+      "title": "彼女の友達",
+      "stationId": "bs11",
+      "start": "2026-11-12T01:00:00+09:00",
+      "end": "2026-11-12T01:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8057/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 23:25:45",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720510",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722911",
+      "seriesId": "syobocal-title-8078",
+      "title": "紫禁・御猫房～紫禁城猫警備室～",
+      "stationId": "bsntv",
+      "start": "2026-11-12T01:00:00+09:00",
+      "end": "2026-11-12T01:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8078/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-08 00:08:10",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722911",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-720498",
+      "seriesId": "syobocal-title-8056",
+      "title": "ダークサモナーとデキている",
+      "stationId": "bs11",
+      "start": "2026-11-12T01:15:00+09:00",
+      "end": "2026-11-12T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8056/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 23:25:07",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720498",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-719753",
+      "seriesId": "syobocal-title-8047",
+      "title": "百妖譜 第3期京師篇",
+      "stationId": "fuji",
+      "start": "2026-11-12T01:15:00+09:00",
+      "end": "2026-11-12T01:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8047/time?Filter=3",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-21 01:50:34",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719753",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-724628",
+      "seriesId": "syobocal-title-1903",
+      "title": "はなかっぱ",
+      "stationId": "nhk_e",
+      "start": "2026-11-12T07:20:00+09:00",
+      "end": "2026-11-12T07:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-11-02 01:06:24",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "724628",
+      "revision": "0"
+    },
+    {
+      "id": "chatgpt-20261112-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": "2026-11-12T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレ公式で第2夜・ウド鈴木の鉄道と自転車による紀行を確認。"
+    },
+    {
+      "id": "syobocal-716472",
+      "seriesId": "syobocal-title-7998",
+      "title": "FX戦士くるみちゃん",
+      "stationId": "mx",
+      "start": "2026-11-12T22:30:00+09:00",
+      "end": "2026-11-12T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 22:07:39",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716472",
+      "revision": "0"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261112-2300-cgtv",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV　1050馬力のテスタロッサ",
+      "stationId": "bsasahi",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": "2026-11-12T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/lineup/prg_2054/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "フェラーリ849テスタロッサの試乗・車両解説"
+    },
+    {
+      "id": "syobocal-717874",
+      "seriesId": "syobocal-title-8023",
+      "title": "佐々木とピーちゃん Season2",
+      "stationId": "bsntv",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": "2026-11-12T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8023/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-12 03:39:08",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717874",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716750",
+      "seriesId": "syobocal-title-8008",
+      "title": "氷の城壁(第2期)",
+      "stationId": "tbs",
+      "start": "2026-11-12T23:56:00+09:00",
+      "end": "2026-11-13T00:26:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8008/time?Filter=5",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 02:12:29",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716750",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716556",
+      "seriesId": "syobocal-title-7998",
+      "title": "FX戦士くるみちゃん",
+      "stationId": "bs11",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7998/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 23:56:04",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716556",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718735",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "bsfuji",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=17",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 00:15:20",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718735",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718635",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "mx",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8038/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-16 23:14:47",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718635",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717659",
+      "seriesId": "syobocal-title-7878",
+      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "stationId": "tbs",
+      "start": "2026-11-13T00:26:00+09:00",
+      "end": "2026-11-13T00:56:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7878/time?Filter=5",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 22:48:51",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717659",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-723742",
+      "seriesId": "syobocal-title-8087",
+      "title": "無脳魔女 ブレインレス・ウィッチ",
+      "stationId": "bsntv",
+      "start": "2026-11-13T01:00:00+09:00",
+      "end": "2026-11-13T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8087/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-15 12:02:35",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "723742",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-718574",
+      "seriesId": "syobocal-title-8037",
+      "title": "冰剣の魔術師が世界を統べるⅡ",
+      "stationId": "tbs",
+      "start": "2026-11-13T01:28:00+09:00",
+      "end": "2026-11-13T01:58:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8037/time?Filter=5",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-16 22:59:10",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718574",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-724629",
+      "seriesId": "syobocal-title-1903",
+      "title": "はなかっぱ",
+      "stationId": "nhk_e",
+      "start": "2026-11-13T07:20:00+09:00",
+      "end": "2026-11-13T07:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/1903/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-11-02 01:06:24",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "724629",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720621",
+      "seriesId": "syobocal-title-6236",
+      "title": "パウ・パトロール(シーズン4)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T17:55:00+09:00",
+      "end": "2026-11-13T18:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/6236/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-25 17:27:42",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720621",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-719277",
+      "seriesId": "syobocal-title-8043",
+      "title": "パンどろぼう",
+      "stationId": "nhk_e",
+      "start": "2026-11-13T18:40:00+09:00",
+      "end": "2026-11-13T18:50:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8043/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-20 03:38:54",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719277",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-720596",
+      "seriesId": "syobocal-title-6694",
+      "title": "ポケットモンスター(2023)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T18:55:00+09:00",
+      "end": "2026-11-13T19:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/6694/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-25 17:25:20",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720596",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720473",
+      "seriesId": "syobocal-title-8058",
+      "title": "蒼き伝承 ウェルシュ＆シェダー",
+      "stationId": "mx",
+      "start": "2026-11-13T21:25:00+09:00",
+      "end": "2026-11-13T21:54:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8058/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 21:48:34",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720473",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718723",
+      "seriesId": "syobocal-title-8037",
+      "title": "冰剣の魔術師が世界を統べるⅡ",
+      "stationId": "bs11",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": "2026-11-13T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8037/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 00:11:04",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718723",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-715389",
+      "seriesId": "syobocal-title-7981",
+      "title": "転生したら剣でしたⅡ",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": "2026-11-13T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7981/time?Filter=18",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-08-17 00:54:55",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "715389",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720271",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "bs11",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 20:53:37",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720271",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720008",
+      "seriesId": "syobocal-title-8051",
+      "title": "幻想水滸伝",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8051/time?Filter=18",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-22 22:21:56",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720008",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718846",
+      "seriesId": "syobocal-title-8040",
+      "title": "ホタルの嫁入り",
+      "stationId": "fuji",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8040/time?Filter=3",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 22:43:57",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718846",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722293",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "mx",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8055/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-01 15:15:45",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722293",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718491",
+      "seriesId": "syobocal-title-7906",
+      "title": "うちの弟どもがすみません",
+      "stationId": "bs11",
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-11-14T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-19 01:58:17",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718491",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-718513",
+      "seriesId": "syobocal-title-7906",
+      "title": "うちの弟どもがすみません",
+      "stationId": "mx",
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-11-14T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7906/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-19 01:44:47",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718513",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-716591",
+      "seriesId": "syobocal-title-8000",
+      "title": "とある暗部の少女共棲",
+      "stationId": "bs11",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": "2026-11-14T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 23:58:31",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716591",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716495",
+      "seriesId": "syobocal-title-8000",
+      "title": "とある暗部の少女共棲",
+      "stationId": "mx",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": "2026-11-14T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8000/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 22:24:34",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716495",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-721676",
+      "seriesId": "syobocal-title-350",
+      "title": "ワンピース",
+      "stationId": "bsfuji",
+      "start": "2026-11-14T01:00:00+09:00",
+      "end": "2026-11-14T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/350/time?Filter=17",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-29 01:00:16",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "721676",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716508",
+      "seriesId": "syobocal-title-8001",
+      "title": "東京リベンジャーズ 三天戦争編",
+      "stationId": "tbs",
+      "start": "2026-11-14T01:23:00+09:00",
+      "end": "2026-11-14T01:53:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8001/time?Filter=5",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 22:47:37",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716508",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718142",
+      "seriesId": "syobocal-title-7878",
+      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "stationId": "bsntv",
+      "start": "2026-11-14T02:00:00+09:00",
+      "end": "2026-11-14T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7878/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 02:11:18",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718142",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-716616",
+      "seriesId": "syobocal-title-8001",
+      "title": "東京リベンジャーズ 三天戦争編",
+      "stationId": "bstbs",
+      "start": "2026-11-14T02:30:00+09:00",
+      "end": "2026-11-14T03:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8001/time?Filter=16",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 00:01:15",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716616",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-724841",
+      "seriesId": "syobocal-title-4152",
+      "title": "ぼのぼの(2016)",
+      "stationId": "fuji",
+      "start": "2026-11-14T05:22:00+09:00",
+      "end": "2026-11-14T05:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/4152/time?Filter=3",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-11-07 00:37:18",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "724841",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722810",
+      "seriesId": "syobocal-title-6212",
+      "title": "ニンジャラ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": "2026-11-14T08:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/6212/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-04 17:59:48",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722810",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720899",
+      "seriesId": "syobocal-title-7987",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T08:00:00+09:00",
+      "end": "2026-11-14T08:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7987/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-26 19:26:26",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720899",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-715547",
+      "seriesId": "syobocal-title-7816",
+      "title": "おしりたんてい(第10シリーズ)",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:00:00+09:00",
+      "end": "2026-11-14T09:20:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7816/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-08-22 01:11:29",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "715547",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720932",
+      "seriesId": "syobocal-title-8063",
+      "title": "ねずみくんのチョッキ(第2期)",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": "2026-11-14T09:35:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8063/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-26 23:45:26",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720932",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718344",
+      "seriesId": "syobocal-title-8033",
+      "title": "ケロロ軍曹☆",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": "2026-11-14T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8033/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-15 14:05:35",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718344",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722418",
+      "seriesId": "syobocal-title-3732",
+      "title": "ゴー！ゴー！キッチン戦隊クックルン",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:35:00+09:00",
+      "end": "2026-11-14T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/3732/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-24 22:35:58",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722418",
+      "revision": "2"
+    },
+    {
+      "id": "syobocal-722383",
+      "seriesId": "syobocal-title-8074",
+      "title": "しろたん",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T16:29:00+09:00",
+      "end": "2026-11-14T16:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8074/time?Filter=6",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-02 18:37:50",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722383",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722455",
+      "seriesId": "syobocal-title-8076",
+      "title": "朱色の仮面",
+      "stationId": "ntv",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=4",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-03 01:17:25",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722455",
+      "revision": "0"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261114-1730-thefishing",
+      "seriesId": "official-series-d47595c1fb2d6cfd4269ad6a",
+      "title": "ＴＨＥフィッシング　東西のスゴ腕船長が大爆釣！東京湾ボートシーバス",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13037_202611141730.html",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "東京湾でボートからシーバスを狙う実釣企画"
+    },
+    {
+      "id": "syobocal-719404",
+      "seriesId": "syobocal-title-518",
+      "title": "名探偵コナン",
+      "stationId": "ntv",
+      "start": "2026-11-14T18:00:00+09:00",
+      "end": "2026-11-14T18:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/518/time?Filter=4",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-17 18:40:54",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719404",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-719886",
+      "seriesId": "syobocal-title-8048",
+      "title": "マロニエ王国の七人の騎士",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T18:25:00+09:00",
+      "end": "2026-11-14T18:50:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8048/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-22 01:26:26",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719886",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717633",
+      "seriesId": "syobocal-title-8014",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
+      "stationId": "bs11",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 22:08:24",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717633",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717645",
+      "seriesId": "syobocal-title-8014",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
+      "stationId": "mx",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8014/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 22:44:36",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717645",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717751",
+      "seriesId": "syobocal-title-8021",
+      "title": "野生のラスボスが現れた！(第2期)",
+      "stationId": "mx",
+      "start": "2026-11-14T22:30:00+09:00",
+      "end": "2026-11-14T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-12 00:30:56",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717751",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718766",
+      "seriesId": "syobocal-title-8025",
+      "title": "薬屋のひとりごと(第3期)",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": "2026-11-14T23:28:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8025/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-26 00:21:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718766",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-720258",
+      "seriesId": "syobocal-title-8026",
+      "title": "ブラッククローバー 2nd Season",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8026/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-05 15:54:10",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720258",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-720673",
+      "seriesId": "syobocal-title-7626",
+      "title": "元祖！バンドリちゃん",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:28:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7626/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-26 00:20:37",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720673",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717587",
+      "seriesId": "syobocal-title-8020",
+      "title": "バーテックスフォース",
+      "stationId": "bs11",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 16:23:41",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717587",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-715858",
+      "seriesId": "syobocal-title-7987",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7987/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-11-03 01:22:52",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "715858",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-717564",
+      "seriesId": "syobocal-title-8020",
+      "title": "バーテックスフォース",
+      "stationId": "mx",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8020/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 13:49:56",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717564",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-719898",
+      "seriesId": "syobocal-title-8049",
+      "title": "恐怖コレクター",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T23:45:00+09:00",
+      "end": "2026-11-15T00:10:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8049/time?Filter=1",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-22 01:45:22",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "719898",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716856",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "bs11",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 21:18:24",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716856",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716726",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "mx",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8006/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 01:45:33",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716726",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716946",
+      "seriesId": "syobocal-title-8005",
+      "title": "生徒会にも穴はある！",
+      "stationId": "bs11",
+      "start": "2026-11-15T00:30:00+09:00",
+      "end": "2026-11-15T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 21:43:23",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716946",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716714",
+      "seriesId": "syobocal-title-8005",
+      "title": "生徒会にも穴はある！",
+      "stationId": "mx",
+      "start": "2026-11-15T00:30:00+09:00",
+      "end": "2026-11-15T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8005/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-04 01:30:37",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716714",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-721018",
+      "seriesId": "syobocal-title-7442",
+      "title": "コウペンちゃん",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": "2026-11-15T08:01:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7442/time?Filter=6",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-27 01:46:09",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "721018",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-724222",
+      "seriesId": "syobocal-title-7731",
+      "title": "名探偵プリキュア！",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T08:30:00+09:00",
+      "end": "2026-11-15T09:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7731/time?Filter=6",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-11-04 12:58:42",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "724222",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-722280",
+      "seriesId": "syobocal-title-8064",
+      "title": "僕らが選んだベストアドベンチャー",
+      "stationId": "fuji",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8064/time?Filter=3",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-01 12:57:03",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722280",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722823",
+      "seriesId": "syobocal-title-7055",
+      "title": "ギャビーのドールハウス",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7055/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-04 18:00:47",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722823",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-721183",
+      "seriesId": "syobocal-title-8065",
+      "title": "ぷにるんず ぷに4",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:15:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8065/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-27 09:07:19",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "721183",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722648",
+      "seriesId": "syobocal-title-7782",
+      "title": "おねがいアイプリ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:30:00+09:00",
+      "end": "2026-11-15T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7782/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-04 02:00:13",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722648",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-722361",
+      "seriesId": "syobocal-title-8075",
+      "title": "ポップパップポルターズ",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T10:00:00+09:00",
+      "end": "2026-11-15T10:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8075/time?Filter=6",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-25 09:03:52",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722361",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-718254",
+      "seriesId": "syobocal-title-8029",
+      "title": "アオアシ Season2",
+      "stationId": "nhk_e",
+      "start": "2026-11-15T17:00:00+09:00",
+      "end": "2026-11-15T17:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8029/time?Filter=2",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-14 23:45:07",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718254",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720245",
+      "seriesId": "syobocal-title-8054",
+      "title": "ダイヤのA actII -Second Season-(第2クール)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T17:30:00+09:00",
+      "end": "2026-11-15T18:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8054/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-24 20:48:06",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720245",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718535",
+      "seriesId": "syobocal-title-8035",
+      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "stationId": "mx",
+      "start": "2026-11-15T21:30:00+09:00",
+      "end": "2026-11-15T22:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-16 22:34:24",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718535",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717435",
+      "seriesId": "syobocal-title-8018",
+      "title": "おじさんはカワイイものがお好き。",
+      "stationId": "mx",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": "2026-11-15T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8018/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 01:58:11",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717435",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-716520",
+      "seriesId": "syobocal-title-8002",
+      "title": "魔法の姉妹ルルットリリィ(第2クール)",
+      "stationId": "mx",
+      "start": "2026-11-15T22:30:00+09:00",
+      "end": "2026-11-15T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8002/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-03 22:58:49",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "716520",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718675",
+      "seriesId": "syobocal-title-8035",
+      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "stationId": "bs11",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8035/time?Filter=128",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-17 00:05:10",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718675",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717839",
+      "seriesId": "syobocal-title-8021",
+      "title": "野生のラスボスが現れた！(第2期)",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8021/time?Filter=18",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-16 21:52:51",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717839",
+      "revision": "1"
+    },
+    {
+      "id": "syobocal-722634",
+      "seriesId": "syobocal-title-8076",
+      "title": "朱色の仮面",
+      "stationId": "bsntv",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8076/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-10-04 00:27:34",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "722634",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-718279",
+      "seriesId": "syobocal-title-8027",
+      "title": "TANK CHAIR-戦車椅子-",
+      "stationId": "mx",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8027/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-15 00:48:58",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "718279",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717886",
+      "seriesId": "syobocal-title-8024",
+      "title": "信者ゼロの女神サマと始める異世界攻略",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8024/time?Filter=18",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-12 03:44:17",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717886",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-720724",
+      "seriesId": "syobocal-title-7943",
+      "title": "刃牙道",
+      "stationId": "bsntv",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=71",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-26 00:38:30",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "720724",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-721032",
+      "seriesId": "syobocal-title-7943",
+      "title": "刃牙道",
+      "stationId": "mx",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/7943/time?Filter=19",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-27 00:34:50",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "721032",
+      "revision": "0"
+    },
+    {
+      "id": "syobocal-717372",
+      "seriesId": "syobocal-title-8016",
+      "title": "ホテル・インヒューマンズ(第2期)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T23:45:00+09:00",
+      "end": "2026-11-16T00:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://cal.syoboi.jp/8016/time?Filter=7",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00",
+      "sourceUpdatedAt": "2026-09-10 01:31:27",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "syobocal",
+      "sourcePid": "717372",
       "revision": "0"
     }
   ]
