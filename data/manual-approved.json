@@ -1399,10 +1399,10 @@
       "genreBasis": "女子プロのペア対抗マッチプレー。荒川・藤井ペアと池羽・高橋ペアの対戦"
     },
     {
-      "id": "chatgpt-bs4-20261111-2100-charitetsu",
+      "id": "chatgpt-bsntv-20261111-2100-charitetsu",
       "seriesId": "chatgpt-series-charitetsu",
       "title": "大人のチャリ×鉄道旅　第1夜 伊豆・駿豆線",
-      "stationId": "bs4",
+      "stationId": "bsntv",
       "start": "2026-11-11T21:00:00+09:00",
       "end": "2026-11-11T21:54:00+09:00",
       "genreIds": [
@@ -1418,10 +1418,10 @@
       "genreBasis": "駿豆線の輪行旅で三島から修善寺を巡る"
     },
     {
-      "id": "chatgpt-bs4-20261112-2100-charitetsu",
+      "id": "chatgpt-bsntv-20261112-2100-charitetsu",
       "seriesId": "chatgpt-series-charitetsu",
       "title": "大人のチャリ×鉄道旅　第2夜 島根・一畑電車",
-      "stationId": "bs4",
+      "stationId": "bsntv",
       "start": "2026-11-12T21:00:00+09:00",
       "end": "2026-11-12T21:54:00+09:00",
       "genreIds": [
