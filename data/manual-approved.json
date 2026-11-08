@@ -1379,6 +1379,98 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
       "genreBasis": "BS日テレ公式で第2夜・ウド鈴木の鉄道と自転車による紀行を確認。"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261109-2154-golf",
+      "seriesId": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
+      "stationId": "bsasahi",
+      "start": "2026-11-09T21:54:00+09:00",
+      "end": "2026-11-09T22:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/golfmatch/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "女子プロのペア対抗マッチプレー。荒川・藤井ペアと池羽・高橋ペアの対戦"
+    },
+    {
+      "id": "chatgpt-bs4-20261111-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅　第1夜 伊豆・駿豆線",
+      "stationId": "bs4",
+      "start": "2026-11-11T21:00:00+09:00",
+      "end": "2026-11-11T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "駿豆線の輪行旅で三島から修善寺を巡る"
+    },
+    {
+      "id": "chatgpt-bs4-20261112-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅　第2夜 島根・一畑電車",
+      "stationId": "bs4",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": "2026-11-12T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs4.jp/charitestu/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "一畑電車と自転車で松江城から出雲大社を巡る"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261112-2300-cgtv",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV　1050馬力のテスタロッサ",
+      "stationId": "bsasahi",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": "2026-11-12T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/lineup/prg_2054/",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "フェラーリ849テスタロッサの試乗・車両解説"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261114-1730-thefishing",
+      "seriesId": "official-series-d47595c1fb2d6cfd4269ad6a",
+      "title": "ＴＨＥフィッシング　東西のスゴ腕船長が大爆釣！東京湾ボートシーバス",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13037_202611141730.html",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "東京湾でボートからシーバスを狙う実釣企画"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
