@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-05T19:19:23.190182+09:00",
+  "observedAt": "2026-11-09T08:58:53.105621+09:00",
   "targetWindow": {
-    "start": "2026-11-05T00:00:00+09:00",
-    "endExclusive": "2026-11-12T00:00:00+09:00"
+    "start": "2026-11-09T00:00:00+09:00",
+    "endExclusive": "2026-11-16T00:00:00+09:00"
   },
   "lastAIResearch": {
     "at": "2026-10-29T20:23:49+09:00",
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 11,
+    "newPublic": 91,
     "publicationStatus": "published",
-    "hoursSinceResearch": 166.93,
+    "hoursSinceResearch": 252.58,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-05T19:18:50+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T08:58:27+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-05T19:18:50+09:00",
+    "at": "2026-11-09T08:58:27+09:00",
     "counts": {
-      "added": 11,
+      "added": 91,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 0
+      "expired": 91
     }
   },
   "lastActions": {
-    "runId": "42009630667",
+    "runId": "42537673305",
     "event": "push",
-    "observedAt": "2026-11-05T19:19:23.190182+09:00",
+    "observedAt": "2026-11-09T08:58:53.105621+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-05T19:19:23+09:00",
+    "verifiedAt": "2026-11-09T08:58:53+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "6a82d861c033a58950fc52ccc260fc6b0d0194445b29a9897219de7be5af759c"
+    "semanticSha256": "a18ab5d6d46091f1906664b703358bd7cd53558e61600427f0849ccb602cc97e"
   },
   "genreCoverage": [
     {
@@ -70,8 +70,8 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 2,
-      "lastStart": "2026-11-07T18:30:00+09:00"
+      "programs": 0,
+      "lastStart": null
     },
     {
       "genreId": "horror_movie",
@@ -82,8 +82,8 @@
     {
       "genreId": "disney",
       "name": "ディズニー",
-      "programs": 1,
-      "lastStart": "2026-11-06T21:00:00+09:00"
+      "programs": 0,
+      "lastStart": null
     },
     {
       "genreId": "usj",
@@ -106,20 +106,20 @@
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "programs": 1,
-      "lastStart": "2026-11-08T18:00:00+09:00"
+      "programs": 0,
+      "lastStart": null
     },
     {
       "genreId": "car",
       "name": "車",
-      "programs": 2,
-      "lastStart": "2026-11-08T10:30:00+09:00"
+      "programs": 1,
+      "lastStart": "2026-11-12T23:00:00+09:00"
     },
     {
       "genreId": "dance",
       "name": "ダンス",
-      "programs": 1,
-      "lastStart": "2026-11-05T21:54:00+09:00"
+      "programs": 0,
+      "lastStart": null
     },
     {
       "genreId": "golf",
@@ -142,8 +142,8 @@
     {
       "genreId": "fishing",
       "name": "釣り",
-      "programs": 2,
-      "lastStart": "2026-11-07T17:30:00+09:00"
+      "programs": 1,
+      "lastStart": "2026-11-14T17:30:00+09:00"
     },
     {
       "genreId": "health",
@@ -155,7 +155,7 @@
       "genreId": "travel",
       "name": "旅",
       "programs": 2,
-      "lastStart": "2026-11-11T21:00:00+09:00"
+      "lastStart": "2026-11-12T21:00:00+09:00"
     },
     {
       "genreId": "challenge",
@@ -166,14 +166,14 @@
     {
       "genreId": "anime",
       "name": "アニメ",
-      "programs": 116,
-      "lastStart": "2026-11-11T23:45:00+09:00"
+      "programs": 121,
+      "lastStart": "2026-11-15T23:45:00+09:00"
     },
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "programs": 1,
-      "lastStart": "2026-11-11T21:00:00+09:00"
+      "programs": 2,
+      "lastStart": "2026-11-12T21:00:00+09:00"
     }
   ],
   "publicPrograms": 127,

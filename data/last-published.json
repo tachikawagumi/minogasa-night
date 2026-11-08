@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceMode": "real",
   "timeZone": "Asia/Tokyo",
-  "generatedAt": "2026-11-05T19:18:50+09:00",
-  "windowStart": "2026-11-05T00:00:00+09:00",
-  "windowEnd": "2026-11-12T00:00:00+09:00",
+  "generatedAt": "2026-11-09T08:58:27+09:00",
+  "windowStart": "2026-11-09T00:00:00+09:00",
+  "windowEnd": "2026-11-16T00:00:00+09:00",
   "updateStatus": "ok",
   "notice": "対象局の全番組を網羅するものではありません。",
   "genres": [
@@ -173,7 +173,7 @@
       "station": "NHK総合",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -181,7 +181,7 @@
       "station": "NHK Eテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -189,7 +189,7 @@
       "station": "フジテレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -197,7 +197,7 @@
       "station": "日本テレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -205,7 +205,7 @@
       "station": "TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -213,7 +213,7 @@
       "station": "テレビ朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -221,7 +221,7 @@
       "station": "テレビ東京",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -229,7 +229,7 @@
       "station": "チバテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -237,7 +237,7 @@
       "station": "BSテレ東",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -245,7 +245,7 @@
       "station": "BS-TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -253,7 +253,7 @@
       "station": "BSフジ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -261,7 +261,7 @@
       "station": "BS朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -269,7 +269,7 @@
       "station": "TOKYO MX",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -277,7 +277,7 @@
       "station": "BS日テレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -285,7 +285,7 @@
       "station": "BS11イレブン",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -293,7 +293,7 @@
       "station": "BS12トゥエルビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -301,7 +301,7 @@
       "station": "TOKYO MX2",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-05T19:18:50+09:00",
+      "animeCheckedAt": "2026-11-09T08:58:27+09:00",
       "complete": false
     },
     {
@@ -323,1280 +323,18 @@
   ],
   "programs": [
     {
-      "id": "chatgpt-20261105-2154-d-nosenritsu",
-      "seriesId": "chatgpt-series-d-nosenritsu",
-      "title": "Ｄの旋律～ダンスと音楽のシンフォニー～",
-      "stationId": "tvtokyo",
-      "start": "2026-11-05T21:54:00+09:00",
-      "end": "2026-11-05T22:00:00+09:00",
-      "genreIds": [
-        "dance"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-716471",
-      "seriesId": "syobocal-title-7998",
-      "title": "FX戦士くるみちゃん",
-      "stationId": "mx",
-      "start": "2026-11-05T22:30:00+09:00",
-      "end": "2026-11-05T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717873",
-      "seriesId": "syobocal-title-8023",
-      "title": "佐々木とピーちゃん Season2",
-      "stationId": "bsntv",
-      "start": "2026-11-05T23:00:00+09:00",
-      "end": "2026-11-05T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716749",
-      "seriesId": "syobocal-title-8008",
-      "title": "氷の城壁(第2期)",
-      "stationId": "tbs",
-      "start": "2026-11-05T23:56:00+09:00",
-      "end": "2026-11-06T00:26:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716555",
-      "seriesId": "syobocal-title-7998",
-      "title": "FX戦士くるみちゃん",
-      "stationId": "bs11",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718734",
-      "seriesId": "syobocal-title-8038",
-      "title": "てつりょー！ meet with 鉄道むすめ",
-      "stationId": "bsfuji",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718634",
-      "seriesId": "syobocal-title-8038",
-      "title": "てつりょー！ meet with 鉄道むすめ",
-      "stationId": "mx",
-      "start": "2026-11-06T00:00:00+09:00",
-      "end": "2026-11-06T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717658",
-      "seriesId": "syobocal-title-7878",
-      "title": "追放された転生重騎士はゲーム知識で無双する",
-      "stationId": "tbs",
-      "start": "2026-11-06T00:26:00+09:00",
-      "end": "2026-11-06T00:56:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-723741",
-      "seriesId": "syobocal-title-8087",
-      "title": "無脳魔女 ブレインレス・ウィッチ",
-      "stationId": "bsntv",
-      "start": "2026-11-06T01:00:00+09:00",
-      "end": "2026-11-06T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718573",
-      "seriesId": "syobocal-title-8037",
-      "title": "冰剣の魔術師が世界を統べるⅡ",
-      "stationId": "tbs",
-      "start": "2026-11-06T01:28:00+09:00",
-      "end": "2026-11-06T01:58:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-724624",
-      "seriesId": "syobocal-title-1903",
-      "title": "はなかっぱ",
-      "stationId": "nhk_e",
-      "start": "2026-11-06T07:20:00+09:00",
-      "end": "2026-11-06T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720620",
-      "seriesId": "syobocal-title-6236",
-      "title": "パウ・パトロール(シーズン4)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-06T17:55:00+09:00",
-      "end": "2026-11-06T18:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-719276",
-      "seriesId": "syobocal-title-8043",
-      "title": "パンどろぼう",
-      "stationId": "nhk_e",
-      "start": "2026-11-06T18:40:00+09:00",
-      "end": "2026-11-06T18:50:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720595",
-      "seriesId": "syobocal-title-6694",
-      "title": "ポケットモンスター(2023)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-06T18:55:00+09:00",
-      "end": "2026-11-06T19:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261106-2100-mufasa",
-      "seriesId": "chatgpt-series-lion-king-mufasa",
-      "title": "ライオン・キング：ムファサ",
-      "stationId": "ntv",
-      "start": "2026-11-06T21:00:00+09:00",
-      "end": "2026-11-06T23:24:00+09:00",
-      "genreIds": [
-        "movie",
-        "disney"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-720472",
-      "seriesId": "syobocal-title-8058",
-      "title": "蒼き伝承 ウェルシュ＆シェダー",
-      "stationId": "mx",
-      "start": "2026-11-06T21:25:00+09:00",
-      "end": "2026-11-06T21:54:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718722",
-      "seriesId": "syobocal-title-8037",
-      "title": "冰剣の魔術師が世界を統べるⅡ",
-      "stationId": "bs11",
-      "start": "2026-11-06T23:00:00+09:00",
-      "end": "2026-11-06T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-715388",
-      "seriesId": "syobocal-title-7981",
-      "title": "転生したら剣でしたⅡ",
+      "id": "chatgpt-bsasahi-20261109-2154-golf",
+      "seriesId": "official-series-142a8e1007439f2e224e685c",
+      "title": "女子ゴルフペアマッチ選手権",
       "stationId": "bsasahi",
-      "start": "2026-11-06T23:00:00+09:00",
-      "end": "2026-11-06T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720270",
-      "seriesId": "syobocal-title-8055",
-      "title": "テムパル～アイテムの力～",
-      "stationId": "bs11",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720007",
-      "seriesId": "syobocal-title-8051",
-      "title": "幻想水滸伝",
-      "stationId": "bsasahi",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718845",
-      "seriesId": "syobocal-title-8040",
-      "title": "ホタルの嫁入り",
-      "stationId": "fuji",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722292",
-      "seriesId": "syobocal-title-8055",
-      "title": "テムパル～アイテムの力～",
-      "stationId": "mx",
-      "start": "2026-11-06T23:30:00+09:00",
-      "end": "2026-11-07T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718490",
-      "seriesId": "syobocal-title-7906",
-      "title": "うちの弟どもがすみません",
-      "stationId": "bs11",
-      "start": "2026-11-07T00:00:00+09:00",
-      "end": "2026-11-07T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718512",
-      "seriesId": "syobocal-title-7906",
-      "title": "うちの弟どもがすみません",
-      "stationId": "mx",
-      "start": "2026-11-07T00:00:00+09:00",
-      "end": "2026-11-07T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716590",
-      "seriesId": "syobocal-title-8000",
-      "title": "とある暗部の少女共棲",
-      "stationId": "bs11",
-      "start": "2026-11-07T00:30:00+09:00",
-      "end": "2026-11-07T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716494",
-      "seriesId": "syobocal-title-8000",
-      "title": "とある暗部の少女共棲",
-      "stationId": "mx",
-      "start": "2026-11-07T00:30:00+09:00",
-      "end": "2026-11-07T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721675",
-      "seriesId": "syobocal-title-350",
-      "title": "ワンピース",
-      "stationId": "bsfuji",
-      "start": "2026-11-07T01:00:00+09:00",
-      "end": "2026-11-07T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716507",
-      "seriesId": "syobocal-title-8001",
-      "title": "東京リベンジャーズ 三天戦争編",
-      "stationId": "tbs",
-      "start": "2026-11-07T01:23:00+09:00",
-      "end": "2026-11-07T01:53:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718141",
-      "seriesId": "syobocal-title-7878",
-      "title": "追放された転生重騎士はゲーム知識で無双する",
-      "stationId": "bsntv",
-      "start": "2026-11-07T02:00:00+09:00",
-      "end": "2026-11-07T02:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716615",
-      "seriesId": "syobocal-title-8001",
-      "title": "東京リベンジャーズ 三天戦争編",
-      "stationId": "bstbs",
-      "start": "2026-11-07T02:30:00+09:00",
-      "end": "2026-11-07T03:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-724491",
-      "seriesId": "syobocal-title-4152",
-      "title": "ぼのぼの(2016)",
-      "stationId": "fuji",
-      "start": "2026-11-07T05:22:00+09:00",
-      "end": "2026-11-07T05:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722809",
-      "seriesId": "syobocal-title-6212",
-      "title": "ニンジャラ",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T07:30:00+09:00",
-      "end": "2026-11-07T08:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-715546",
-      "seriesId": "syobocal-title-7816",
-      "title": "おしりたんてい(第10シリーズ)",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:00:00+09:00",
-      "end": "2026-11-07T09:20:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720931",
-      "seriesId": "syobocal-title-8063",
-      "title": "ねずみくんのチョッキ(第2期)",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:30:00+09:00",
-      "end": "2026-11-07T09:35:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718343",
-      "seriesId": "syobocal-title-8033",
-      "title": "ケロロ軍曹☆",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T09:30:00+09:00",
-      "end": "2026-11-07T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722417",
-      "seriesId": "syobocal-title-3732",
-      "title": "ゴー！ゴー！キッチン戦隊クックルン",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T09:35:00+09:00",
-      "end": "2026-11-07T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722382",
-      "seriesId": "syobocal-title-8074",
-      "title": "しろたん",
-      "stationId": "tvasahi",
-      "start": "2026-11-07T16:29:00+09:00",
-      "end": "2026-11-07T16:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261107-1700-yumetyoko",
-      "seriesId": "chatgpt-series-yumetyoko",
-      "title": "夢釣行～一魚一会の旅～",
-      "stationId": "bsntv",
-      "start": "2026-11-07T17:00:00+09:00",
-      "end": "2026-11-07T17:30:00+09:00",
-      "genreIds": [
-        "fishing"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-722454",
-      "seriesId": "syobocal-title-8076",
-      "title": "朱色の仮面",
-      "stationId": "ntv",
-      "start": "2026-11-07T17:30:00+09:00",
-      "end": "2026-11-07T18:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261107-1730-the-fishing",
-      "seriesId": "chatgpt-series-the-fishing",
-      "title": "THEフィッシング",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T17:30:00+09:00",
-      "end": "2026-11-07T18:00:00+09:00",
-      "genreIds": [
-        "fishing"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-719403",
-      "seriesId": "syobocal-title-518",
-      "title": "名探偵コナン",
-      "stationId": "ntv",
-      "start": "2026-11-07T18:00:00+09:00",
-      "end": "2026-11-07T18:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-719885",
-      "seriesId": "syobocal-title-8048",
-      "title": "マロニエ王国の七人の騎士",
-      "stationId": "nhk_e",
-      "start": "2026-11-07T18:25:00+09:00",
-      "end": "2026-11-07T18:50:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261107-1830-tora-kamifusen",
-      "seriesId": "chatgpt-series-tora-san",
-      "title": "男はつらいよ 寅次郎紙風船",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-07T18:30:00+09:00",
-      "end": null,
-      "genreIds": [
-        "movie"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "chatgpt-20261107-2100-aisya-henreki",
-      "seriesId": "chatgpt-series-aisya-henreki",
-      "title": "おぎやはぎの愛車遍歴 NO CAR, NO LIFE!",
-      "stationId": "bsntv",
-      "start": "2026-11-07T21:00:00+09:00",
-      "end": "2026-11-07T21:54:00+09:00",
-      "genreIds": [
-        "car"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-717632",
-      "seriesId": "syobocal-title-8014",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "stationId": "bs11",
-      "start": "2026-11-07T22:00:00+09:00",
-      "end": "2026-11-07T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717644",
-      "seriesId": "syobocal-title-8014",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "stationId": "mx",
-      "start": "2026-11-07T22:00:00+09:00",
-      "end": "2026-11-07T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717750",
-      "seriesId": "syobocal-title-8021",
-      "title": "野生のラスボスが現れた！(第2期)",
-      "stationId": "mx",
-      "start": "2026-11-07T22:30:00+09:00",
-      "end": "2026-11-07T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718765",
-      "seriesId": "syobocal-title-8025",
-      "title": "薬屋のひとりごと(第3期)",
-      "stationId": "bsntv",
-      "start": "2026-11-07T23:00:00+09:00",
-      "end": "2026-11-07T23:28:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720257",
-      "seriesId": "syobocal-title-8026",
-      "title": "ブラッククローバー 2nd Season",
-      "stationId": "tvtokyo",
-      "start": "2026-11-07T23:00:00+09:00",
-      "end": "2026-11-07T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720672",
-      "seriesId": "syobocal-title-7626",
-      "title": "元祖！バンドリちゃん",
-      "stationId": "bsntv",
-      "start": "2026-11-07T23:28:00+09:00",
-      "end": "2026-11-07T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717586",
-      "seriesId": "syobocal-title-8020",
-      "title": "バーテックスフォース",
-      "stationId": "bs11",
-      "start": "2026-11-07T23:30:00+09:00",
-      "end": "2026-11-08T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717563",
-      "seriesId": "syobocal-title-8020",
-      "title": "バーテックスフォース",
-      "stationId": "mx",
-      "start": "2026-11-07T23:30:00+09:00",
-      "end": "2026-11-08T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-719897",
-      "seriesId": "syobocal-title-8049",
-      "title": "恐怖コレクター",
-      "stationId": "nhk_g",
-      "start": "2026-11-07T23:45:00+09:00",
-      "end": "2026-11-08T00:10:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716855",
-      "seriesId": "syobocal-title-8006",
-      "title": "マジカル★エクスプローラー",
-      "stationId": "bs11",
-      "start": "2026-11-08T00:00:00+09:00",
-      "end": "2026-11-08T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716725",
-      "seriesId": "syobocal-title-8006",
-      "title": "マジカル★エクスプローラー",
-      "stationId": "mx",
-      "start": "2026-11-08T00:00:00+09:00",
-      "end": "2026-11-08T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716945",
-      "seriesId": "syobocal-title-8005",
-      "title": "生徒会にも穴はある！",
-      "stationId": "bs11",
-      "start": "2026-11-08T00:30:00+09:00",
-      "end": "2026-11-08T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716713",
-      "seriesId": "syobocal-title-8005",
-      "title": "生徒会にも穴はある！",
-      "stationId": "mx",
-      "start": "2026-11-08T00:30:00+09:00",
-      "end": "2026-11-08T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-710726",
-      "seriesId": "syobocal-title-6694",
-      "title": "ポケットモンスター(2023)",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-08T07:00:00+09:00",
-      "end": "2026-11-08T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261108-0800-golf-samurai",
-      "seriesId": "chatgpt-series-golf-samurai",
-      "title": "ゴルフ侍、見参！",
-      "stationId": "bstvtokyo",
-      "start": "2026-11-08T08:00:00+09:00",
-      "end": "2026-11-08T09:00:00+09:00",
+      "start": "2026-11-09T21:54:00+09:00",
+      "end": "2026-11-09T22:30:00+09:00",
       "genreIds": [
         "golf"
       ],
       "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-722279",
-      "seriesId": "syobocal-title-8064",
-      "title": "僕らが選んだベストアドベンチャー",
-      "stationId": "fuji",
-      "start": "2026-11-08T09:00:00+09:00",
-      "end": "2026-11-08T09:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722822",
-      "seriesId": "syobocal-title-7055",
-      "title": "ギャビーのドールハウス",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:00:00+09:00",
-      "end": "2026-11-08T09:15:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721182",
-      "seriesId": "syobocal-title-8065",
-      "title": "ぷにるんず ぷに4",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:15:00+09:00",
-      "end": "2026-11-08T09:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722647",
-      "seriesId": "syobocal-title-7782",
-      "title": "おねがいアイプリ",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T09:30:00+09:00",
-      "end": "2026-11-08T10:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261108-1030-classic-car",
-      "seriesId": "chatgpt-series-the-classic-car",
-      "title": "The Classic Car～クラシックカーってカッコイイ！～",
-      "stationId": "bsfuji",
-      "start": "2026-11-08T10:30:00+09:00",
-      "end": "2026-11-08T11:00:00+09:00",
-      "genreIds": [
-        "car"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-718253",
-      "seriesId": "syobocal-title-8029",
-      "title": "アオアシ Season2",
-      "stationId": "nhk_e",
-      "start": "2026-11-08T17:00:00+09:00",
-      "end": "2026-11-08T17:25:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717134",
-      "seriesId": "syobocal-title-8011",
-      "title": "夜桜さんちの大作戦(第2期)第2クール",
-      "stationId": "tbs",
-      "start": "2026-11-08T17:00:00+09:00",
-      "end": "2026-11-08T17:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720244",
-      "seriesId": "syobocal-title-8054",
-      "title": "ダイヤのA actII -Second Season-(第2クール)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T17:30:00+09:00",
-      "end": "2026-11-08T18:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "chatgpt-20261108-1800-world-heritage",
-      "seriesId": "chatgpt-series-world-heritage",
-      "title": "世界遺産",
-      "stationId": "tbs",
-      "start": "2026-11-08T18:00:00+09:00",
-      "end": "2026-11-08T18:30:00+09:00",
-      "genreIds": [
-        "architecture",
-        "travel"
-      ],
-      "status": "official_confirmed",
-      "checkedAt": "2026-11-05T19:16:20.736+09:00",
-      "updatedAt": "2026-11-05T19:16:20.736+09:00"
-    },
-    {
-      "id": "syobocal-718534",
-      "seriesId": "syobocal-title-8035",
-      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "stationId": "mx",
-      "start": "2026-11-08T21:30:00+09:00",
-      "end": "2026-11-08T22:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717434",
-      "seriesId": "syobocal-title-8018",
-      "title": "おじさんはカワイイものがお好き。",
-      "stationId": "mx",
-      "start": "2026-11-08T22:00:00+09:00",
-      "end": "2026-11-08T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716519",
-      "seriesId": "syobocal-title-8002",
-      "title": "魔法の姉妹ルルットリリィ(第2クール)",
-      "stationId": "mx",
-      "start": "2026-11-08T22:30:00+09:00",
-      "end": "2026-11-08T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718674",
-      "seriesId": "syobocal-title-8035",
-      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "stationId": "bs11",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717838",
-      "seriesId": "syobocal-title-8021",
-      "title": "野生のラスボスが現れた！(第2期)",
-      "stationId": "bsasahi",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-722633",
-      "seriesId": "syobocal-title-8076",
-      "title": "朱色の仮面",
-      "stationId": "bsntv",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718278",
-      "seriesId": "syobocal-title-8027",
-      "title": "TANK CHAIR-戦車椅子-",
-      "stationId": "mx",
-      "start": "2026-11-08T23:00:00+09:00",
-      "end": "2026-11-08T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717885",
-      "seriesId": "syobocal-title-8024",
-      "title": "信者ゼロの女神サマと始める異世界攻略",
-      "stationId": "bsasahi",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720723",
-      "seriesId": "syobocal-title-7943",
-      "title": "刃牙道",
-      "stationId": "bsntv",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721031",
-      "seriesId": "syobocal-title-7943",
-      "title": "刃牙道",
-      "stationId": "mx",
-      "start": "2026-11-08T23:30:00+09:00",
-      "end": "2026-11-09T00:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717371",
-      "seriesId": "syobocal-title-8016",
-      "title": "ホテル・インヒューマンズ(第2期)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-08T23:45:00+09:00",
-      "end": "2026-11-09T00:15:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718402",
-      "seriesId": "syobocal-title-8032",
-      "title": "彼方から",
-      "stationId": "mx",
-      "start": "2026-11-09T00:00:00+09:00",
-      "end": "2026-11-09T00:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718194",
-      "seriesId": "syobocal-title-8027",
-      "title": "TANK CHAIR-戦車椅子-",
-      "stationId": "bs11",
-      "start": "2026-11-09T00:30:00+09:00",
-      "end": "2026-11-09T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718546",
-      "seriesId": "syobocal-title-8036",
-      "title": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-      "stationId": "mx",
-      "start": "2026-11-09T00:30:00+09:00",
-      "end": "2026-11-09T01:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721313",
-      "seriesId": "syobocal-title-8067",
-      "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-      "stationId": "bs11",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:05:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-716579",
-      "seriesId": "syobocal-title-7999",
-      "title": "貸した魔力は【リボ払い】で強制徴収",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721243",
-      "seriesId": "syobocal-title-8067",
-      "title": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-      "stationId": "mx",
-      "start": "2026-11-09T01:00:00+09:00",
-      "end": "2026-11-09T01:05:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-721699",
-      "seriesId": "syobocal-title-8070",
-      "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
-      "stationId": "bs11",
-      "start": "2026-11-09T01:05:00+09:00",
-      "end": "2026-11-09T01:10:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720335",
-      "seriesId": "syobocal-title-8057",
-      "title": "彼女の友達",
-      "stationId": "mx",
-      "start": "2026-11-09T01:05:00+09:00",
-      "end": "2026-11-09T01:20:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-720309",
-      "seriesId": "syobocal-title-8056",
-      "title": "ダークサモナーとデキている",
-      "stationId": "mx",
-      "start": "2026-11-09T01:20:00+09:00",
-      "end": "2026-11-09T01:35:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-718699",
-      "seriesId": "syobocal-title-8036",
-      "title": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T01:30:00+09:00",
-      "end": "2026-11-09T02:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-717459",
-      "seriesId": "syobocal-title-8018",
-      "title": "おじさんはカワイイものがお好き。",
-      "stationId": "bsasahi",
-      "start": "2026-11-09T02:00:00+09:00",
-      "end": "2026-11-09T02:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
-    },
-    {
-      "id": "syobocal-724625",
-      "seriesId": "syobocal-title-1903",
-      "title": "はなかっぱ",
-      "stationId": "nhk_e",
-      "start": "2026-11-09T07:20:00+09:00",
-      "end": "2026-11-09T07:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z"
     },
     {
       "id": "syobocal-720890",
@@ -1609,8 +347,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717346",
@@ -1623,8 +361,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "chatgpt-20261109-2230-golfjo-tanbo",
@@ -1651,8 +389,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-720055",
@@ -1665,8 +403,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-718355",
@@ -1679,8 +417,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-720085",
@@ -1693,8 +431,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719322",
@@ -1707,8 +445,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-720044",
@@ -1721,8 +459,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719298",
@@ -1735,8 +473,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717384",
@@ -1749,8 +487,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717112",
@@ -1763,8 +501,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717786",
@@ -1777,8 +515,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-716639",
@@ -1791,8 +529,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-724626",
@@ -1805,8 +543,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-716459",
@@ -1819,8 +557,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719437",
@@ -1833,8 +571,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-718834",
@@ -1847,8 +585,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719497",
@@ -1861,8 +599,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719449",
@@ -1875,8 +613,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-719473",
@@ -1889,8 +627,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-720111",
@@ -1903,8 +641,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717849",
@@ -1917,8 +655,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-718500",
@@ -1931,8 +669,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-716446",
@@ -1945,8 +683,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717762",
@@ -1959,8 +697,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-720645",
@@ -1973,8 +711,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-722801",
@@ -1987,8 +725,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-718523",
@@ -2001,8 +739,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-724627",
@@ -2015,8 +753,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "chatgpt-20261111-2100-charitetsu",
@@ -2044,8 +782,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717123",
@@ -2058,8 +796,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717775",
@@ -2072,8 +810,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-722898",
@@ -2086,8 +824,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     },
     {
       "id": "syobocal-717553",
@@ -2100,8 +838,1269 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-05T19:18:50+09:00",
-      "updatedAt": "2026-11-05T19:18:50+09:00"
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716651",
+      "seriesId": "syobocal-title-8003",
+      "title": "世界最強の魔女、始めました",
+      "stationId": "bs11",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716675",
+      "seriesId": "syobocal-title-8004",
+      "title": "魔法少女育成計画restart",
+      "stationId": "bsfuji",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718751",
+      "seriesId": "syobocal-title-7939",
+      "title": "天は赤い河のほとり",
+      "stationId": "bsntv",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-715377",
+      "seriesId": "syobocal-title-7981",
+      "title": "転生したら剣でしたⅡ",
+      "stationId": "mx",
+      "start": "2026-11-12T00:00:00+09:00",
+      "end": "2026-11-12T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716247",
+      "seriesId": "syobocal-title-7996",
+      "title": "獣王武神ダンデヴァイン",
+      "stationId": "bs11",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719740",
+      "seriesId": "syobocal-title-8047",
+      "title": "百妖譜 第3期京師篇",
+      "stationId": "bsfuji",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717159",
+      "seriesId": "syobocal-title-8010",
+      "title": "探偵はもう、死んでいる。 Season2",
+      "stationId": "bsntv",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716235",
+      "seriesId": "syobocal-title-7996",
+      "title": "獣王武神ダンデヴァイン",
+      "stationId": "mx",
+      "start": "2026-11-12T00:30:00+09:00",
+      "end": "2026-11-12T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719310",
+      "seriesId": "syobocal-title-8041",
+      "title": "帰還者の魔法は特別です(第二期)",
+      "stationId": "fuji",
+      "start": "2026-11-12T00:45:00+09:00",
+      "end": "2026-11-12T01:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720510",
+      "seriesId": "syobocal-title-8057",
+      "title": "彼女の友達",
+      "stationId": "bs11",
+      "start": "2026-11-12T01:00:00+09:00",
+      "end": "2026-11-12T01:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722911",
+      "seriesId": "syobocal-title-8078",
+      "title": "紫禁・御猫房～紫禁城猫警備室～",
+      "stationId": "bsntv",
+      "start": "2026-11-12T01:00:00+09:00",
+      "end": "2026-11-12T01:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720498",
+      "seriesId": "syobocal-title-8056",
+      "title": "ダークサモナーとデキている",
+      "stationId": "bs11",
+      "start": "2026-11-12T01:15:00+09:00",
+      "end": "2026-11-12T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719753",
+      "seriesId": "syobocal-title-8047",
+      "title": "百妖譜 第3期京師篇",
+      "stationId": "fuji",
+      "start": "2026-11-12T01:15:00+09:00",
+      "end": "2026-11-12T01:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-724628",
+      "seriesId": "syobocal-title-1903",
+      "title": "はなかっぱ",
+      "stationId": "nhk_e",
+      "start": "2026-11-12T07:20:00+09:00",
+      "end": "2026-11-12T07:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "chatgpt-20261112-2100-charitetsu",
+      "seriesId": "chatgpt-series-charitetsu",
+      "title": "大人のチャリ×鉄道旅",
+      "stationId": "bsntv",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": "2026-11-12T21:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-05T19:16:20.736+09:00",
+      "updatedAt": "2026-11-05T19:16:20.736+09:00"
+    },
+    {
+      "id": "syobocal-716472",
+      "seriesId": "syobocal-title-7998",
+      "title": "FX戦士くるみちゃん",
+      "stationId": "mx",
+      "start": "2026-11-12T22:30:00+09:00",
+      "end": "2026-11-12T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261112-2300-cgtv",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV　1050馬力のテスタロッサ",
+      "stationId": "bsasahi",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": "2026-11-12T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z"
+    },
+    {
+      "id": "syobocal-717874",
+      "seriesId": "syobocal-title-8023",
+      "title": "佐々木とピーちゃん Season2",
+      "stationId": "bsntv",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": "2026-11-12T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716750",
+      "seriesId": "syobocal-title-8008",
+      "title": "氷の城壁(第2期)",
+      "stationId": "tbs",
+      "start": "2026-11-12T23:56:00+09:00",
+      "end": "2026-11-13T00:26:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716556",
+      "seriesId": "syobocal-title-7998",
+      "title": "FX戦士くるみちゃん",
+      "stationId": "bs11",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718735",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "bsfuji",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718635",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "mx",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717659",
+      "seriesId": "syobocal-title-7878",
+      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "stationId": "tbs",
+      "start": "2026-11-13T00:26:00+09:00",
+      "end": "2026-11-13T00:56:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-723742",
+      "seriesId": "syobocal-title-8087",
+      "title": "無脳魔女 ブレインレス・ウィッチ",
+      "stationId": "bsntv",
+      "start": "2026-11-13T01:00:00+09:00",
+      "end": "2026-11-13T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718574",
+      "seriesId": "syobocal-title-8037",
+      "title": "冰剣の魔術師が世界を統べるⅡ",
+      "stationId": "tbs",
+      "start": "2026-11-13T01:28:00+09:00",
+      "end": "2026-11-13T01:58:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-724629",
+      "seriesId": "syobocal-title-1903",
+      "title": "はなかっぱ",
+      "stationId": "nhk_e",
+      "start": "2026-11-13T07:20:00+09:00",
+      "end": "2026-11-13T07:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720621",
+      "seriesId": "syobocal-title-6236",
+      "title": "パウ・パトロール(シーズン4)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T17:55:00+09:00",
+      "end": "2026-11-13T18:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719277",
+      "seriesId": "syobocal-title-8043",
+      "title": "パンどろぼう",
+      "stationId": "nhk_e",
+      "start": "2026-11-13T18:40:00+09:00",
+      "end": "2026-11-13T18:50:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720596",
+      "seriesId": "syobocal-title-6694",
+      "title": "ポケットモンスター(2023)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T18:55:00+09:00",
+      "end": "2026-11-13T19:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720473",
+      "seriesId": "syobocal-title-8058",
+      "title": "蒼き伝承 ウェルシュ＆シェダー",
+      "stationId": "mx",
+      "start": "2026-11-13T21:25:00+09:00",
+      "end": "2026-11-13T21:54:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718723",
+      "seriesId": "syobocal-title-8037",
+      "title": "冰剣の魔術師が世界を統べるⅡ",
+      "stationId": "bs11",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": "2026-11-13T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-715389",
+      "seriesId": "syobocal-title-7981",
+      "title": "転生したら剣でしたⅡ",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": "2026-11-13T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720271",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "bs11",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720008",
+      "seriesId": "syobocal-title-8051",
+      "title": "幻想水滸伝",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718846",
+      "seriesId": "syobocal-title-8040",
+      "title": "ホタルの嫁入り",
+      "stationId": "fuji",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722293",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "mx",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718491",
+      "seriesId": "syobocal-title-7906",
+      "title": "うちの弟どもがすみません",
+      "stationId": "bs11",
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-11-14T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718513",
+      "seriesId": "syobocal-title-7906",
+      "title": "うちの弟どもがすみません",
+      "stationId": "mx",
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": "2026-11-14T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716591",
+      "seriesId": "syobocal-title-8000",
+      "title": "とある暗部の少女共棲",
+      "stationId": "bs11",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": "2026-11-14T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716495",
+      "seriesId": "syobocal-title-8000",
+      "title": "とある暗部の少女共棲",
+      "stationId": "mx",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": "2026-11-14T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-721676",
+      "seriesId": "syobocal-title-350",
+      "title": "ワンピース",
+      "stationId": "bsfuji",
+      "start": "2026-11-14T01:00:00+09:00",
+      "end": "2026-11-14T01:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716508",
+      "seriesId": "syobocal-title-8001",
+      "title": "東京リベンジャーズ 三天戦争編",
+      "stationId": "tbs",
+      "start": "2026-11-14T01:23:00+09:00",
+      "end": "2026-11-14T01:53:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718142",
+      "seriesId": "syobocal-title-7878",
+      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "stationId": "bsntv",
+      "start": "2026-11-14T02:00:00+09:00",
+      "end": "2026-11-14T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716616",
+      "seriesId": "syobocal-title-8001",
+      "title": "東京リベンジャーズ 三天戦争編",
+      "stationId": "bstbs",
+      "start": "2026-11-14T02:30:00+09:00",
+      "end": "2026-11-14T03:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-724841",
+      "seriesId": "syobocal-title-4152",
+      "title": "ぼのぼの(2016)",
+      "stationId": "fuji",
+      "start": "2026-11-14T05:22:00+09:00",
+      "end": "2026-11-14T05:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722810",
+      "seriesId": "syobocal-title-6212",
+      "title": "ニンジャラ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": "2026-11-14T08:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720899",
+      "seriesId": "syobocal-title-7987",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T08:00:00+09:00",
+      "end": "2026-11-14T08:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-715547",
+      "seriesId": "syobocal-title-7816",
+      "title": "おしりたんてい(第10シリーズ)",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:00:00+09:00",
+      "end": "2026-11-14T09:20:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720932",
+      "seriesId": "syobocal-title-8063",
+      "title": "ねずみくんのチョッキ(第2期)",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": "2026-11-14T09:35:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718344",
+      "seriesId": "syobocal-title-8033",
+      "title": "ケロロ軍曹☆",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": "2026-11-14T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722418",
+      "seriesId": "syobocal-title-3732",
+      "title": "ゴー！ゴー！キッチン戦隊クックルン",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T09:35:00+09:00",
+      "end": "2026-11-14T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722383",
+      "seriesId": "syobocal-title-8074",
+      "title": "しろたん",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T16:29:00+09:00",
+      "end": "2026-11-14T16:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722455",
+      "seriesId": "syobocal-title-8076",
+      "title": "朱色の仮面",
+      "stationId": "ntv",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261114-1730-thefishing",
+      "seriesId": "official-series-d47595c1fb2d6cfd4269ad6a",
+      "title": "ＴＨＥフィッシング　東西のスゴ腕船長が大爆釣！東京湾ボートシーバス",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-08T23:57:48.557Z",
+      "updatedAt": "2026-11-08T23:57:48.557Z"
+    },
+    {
+      "id": "syobocal-719404",
+      "seriesId": "syobocal-title-518",
+      "title": "名探偵コナン",
+      "stationId": "ntv",
+      "start": "2026-11-14T18:00:00+09:00",
+      "end": "2026-11-14T18:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719886",
+      "seriesId": "syobocal-title-8048",
+      "title": "マロニエ王国の七人の騎士",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T18:25:00+09:00",
+      "end": "2026-11-14T18:50:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717633",
+      "seriesId": "syobocal-title-8014",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
+      "stationId": "bs11",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717645",
+      "seriesId": "syobocal-title-8014",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
+      "stationId": "mx",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717751",
+      "seriesId": "syobocal-title-8021",
+      "title": "野生のラスボスが現れた！(第2期)",
+      "stationId": "mx",
+      "start": "2026-11-14T22:30:00+09:00",
+      "end": "2026-11-14T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718766",
+      "seriesId": "syobocal-title-8025",
+      "title": "薬屋のひとりごと(第3期)",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": "2026-11-14T23:28:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720258",
+      "seriesId": "syobocal-title-8026",
+      "title": "ブラッククローバー 2nd Season",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720673",
+      "seriesId": "syobocal-title-7626",
+      "title": "元祖！バンドリちゃん",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:28:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717587",
+      "seriesId": "syobocal-title-8020",
+      "title": "バーテックスフォース",
+      "stationId": "bs11",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-715858",
+      "seriesId": "syobocal-title-7987",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717564",
+      "seriesId": "syobocal-title-8020",
+      "title": "バーテックスフォース",
+      "stationId": "mx",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-719898",
+      "seriesId": "syobocal-title-8049",
+      "title": "恐怖コレクター",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T23:45:00+09:00",
+      "end": "2026-11-15T00:10:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716856",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "bs11",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716726",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "mx",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716946",
+      "seriesId": "syobocal-title-8005",
+      "title": "生徒会にも穴はある！",
+      "stationId": "bs11",
+      "start": "2026-11-15T00:30:00+09:00",
+      "end": "2026-11-15T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716714",
+      "seriesId": "syobocal-title-8005",
+      "title": "生徒会にも穴はある！",
+      "stationId": "mx",
+      "start": "2026-11-15T00:30:00+09:00",
+      "end": "2026-11-15T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-721018",
+      "seriesId": "syobocal-title-7442",
+      "title": "コウペンちゃん",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": "2026-11-15T08:01:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-724222",
+      "seriesId": "syobocal-title-7731",
+      "title": "名探偵プリキュア！",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T08:30:00+09:00",
+      "end": "2026-11-15T09:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722280",
+      "seriesId": "syobocal-title-8064",
+      "title": "僕らが選んだベストアドベンチャー",
+      "stationId": "fuji",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722823",
+      "seriesId": "syobocal-title-7055",
+      "title": "ギャビーのドールハウス",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-721183",
+      "seriesId": "syobocal-title-8065",
+      "title": "ぷにるんず ぷに4",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:15:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722648",
+      "seriesId": "syobocal-title-7782",
+      "title": "おねがいアイプリ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:30:00+09:00",
+      "end": "2026-11-15T10:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722361",
+      "seriesId": "syobocal-title-8075",
+      "title": "ポップパップポルターズ",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T10:00:00+09:00",
+      "end": "2026-11-15T10:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718254",
+      "seriesId": "syobocal-title-8029",
+      "title": "アオアシ Season2",
+      "stationId": "nhk_e",
+      "start": "2026-11-15T17:00:00+09:00",
+      "end": "2026-11-15T17:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720245",
+      "seriesId": "syobocal-title-8054",
+      "title": "ダイヤのA actII -Second Season-(第2クール)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T17:30:00+09:00",
+      "end": "2026-11-15T18:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718535",
+      "seriesId": "syobocal-title-8035",
+      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "stationId": "mx",
+      "start": "2026-11-15T21:30:00+09:00",
+      "end": "2026-11-15T22:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717435",
+      "seriesId": "syobocal-title-8018",
+      "title": "おじさんはカワイイものがお好き。",
+      "stationId": "mx",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": "2026-11-15T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-716520",
+      "seriesId": "syobocal-title-8002",
+      "title": "魔法の姉妹ルルットリリィ(第2クール)",
+      "stationId": "mx",
+      "start": "2026-11-15T22:30:00+09:00",
+      "end": "2026-11-15T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718675",
+      "seriesId": "syobocal-title-8035",
+      "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "stationId": "bs11",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717839",
+      "seriesId": "syobocal-title-8021",
+      "title": "野生のラスボスが現れた！(第2期)",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-722634",
+      "seriesId": "syobocal-title-8076",
+      "title": "朱色の仮面",
+      "stationId": "bsntv",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-718279",
+      "seriesId": "syobocal-title-8027",
+      "title": "TANK CHAIR-戦車椅子-",
+      "stationId": "mx",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717886",
+      "seriesId": "syobocal-title-8024",
+      "title": "信者ゼロの女神サマと始める異世界攻略",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-720724",
+      "seriesId": "syobocal-title-7943",
+      "title": "刃牙道",
+      "stationId": "bsntv",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-721032",
+      "seriesId": "syobocal-title-7943",
+      "title": "刃牙道",
+      "stationId": "mx",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
+    },
+    {
+      "id": "syobocal-717372",
+      "seriesId": "syobocal-title-8016",
+      "title": "ホテル・インヒューマンズ(第2期)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T23:45:00+09:00",
+      "end": "2026-11-16T00:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T08:58:27+09:00",
+      "updatedAt": "2026-11-09T08:58:27+09:00"
     }
   ]
 }
