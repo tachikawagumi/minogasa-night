@@ -1,38 +1,5 @@
 [
   {
-    "at": "2026-10-26T16:42:21+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 146,
-    "aiAccepted": 2,
-    "aiHeld": 17,
-    "batchId": "ai-20261026-phase6-discovery",
-    "diff": {
-      "added": [
-        "official-f9558d382a201f8b6603526e"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-10-26T16:43:41+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "0b147f60a51e8a957d90a9c51fc692c1880ea65195e2ec2298393c5bff288762",
-      "programs": 146
-    }
-  },
-  {
     "at": "2026-10-26T16:48:01+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2882,5 +2849,39 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T09:26:27+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 137,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-tvtokyo-20261115-0305-race-with-the-devil"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T09:26:54+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "48c687d9e2c066371dbed63e970923d2fe6de32ad9d0bc718bf834f193357cac",
+      "programs": 137
+    }
   }
 ]

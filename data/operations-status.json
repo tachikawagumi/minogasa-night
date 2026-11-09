@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T09:21:52.472209+09:00",
+  "observedAt": "2026-11-09T09:26:54.527362+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -16,7 +16,7 @@
     "newCandidates": 11,
     "newPublic": 1,
     "publicationStatus": "published",
-    "hoursSinceResearch": 252.97,
+    "hoursSinceResearch": 253.05,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,10 +29,10 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T09:21:27+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T09:26:27+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T09:21:27+09:00",
+    "at": "2026-11-09T09:26:27+09:00",
     "counts": {
       "added": 1,
       "scheduleChanged": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "42539724646",
+    "runId": "42540129940",
     "event": "push",
-    "observedAt": "2026-11-09T09:21:52.472209+09:00",
+    "observedAt": "2026-11-09T09:26:54.527362+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T09:21:52+09:00",
+    "verifiedAt": "2026-11-09T09:26:54+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "d18349dd93c72f1958d2f8f07ae972e639673f4040b78c6dde6f2a77cdee8ffd"
+    "semanticSha256": "48c687d9e2c066371dbed63e970923d2fe6de32ad9d0bc718bf834f193357cac"
   },
   "genreCoverage": [
     {
@@ -70,14 +70,14 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 9,
+      "programs": 10,
       "lastStart": "2026-11-15T21:00:00+09:00"
     },
     {
       "genreId": "horror_movie",
       "name": "ホラー映画",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-15T03:05:00+09:00"
     },
     {
       "genreId": "disney",
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-12T21:00:00+09:00"
     }
   ],
-  "publicPrograms": 136,
+  "publicPrograms": 137,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
