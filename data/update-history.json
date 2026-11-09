@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-26T17:36:52+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 147,
-    "aiAccepted": 3,
-    "aiHeld": 17,
-    "batchId": "ai-20261026-phase7-occult-six",
-    "diff": {
-      "added": [
-        "official-fuji-20261028-1900-nandakore"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-26T17:36:52+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 147,
@@ -2929,5 +2903,12 @@
       "semanticSha256": "e2fc58db136965d6614c1f7a46015d4b2f76f41cb3100348f6b163dc052326e9",
       "programs": 157
     }
+  },
+  {
+    "at": "2026-11-09T11:32:01+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "ValueError: 確認日時が未来",
+    "previousPublicPreserved": true
   }
 ]
