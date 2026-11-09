@@ -2030,8 +2030,8 @@
         "baseball"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTgQoLSkAM",
-      "checkedAt": "2026-11-09T12:00:00+09:00",
-      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "checkedAt": "2026-11-09T11:25:00+09:00",
+      "updatedAt": "2026-11-09T11:25:00+09:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
@@ -2048,8 +2048,8 @@
         "baseball"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLi0AM?overwrite_area=23",
-      "checkedAt": "2026-11-09T12:00:00+09:00",
-      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "checkedAt": "2026-11-09T11:25:00+09:00",
+      "updatedAt": "2026-11-09T11:25:00+09:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
@@ -2066,8 +2066,8 @@
         "soccer"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLjIAM?overwrite_area=23",
-      "checkedAt": "2026-11-09T12:00:00+09:00",
-      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "checkedAt": "2026-11-09T11:25:00+09:00",
+      "updatedAt": "2026-11-09T11:25:00+09:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
@@ -2084,14 +2084,14 @@
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTQDeEPEAE",
       "seriesId": "chatgpt-series-onsen",
-      "checkedAt": "2026-11-09T12:20:00+09:00",
-      "updatedAt": "2026-11-09T12:20:00+09:00",
+      "checkedAt": "2026-11-09T11:25:00+09:00",
+      "updatedAt": "2026-11-09T11:25:00+09:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド個別枠で放送局・開始終了時刻・内容を確認。指定ジャンルの主題に該当。"
     }
   ],
-  "updatedAt": "2026-11-09T12:20:00+09:00",
+  "updatedAt": "2026-11-09T11:25:00+09:00",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。"
 }
