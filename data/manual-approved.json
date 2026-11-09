@@ -1636,6 +1636,25 @@
       "publicationApproved": true,
       "origin": "manual_independently_verified_third_party_facts",
       "genreBasis": "BS12の2026年11月15日（日）19:00〜20:55の放送事実をGガイド当該枠とJ:COM番組表 https://tvguide.myjcom.jp/program/612210/ の独立した2資料で照合。作品は2004年のアニメ映画。BS12公式番組ページは取得制限のため直接照合不能。番組名・局・日時のみ独立採録し本文・配列は転載しない。公式確認済みとは表示しない。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261115-0305-race-with-the-devil",
+      "seriesId": "chatgpt-series-race-with-the-devil-1975",
+      "title": "サタ☆シネ『悪魔の追跡』",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T03:05:00+09:00",
+      "end": "2026-11-15T04:45:00+09:00",
+      "genreIds": [
+        "movie",
+        "horror_movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/10706_202611142705.html",
+      "checkedAt": "2026-11-09T09:25:28+09:00",
+      "updatedAt": "2026-11-09T09:25:28+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "悪魔崇拝の儀式を目撃して追われる1975年のホラー映画。テレビ東京のサタ☆シネ枠。11/14 27:05は11/15 03:05の意味。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
