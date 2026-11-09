@@ -123,23 +123,9 @@ class WeeklyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
                 else -> 0
             }
         }.thenBy { it.start })
-        val picked = mutableListOf<Listing>()
-        val covered = mutableSetOf<String>()
-        for (p in featured) {
-            if (picked.size == 5) break
-            val matching = p.tags.intersect(settings.enabled)
-            if (matching.any { it !in covered }) {
-                picked.add(p)
-                covered.addAll(matching)
-            }
-        }
-        for (p in featured) {
-            if (picked.size == 5) break
-            if (picked.none { it.id == p.id }) picked.add(p)
-        }
-        val preview = picked.take(2).joinToString("／") { it.title.take(35) }
-        val body = if (picked.size > 2) "$preview ほか${picked.size - 2}件。アプリでチェック！" else "$preview。アプリでチェック！"
-        if (picked.isNotEmpty() && notify(applicationContext, 700, "今週の注目番組", body)) {
+        val pick = featured.firstOrNull()
+        val body = pick?.let { "${it.title.take(70)} ／ ${it.station}。アプリでチェック！" } ?: ""
+        if (pick != null && notify(applicationContext, 700, "今週の注目番組", body)) {
             applicationContext.preferences.edit { it[deliveredKey] = (delivered.toList().takeLast(11) + week).toSet() }
         }
         Schedules.weekly(applicationContext, true)
