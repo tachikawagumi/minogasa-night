@@ -1,34 +1,6 @@
 [
   {
     "at": "2026-11-09T11:34:31+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 163,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bstbs-20261115-1200-sekiguchi-mu",
-        "chatgpt-chiba-20261114-1300-soccer-final"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 2,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T11:34:31+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 163,
@@ -1549,5 +1521,34 @@
       "semanticSha256": "ed9624edecfa37d319fbce58bc5bc4bb3a9a95e4f10fffe19a7e4f68b41ee70e",
       "programs": 208
     }
+  },
+  {
+    "at": "2026-11-09T13:33:46+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 211,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "manual-big-eating-202611142054-tbs",
+        "manual-onsen-rail-202611101830",
+        "manual-onsen-rail-202611151800"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 3,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
