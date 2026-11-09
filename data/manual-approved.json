@@ -3038,6 +3038,24 @@
       "publicationApproved": true,
       "origin": "manual_guide_architecture_review",
       "genreBasis": "Gガイドの対象週番組表でBS朝日の日時と住宅・改修内容を確認。"
+    },
+    {
+      "id": "manual-car-202611142100-bsntv",
+      "seriesId": "manual-series-ogiyahagi-aisya",
+      "title": "おぎやはぎの愛車遍歴 国産旧車を意地でも維持するオーナーさん、いらっ車い!!",
+      "stationId": "bsntv",
+      "start": "2026-11-14T21:00:00+09:00",
+      "end": "2026-11-14T21:54:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261114",
+      "checkedAt": "2026-11-09T04:30:00Z",
+      "updatedAt": "2026-11-09T04:30:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_review",
+      "genreBasis": "Gガイド11月14日BS日テレ番組表で21時開始を確認。国産旧車の維持・修理・カスタムを扱う回。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
