@@ -2892,11 +2892,11 @@
       "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。"
     },
     {
-      "id": "manual-weekly-202611151730-tvtokyo",
-      "seriesId": "manual-weekly-202611151730-tvtokyo-series",
+      "id": "manual-weekly-202611141730-tvtokyo",
+      "seriesId": "manual-weekly-202611141730-tvtokyo-series",
       "title": "THEフィッシング 東京湾ボートシーバス",
       "stationId": "tvtokyo",
-      "start": "2026-11-15T17:30:00+09:00",
+      "start": "2026-11-14T17:30:00+09:00",
       "end": null,
       "genreIds": [
         "fishing"
