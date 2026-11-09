@@ -607,11 +607,7 @@
         "秘湯ロマン"
       ],
       "keywords": [
-        "温泉",
-        "秘湯",
-        "源泉かけ流し",
-        "露天風呂",
-        "温泉旅館"
+        "温泉"
       ],
       "officialHosts": [
         "www.bs-asahi.co.jp",
@@ -627,7 +623,7 @@
           "温泉旅館"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ユーザー指定：番組表の検索語は『温泉』だけ。GガイドとJ:COMでタイトルと当該回説明を検索。秘湯、露天風呂等は別キーワードでは検索しない。"
       },
       "sourceIds": [
         "g_guide",
@@ -642,27 +638,10 @@
       ],
       "subcategories": [
         {
-          "id": "hidden",
-          "label": "秘湯",
+          "id": "onsen",
+          "label": "温泉",
           "keywords": [
-            "秘湯",
-            "露天風呂"
-          ]
-        },
-        {
-          "id": "lodging",
-          "label": "温泉旅館",
-          "keywords": [
-            "温泉旅館",
-            "温泉宿"
-          ]
-        },
-        {
-          "id": "trip",
-          "label": "温泉旅",
-          "keywords": [
-            "温泉旅",
-            "湯めぐり"
+            "温泉"
           ]
         }
       ],
@@ -670,7 +649,19 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "温泉"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "Gガイド・J:COMの番組名または当該回の内容説明に『温泉』があり、実際に温泉・温泉宿・温泉地などを扱う放送を温泉ジャンルに含める。通常の旅番組・バラエティの温泉特集も対象。",
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "allowFeatureSegments": true,
+        "exclude": "局・日時が不明な候補、対象外の有料放送、単なる広告文の一致。"
+      }
     },
     "architecture": {
       "programs": [
@@ -1757,6 +1748,11 @@
       "mode": "broad_keyword_recall",
       "include": "USJ・ユニバーサル・スタジオ・ジャパンのアトラクション、グルメ、ショー、イベント、旅行紹介やバラエティ番組内の特集回。",
       "exclude": "USJに無関係なUniversal Pictures映画、ユニバーサルデザイン等の単なる文字一致。"
+    },
+    "onsen": {
+      "mode": "single_keyword_recall",
+      "include": "『温泉』という語が番組名または放送回内容に出る旅・宿泊・バラエティ・温泉特集。",
+      "exclude": "放送情報のない宿泊施設紹介や放送対象外局。"
     }
   },
   "learningHistory": [
