@@ -1,40 +1,6 @@
 [
   {
     "at": "2026-11-09T09:17:50+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 135,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bstbs-20261115-2100-nagano-policestory3",
-        "chatgpt-bstvtokyo-20261114-1830-toraajisai",
-        "chatgpt-ntv-20261113-2100-moana2",
-        "chatgpt-tvtokyo-20261109-1340-mybodyguard",
-        "chatgpt-tvtokyo-20261110-1340-iceroad",
-        "chatgpt-tvtokyo-20261111-1340-knightday",
-        "chatgpt-tvtokyo-20261112-1340-bankjob",
-        "chatgpt-tvtokyo-20261113-1340-escapeplan"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 8,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T09:17:50+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 135,
@@ -1561,5 +1527,42 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T12:26:21+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 193,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-mx-20261113-1759-yuichimuni-cave",
+        "chatgpt-mx-20261115-0800-terry-tsuchiya-car",
+        "chatgpt-tbs-20261109-2356-foodfighter-kobayashi",
+        "chatgpt-tvtokyo-20261114-1830-onsen-towel-24"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 4,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T12:26:48+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "a0ae55b2ad34fd2a59657bebb592534f2018cd06b995c64e9dcb9f6000175d82",
+      "programs": 193
+    }
   }
 ]
