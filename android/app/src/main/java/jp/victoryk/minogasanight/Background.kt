@@ -13,6 +13,7 @@ import androidx.room.migration.Migration
 import androidx.sqlite.db.SupportSQLiteDatabase
 import androidx.work.*
 import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.core.stringSetPreferencesKey
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.sync.Mutex
@@ -113,9 +114,17 @@ class WeeklyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
             !it.sample && it.start > now && it.start < now + 7 * 86_400_000L &&
                 it.tags.any { tag -> tag in settings.enabled }
         })
-        // Prefer special/first-run broadcasts and spread the picks across genres.
-        // Titles and station metadata alone cannot establish editorial importance.
+        // Prefer a different genre and series from last week's recommendation.
+        val lastGenreKey = stringPreferencesKey("last_weekly_genre")
+        val lastSeriesKey = stringPreferencesKey("last_weekly_series")
+        val prefs = applicationContext.preferences.data.first()
+        val lastGenre = prefs[lastGenreKey]
+        val lastSeries = prefs[lastSeriesKey]
         val featured = candidates.sortedWith(compareByDescending<Listing> {
+            if (it.tags.intersect(settings.enabled).any { genre -> genre != lastGenre }) 1 else 0
+        }.thenByDescending {
+            if (it.seriesId != lastSeries) 1 else 0
+        }.thenByDescending {
             val title = it.title
             when {
                 listOf("初放送", "テレビ初", "生中継", "特番", "スペシャル").any { word -> title.contains(word) } -> 3
@@ -126,7 +135,13 @@ class WeeklyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
         val pick = featured.firstOrNull()
         val body = pick?.let { "${it.title.take(70)} ／ ${it.station}。アプリでチェック！" } ?: ""
         if (pick != null && notify(applicationContext, 700, "今週の注目番組", body)) {
-            applicationContext.preferences.edit { it[deliveredKey] = (delivered.toList().takeLast(11) + week).toSet() }
+            val selectedGenre = pick.tags.intersect(settings.enabled).firstOrNull { it != lastGenre }
+                ?: pick.tags.intersect(settings.enabled).firstOrNull()
+            applicationContext.preferences.edit {
+                it[deliveredKey] = (delivered.toList().takeLast(11) + week).toSet()
+                if (selectedGenre != null) it[lastGenreKey] = selectedGenre
+                it[lastSeriesKey] = pick.seriesId
+            }
         }
         Schedules.weekly(applicationContext, true)
         return Result.success()
