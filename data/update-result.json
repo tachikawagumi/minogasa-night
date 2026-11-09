@@ -1,17 +1,15 @@
 {
-  "at": "2026-11-09T12:05:57+09:00",
-  "status": "published",
+  "at": "2026-11-09T12:07:04+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 188,
+  "publicPrograms": 189,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-fuji-20261109-2000-battle-show",
-      "chatgpt-fuji-20261114-1230-battle-preview",
-      "chatgpt-fuji-20261115-1900-oni-renchan"
+      "chatgpt-nhkg-20261114-2007-lrt"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -19,18 +17,11 @@
     "expired": []
   },
   "counts": {
-    "added": 3,
+    "added": 1,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T12:06:25+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "e79ae45a82333053fda06a47c7f488e315e37fb6ac133ab529fcecd4682697c6",
-    "programs": 188
-  }
+  "publicationVerified": false
 }
