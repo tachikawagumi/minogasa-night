@@ -1,33 +1,6 @@
 [
   {
     "at": "2026-11-09T11:44:01+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 167,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bsasahi-20261114-1630-sauna-odawara"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T11:44:01+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 167,
@@ -1549,5 +1522,32 @@
       "semanticSha256": "aa43e0ad04a9adb0455c0c908ee5f01a7e6094a2d8ae15301fe4eb559382aa83",
       "programs": 213
     }
+  },
+  {
+    "at": "2026-11-09T13:35:50+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 214,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "manual-car-202611142100-bsntv"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
