@@ -67,7 +67,7 @@ class FeedTest(unittest.TestCase):
     def test_feed_has_twenty_genres_and_minimal_fields(self):
         feed, _ = build_feed([fact()], {"rows": []}, NOW, True)
         self.assertEqual(1, validate_public(feed))
-        self.assertEqual(20, len(feed["genres"]))
+        self.assertEqual(21, len(feed["genres"]))
         self.assertNotIn("genreBasis", feed["programs"][0])
         self.assertNotIn("sourceUrl", feed["programs"][0])
 
