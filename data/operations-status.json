@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T12:53:28.758541+09:00",
+  "observedAt": "2026-11-09T12:55:22.576471+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -16,7 +16,7 @@
     "newCandidates": 11,
     "newPublic": 1,
     "publicationStatus": "published",
-    "hoursSinceResearch": 256.49,
+    "hoursSinceResearch": 256.53,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,10 +29,10 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T12:53:04+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T12:54:56+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T12:53:04+09:00",
+    "at": "2026-11-09T12:54:56+09:00",
     "counts": {
       "added": 1,
       "scheduleChanged": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "42558753438",
+    "runId": "42558908729",
     "event": "push",
-    "observedAt": "2026-11-09T12:53:28.758541+09:00",
+    "observedAt": "2026-11-09T12:55:22.576471+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T12:53:28+09:00",
+    "verifiedAt": "2026-11-09T12:55:22+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "b110d9ad8b2494d010fb46ef3b3d20b552bb174999f33609507cd49f4981d962"
+    "semanticSha256": "ed9624edecfa37d319fbce58bc5bc4bb3a9a95e4f10fffe19a7e4f68b41ee70e"
   },
   "genreCoverage": [
     {
@@ -70,7 +70,7 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 14,
+      "programs": 15,
       "lastStart": "2026-11-15T21:00:00+09:00"
     },
     {
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-14T20:07:00+09:00"
     }
   ],
-  "publicPrograms": 207,
+  "publicPrograms": 208,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
