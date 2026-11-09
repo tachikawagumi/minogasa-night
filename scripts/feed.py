@@ -17,8 +17,8 @@ ROOT = Path(__file__).resolve().parents[1]
 JST = timezone(timedelta(hours=9), "Asia/Tokyo")
 UA = "MinogasaNight/1.0 (VICTORY K)"
 API = "https://cal.syoboi.jp/db.php"
-GENRES = ["心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道", "冬季スポーツ"]
-GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eating", "onsen", "architecture", "car", "dance", "golf", "soccer", "baseball", "fishing", "health", "travel", "challenge", "anime", "railway", "winter_sports"]
+GENRES = ["心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道"]
+GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eating", "onsen", "architecture", "car", "dance", "golf", "soccer", "baseball", "fishing", "health", "travel", "challenge", "anime", "railway"]
 # IDs were resolved using ChLookup, never from channel numbers or substring matching.
 STATIONS = {"nhk_g": ("NHK総合", "1"), "nhk_e": ("NHK Eテレ", "2"), "fuji": ("フジテレビ", "3"), "ntv": ("日本テレビ", "4"), "tbs": ("TBS", "5"), "tvasahi": ("テレビ朝日", "6"), "tvtokyo": ("テレビ東京", "7"), "chiba": ("チバテレ", "13"), "bstvtokyo": ("BSテレ東", "15"), "bstbs": ("BS-TBS", "16"), "bsfuji": ("BSフジ", "17"), "bsasahi": ("BS朝日", "18"), "mx": ("TOKYO MX", "19"), "bsntv": ("BS日テレ", "71"), "bs11": ("BS11イレブン", "128"), "bs12": ("BS12トゥエルビ", "129"), "mx2": ("TOKYO MX2", "187")}
 STATIONS["nhk_bs"] = ("NHK BS", None)  # Official-fact source only; no guessed provider channel ID.
