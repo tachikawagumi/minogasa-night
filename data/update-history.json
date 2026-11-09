@@ -1,43 +1,6 @@
 [
   {
     "at": "2026-10-29T20:25:38+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 167,
-    "aiAccepted": 44,
-    "aiHeld": 16,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "official-bsasahi-20261102-2100-kyototabi",
-        "official-bsntv-20261031-1700-yumetyoko",
-        "official-bsntv-20261031-1800-italy",
-        "official-bsntv-20261031-2100-aisya-henreki",
-        "official-bstvtokyo-20261101-1430-airwalk-special",
-        "official-bstvtokyo-20261101-2230-gaia",
-        "official-chiba-20261104-2230-weekly-bike-tv",
-        "official-tbs-20261101-1800-heritage",
-        "official-tvtokyo-20261031-1830-degawacharging",
-        "official-tvtokyo-20261101-1830-private-rail-special",
-        "official-tvtokyo-20261103-1200-ai-sama-special"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 11,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-29T20:25:38+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 167,
@@ -2591,5 +2554,40 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T11:58:41+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 176,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-fuji-20261115-0540-swallows-kids",
+        "chatgpt-nhkbs-20261115-2100-kyujien"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T11:59:06+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "699a8d393bd9d43042ca3de93dea692ad1e97d42e42af8b863310973e6027f68",
+      "programs": 176
+    }
   }
 ]

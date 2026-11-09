@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T11:56:55.781097+09:00",
+  "observedAt": "2026-11-09T11:59:06.095189+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 1,
+    "newPublic": 2,
     "publicationStatus": "published",
-    "hoursSinceResearch": 255.55,
+    "hoursSinceResearch": 255.59,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,12 +29,12 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T11:56:28+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T11:58:41+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T11:56:28+09:00",
+    "at": "2026-11-09T11:58:41+09:00",
     "counts": {
-      "added": 1,
+      "added": 2,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "42553610096",
+    "runId": "42553770013",
     "event": "push",
-    "observedAt": "2026-11-09T11:56:55.781097+09:00",
+    "observedAt": "2026-11-09T11:59:06.095189+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T11:56:55+09:00",
+    "verifiedAt": "2026-11-09T11:59:06+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "2e61194856896f8499781993761cabe1805a5a1875d67903a8e9ac06e077a4d5"
+    "semanticSha256": "699a8d393bd9d43042ca3de93dea692ad1e97d42e42af8b863310973e6027f68"
   },
   "genreCoverage": [
     {
@@ -136,8 +136,8 @@
     {
       "genreId": "baseball",
       "name": "野球",
-      "programs": 2,
-      "lastStart": "2026-11-14T12:00:00+09:00"
+      "programs": 4,
+      "lastStart": "2026-11-15T21:00:00+09:00"
     },
     {
       "genreId": "fishing",
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-14T06:15:00+09:00"
     }
   ],
-  "publicPrograms": 174,
+  "publicPrograms": 176,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
