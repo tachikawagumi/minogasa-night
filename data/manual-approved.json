@@ -2962,6 +2962,46 @@
       "publicationApproved": true,
       "origin": "manual_guide_candidate_recall_first",
       "genreBasis": "Gガイド当該回の番組内容に巨大ケバブ肉の完食を目指す爆食調査と明記。大食い関連企画として採用。"
+    },
+    {
+      "id": "manual-onsen-rail-202611101830",
+      "seriesId": "manual-series-yumeguri-tetsudo",
+      "title": "湯めぐり鉄道 〜温泉といやしの旅〜 #36 神戸電鉄で行く 有馬温泉",
+      "stationId": "bs12",
+      "start": "2026-11-10T18:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwDeEMMAE",
+      "checkedAt": "2026-11-09T04:23:00Z",
+      "updatedAt": "2026-11-09T04:23:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_onsen_review",
+      "genreBasis": "Gガイド番組表でBS12の放送日・開始時刻と温泉・鉄道旅の内容を確認。"
+    },
+    {
+      "id": "manual-onsen-rail-202611151800",
+      "seriesId": "manual-series-yumeguri-tetsudo",
+      "title": "湯めぐり鉄道 〜温泉といやしの旅〜 #38 一畑電車で行く 出雲の温泉",
+      "stationId": "bs12",
+      "start": "2026-11-15T18:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "travel",
+        "railway"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261115",
+      "checkedAt": "2026-11-09T04:23:00Z",
+      "updatedAt": "2026-11-09T04:23:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_onsen_review",
+      "genreBasis": "Gガイド番組表でBS12の放送日・開始時刻と温泉・鉄道旅の内容を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
