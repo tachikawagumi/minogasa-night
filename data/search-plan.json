@@ -304,12 +304,12 @@
     {
       "genreId": "architecture",
       "route": "program_name",
-      "query": "渡辺篤史の建もの探訪 OR 辰巳琢郎の家物語 OR 憧れの地に家を買おう 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+      "query": "渡辺篤史の建もの探訪 OR 辰巳琢郎の家物語 OR 憧れの地に家を買おう OR となりのスゴイ家 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "architecture",
       "route": "genre",
-      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "architecture",
@@ -318,7 +318,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
     },
     {
       "genreId": "architecture",
