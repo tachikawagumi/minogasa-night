@@ -127,7 +127,7 @@ def merge_rows(rows, now):
         # Legacy game tag is an alias of the existing game/challenge category.
         if "game" in row.get("genreIds", []):
             row["genreIds"] = sorted({"challenge" if g == "game" else g for g in row["genreIds"]})
-        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed"):
+        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed", "source_reported"):
             continue
         start = parse_dt(row["start"])
         if not (now < start < finish and start >= begin):
