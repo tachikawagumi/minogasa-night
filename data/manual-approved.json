@@ -1655,6 +1655,150 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
       "genreBasis": "悪魔崇拝の儀式を目撃して追われる1975年のホラー映画。テレビ東京のサタ☆シネ枠。11/14 27:05は11/15 03:05の意味。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261109-2154-tokyo-crossing-fish",
+      "seriesId": "chatgpt-series-tokyo-crossing",
+      "title": "東京交差点 ONE MOMENT「さかなクン・魚の感動」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-09T21:54:00+09:00",
+      "end": "2026-11-09T22:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/25389_202611092154.html",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "さかなクンが魚の魅力と海の変化を語る回。釣り専門ではないが『魚』で検索した対象回。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261110-1200-tsuribito-hagi",
+      "seriesId": "chatgpt-series-tsuribito-banzai",
+      "title": "釣りびと万歳「ウマヅラハギとの攻防・滝沢沙織」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T12:00:00+09:00",
+      "end": "2026-11-10T12:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/160597/",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COM番組表で11/10 12時の再放送を確認。魚の釣り回。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-20261110-1900-maguro-war",
+      "seriesId": "chatgpt-series-maguro-war",
+      "title": "洋上の激闘！巨大マグロ戦争2023",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-10T19:00:00+09:00",
+      "end": "2026-11-10T21:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22098_202611101900.html",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BSテレ東の再放送。大間の漁師と巨大マグロを扱う回。"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261111-2100-fish-eat",
+      "seriesId": "chatgpt-series-fish-eat",
+      "title": "魚が食べたい！ #290 三重県尾鷲港",
+      "stationId": "bsasahi",
+      "start": "2026-11-11T21:00:00+09:00",
+      "end": "2026-11-11T21:54:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/fish_eat/",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "メイチダイ・クロマグロ等の漁業と魚料理。釣り専門でなくても魚のテーマで分類。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261112-2258-tokyo-town-fish",
+      "seriesId": "chatgpt-series-tokyo-town",
+      "title": "東京まち物語「築地 多け乃」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T22:58:00+09:00",
+      "end": null,
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/tokyomachi/",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "魚料理を提供する築地の老舗紹介。料理・魚の話題の混入を許容して釣りジャンルへ分類。"
+    },
+    {
+      "id": "chatgpt-bsntv-20261114-1700-yumetyoko",
+      "seriesId": "chatgpt-series-yumetyoko",
+      "title": "夢釣行 第744回「大分の一文字堤防からチヌ」",
+      "stationId": "bsntv",
+      "start": "2026-11-14T17:00:00+09:00",
+      "end": "2026-11-14T17:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.bs4.jp/yumetyoko/",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS日テレが11/14 17:00からのチヌ釣り特集を告知。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261115-0630-tsuribito-hagi",
+      "seriesId": "chatgpt-series-tsuribito-banzai",
+      "title": "釣りびと万歳「ウマヅラハギとの攻防・滝沢沙織」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T06:30:00+09:00",
+      "end": "2026-11-15T07:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-15",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "NHK BSの11/15 06:30〜07:00の放送を公開の番組表で確認。ウマヅラハギの釣り。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261115-1730-tsuribito-hirame",
+      "seriesId": "chatgpt-series-tsuribito-banzai",
+      "title": "釣りびと万歳「石狩湾の座布団ヒラメ・照英」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T17:30:00+09:00",
+      "end": "2026-11-15T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUABlO3wAE",
+      "checkedAt": "2026-11-09T09:34:39+09:00",
+      "updatedAt": "2026-11-09T09:34:39+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "NHK BSの11/15 17:30〜18:00をGガイドとJ:COMで確認。ヒラメ釣りの回。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
