@@ -13,6 +13,9 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items as gridItems
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
@@ -68,7 +71,7 @@ class NightViewModel(application: Application) : AndroidViewModel(application) {
         } catch (_: Exception) { error = if (BuildConfig.FEED_URL.isBlank()) "配信先の接続準備中です。同梱した実番組の確認情報を表示しています。" else "更新できませんでした。保存済みの情報を表示しています。" } finally { busy = false }
     } }
     fun favorite(key: String) = viewModelScope.launch { app.repository.toggle(key); Schedules.reminders(app) }
-    fun genre(name: String, on: Boolean) = viewModelScope.launch { app.settings.genre(name, on) }
+    fun genre(name: String, on: Boolean) = viewModelScope.launch { app.settings.displayGenre(name, on) }
     fun weekly(on: Boolean) = viewModelScope.launch { app.settings.weekly(on); Schedules.weekly(app, on) }
     fun reminders(on: Boolean) = viewModelScope.launch { app.settings.reminders(on); Schedules.reminders(app) }
     fun draft(value: String) = viewModelScope.launch { app.settings.draft(value) }
@@ -133,7 +136,23 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                 }) { Text("端末の通知設定を開く") } }
                 item { Text("表示するジャンル", color = Gold, fontSize = 20.sp, modifier = Modifier.padding(top = 16.dp)) }
                 item { Text("複数選べます。お気に入りにはジャンル設定を適用しません。", color = Muted, fontSize = 14.sp) }
-                items(genres) { genre -> SettingSwitch(genre, null, genre in settings.enabled) { vm.genre(genre, it) } }
+                item {
+                    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        displayGenres.chunked(2).forEach { pair ->
+                            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                pair.forEach { genre ->
+                                    val selected = displayEnabled(settings.enabled, genre)
+                                    FilterChip(
+                                        selected = selected,
+                                        onClick = { vm.genre(genre, !selected) },
+                                        label = { Text(genre, fontSize = 14.sp, maxLines = 2) },
+                                        modifier = Modifier.weight(1f).heightIn(min = 48.dp)
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
                 item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", fontSize = 16.sp) } }
                 item { Text(BrowseText.creditsTitle, color = Gold, fontSize = 20.sp) }
                 item { Text(BrowseText.credits, color = Muted, fontSize = 15.sp) }

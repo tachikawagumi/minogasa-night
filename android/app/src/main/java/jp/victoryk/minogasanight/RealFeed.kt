@@ -24,7 +24,7 @@ object FeedDecoder {
         val windowEnd = instant(root["windowEnd"].asString)
         require(generated <= now + 300_000 && windowEnd > windowStart)
         val genreMap = root["genres"].asJsonArray.associate { val o = it.asJsonObject; o["id"].asString to o["name"].asString }
-        require(genreMap.size == 20 && genreMap.values.toSet() == genres.toSet())
+        require(genreMap.size in 20..21 && genreMap.values.toSet() == (genres.toSet() - "冬季スポーツ") || genreMap.values.toSet() == genres.toSet())
         val stations = root["stations"].asJsonArray.associate { val o = it.asJsonObject; o["id"].asString to o["name"].asString }
         val ids = mutableSetOf<String>()
         val rows = root["programs"].asJsonArray.map { element ->
@@ -37,7 +37,7 @@ object FeedDecoder {
             val tags = p["genreIds"].asJsonArray.map { requireNotNull(genreMap[it.asString]) }.toSet()
             require(ids.add(id) && id.isNotBlank() && series.isNotBlank() && title.isNotBlank() && !title.contains("サンプル"))
             require(start >= windowStart && start < windowEnd && end >= start && tags.isNotEmpty())
-            require(p["status"].asString in setOf("official_confirmed", "provider_confirmed"))
+            require(p["status"].asString in setOf("official_confirmed", "provider_confirmed", "source_reported"))
             Listing(id, series, title, "", requireNotNull(stations[p["stationId"].asString]), start, end, tags, sample = false)
         }
         val notice = buildList {
