@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T08:58:53.105621+09:00",
+  "observedAt": "2026-11-09T09:18:18.692637+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,45 +14,45 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 91,
+    "newPublic": 8,
     "publicationStatus": "published",
-    "hoursSinceResearch": 252.58,
+    "hoursSinceResearch": 252.91,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
   },
   "latestScheduledSlot": {
-    "expectedAt": "2026-11-05T09:00:00+09:00",
+    "expectedAt": "2026-11-09T09:00:00+09:00",
     "heartbeatObserved": false,
     "triggerReceivedAt": null,
     "onTime": null,
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T08:58:27+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T09:17:50+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T08:58:27+09:00",
+    "at": "2026-11-09T09:17:50+09:00",
     "counts": {
-      "added": 91,
+      "added": 8,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 91
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "42537673305",
+    "runId": "42539390126",
     "event": "push",
-    "observedAt": "2026-11-09T08:58:53.105621+09:00",
+    "observedAt": "2026-11-09T09:18:18.692637+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T08:58:53+09:00",
+    "verifiedAt": "2026-11-09T09:18:18+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "a18ab5d6d46091f1906664b703358bd7cd53558e61600427f0849ccb602cc97e"
+    "semanticSha256": "1cd003d2a28be37fc47f24fa527f8d35befdebdc5e1318e7abdcf41fe3dec800"
   },
   "genreCoverage": [
     {
@@ -70,8 +70,8 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 0,
-      "lastStart": null
+      "programs": 8,
+      "lastStart": "2026-11-15T21:00:00+09:00"
     },
     {
       "genreId": "horror_movie",
@@ -82,8 +82,8 @@
     {
       "genreId": "disney",
       "name": "ディズニー",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-13T21:00:00+09:00"
     },
     {
       "genreId": "usj",
@@ -166,7 +166,7 @@
     {
       "genreId": "anime",
       "name": "アニメ",
-      "programs": 121,
+      "programs": 122,
       "lastStart": "2026-11-15T23:45:00+09:00"
     },
     {
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-12T21:00:00+09:00"
     }
   ],
-  "publicPrograms": 127,
+  "publicPrograms": 135,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
