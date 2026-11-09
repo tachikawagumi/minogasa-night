@@ -2325,6 +2325,23 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "J:COM番組表のTBS放送日時とサッカー特集を確認。"
+    },
+    {
+      "id": "chatgpt-ntv-20261115-1500-tokyo-a-final",
+      "seriesId": "chatgpt-series-highschool-soccer-tokyo-a-final",
+      "title": "全国高校サッカー選手権 東京A決勝",
+      "stationId": "ntv",
+      "start": "2026-11-15T15:00:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "番組表で日本テレビの11月15日15:00開始枠を確認。終了時刻は未確認のため省略。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
