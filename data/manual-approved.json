@@ -3167,6 +3167,24 @@
       "publicationApproved": true,
       "origin": "manual_guide_car_detail_review",
       "genreBasis": "Gガイド当該回の番組詳細で放送日時・局を確認。車・原付・バイクが実際の企画内容に含まれるため掲載。"
+    },
+    {
+      "id": "manual-car-202611092200-bsfuji",
+      "seriesId": "manual-series-kotoge-shijou",
+      "title": "小峠英二の試乗最高！ 東京03飯塚悟志 日産パオなど憧れの車に試乗",
+      "stationId": "bsfuji",
+      "start": "2026-11-09T22:00:00+09:00",
+      "end": "2026-11-09T22:55:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgC1LD4AE",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "Gガイド当該回にBSフジ11月9日22時と日産パオの試乗企画を明記。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
