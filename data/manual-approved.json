@@ -2432,6 +2432,108 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "J:COM番組表で対象地域の放送局・開始日時・健康医療内容を確認。"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261110-2200-himutaro",
+      "seriesId": "chatgpt-series-himutaro",
+      "title": "ウォーキングのひむ太郎「いと次郎が歩く！豊島区池袋編」",
+      "stationId": "bsasahi",
+      "start": "2026-11-10T22:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/search/event/?originId=1054",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-ntv-20261114-0925-burari",
+      "seriesId": "chatgpt-series-burari",
+      "title": "ぶらり途中下車の旅",
+      "stationId": "ntv",
+      "start": "2026-11-14T09:25:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQQKtoAM",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-nhk_g-20261114-1930-buratamori",
+      "seriesId": "chatgpt-series-buratamori",
+      "title": "ブラタモリ 八ヶ岳の絶景",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T19:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQAN0QAM",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261114-0800-tabisalad",
+      "seriesId": "chatgpt-series-tabisalad",
+      "title": "朝だ！生です旅サラダ",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T08:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLggAM",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261114-1130-moyasama",
+      "seriesId": "chatgpt-series-moyasama",
+      "title": "モヤモヤさまぁ〜ず2 北区十条",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T11:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261114&ggm_group_id=42",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-fuji-20261115-1200-nariyuki",
+      "seriesId": "chatgpt-series-nariyuki",
+      "title": "なりゆき街道旅 金沢・加賀の旅",
+      "stationId": "fuji",
+      "start": "2026-11-15T12:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/seasons?season_id=439981",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
