@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T13:39:19+09:00",
+  "at": "2026-11-09T13:40:27+09:00",
   "status": "failed",
   "publicationVerified": false,
   "error": "ValueError: 確認日時が未来",
