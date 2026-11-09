@@ -2944,6 +2944,24 @@
       "publicationApproved": true,
       "origin": "manual_guide_bs_recheck",
       "genreBasis": "Gガイド番組詳細にBS日テレ11月15日18:25〜21:00と映画本編の記載。"
+    },
+    {
+      "id": "manual-big-eating-202611142054-tbs",
+      "seriesId": "manual-series-ikura-wakarukane",
+      "title": "いくらかわかる金？ ケバブの巨大肉食べ切ったらいくら？",
+      "stationId": "tbs",
+      "start": "2026-11-14T20:54:00+09:00",
+      "end": "2026-11-14T21:56:00+09:00",
+      "genreIds": [
+        "big_eating"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQYxUYAM",
+      "checkedAt": "2026-11-09T04:23:00Z",
+      "updatedAt": "2026-11-09T04:23:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_candidate_recall_first",
+      "genreBasis": "Gガイド当該回の番組内容に巨大ケバブ肉の完食を目指す爆食調査と明記。大食い関連企画として採用。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
