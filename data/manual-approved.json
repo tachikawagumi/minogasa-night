@@ -2378,6 +2378,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "J:COMのプロ野球関連番組表にフジテレビの無料放送枠を掲載。"
+    },
+    {
+      "id": "chatgpt-chiba-20261115-0600-tamura-fishing",
+      "seriesId": "chatgpt-series-tamura-fishing",
+      "title": "田村亮の釣りならまかせろ！ 相模湾でSLJ",
+      "stationId": "chiba",
+      "start": "2026-11-15T06:00:00+09:00",
+      "end": "2026-11-15T06:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUGw4PgoAM",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイドでチバテレ1の番組名・放送日時・釣り内容を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
