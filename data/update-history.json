@@ -1,44 +1,5 @@
 [
   {
-    "at": "2026-10-29T14:13:05+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 148,
-    "aiAccepted": 25,
-    "aiHeld": 16,
-    "batchId": "phase12-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "verified-bs12-20261030-1900-royalwarriors",
-        "verified-bs12-20261102-1900-showazankyo4",
-        "verified-bs12-20261103-1900-truckyaro4",
-        "verified-bs12-20261104-1900-satomi1983"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": [
-        "official-4a9c16fb7436ca6009605718"
-      ]
-    },
-    "counts": {
-      "added": 4,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 1
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-10-29T14:13:39+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "f085516812ddddab6dc4a55b20840ca047eb376e2b1bc9173c2b3e5d0f4d9f8b",
-      "programs": 148
-    }
-  },
-  {
     "at": "2026-10-29T15:10:13+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2616,5 +2577,30 @@
       "semanticSha256": "32ce432dd9e4695eeaf18b3b74442f25d3690b6394621ed9d6ba037e6363eae3",
       "programs": 173
     }
+  },
+  {
+    "at": "2026-11-09T11:55:24+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 173,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
