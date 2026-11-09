@@ -3866,8 +3866,50 @@
       "genreBasis": "Muse調査No.52。No.5と同番組。関連性に不確実性あり 関連性・放送詳細に未確認事項あり。ユーザー指示により候補として掲載。",
       "officialVerified": false,
       "providerVerified": false
+    },
+    {
+      "id": "muse-verified-truck-life-28-202611",
+      "seriesId": "truck-life-chibatv",
+      "title": "トラック人生1本道 #28 日本ロジテム ～君の「おかえり」を聞くために～",
+      "stationId": "chiba",
+      "start": "2026-11-13T22:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTmw4PUwAM",
+      "checkedAt": "2026-11-09T05:36:50.450Z",
+      "updatedAt": "2026-11-09T05:36:50.454Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_candidate_verified",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Gガイド番組詳細で放送局・開始日時・回数を確認。チバテレ公式で番組概要を確認。"
+    },
+    {
+      "id": "muse-verified-truck-life-29-202611",
+      "seriesId": "truck-life-chibatv",
+      "title": "トラック人生1本道 #29 日本ロジテム2 ～私らしくいるために～",
+      "stationId": "chiba",
+      "start": "2026-11-15T10:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUGw4PjQAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T05:36:50.454Z",
+      "updatedAt": "2026-11-09T05:36:50.454Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_candidate_verified",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Gガイド番組詳細で放送局・開始日時・回数を確認。チバテレ公式で番組概要を確認。"
     }
   ],
-  "updatedAt": "2026-11-09T05:26:43.106Z",
+  "updatedAt": "2026-11-09T05:36:50.454Z",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。 2026-11-09: Muse報告のB/C候補をユーザー指示により未確認注記付きで公開承認。"
 }
