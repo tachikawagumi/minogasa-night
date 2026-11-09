@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T09:31:56+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 137,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T09:32:19+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "5f9af6297fd987e536f82b88e4c32aafbe163ff10820c698ab5e1a08cbccc43e",
-      "programs": 137
-    }
-  },
-  {
     "at": "2026-11-09T11:27:36+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1547,5 +1515,44 @@
       "semanticSha256": "25f6c7dec340f61edb1b15c28f5cf1812d7e948f53c2f7384e566631a0c21fbd",
       "programs": 193
     }
+  },
+  {
+    "at": "2026-11-09T12:52:04+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 206,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "manual-weekly-202611140700-mx",
+        "manual-weekly-202611140830-mx",
+        "manual-weekly-202611141030-chiba",
+        "manual-weekly-202611141130-chiba",
+        "manual-weekly-202611141200-fuji",
+        "manual-weekly-202611141400-tbs",
+        "manual-weekly-202611141530-tvasahi",
+        "manual-weekly-202611141700-chiba",
+        "manual-weekly-202611141730-tvtokyo",
+        "manual-weekly-202611142245-chiba",
+        "manual-weekly-202611151655-ntv",
+        "manual-weekly-202611151900-tbs",
+        "manual-weekly-202611152320-tvtokyo"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 13,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
