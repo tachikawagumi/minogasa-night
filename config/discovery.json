@@ -57,6 +57,7 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
+        "occult_tv_calendar",
         "occult",
         "official_www_fujitv_co_jp",
         "official_www_nhk_jp",
@@ -136,6 +137,7 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
+        "occult_tv_calendar",
         "occult",
         "official_www_fujitv_co_jp",
         "official_www_tv_tokyo_co_jp",
@@ -1586,7 +1588,7 @@
       ],
       "method": "ai_web_reference",
       "automatedCollection": false,
-      "conditions": "403。制限を回避しない。"
+      "conditions": "ユーザー指定の『オカルティックJ』オカルト番組カテゴリ。403の可能性あり、制限を回避しない。検索索引から個別番組候補を見つけ、他の公開番組表も参照する。本文・表全体は転載しない。"
     },
     "movie": {
       "url": "https://entafukuzou.com/terrestrial-bs-movie/",
@@ -1732,6 +1734,15 @@
       "method": "ai_web_reference",
       "automatedCollection": false,
       "conditions": "個別事実と利用条件を確認。本文を保存・転載せず、包括的取得許可と解釈しない。"
+    },
+    "occult_tv_calendar": {
+      "url": "https://www.occultic.net/occulttv.html",
+      "roles": [
+        "discovery"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "ユーザー指定の『オカルト番組表』。通常番組内のオカルト特集まで拾う調査起点。直接403の可能性あり、アクセス制限の回避をしない。検索索引などで候補を発見し個別放送事実を確認。有料CS・対象外地域は除外。本文・画像・番組表配列は転載しない。最新日付の更新があるとは仮定しない。"
     }
   }
 }
