@@ -18,7 +18,7 @@ REASONS = {
 def plan(config, now):
     start, end = window(now)
     if set(config["genres"]) != set(GENRE_IDS):
-        raise ValueError("20ジャンルの設定が必要")
+        raise ValueError("21内部ジャンルの設定が必要")
     result = []
     for g, label in zip(GENRE_IDS, GENRES):
         item = config["genres"][g]
