@@ -2360,6 +2360,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "番組表の無料放送枠で番組名・局・日時を確認。"
+    },
+    {
+      "id": "chatgpt-fuji-20261115-0540-swallows-kids",
+      "seriesId": "chatgpt-series-swallows-kids-academy",
+      "title": "スワローズ キッズアカデミー",
+      "stationId": "fuji",
+      "start": "2026-11-15T05:40:00+09:00",
+      "end": "2026-11-15T05:45:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "sourceUrl": "https://www2.myjcom.jp/npb/relation/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COMのプロ野球関連番組表にフジテレビの無料放送枠を掲載。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
