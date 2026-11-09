@@ -3002,6 +3002,42 @@
       "publicationApproved": true,
       "origin": "manual_guide_onsen_review",
       "genreBasis": "Gガイド番組表でBS12の放送日・開始時刻と温泉・鉄道旅の内容を確認。"
+    },
+    {
+      "title": "渡辺篤史の建もの探訪 1階まるごとラボ 三角形の家",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T08:30:00+09:00",
+      "end": "2026-11-15T09:00:00+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261115",
+      "id": "manual-architecture-202611150830",
+      "seriesId": "manual-series-tatemono-tanbo",
+      "genreIds": [
+        "architecture"
+      ],
+      "checkedAt": "2026-11-09T04:30:00Z",
+      "updatedAt": "2026-11-09T04:30:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_architecture_review",
+      "genreBasis": "Gガイドの対象週番組表でBS朝日の日時と住宅・改修内容を確認。"
+    },
+    {
+      "title": "大改造！！劇的ビフォーアフター 隣家のお風呂に入る家",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T16:00:00+09:00",
+      "end": "2026-11-15T17:00:00+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmUACXKUIBQ",
+      "id": "manual-architecture-202611151600",
+      "seriesId": "manual-series-before-after",
+      "genreIds": [
+        "architecture"
+      ],
+      "checkedAt": "2026-11-09T04:30:00Z",
+      "updatedAt": "2026-11-09T04:30:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_architecture_review",
+      "genreBasis": "Gガイドの対象週番組表でBS朝日の日時と住宅・改修内容を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
