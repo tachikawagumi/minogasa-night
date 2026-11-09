@@ -324,10 +324,27 @@
     "disney": {
       "programs": [
         "ディズニー特集",
-        "金曜ロードショー"
+        "金曜ロードショー",
+        "ディズニー特集回",
+        "東京ディズニーリゾート特集",
+        "ディズニー・クリスマス特集"
       ],
       "keywords": [
         "ディズニー",
+        "TDL",
+        "TDS",
+        "東京ディズニーランド",
+        "東京ディズニーシー",
+        "東京ディズニーリゾート",
+        "ランド",
+        "シー",
+        "ディズニーホテル",
+        "ディズニー映画",
+        "ディズニー・クリスマス",
+        "ファンタジースプリングス",
+        "ダッフィー",
+        "ミッキー",
+        "パークグルメ",
         "TDR",
         "ディズニーランド",
         "ディズニーシー",
@@ -349,13 +366,15 @@
           "食べ歩き"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ディズニー、TDL、TDSの3語を単独で番組表検索し、タイトルだけでなく当該回の内容に出るものも拾う。公式局個別ページへの再照合は必須ではない。一般番組表はprovider_confirmedで登録。"
       },
       "sourceIds": [
         "official_www_ntv_co_jp",
         "official_www_tbs_co_jp"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -387,7 +406,22 @@
             "パーク食べ歩き"
           ]
         }
-      ]
+      ],
+      "prioritySearchTerms": [
+        "ディズニー",
+        "TDL",
+        "TDS"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "番組表の番組タイトル・当該回内容に『ディズニー』『TDL』『TDS』があり、パーク、ホテル、作品、キャラクター、アトラクション、グルメなどディズニー関連の話題を含むなら候補。番組全体がディズニー専門である必要はない。",
+        "allowFeatureSegments": true,
+        "allowFoodAndTravel": true,
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "exclude": "対象外の有料CS/専門チャンネル・Disney+配信のみ・パーク営業時間やショー予定（テレビ放送ではない）・局や放送日時不明・偶然の文字一致は掲載しない。"
+      }
     },
     "usj": {
       "programs": [
@@ -1609,6 +1643,11 @@
       "mode": "broad_keyword_recall",
       "include": "番組表・当該回のタイトル/内容が魚・漁・マグロ・釣りに触れる番組。料理・市場・魚料理・漁港・水産・ニュース特集を含む。釣り主題でなくてもよい。",
       "exclude": "出典に局・放送開始日時が存在しない候補、語の偶然の一致のみで魚の話題がない候補、有料/対象外局"
+    },
+    "disney": {
+      "mode": "broad_keyword_recall",
+      "include": "ディズニー映画・アニメ、東京ディズニーランド/シー、ホテル、グルメ、アトラクション、リゾート特集、バラエティの一部企画を含む。",
+      "exclude": "パーク内で実施するショー/イベントの日程をテレビ放送と取り違えること、有料ディズニー・チャンネル、配信のみ、単なる文字一致。"
     }
   },
   "learningHistory": [
