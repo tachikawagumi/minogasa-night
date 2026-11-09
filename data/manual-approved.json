@@ -1982,6 +1982,24 @@
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261112-2230-kenkoba-bizihotels",
+      "seriesId": "chatgpt-series-kenkoba-bizihotels",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版「柏市（千葉県）後編」",
+      "stationId": "bsasahi",
+      "start": "2026-11-12T22:30:00+09:00",
+      "end": "2026-11-12T23:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/821092/",
+      "checkedAt": "2026-11-09T10:16:00+09:00",
+      "updatedAt": "2026-11-09T10:16:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイドの11/12 BS朝日1個別枠 https://bangumi.org/tv_events/AmTQCXKKwAE とJ:COMの同日22:30〜23:00を照合。柏市のビジネスホテル宿泊・周辺街歩きと飲食の旅バラエティ。今回の回はサウナ言及を確認できないため温泉ジャンルは付けない。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
