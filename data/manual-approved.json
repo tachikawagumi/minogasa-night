@@ -2090,8 +2090,44 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド個別枠で放送局・開始終了時刻・内容を確認。指定ジャンルの主題に該当。"
+    },
+    {
+      "id": "chatgpt-bstbs-20261115-1200-sekiguchi-mu",
+      "seriesId": "chatgpt-series-sekiguchi-mu",
+      "title": "関口宏の三人寄れば ミステリー雑誌「ムー」編集長が語るピラミッド・UFOの謎",
+      "stationId": "bstbs",
+      "start": "2026-11-15T12:00:00+09:00",
+      "end": "2026-11-15T12:54:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAChE8EAE",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド個別番組ページで日時・局・内容を確認。無料BSまたは千葉県地上波。"
+    },
+    {
+      "id": "chatgpt-chiba-20261114-1300-soccer-final",
+      "seriesId": "chatgpt-series-highschool-soccer-chiba",
+      "title": "第105回全国高校サッカー選手権大会 千葉県大会 決勝",
+      "stationId": "chiba",
+      "start": "2026-11-14T13:00:00+09:00",
+      "end": "2026-11-14T16:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmT2w4PZwAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド個別番組ページで日時・局・内容を確認。無料BSまたは千葉県地上波。"
     }
   ],
-  "updatedAt": "2026-11-09T11:25:00+09:00",
+  "updatedAt": "2026-11-09T10:00:00+09:00",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。"
 }
