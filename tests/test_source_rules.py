@@ -42,7 +42,7 @@ class SourceRulesTest(unittest.TestCase):
                 path=Path(td)/"stations.json";path.write_text(json.dumps(bad),encoding="utf-8")
                 with self.assertRaises(ValueError): load_stations(path,STATIONS)
     def test_all_genres_have_sources_and_five_search_methods(self):
-        d=read_json(ROOT/"config/discovery.json");self.assertEqual(20,len(d["genres"]))
+        d=read_json(ROOT/"config/discovery.json");self.assertEqual(21,len(d["genres"]))
         for g in d["genres"].values():
             self.assertTrue(g["sourceIds"]);self.assertGreaterEqual(len(g["searchMethods"]),5)
             self.assertTrue(all(s in d["sourceCatalog"] for s in g["sourceIds"]))
