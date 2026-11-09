@@ -154,9 +154,6 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                     }
                 }
                 item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", fontSize = 16.sp) } }
-                item { Text(BrowseText.creditsTitle, color = Gold, fontSize = 20.sp) }
-                item { Text(BrowseText.credits, color = Muted, fontSize = 15.sp) }
-                item { TextButton(onClick = { context.startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse("https://cal.syoboi.jp/"))) }) { Text("アニメ情報：しょぼいカレンダー") } }
                 item { Text("登録不要・広告なし／v${BuildConfig.VERSION_NAME}\n設定とお気に入りは端末内に保存されます。", color = Muted, fontSize = 14.sp, modifier = Modifier.padding(bottom = 32.dp)) }
             }
         } else if (screen == "request") {
