@@ -2307,6 +2307,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド東京地上波でTBS 15:00放送枠を確認。終了16:54は同番組の系列局掲載に基づく。"
+    },
+    {
+      "id": "chatgpt-tbs-20261109-0108-kickoffj155",
+      "seriesId": "chatgpt-series-kickoff-j",
+      "title": "KICK OFF!J #155 浦和レッズ 笑顔の守護神が34年目のJで大記録へ",
+      "stationId": "tbs",
+      "start": "2026-11-09T01:08:00+09:00",
+      "end": "2026-11-09T01:38:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/823247/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COM番組表のTBS放送日時とサッカー特集を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
