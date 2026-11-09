@@ -1,7 +1,7 @@
 {
-  "at": "2026-11-09T15:11:31+09:00",
+  "at": "2026-11-09T16:12:49+09:00",
   "status": "failed",
   "publicationVerified": false,
-  "error": "ValueError: 未定義の局・ジャンル",
+  "error": "PublicationBlocked: 将来枠が35%超かつ10件以上消失。公開を保留",
   "previousPublicPreserved": true
 }
