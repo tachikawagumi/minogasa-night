@@ -1,16 +1,17 @@
 {
-  "at": "2026-11-09T11:34:31+09:00",
-  "status": "published",
+  "at": "2026-11-09T11:41:22+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 163,
+  "publicPrograms": 166,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-bstbs-20261115-1200-sekiguchi-mu",
-      "chatgpt-chiba-20261114-1300-soccer-final"
+      "chatgpt-bs12-20261114-1900-dirtyharry2",
+      "chatgpt-chiba-20261113-0030-viva",
+      "chatgpt-nhk-e-20261115-1535-shaun"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -18,18 +19,11 @@
     "expired": []
   },
   "counts": {
-    "added": 2,
+    "added": 3,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T11:34:56+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "71cbed41fbd0f3a10b4328a1574abbb178a695cf0bdd65e2a69456501365aac3",
-    "programs": 163
-  }
+  "publicationVerified": false
 }
