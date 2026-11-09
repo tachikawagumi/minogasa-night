@@ -2199,6 +2199,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド番組表にBS朝日1とBS朝日4K同時枠。無料BSのBS朝日1として1件登録。サウナが主題。"
+    },
+    {
+      "id": "chatgpt-bstbs-20261113-2100-croatia-homes",
+      "seriesId": "chatgpt-series-akogare-no-chi-ni-ie-wo-kaou",
+      "title": "憧れの地に家を買おう クロアチアの絶景物件",
+      "stationId": "bstbs",
+      "start": "2026-11-13T21:00:00+09:00",
+      "end": "2026-11-13T21:54:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgChEykAE",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドでBS-TBSの放送日時とクロアチアの住宅・物件紹介企画を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
