@@ -145,8 +145,22 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                                     FilterChip(
                                         selected = selected,
                                         onClick = { vm.genre(genre, !selected) },
-                                        label = { Text(genre, fontSize = 14.sp, maxLines = 2) },
-                                        modifier = Modifier.weight(1f).heightIn(min = 48.dp)
+                                        label = { Text(genre, fontSize = 14.sp, maxLines = 2, fontWeight = if (selected) FontWeight.Bold else FontWeight.Medium) },
+                                        modifier = Modifier.weight(1f).heightIn(min = 48.dp),
+                                        colors = FilterChipDefaults.filterChipColors(
+                                            containerColor = Navy,
+                                            labelColor = Muted,
+                                            selectedContainerColor = Gold,
+                                            selectedLabelColor = Navy
+                                        ),
+                                        border = FilterChipDefaults.filterChipBorder(
+                                            enabled = true,
+                                            selected = selected,
+                                            borderColor = Muted,
+                                            selectedBorderColor = Gold,
+                                            borderWidth = 1.dp,
+                                            selectedBorderWidth = 1.5.dp
+                                        )
                                     )
                                 }
                             }
