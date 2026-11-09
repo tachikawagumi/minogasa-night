@@ -2926,6 +2926,24 @@
       "publicationApproved": true,
       "origin": "manual_guide_movie_check",
       "genreBasis": "Gガイド出演者別番組表で11月15日18:00 BSフジ・181の映画放送を確認。"
+    },
+    {
+      "id": "manual-movie-202611151825-bsntv-station",
+      "seriesId": "manual-series-movie-eki-station",
+      "title": "駅 STATION",
+      "stationId": "bsntv",
+      "start": "2026-11-15T18:25:00+09:00",
+      "end": "2026-11-15T21:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUACNQMoAE",
+      "checkedAt": "2026-11-09T00:00:00Z",
+      "updatedAt": "2026-11-09T00:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_bs_recheck",
+      "genreBasis": "Gガイド番組詳細にBS日テレ11月15日18:25〜21:00と映画本編の記載。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
