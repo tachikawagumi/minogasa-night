@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Work実検索によるA+B発見。ActionsにAI検索や新しいクローラーを追加しない。",
+  "description": "チャッピーが番組表を個別調査。通常はGガイド・J:COM、アニメはしょぼいカレンダー、オカルトはオカルト番組表。GitHub Actionsから新規クローラーを起動しない。",
   "A": {
     "enabled": true,
     "subcategories": true,
@@ -12,13 +12,11 @@
     "bulkFetch": false,
     "maxStationDateQueries": 8,
     "queryHosts": [
-      "www.tv-tokyo.co.jp",
-      "www.bs-asahi.co.jp",
-      "www.bs4.jp",
-      "www.tbs.co.jp"
+      "bangumi.org",
+      "tvguide.myjcom.jp"
     ],
     "sourcePolicyId": "reviewed_independent_facts",
-    "note": "個別事実参照のみ。上限は負荷制御で完了目標ではない。出典条件未確認・制限回避・表全体取得は不可。"
+    "note": "検索計画だけを記録（実検索ではない）。通常ジャンルの参考先はGガイドとJ:COMのみ。アニメは既存Syobocal API、オカルトは指定のオカルト番組表を優先。個別の最小放送事実だけ記録し、サイトの利用条件を守る。sourcePolicyIdは旧AI候補審査用であり、ChatGPTの手動承認済み個別事実へそのまま適用しない。"
   },
   "classification": {
     "keywordsAreDiscoveryOnly": true
