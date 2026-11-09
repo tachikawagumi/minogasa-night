@@ -2396,6 +2396,42 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイドでチバテレ1の番組名・放送日時・釣り内容を確認。"
+    },
+    {
+      "id": "chatgpt-tbs-20261115-0700-genki",
+      "seriesId": "chatgpt-series-genki",
+      "title": "健康カプセル！ゲンキの時間",
+      "stationId": "tbs",
+      "start": "2026-11-15T07:00:00+09:00",
+      "end": "2026-11-15T07:30:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/33825/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COM番組表で対象地域の放送局・開始日時・健康医療内容を確認。"
+    },
+    {
+      "id": "chatgpt-nhk_e-20261115-1900-choice",
+      "seriesId": "chatgpt-series-choice",
+      "title": "チョイス＠病気になったとき「糖尿病・合併症の治療と予防」",
+      "stationId": "nhk_e",
+      "start": "2026-11-15T19:00:00+09:00",
+      "end": "2026-11-15T19:45:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/38530/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COM番組表で対象地域の放送局・開始日時・健康医療内容を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
