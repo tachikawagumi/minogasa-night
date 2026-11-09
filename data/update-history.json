@@ -1,35 +1,6 @@
 [
   {
     "at": "2026-11-09T11:41:22+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 166,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bs12-20261114-1900-dirtyharry2",
-        "chatgpt-chiba-20261113-0030-viva",
-        "chatgpt-nhk-e-20261115-1535-shaun"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 3,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T11:41:22+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 166,
@@ -1551,5 +1522,33 @@
       "semanticSha256": "f0639c9f13e1ff480380e20e06ef6f7e32845b63f7bcca40d1acacb9344066cb",
       "programs": 211
     }
+  },
+  {
+    "at": "2026-11-09T13:34:48+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 213,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "manual-architecture-202611150830",
+        "manual-architecture-202611151600"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
