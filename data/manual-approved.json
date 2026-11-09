@@ -7212,12 +7212,12 @@
       "checkedAt": "2026-11-09T06:10:44.343Z",
       "updatedAt": "2026-11-09T06:10:44.343Z",
       "status": "source_reported",
-      "publicationApproved": true,
+      "publicationApproved": false,
       "origin": "muse_second_independent_report",
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書：A区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。"
+      "genreBasis": "Muse第2回調査報告書：A区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。 同作品の11/15 03:05公式確認済み枠と重複・日付誤認（27:05表記）につき公開対象外。"
     },
     {
       "id": "muse2-14-0524-ntv",
@@ -7949,8 +7949,7 @@
       "start": "2026-11-15T13:00:00+09:00",
       "end": null,
       "genreIds": [
-        "movie",
-        "horror_movie"
+        "ghost"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -7961,7 +7960,7 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書：B区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。"
+      "genreBasis": "Muse第2回調査報告書：B区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。 代表方針：映画ではなく怪奇ミステリーのテレビドラマとして心霊・怪談へ分類。超常現象を扱う作品とは断定しない。"
     },
     {
       "id": "muse2-15-1300-bstbs",
