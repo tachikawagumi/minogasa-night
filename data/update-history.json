@@ -1,43 +1,6 @@
 [
   {
     "at": "2026-11-05T19:18:50+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 127,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-20261105-2154-d-nosenritsu",
-        "chatgpt-20261106-2100-mufasa",
-        "chatgpt-20261107-1700-yumetyoko",
-        "chatgpt-20261107-1730-the-fishing",
-        "chatgpt-20261107-1830-tora-kamifusen",
-        "chatgpt-20261107-2100-aisya-henreki",
-        "chatgpt-20261108-0800-golf-samurai",
-        "chatgpt-20261108-1030-classic-car",
-        "chatgpt-20261108-1800-world-heritage",
-        "chatgpt-20261109-2230-golfjo-tanbo",
-        "chatgpt-20261111-2100-charitetsu"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 11,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-05T19:18:50+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 127,
@@ -1946,5 +1909,39 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T12:07:04+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 189,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-nhkg-20261114-2007-lrt"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T12:07:29+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "1d212bc5f89071c80066e0d5b7c3eea3f5286040de2396ac210d2a66c3c9998f",
+      "programs": 189
+    }
   }
 ]
