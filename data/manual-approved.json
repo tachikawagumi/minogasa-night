@@ -2289,6 +2289,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド番組表に掲載された無料BSまたは関東地上波のゴルフ番組。"
+    },
+    {
+      "id": "chatgpt-tbs-20261115-1500-visa-golf",
+      "seriesId": "chatgpt-series-visa-taiheiyo-masters-2026",
+      "title": "2026三井住友VISA太平洋マスターズ 最終日",
+      "stationId": "tbs",
+      "start": "2026-11-15T15:00:00+09:00",
+      "end": "2026-11-15T16:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261115&ggm_group_id=42",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド東京地上波でTBS 15:00放送枠を確認。終了16:54は同番組の系列局掲載に基づく。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
