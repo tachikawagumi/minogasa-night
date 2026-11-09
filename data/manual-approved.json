@@ -3111,6 +3111,62 @@
       "publicationApproved": true,
       "origin": "manual_guide_car_detail_review",
       "genreBasis": "対象週のGガイド番組表とBS局公式掲載で放送日・時刻・車または二輪車企画を確認。"
+    },
+    {
+      "id": "manual-car-detail-tvtokyo-202611150830",
+      "seriesId": "manual-series-tomipla",
+      "title": "トミプラワールドのりのりタイムズ!! マツダ RX-8 特集",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T08:30:00+09:00",
+      "end": "2026-11-15T09:00:00+09:00",
+      "genreIds": [
+        "car",
+        "railway"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQwGIMAM",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "Gガイド当該回の番組詳細で放送日時・局を確認。車・原付・バイクが実際の企画内容に含まれるため掲載。"
+    },
+    {
+      "id": "manual-car-detail-mx-202611151430",
+      "seriesId": "manual-series-suidou",
+      "title": "水曜どうでしょうプレミア 原付ベトナム縦断1800キロ③",
+      "stationId": "mx",
+      "start": "2026-11-15T14:30:00+09:00",
+      "end": "2026-11-15T15:00:00+09:00",
+      "genreIds": [
+        "car",
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUFw4o2AAM",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "Gガイド当該回の番組詳細で放送日時・局を確認。車・原付・バイクが実際の企画内容に含まれるため掲載。"
+    },
+    {
+      "id": "manual-car-detail-chiba-202611152330",
+      "seriesId": "manual-series-bike-tv",
+      "title": "週刊バイクTV（再）ホンダでのんびり散歩",
+      "stationId": "chiba",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": "2026-11-16T00:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUGw4PgAAM",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "Gガイド当該回の番組詳細で放送日時・局を確認。車・原付・バイクが実際の企画内容に含まれるため掲載。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
