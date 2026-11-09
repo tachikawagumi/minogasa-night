@@ -3908,8 +3908,50 @@
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": true,
       "genreBasis": "Gガイド番組詳細で放送局・開始日時・回数を確認。チバテレ公式で番組概要を確認。"
+    },
+    {
+      "id": "architecture-202611-bsfuji-111900",
+      "seriesId": "architecture-bsfuji-華丸大吉が行",
+      "title": "華丸大吉が行く神授業 建築編（再）",
+      "stationId": "bsfuji",
+      "start": "2026-11-11T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/hanadai_kamijg/backnumber/44.html",
+      "checkedAt": "2026-11-09T05:40:19.953Z",
+      "updatedAt": "2026-11-09T05:40:19.953Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_verified_epg",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "建築系番組案内に11月11日19時BSフジ再放送と記載。建築を主題とする回。"
+    },
+    {
+      "id": "architecture-202611-bstvtokyo-152100",
+      "seriesId": "architecture-bstvtokyo-となりのスゴ",
+      "title": "となりのスゴイ家 憧れの原宿ヴィンテージマンションをリノベ▼キレイ好きの家",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/752338/",
+      "checkedAt": "2026-11-09T05:40:19.954Z",
+      "updatedAt": "2026-11-09T05:40:19.954Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_verified_epg",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "J:COM番組表に11月15日21:00〜21:55 BSテレ東での放送を確認。原宿の築54年マンション改修と国分寺の住宅を紹介。"
     }
   ],
-  "updatedAt": "2026-11-09T05:36:50.454Z",
+  "updatedAt": "2026-11-09T05:40:19.954Z",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。 2026-11-09: Muse報告のB/C候補をユーザー指示により未確認注記付きで公開承認。"
 }
