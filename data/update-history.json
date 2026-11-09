@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:55:24+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 173,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:55:52+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "2469ec9154d111ac47c147aa0b86c29fa5b2489c7fdb438a23f690619e90b62b",
-      "programs": 173
-    }
-  },
-  {
     "at": "2026-11-09T11:56:28+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1522,5 +1490,68 @@
       "semanticSha256": "49353e4e1fe3d169935f41b32acdb5ec109cc40d1eb24f74553c5dbb7cd97c47",
       "programs": 230
     }
+  },
+  {
+    "at": "2026-11-09T14:59:24+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 262,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-architecture-202611-06",
+        "muse-architecture-202611-07",
+        "muse-architecture-202611-08",
+        "muse-architecture-202611-13",
+        "muse-architecture-202611-15",
+        "muse-architecture-202611-24",
+        "muse-architecture-202611-25",
+        "muse-architecture-202611-26",
+        "muse-architecture-202611-30",
+        "muse-architecture-202611-31",
+        "muse-architecture-202611-32",
+        "muse-architecture-202611-36",
+        "muse-architecture-202611-37",
+        "muse-architecture-202611-41",
+        "muse-architecture-202611-43",
+        "muse-architecture-202611-45",
+        "muse-architecture-202611-48",
+        "muse-architecture-202611-52",
+        "muse-architecture-202611-53",
+        "muse-architecture-202611-54",
+        "muse-architecture-202611-56",
+        "muse-architecture-202611-57",
+        "muse-architecture-202611-58",
+        "muse-architecture-202611-60",
+        "muse-architecture-202611-61",
+        "muse-architecture-202611-62",
+        "muse-architecture-202611-68",
+        "muse-architecture-202611-69",
+        "muse-architecture-202611-71",
+        "muse-architecture-202611-73",
+        "muse-architecture-202611-75",
+        "muse-architecture-202611-76"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [
+        "chatgpt-20261111-2100-charitetsu",
+        "chatgpt-20261112-2100-charitetsu",
+        "chatgpt-nhk_g-20261114-1930-buratamori",
+        "chatgpt-nhkg-20261114-2007-lrt"
+      ],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 32,
+      "scheduleChanged": 0,
+      "genreChanged": 4,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
