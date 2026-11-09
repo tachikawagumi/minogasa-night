@@ -1420,6 +1420,20 @@
       "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
+      "id": "muse2-10-2057-mx",
+      "seriesId": "muse2-mx-野田クリの野望〜ゲーム天下統一への道",
+      "title": "野田クリの野望〜ゲーム天下統一への道〜",
+      "stationId": "mx",
+      "start": "2026-11-10T20:57:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse-architecture-202611-25",
       "seriesId": "muse-architecture-series-25",
       "title": "ウチ、\"断捨離\"しました！",
@@ -3478,6 +3492,21 @@
       "updatedAt": "2026-11-09T14:59:24+09:00"
     },
     {
+      "id": "muse2-13-1855-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ポケットモンスター",
+      "title": "ポケットモンスター",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T18:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse2-13-1900-bs12",
       "seriesId": "muse2-bs12-映画「ワンダー・ガールズ 東方三侠2",
       "title": "映画「ワンダー・ガールズ 東方三侠2」",
@@ -3860,6 +3889,20 @@
       "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
+      "id": "muse2-14-0030-chiba",
+      "seriesId": "muse2-chiba-野田クリの野望",
+      "title": "野田クリの野望",
+      "stationId": "chiba",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse2-14-0032-nhk_g",
       "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(1) 赤イ手",
       "title": "アニメ 恐怖コレクター(1) 赤イ手帳",
@@ -3912,6 +3955,20 @@
       "end": null,
       "genreIds": [
         "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0118-tbs",
+      "seriesId": "muse2-tbs-ジョシとドラゴン",
+      "title": "ジョシとドラゴン",
+      "stationId": "tbs",
+      "start": "2026-11-14T01:18:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
       ],
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -5659,6 +5716,21 @@
       "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
+      "id": "muse2-15-0730-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ポケモンとどこいく！？",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-bstvtokyo-202611150800-golf",
       "seriesId": "chatgpt-series-golf-samurai",
       "title": "ゴルフ侍、見参！ プロvsトップアマチュア",
@@ -6441,6 +6513,20 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-15-2100-mx",
+      "seriesId": "muse2-mx-ぐらぶるTVちゃんねるっ！",
+      "title": "ぐらぶるTVちゃんねるっ！",
+      "stationId": "mx",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse2-15-2115-nhk_bs",
       "seriesId": "muse2-nhk_bs-球辞苑 選「フェンス」",
       "title": "球辞苑 選「フェンス」",
@@ -6580,6 +6666,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T14:59:24+09:00",
       "updatedAt": "2026-11-09T14:59:24+09:00"
+    },
+    {
+      "id": "muse2-15-2248-tvtokyo",
+      "seriesId": "muse2-tvtokyo-いいeeeeeパーク",
+      "title": "いいeeeeeパーク",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T22:48:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-718675",
