@@ -1,6 +1,6 @@
 {
   "at": "2026-11-09T14:23:31+09:00",
-  "status": "prepared",
+  "status": "published",
   "animeSuccess": true,
   "publicPrograms": 226,
   "aiAccepted": 0,
@@ -37,5 +37,12 @@
     "removed": 0,
     "expired": 1
   },
-  "publicationVerified": false
+  "publicationVerified": true,
+  "verification": {
+    "verifiedAt": "2026-11-09T14:23:58+09:00",
+    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+    "httpStatus": 200,
+    "semanticSha256": "a57b8d4a58c0e3bfbf7f83a371625399b6d65b883d85bc8776c8a0365774ac9a",
+    "programs": 226
+  }
 }
