@@ -2181,6 +2181,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイドの放送番組表に掲載された映画本編・短編映画。局と日時を採録。"
+    },
+    {
+      "id": "chatgpt-bsasahi-20261114-1630-sauna-odawara",
+      "seriesId": "chatgpt-series-sauna-wo-medetai",
+      "title": "サウナを愛でたい「神奈川県小田原市 海賊サウナ＆カプセルホテル」",
+      "stationId": "bsasahi",
+      "start": "2026-11-14T16:30:00+09:00",
+      "end": "2026-11-14T16:56:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwCXKRABQ",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド番組表にBS朝日1とBS朝日4K同時枠。無料BSのBS朝日1として1件登録。サウナが主題。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
