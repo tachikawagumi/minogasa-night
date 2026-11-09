@@ -4135,21 +4135,6 @@
       "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
-      "id": "muse2-14-0305-tvtokyo",
-      "seriesId": "muse2-tvtokyo-サタ☆シネ「悪魔の追跡」",
-      "title": "サタ☆シネ「悪魔の追跡」",
-      "stationId": "tvtokyo",
-      "start": "2026-11-14T03:05:00+09:00",
-      "end": null,
-      "genreIds": [
-        "movie",
-        "horror_movie"
-      ],
-      "status": "source_reported",
-      "checkedAt": "2026-11-09T06:10:44.343Z",
-      "updatedAt": "2026-11-09T06:10:44.343Z"
-    },
-    {
       "id": "chatgpt-tvasahi-20261114-0425-tatemonotanbo",
       "seriesId": "chatgpt-series-watanabe-tatemonotanbo",
       "title": "渡辺篤史の建もの探訪 橋でつながる家",
@@ -6093,8 +6078,7 @@
       "start": "2026-11-15T13:00:00+09:00",
       "end": null,
       "genreIds": [
-        "movie",
-        "horror_movie"
+        "ghost"
       ],
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:10:44.343Z",
