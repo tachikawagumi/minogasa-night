@@ -1799,6 +1799,25 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "NHK BSの11/15 17:30〜18:00をGガイドとJ:COMで確認。ヒラメ釣りの回。"
+    },
+    {
+      "id": "chatgpt-fuji-20261115-1000-kano-sand",
+      "seriesId": "chatgpt-series-kano-sand",
+      "title": "かのサンド",
+      "stationId": "fuji",
+      "start": "2026-11-15T10:00:00+09:00",
+      "end": "2026-11-15T11:15:00+09:00",
+      "genreIds": [
+        "travel",
+        "fishing"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQgWG8AM",
+      "checkedAt": "2026-11-09T09:40:00+09:00",
+      "updatedAt": "2026-11-09T09:40:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドとJ:COM番組表で11/15 10:00〜11:15のフジテレビ放送を確認。番組紹介に『旅』『お散歩バラエティ』があり、旅ジャンルの『旅』『散歩』で発見可能。Gガイド11/15番組表の当該回案内に『北海道の漁師メシ』があり、魚・漁を扱う特集としてユーザー指定の広い釣りジャンルにも該当。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
