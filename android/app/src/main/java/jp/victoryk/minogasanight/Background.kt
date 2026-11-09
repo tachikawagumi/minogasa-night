@@ -109,8 +109,37 @@ class WeeklyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
         }
         try { app.repository.refresh() } catch (_: Exception) { /* Cache is still usable. */ }
         val now = System.currentTimeMillis()
-        val candidates = app.db.dao().all().filter { it.start > now && it.start < now + 7 * 86_400_000L && it.listing().tags.any { tag -> tag in settings.enabled } }
-        if (candidates.isNotEmpty() && notify(applicationContext, 700, "今週のおすすめ", "選択したジャンルで ${candidates.size} 件の放送予定が見つかりました。")) {
+        val candidates = normalized(app.db.dao().all().map { it.listing() }.filter {
+            !it.sample && it.start > now && it.start < now + 7 * 86_400_000L &&
+                it.tags.any { tag -> tag in settings.enabled }
+        })
+        // Prefer special/first-run broadcasts and spread the picks across genres.
+        // Titles and station metadata alone cannot establish editorial importance.
+        val featured = candidates.sortedWith(compareByDescending<Listing> {
+            val title = it.title
+            when {
+                listOf("初放送", "テレビ初", "生中継", "特番", "スペシャル").any { word -> title.contains(word) } -> 3
+                listOf("新作", "初登場", "決勝", "世界選手権").any { word -> title.contains(word) } -> 2
+                else -> 0
+            }
+        }.thenBy { it.start })
+        val picked = mutableListOf<Listing>()
+        val covered = mutableSetOf<String>()
+        for (p in featured) {
+            if (picked.size == 5) break
+            val matching = p.tags.intersect(settings.enabled)
+            if (matching.any { it !in covered }) {
+                picked.add(p)
+                covered.addAll(matching)
+            }
+        }
+        for (p in featured) {
+            if (picked.size == 5) break
+            if (picked.none { it.id == p.id }) picked.add(p)
+        }
+        val preview = picked.take(2).joinToString("／") { it.title.take(35) }
+        val body = if (picked.size > 2) "$preview ほか${picked.size - 2}件。アプリでチェック！" else "$preview。アプリでチェック！"
+        if (picked.isNotEmpty() && notify(applicationContext, 700, "今週の注目番組", body)) {
             applicationContext.preferences.edit { it[deliveredKey] = (delivered.toList().takeLast(11) + week).toSet() }
         }
         Schedules.weekly(applicationContext, true)
