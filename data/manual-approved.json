@@ -2000,6 +2000,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイドの11/12 BS朝日1個別枠 https://bangumi.org/tv_events/AmTQCXKKwAE とJ:COMの同日22:30〜23:00を照合。柏市のビジネスホテル宿泊・周辺街歩きと飲食の旅バラエティ。今回の回はサウナ言及を確認できないため温泉ジャンルは付けない。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-20261114-2200-kasuga-jibasen",
+      "seriesId": "chatgpt-series-kasuga-jibasen",
+      "title": "オードリー春日の知らない街で自腹せんべろ「都営浅草線・浅草橋駅」",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/898418/",
+      "checkedAt": "2026-11-09T10:20:00+09:00",
+      "updatedAt": "2026-11-09T10:20:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "J:COMの個別番組ページとGガイドBS番組表で11/14土曜22:00〜22:30 BSテレ東の浅草橋駅編を確認。街を歩いて立ち飲み屋・酒場を巡る旅・街歩き企画でtravelに分類。BSテレ東4Kと同時放送だが1局のみを採録。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
