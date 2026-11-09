@@ -2018,8 +2018,62 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "J:COMの個別番組ページとGガイドBS番組表で11/14土曜22:00〜22:30 BSテレ東の浅草橋駅編を確認。街を歩いて立ち飲み屋・酒場を巡る旅・街歩き企画でtravelに分類。BSテレ東4Kと同時放送だが1局のみを採録。"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261113-1850-japan-korea",
+      "seriesId": "chatgpt-series-japan-korea",
+      "title": "アジアプロ野球チャンピオンシップ 日本×韓国",
+      "stationId": "tvasahi",
+      "start": "2026-11-13T18:50:00+09:00",
+      "end": "2026-11-13T21:54:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgQoLSkAM",
+      "checkedAt": "2026-11-09T12:00:00+09:00",
+      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド個別番組枠で放送局・放送日時・競技内容を確認。東京・千葉の地上波テレビ朝日。"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261114-1200-japan-australia",
+      "seriesId": "chatgpt-series-japan-australia",
+      "title": "アジアプロ野球チャンピオンシップ 日本×オーストラリア",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T12:00:00+09:00",
+      "end": "2026-11-14T15:00:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLi0AM?overwrite_area=23",
+      "checkedAt": "2026-11-09T12:00:00+09:00",
+      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド個別番組枠で放送局・放送日時・競技内容を確認。東京・千葉の地上波テレビ朝日。"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261114-1830-japan-brazil",
+      "seriesId": "chatgpt-series-japan-brazil",
+      "title": "サッカー みずほブルーチャレンジ 日本×ブラジル",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T18:30:00+09:00",
+      "end": "2026-11-14T21:15:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLjIAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T12:00:00+09:00",
+      "updatedAt": "2026-11-09T12:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド個別番組枠で放送局・放送日時・競技内容を確認。東京・千葉の地上波テレビ朝日。"
     }
   ],
-  "updatedAt": "2026-10-27T16:43:00+09:00",
+  "updatedAt": "2026-11-09T12:00:00+09:00",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。"
 }
