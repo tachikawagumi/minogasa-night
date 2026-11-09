@@ -1,39 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:56:28+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 174,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-ntv-20261115-1500-tokyo-a-final"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:56:55+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "2e61194856896f8499781993761cabe1805a5a1875d67903a8e9ac06e077a4d5",
-      "programs": 174
-    }
-  },
-  {
     "at": "2026-11-09T11:58:41+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1596,5 +1562,12 @@
       "semanticSha256": "40d4aa937db76856feb53109d0f365b064258ff68aa80e31dd431049db6a536f",
       "programs": 262
     }
+  },
+  {
+    "at": "2026-11-09T15:11:04+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "ValueError: 未定義の局・ジャンル",
+    "previousPublicPreserved": true
   }
 ]
