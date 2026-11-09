@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-26T15:33:24+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 145,
-    "aiAccepted": 1,
-    "aiHeld": 16,
-    "batchId": "ai-20261026-phase5-initial",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": [
-        "official-81221f862e50feba0f729d41"
-      ]
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 1
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-26T15:33:24+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 145,
@@ -2879,5 +2853,32 @@
       "semanticSha256": "26caf9746fe35e4d56160dbfc27ea3a25ad4efc43221d7de8f781434b9656248",
       "programs": 135
     }
+  },
+  {
+    "at": "2026-11-09T09:21:27+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 136,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-bs12-20261115-1900-innocence"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
