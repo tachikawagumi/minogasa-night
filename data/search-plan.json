@@ -642,12 +642,12 @@
     {
       "genreId": "challenge",
       "route": "program_name",
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ドア×ドアクエスト OR 夢対決！とんねるずのスポーツ王は俺だ!! OR クイズ☆正解は一年後 OR 芸能人格付けチェック OR THE鬼タイジ 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ドア×ドアクエスト OR 夢対決！とんねるずのスポーツ王は俺だ!! OR クイズ☆正解は一年後 OR 芸能人格付けチェック OR THE鬼タイジ OR 新しいカギ 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
     },
     {
       "genreId": "challenge",
       "route": "genre",
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
     },
     {
       "genreId": "challenge",
@@ -656,7 +656,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
     },
     {
       "genreId": "challenge",
