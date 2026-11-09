@@ -74,7 +74,6 @@ class NightViewModel(application: Application) : AndroidViewModel(application) {
     fun genre(name: String, on: Boolean) = viewModelScope.launch { app.settings.displayGenre(name, on) }
     fun weekly(on: Boolean) = viewModelScope.launch { app.settings.weekly(on); Schedules.weekly(app, on) }
     fun reminders(on: Boolean) = viewModelScope.launch { app.settings.reminders(on); Schedules.reminders(app) }
-    fun draft(value: String) = viewModelScope.launch { app.settings.draft(value) }
 }
 
 class MainActivity : ComponentActivity() {
@@ -98,7 +97,7 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
     var period by remember { mutableIntStateOf(0) }
     var onlySaved by rememberSaveable { mutableStateOf(false) }
     var screen by rememberSaveable { mutableStateOf("home") }
-    BackHandler(enabled = screen != "home") { screen = if (screen == "request") "settings" else "home" }
+    BackHandler(enabled = screen != "home") { screen = "home" }
     var today by remember { mutableStateOf(LocalDate.now(Tokyo)) }
     var currentTime by remember { mutableLongStateOf(System.currentTimeMillis()) }
     LaunchedEffect(Unit) { while (true) {
@@ -167,21 +166,7 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                         }
                     }
                 }
-                item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", fontSize = 16.sp) } }
                 item { Text("登録不要・広告なし／v${BuildConfig.VERSION_NAME}\n設定とお気に入りは端末内に保存されます。", color = Muted, fontSize = 14.sp, modifier = Modifier.padding(bottom = 32.dp)) }
-            }
-        } else if (screen == "request") {
-            Column(Modifier.weight(1f).verticalScroll(rememberScrollState())) {
-            var draft by remember(settings.draft) { mutableStateOf(settings.draft) }
-            var saved by remember { mutableStateOf(false) }
-            Text("ジャンル追加リクエスト", fontSize = 23.sp, fontWeight = FontWeight.Bold)
-            Spacer(Modifier.height(16.dp))
-            Text("送信先は準備中です。下書きをこの端末に保存できます。", color = Muted)
-            Spacer(Modifier.height(16.dp))
-            OutlinedTextField(draft, { draft = it.take(2000); saved = false }, label = { Text("追加したいジャンル・番組例") }, modifier = Modifier.fillMaxWidth().heightIn(min = 160.dp), supportingText = { Text("${draft.length}/2000文字") })
-            Button(onClick = { vm.draft(draft); saved = true }, modifier = Modifier.fillMaxWidth()) { Text("下書きを保存", fontSize = 18.sp) }
-            if (saved) Text("端末に保存しました。まだ送信されていません。", color = Gold)
-            TextButton(onClick = { screen = "settings" }) { Text("設定へ戻る") }
             }
         } else {
             Text(today.format(dateFormat), color = Muted, fontSize = 16.sp)
@@ -215,7 +200,6 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                     item(key = "date-$date") { Text("${date.format(dateFormat)}  ·  ${list.size}件", color = Muted, modifier = Modifier.padding(top = 8.dp)) }
                     items(list, key = { it.id }) { p -> ProgramCard(p, "p:${p.id}" in favorites, "s:${p.seriesId}" in favorites, { vm.favorite("p:${p.id}") }, { vm.favorite("s:${p.seriesId}") }) }
                 }
-                item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", color = Muted, fontSize = 14.sp) } }
             }
         }
     }
