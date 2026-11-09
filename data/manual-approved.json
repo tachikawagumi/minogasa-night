@@ -2217,6 +2217,78 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "GガイドでBS-TBSの放送日時とクロアチアの住宅・物件紹介企画を確認。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-202611140730-golf",
+      "seriesId": "chatgpt-series-kotaro-golf",
+      "title": "孝太郎の爽快ゴルフバトル！ 柴田英嗣と真剣バトル！最終戦（再）",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": "2026-11-14T08:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwCrHwoAE",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド番組表に掲載された無料BSまたは関東地上波のゴルフ番組。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-202611150800-golf",
+      "seriesId": "chatgpt-series-golf-samurai",
+      "title": "ゴルフ侍、見参！ プロvsトップアマチュア",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": "2026-11-15T09:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/seasons?season_id=484345",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド番組表に掲載された無料BSまたは関東地上波のゴルフ番組。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-202611150900-golf",
+      "seriesId": "chatgpt-series-kotaro-golf",
+      "title": "孝太郎の爽快ゴルフバトル！ 上重聡と真剣バトル！初戦",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUACrH1EAE",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド番組表に掲載された無料BSまたは関東地上波のゴルフ番組。"
+    },
+    {
+      "id": "chatgpt-tvasahi-202611151600-golf",
+      "seriesId": "chatgpt-series-itoen-golf",
+      "title": "伊藤園レディスゴルフ2026 最終日",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T16:00:00+09:00",
+      "end": "2026-11-15T17:25:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQoLysAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイド番組表に掲載された無料BSまたは関東地上波のゴルフ番組。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
