@@ -1646,15 +1646,16 @@
       "end": "2026-11-15T04:45:00+09:00",
       "genreIds": [
         "movie",
-        "horror_movie"
+        "horror_movie",
+        "car"
       ],
       "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/10706_202611142705.html",
       "checkedAt": "2026-11-09T09:25:28+09:00",
-      "updatedAt": "2026-11-09T09:25:28+09:00",
+      "updatedAt": "2026-11-09T05:26:52.379Z",
       "status": "official_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
-      "genreBasis": "悪魔崇拝の儀式を目撃して追われる1975年のホラー映画。テレビ東京のサタ☆シネ枠。11/14 27:05は11/15 03:05の意味。"
+      "genreBasis": "悪魔崇拝の儀式を目撃して追われる1975年のホラー映画。テレビ東京のサタ☆シネ枠。11/14 27:05は11/15 03:05の意味。 Muse車・バイク関連候補として代表承認（映画内の車両／路線バス企画）。"
     },
     {
       "id": "chatgpt-tvtokyo-20261109-2154-tokyo-crossing-fish",
@@ -2736,15 +2737,16 @@
       "start": "2026-11-14T12:00:00+09:00",
       "end": null,
       "genreIds": [
-        "travel"
+        "travel",
+        "car"
       ],
       "sourceUrl": "https://bangumi.org/genres/variety/travel",
       "checkedAt": "2026-11-09T00:00:00Z",
-      "updatedAt": "2026-11-09T00:00:00Z",
+      "updatedAt": "2026-11-09T05:26:52.379Z",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "manual_guide_weekly_review",
-      "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。"
+      "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。 Muse車・バイク関連候補として代表承認（映画内の車両／路線バス企画）。"
     },
     {
       "id": "manual-weekly-202611141700-chiba",
