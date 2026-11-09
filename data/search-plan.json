@@ -749,6 +749,44 @@
         "鉄道旅"
       ],
       "recheckAfterHours": 48
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "program_name",
+      "query": "フィギュアスケート OR スキージャンプ OR スピードスケート OR カーリング 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "genre",
+      "query": "フィギュア OR スキー OR スノーボード OR スノボ OR スケート OR カーリング OR アイスホッケー OR スキージャンプ OR 冬季スポーツ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "specialist",
+      "urls": [
+        "https://bangumi.org/",
+        "https://tvguide.myjcom.jp/"
+      ],
+      "query": "フィギュア OR スキー OR スノーボード OR スノボ OR スケート OR カーリング OR アイスホッケー OR スキージャンプ OR 冬季スポーツ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "miss_learning",
+      "features": [
+        "特急",
+        "新幹線",
+        "ローカル線",
+        "鉄道旅"
+      ],
+      "recheckAfterHours": 48
     }
   ],
   "hybrid": {
@@ -1105,6 +1143,24 @@
         "genreId": "railway",
         "subcategoryId": "technology",
         "query": "鉄道技術 OR 鉄道施設 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "figure",
+        "query": "フィギュア 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "ski",
+        "query": "スキー OR スノーボード OR ジャンプ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "ice",
+        "query": "スケート OR カーリング OR アイスホッケー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
         "status": "planned"
       }
     ],

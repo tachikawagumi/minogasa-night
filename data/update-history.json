@@ -1,38 +1,6 @@
 [
   {
     "at": "2026-11-09T12:04:55+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 185,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bsasahi-20261110-2200-himutaro",
-        "chatgpt-fuji-20261115-1200-nariyuki",
-        "chatgpt-nhk_g-20261114-1930-buratamori",
-        "chatgpt-ntv-20261114-0925-burari",
-        "chatgpt-tvasahi-20261114-0800-tabisalad",
-        "chatgpt-tvtokyo-20261114-1130-moyasama"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 6,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T12:04:55+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 185,
@@ -1578,5 +1546,39 @@
       "semanticSha256": "47ab89872dd0e8eca7a111887f1946865dccdb28b3c746c6e545fa2788224c37",
       "programs": 444
     }
+  },
+  {
+    "at": "2026-11-09T21:15:07+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 452,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-winter-AmSgBlLjUAE",
+        "muse-winter-AmSgQgVvwAM",
+        "muse-winter-AmSgQoKRAAM",
+        "muse-winter-AmUACXKSAAE",
+        "muse-winter-AmUAQQKxcAM",
+        "muse-winter-AmUAQgWEQAM",
+        "muse-winter-AmUAQoLi8AM",
+        "muse-winter-AmUAQoLywAM"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 8,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
