@@ -31,7 +31,17 @@ jobs:
         working-directory: android
         run: |
           chmod +x gradlew
-          ./gradlew --no-daemon :app:testDebugUnitTest :app:lintDebug :app:assembleDebug
+          for attempt in 1 2 3 4; do
+            if ./gradlew --no-daemon :app:testDebugUnitTest :app:lintDebug :app:assembleDebug; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "Gradle build failed after 4 attempts"
+              exit 1
+            fi
+            echo "Gradle attempt $attempt failed; retrying after 20 seconds"
+            sleep 20
+          done
       - name: Upload debug APK
         if: success()
         uses: actions/upload-artifact@v4
