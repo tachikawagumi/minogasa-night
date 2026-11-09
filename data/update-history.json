@@ -2747,5 +2747,39 @@
       "semanticSha256": "a18ab5d6d46091f1906664b703358bd7cd53558e61600427f0849ccb602cc97e",
       "programs": 127
     }
+  },
+  {
+    "at": "2026-11-09T09:17:50+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 135,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-bstbs-20261115-2100-nagano-policestory3",
+        "chatgpt-bstvtokyo-20261114-1830-toraajisai",
+        "chatgpt-ntv-20261113-2100-moana2",
+        "chatgpt-tvtokyo-20261109-1340-mybodyguard",
+        "chatgpt-tvtokyo-20261110-1340-iceroad",
+        "chatgpt-tvtokyo-20261111-1340-knightday",
+        "chatgpt-tvtokyo-20261112-1340-bankjob",
+        "chatgpt-tvtokyo-20261113-1340-escapeplan"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 8,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
