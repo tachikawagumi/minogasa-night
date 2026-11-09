@@ -1617,6 +1617,25 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
       "genreBasis": "BS-TBS公式の11月ラインナップに11/15ポリス・ストーリー3（日本語吹替）掲載。毎週日曜21:00〜23:00を公式に確認。"
+    },
+    {
+      "id": "chatgpt-bs12-20261115-1900-innocence",
+      "seriesId": "chatgpt-series-innocence-2004",
+      "title": "日曜アニメ劇場『イノセンス』",
+      "stationId": "bs12",
+      "start": "2026-11-15T19:00:00+09:00",
+      "end": "2026-11-15T20:55:00+09:00",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUADeEVkAE",
+      "checkedAt": "2026-11-09T09:20:55+09:00",
+      "updatedAt": "2026-11-09T09:20:55+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_independently_verified_third_party_facts",
+      "genreBasis": "BS12の2026年11月15日（日）19:00〜20:55の放送事実をGガイド当該枠とJ:COM番組表 https://tvguide.myjcom.jp/program/612210/ の独立した2資料で照合。作品は2004年のアニメ映画。BS12公式番組ページは取得制限のため直接照合不能。番組名・局・日時のみ独立採録し本文・配列は転載しない。公式確認済みとは表示しない。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
