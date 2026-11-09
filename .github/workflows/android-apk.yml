@@ -8,7 +8,7 @@ on:
       - '.github/workflows/android-apk.yml'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -50,3 +50,15 @@ jobs:
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
           retention-days: 14
+
+      - name: Publish direct APK download as preview release
+        if: success() && github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="preview-apk-${GITHUB_RUN_ID}"
+          gh release create "$TAG" android/app/build/outputs/apk/debug/app-debug.apk#minogasa-night-preview.apk \
+            --title "みのがさナイト 開発版 APK ${GITHUB_RUN_ID}" \
+            --notes "開発版APK。Android実機確認前、本番未公開。" \
+            --prerelease \
+            --target "$GITHUB_SHA"
