@@ -72,7 +72,7 @@ class LedgerQualityTest(unittest.TestCase):
         self.assertEqual(1,q["excluded"]);self.assertEqual(0,q["held"]);self.assertFalse(q["confirmedOmissions"])
     def test_all_genres_have_five_discovery_routes(self):
         p=plan(read_json(ROOT/"config/discovery.json"),NOW)
-        self.assertEqual(100,len(p["queries"]))
+        self.assertEqual(105,len(p["queries"]))
         self.assertEqual(20,len([r for r in p["queries"] if r["route"]=="miss_learning"]))
     def test_search_does_not_prove_absence(self):
         q=self.audit([]);self.assertTrue(all(g["zeroReasonCode"]=="search_insufficient" for g in q["genres"]))
