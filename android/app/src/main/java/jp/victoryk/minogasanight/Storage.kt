@@ -47,7 +47,7 @@ class SettingsStore(private val context: Context) {
     private val reminders = booleanPreferencesKey("reminders")
     private val draft = stringPreferencesKey("request_draft")
     val flow = context.preferences.data.map { Settings(it[enabled] ?: genres.toSet(), it[weekly] ?: false, it[reminders] ?: false, it[draft] ?: "") }
-    suspend fun genre(name: String, on: Boolean) = context.preferences.edit { val old = it[enabled] ?: genres.toSet(); it[enabled] = if (on) old + name else old - name }
+    suspend fun displayGenre(name: String, on: Boolean) = context.preferences.edit { val old = it[enabled] ?: genres.toSet(); val members = genreMembers(name); it[enabled] = if (on) old + members else old - members }
     suspend fun weekly(on: Boolean) = context.preferences.edit { it[weekly] = on }
     suspend fun reminders(on: Boolean) = context.preferences.edit { it[reminders] = on }
     suspend fun draft(value: String) = context.preferences.edit { it[draft] = value }
