@@ -48,11 +48,11 @@ fun nextSunday(now: ZonedDateTime): ZonedDateTime {
 
 object Schedules {
     private val lock = Mutex()
-    fun weekly(context: Context, enabled: Boolean, append: Boolean = false) {
+    fun weekly(context: Context, enabled: Boolean) {
         val wm = WorkManager.getInstance(context)
         if (!enabled) { wm.cancelUniqueWork("weekly"); return }
         val delay = Duration.between(ZonedDateTime.now(Tokyo), nextSunday(ZonedDateTime.now(Tokyo))).toMillis()
-        wm.enqueueUniqueWork("weekly", if (append) ExistingWorkPolicy.APPEND_OR_REPLACE else ExistingWorkPolicy.REPLACE, OneTimeWorkRequestBuilder<WeeklyWorker>().setInitialDelay(delay, TimeUnit.MILLISECONDS).build())
+        wm.enqueueUniqueWork("weekly", ExistingWorkPolicy.REPLACE, OneTimeWorkRequestBuilder<WeeklyWorker>().setInitialDelay(delay, TimeUnit.MILLISECONDS).build())
     }
     suspend fun reminders(context: Context) = lock.withLock {
         val app = context.night
@@ -100,11 +100,20 @@ class WeeklyWorker(context: Context, params: WorkerParameters) : CoroutineWorker
         val app = applicationContext.night
         val settings = app.settings.flow.first()
         if (!settings.weekly) return Result.success()
+        val deliveredKey = stringSetPreferencesKey("delivered_weekly_weeks")
+        val week = LocalDate.now(Tokyo).with(java.time.temporal.TemporalAdjusters.previousOrSame(DayOfWeek.SUNDAY)).toString()
+        val delivered = applicationContext.preferences.data.first()[deliveredKey] ?: emptySet()
+        if (week in delivered) {
+            Schedules.weekly(applicationContext, true)
+            return Result.success()
+        }
         try { app.repository.refresh() } catch (_: Exception) { /* Cache is still usable. */ }
         val now = System.currentTimeMillis()
         val candidates = app.db.dao().all().filter { it.start > now && it.start < now + 7 * 86_400_000L && it.listing().tags.any { tag -> tag in settings.enabled } }
-        if (candidates.isNotEmpty()) notify(applicationContext, 700, "今週のおすすめ", "選択したジャンルで ${candidates.size} 件の放送予定が見つかりました。")
-        Schedules.weekly(applicationContext, true, append = true)
+        if (candidates.isNotEmpty() && notify(applicationContext, 700, "今週のおすすめ", "選択したジャンルで ${candidates.size} 件の放送予定が見つかりました。")) {
+            applicationContext.preferences.edit { it[deliveredKey] = (delivered.toList().takeLast(11) + week).toSet() }
+        }
+        Schedules.weekly(applicationContext, true)
         return Result.success()
     }
 }
