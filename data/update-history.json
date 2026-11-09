@@ -1,30 +1,6 @@
 [
   {
     "at": "2026-10-26T16:48:01+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 146,
-    "aiAccepted": 2,
-    "aiHeld": 17,
-    "batchId": "ai-20261026-phase6-discovery",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-26T16:48:01+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 146,
@@ -2883,5 +2859,30 @@
       "semanticSha256": "48c687d9e2c066371dbed63e970923d2fe6de32ad9d0bc718bf834f193357cac",
       "programs": 137
     }
+  },
+  {
+    "at": "2026-11-09T09:31:56+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 137,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]

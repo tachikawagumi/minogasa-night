@@ -16,6 +16,7 @@
       "genreId": "ghost",
       "route": "specialist",
       "urls": [
+        "https://www.occultic.net/occulttv.html",
         "https://j.occultic.net/category/occultictv/",
         "https://www.fujitv.co.jp/timetable/",
         "https://www.nhk.jp/timetable/",
@@ -58,6 +59,7 @@
       "genreId": "ufo",
       "route": "specialist",
       "urls": [
+        "https://www.occultic.net/occulttv.html",
         "https://j.occultic.net/category/occultictv/",
         "https://www.fujitv.co.jp/timetable/",
         "https://www.tv-tokyo.co.jp/timetable/",
