@@ -174,9 +174,9 @@ def validate_public(feed):
     if feed.get("schemaVersion") != 1 or feed.get("sourceMode") != "real" or feed.get("timeZone") != "Asia/Tokyo":
         raise ValueError("不正なフィード種別")
     now = parse_dt(feed["generatedAt"])
-    if len(feed["genres"]) != 20:
-        raise ValueError("20ジャンルが必要")
-    if [x["id"] for x in feed["genres"]] != GENRE_IDS:
+    if len(feed["genres"]) not in (20, len(GENRE_IDS)):
+        raise ValueError("既存20または新21内部ジャンルが必要")
+    if [x["id"] for x in feed["genres"]] not in (GENRE_IDS[:-1], GENRE_IDS):
         raise ValueError("ジャンルID不一致")
     ids, keys = set(), set()
     for row in feed["programs"]:
