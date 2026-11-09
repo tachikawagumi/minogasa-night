@@ -5506,7 +5506,7 @@
       "start": "2026-11-10T20:57:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -6712,7 +6712,7 @@
       "end": null,
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -6903,7 +6903,7 @@
       "start": "2026-11-14T00:30:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -6989,7 +6989,7 @@
       "start": "2026-11-14T01:18:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -7819,7 +7819,7 @@
       "start": "2026-11-15T07:30:00+09:00",
       "end": null,
       "genreIds": [
-        "game",
+        "challenge",
         "anime"
       ],
       "sourceUrl": "https://bangumi.org/",
@@ -8098,7 +8098,7 @@
       "start": "2026-11-15T21:00:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -8224,7 +8224,7 @@
       "start": "2026-11-15T22:48:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
