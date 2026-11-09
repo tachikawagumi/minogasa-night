@@ -1082,16 +1082,34 @@
     "fishing": {
       "programs": [
         "THEフィッシング",
-        "巨大マグロ戦争"
+        "巨大マグロ戦争",
+        "夢釣行～一魚一会の旅～",
+        "釣りびと万歳",
+        "魚が食べたい！",
+        "洋上の激闘！巨大マグロ戦争"
       ],
       "keywords": [
-        "THEフィッシング",
-        "釣り",
-        "マグロ漁師",
-        "大間",
-        "漁師 密着",
+        "釣",
         "マグロ",
+        "漁",
+        "魚",
+        "釣り",
+        "釣行",
+        "釣りびと",
+        "漁師",
+        "漁港",
+        "漁業",
+        "水産",
+        "海鮮",
+        "魚料理",
+        "魚介",
+        "刺身",
+        "鮮魚",
+        "大間",
         "巨大魚",
+        "THEフィッシング",
+        "マグロ漁師",
+        "漁師 密着",
         "釣り対決",
         "漁師密着"
       ],
@@ -1111,13 +1129,15 @@
           "漁師密着"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "釣・マグロ・漁・魚の4語で番組表を網羅的に検索し、魚料理なども候補に含める。検索語一致を手掛かりに当該番組のタイトル・局・日時を確認し、公式照合は必須ではない。放送回内容の厳密な釣り専用分類は不要。"
       },
       "sourceIds": [
         "official_www_tv_tokyo_co_jp",
         "official_www_bsfuji_tv"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -1159,7 +1179,23 @@
             "釣り旅"
           ]
         }
-      ]
+      ],
+      "prioritySearchTerms": [
+        "釣",
+        "マグロ",
+        "漁",
+        "魚"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "番組表の番組名または当該回案内に釣・マグロ・漁・魚のいずれかが現れ、実際の魚・漁・釣り・水産・魚料理などの内容を指す場合は釣りジャンル候補として採用。釣りが主題でなくても料理・漁港旅・水産特集等を含む。",
+        "allowCookingPrograms": true,
+        "requireFishingCentral": false,
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "exclude": "対象外局・有料BS/CS・配信のみ・開始日時不明・番組表の偶然の広告文だけの一致は掲載しない。"
+      }
     },
     "health": {
       "programs": [
@@ -1568,6 +1604,11 @@
       "exclude": "交通手段として映るだけの車両。回の紹介・運転・構造・整備・車両文化の根拠が必要。",
       "travelAllowed": true,
       "titleKeywordAlone": false
+    },
+    "fishing": {
+      "mode": "broad_keyword_recall",
+      "include": "番組表・当該回のタイトル/内容が魚・漁・マグロ・釣りに触れる番組。料理・市場・魚料理・漁港・水産・ニュース特集を含む。釣り主題でなくてもよい。",
+      "exclude": "出典に局・放送開始日時が存在しない候補、語の偶然の一致のみで魚の話題がない候補、有料/対象外局"
     }
   },
   "learningHistory": [
