@@ -1471,6 +1471,152 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_official_facts",
       "genreBasis": "東京湾でボートからシーバスを狙う実釣企画"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261109-1340-mybodyguard",
+      "seriesId": "chatgpt-series-mybodyguard",
+      "title": "マイ・ボディガード",
+      "stationId": "tvtokyo",
+      "start": "2026-11-09T13:40:00+09:00",
+      "end": "2026-11-09T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28486_202611091340.html",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレ東の当該回公式番組ページで2026-11-09 13:40開始・15:40終了と映画を確認。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261110-1340-iceroad",
+      "seriesId": "chatgpt-series-iceroad",
+      "title": "アイス・ロード",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレビ東京の2026年11月公式月間ラインナップに11/10放送掲載。午後のロードショーの通常放送時間13:40を確認。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261111-1340-knightday",
+      "seriesId": "chatgpt-series-knightday",
+      "title": "ナイト＆デイ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-11T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレビ東京の2026年11月公式月間ラインナップに11/11放送掲載。午後のロードショーの通常放送時間13:40を確認。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261112-1340-bankjob",
+      "seriesId": "chatgpt-series-bankjob",
+      "title": "バンク・ジョブ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレビ東京の2026年11月公式月間ラインナップに11/12放送掲載。午後のロードショーの通常放送時間13:40を確認。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261113-1340-escapeplan",
+      "seriesId": "chatgpt-series-escapeplan",
+      "title": "大脱出",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/telecine/oa_afr_load/",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "テレビ東京の2026年11月公式月間ラインナップに11/13放送掲載。午後のロードショーの通常放送時間13:40を確認。"
+    },
+    {
+      "id": "chatgpt-ntv-20261113-2100-moana2",
+      "seriesId": "chatgpt-series-moana2",
+      "title": "モアナと伝説の海2",
+      "stationId": "ntv",
+      "start": "2026-11-13T21:00:00+09:00",
+      "end": "2026-11-13T22:54:00+09:00",
+      "genreIds": [
+        "movie",
+        "disney",
+        "anime"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261113",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "日テレ『金曜ロードショー』当該回公式、ディズニー制作の長編アニメ映画を初放送。"
+    },
+    {
+      "id": "chatgpt-bstvtokyo-20261114-1830-toraajisai",
+      "seriesId": "chatgpt-series-toraajisai",
+      "title": "男はつらいよ 寅次郎あじさいの恋",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-14T18:30:00+09:00",
+      "end": "2026-11-14T20:54:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/23641_202611141830.html",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BSテレ東の当該回個別公式番組情報で作品と開始・終了時刻を確認。"
+    },
+    {
+      "id": "chatgpt-bstbs-20261115-2100-nagano-policestory3",
+      "seriesId": "chatgpt-series-nagano-film-channel",
+      "title": "永野映画CHANNEL『ポリス・ストーリー3』",
+      "stationId": "bstbs",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": "2026-11-15T23:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bs.tbs.co.jp/movie/moviesun22/",
+      "checkedAt": "2026-11-09T09:14:00+09:00",
+      "updatedAt": "2026-11-09T09:14:00+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_official_facts",
+      "genreBasis": "BS-TBS公式の11月ラインナップに11/15ポリス・ストーリー3（日本語吹替）掲載。毎週日曜21:00〜23:00を公式に確認。"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
