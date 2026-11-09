@@ -1393,14 +1393,14 @@
         "モヤモヤさまぁ〜ず"
       ],
       "keywords": [
-        "街歩き",
-        "ブラタモリ",
-        "モヤモヤさまぁ",
         "旅",
-        "旅行",
-        "鉄道旅",
+        "散歩",
+        "紀行",
+        "ぶらり",
+        "途中下車",
         "観光",
-        "食べ歩き"
+        "絶景",
+        "街歩き"
       ],
       "officialHosts": [
         "www.nhk.jp",
@@ -1418,13 +1418,15 @@
           "食べ歩き"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ユーザー正式採用2026-11-09：旅・散歩・紀行・ぶらり・途中下車・観光・絶景・街歩きの8語を各々単独で番組表検索。『かのサンド』が番組紹介の旅・散歩で発見できた実地試験を根拠とする。"
       },
       "sourceIds": [
         "g_guide",
         "jcom"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -1433,36 +1435,17 @@
       ],
       "subcategories": [
         {
-          "id": "domestic",
-          "label": "国内旅行",
+          "id": "broad_travel",
+          "label": "旅・散歩・紀行・ぶらり・途中下車・観光・絶景・街歩き",
           "keywords": [
-            "国内旅行",
-            "街歩き",
-            "食べ歩き"
-          ]
-        },
-        {
-          "id": "overseas",
-          "label": "海外旅行",
-          "keywords": [
-            "海外旅行",
-            "海外紀行"
-          ]
-        },
-        {
-          "id": "rail",
-          "label": "鉄道旅",
-          "keywords": [
-            "鉄道旅"
-          ]
-        },
-        {
-          "id": "road",
-          "label": "ロードトリップ",
-          "keywords": [
-            "ロードトリップ",
-            "車旅",
-            "バイク旅"
+            "旅",
+            "散歩",
+            "紀行",
+            "ぶらり",
+            "途中下車",
+            "観光",
+            "絶景",
+            "街歩き"
           ]
         }
       ],
@@ -1470,7 +1453,26 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "旅",
+        "散歩",
+        "紀行",
+        "ぶらり",
+        "途中下車",
+        "観光",
+        "絶景",
+        "街歩き"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "Gガイド・J:COM番組表のタイトルまたは当該回の説明文に指定8語のいずれかがあり、旅行・散歩・街歩き・観光・自然や風景・途中下車・紀行などの内容を扱うなら旅ジャンル候補に含める。バラエティや短時間番組の特集も対象。",
+        "allowFeatureSegments": true,
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "exclude": "番組表の広告など番組と無関係な文字一致、テレビ放送でない観光情報、対象外局、有料放送、局または日時不明の枠"
+      }
     },
     "challenge": {
       "programs": [
@@ -1753,6 +1755,11 @@
       "mode": "single_keyword_recall",
       "include": "『温泉』という語が番組名または放送回内容に出る旅・宿泊・バラエティ・温泉特集。",
       "exclude": "放送情報のない宿泊施設紹介や放送対象外局。"
+    },
+    "travel": {
+      "mode": "broad_keyword_recall",
+      "include": "8語のいずれかを手掛かりにした国内外の旅・散歩・紀行・ぶらり歩き・途中下車・観光・絶景・街歩き、普通のバラエティ内の旅行特集。",
+      "exclude": "単なる広告の一致、対象外の有料放送やテレビ放送ではないイベント"
     }
   },
   "learningHistory": [
