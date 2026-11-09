@@ -447,7 +447,13 @@
       ],
       "keywords": [
         "USJ",
+        "ユニバーサル",
         "ユニバーサル・スタジオ・ジャパン",
+        "ユニバ",
+        "スーパー・ニンテンドー・ワールド",
+        "ハリーポッター エリア",
+        "USJアトラクション",
+        "USJグルメ",
         "アトラクション",
         "食べ歩き"
       ],
@@ -465,13 +471,15 @@
           "食べ歩き"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "USJとユニバーサルをそれぞれ単独でGガイド/J:COM番組表検索し、タイトル・放送回内容の双方を対象。個別放送の局・日時があれば公式サイトでの再照合は不要。"
       },
       "sourceIds": [
         "g_guide",
         "jcom"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -508,7 +516,20 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "USJ",
+        "ユニバーサル"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "GガイドまたはJ:COMの番組名・当該回説明に「USJ」「ユニバーサル」がある放送を候補とする。バラエティの特集、パークのグルメ・アトラクション・季節イベント・旅行企画もUSJとして掲載。",
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "allowFeatureSegments": true,
+        "exclude": "「ユニバーサル」が映画配給会社、ユニバーサルデザイン等だけを指す場合はUSJジャンルに分類しない。テレビでないパークイベント、追加契約が必要な有料放送、地域対象外局を除く。"
+      }
     },
     "big_eating": {
       "programs": [
@@ -1731,6 +1752,11 @@
       "mode": "broad_keyword_recall",
       "include": "ディズニー映画・アニメ、東京ディズニーランド/シー、ホテル、グルメ、アトラクション、リゾート特集、バラエティの一部企画を含む。",
       "exclude": "パーク内で実施するショー/イベントの日程をテレビ放送と取り違えること、有料ディズニー・チャンネル、配信のみ、単なる文字一致。"
+    },
+    "usj": {
+      "mode": "broad_keyword_recall",
+      "include": "USJ・ユニバーサル・スタジオ・ジャパンのアトラクション、グルメ、ショー、イベント、旅行紹介やバラエティ番組内の特集回。",
+      "exclude": "USJに無関係なUniversal Pictures映画、ユニバーサルデザイン等の単なる文字一致。"
     }
   },
   "learningHistory": [
