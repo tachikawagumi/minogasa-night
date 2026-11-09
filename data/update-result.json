@@ -1,15 +1,15 @@
 {
-  "at": "2026-11-09T09:21:27+09:00",
-  "status": "published",
+  "at": "2026-11-09T09:26:27+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 136,
+  "publicPrograms": 137,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-bs12-20261115-1900-innocence"
+      "chatgpt-tvtokyo-20261115-0305-race-with-the-devil"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -23,12 +23,5 @@
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T09:21:52+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "d18349dd93c72f1958d2f8f07ae972e639673f4040b78c6dde6f2a77cdee8ffd",
-    "programs": 136
-  }
+  "publicationVerified": false
 }

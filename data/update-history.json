@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-26T16:42:21+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 146,
-    "aiAccepted": 2,
-    "aiHeld": 17,
-    "batchId": "ai-20261026-phase6-discovery",
-    "diff": {
-      "added": [
-        "official-f9558d382a201f8b6603526e"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-26T16:42:21+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 146,
@@ -2881,5 +2855,32 @@
       "semanticSha256": "d18349dd93c72f1958d2f8f07ae972e639673f4040b78c6dde6f2a77cdee8ffd",
       "programs": 136
     }
+  },
+  {
+    "at": "2026-11-09T09:26:27+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 137,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-tvtokyo-20261115-0305-race-with-the-devil"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
