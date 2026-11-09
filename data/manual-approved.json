@@ -2586,6 +2586,23 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "GガイドまたはJ:COMで放送局・開始日時・ゲーム対決内容を確認。"
+    },
+    {
+      "id": "chatgpt-nhkg-20261114-2007-lrt",
+      "seriesId": "chatgpt-series-new-project-x-lrt",
+      "title": "75年ぶりの路面電車〜街を変える 素人集団の挑戦〜",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T20:07:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261114&ggm_group_id=42",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドNHK総合の20:07放送枠に宇都宮LRT路面電車開業特集を確認。終了時刻は省略。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
