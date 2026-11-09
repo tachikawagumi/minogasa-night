@@ -13,7 +13,7 @@
     "週刊バイクTV",
     "おぎやはぎの愛車遍歴"
   ],
-  "note": "発見用。検索結果や番組名だけで分類・公開しない。各放送回を検証する。officialScheduleUrlsは調査開始点であり、自動取得・再配信許可を示さない。",
+  "note": "20ジャンルの発見検索は原則GガイドとJ:COMの2サイト。アニメはしょぼいカレンダー、心霊・UFOは指定のオカルト番組表を優先。旧sourceCatalogのその他のURLは履歴互換のため残すが通常調査では使用しない。",
   "genres": {
     "ghost": {
       "programs": [
@@ -58,10 +58,8 @@
       },
       "sourceIds": [
         "occult_tv_calendar",
-        "occult",
-        "official_www_fujitv_co_jp",
-        "official_www_nhk_jp",
-        "official_www_web_nhk"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -96,7 +94,11 @@
             "怪異"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "occult_tv_calendar"
+      ],
+      "searchSourceNote": "オカルト番組表を最初に参照。放送日時や局を補うときだけGガイド・J:COMの個別番組表を利用。"
     },
     "ufo": {
       "programs": [
@@ -138,10 +140,8 @@
       },
       "sourceIds": [
         "occult_tv_calendar",
-        "occult",
-        "official_www_fujitv_co_jp",
-        "official_www_tv_tokyo_co_jp",
-        "official_www_web_nhk"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -175,7 +175,11 @@
             "超常現象"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "occult_tv_calendar"
+      ],
+      "searchSourceNote": "オカルト番組表を最初に参照。放送日時や局を補うときだけGガイド・J:COMの個別番組表を利用。"
     },
     "movie": {
       "programs": [
@@ -208,9 +212,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "movie",
-        "official_www_ntv_co_jp",
-        "official_www_tv_tokyo_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -253,7 +256,12 @@
             "映画放送枠"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "horror_movie": {
       "programs": [
@@ -283,9 +291,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "movie",
-        "official_www_tv_tokyo_co_jp",
-        "official_www_bsfuji_tv"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -319,7 +326,12 @@
             "怪獣ホラー"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "disney": {
       "programs": [
@@ -369,8 +381,8 @@
         "note": "ディズニー、TDL、TDSの3語を単独で番組表検索し、タイトルだけでなく当該回の内容に出るものも拾う。公式局個別ページへの再照合は必須ではない。一般番組表はprovider_confirmedで登録。"
       },
       "sourceIds": [
-        "official_www_ntv_co_jp",
-        "official_www_tbs_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_guide_keyword",
@@ -421,7 +433,12 @@
         "requireTwoSources": false,
         "requireStationDateStart": true,
         "exclude": "対象外の有料CS/専門チャンネル・Disney+配信のみ・パーク営業時間やショー予定（テレビ放送ではない）・局や放送日時不明・偶然の文字一致は掲載しない。"
-      }
+      },
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "usj": {
       "programs": [
@@ -451,8 +468,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tbs_co_jp",
-        "official_www_ntv_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -486,7 +503,12 @@
             "パーク食べ歩き"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "big_eating": {
       "programs": [
@@ -516,8 +538,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tv_tokyo_co_jp",
-        "official_www_tbs_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -551,7 +573,12 @@
             "完食チャレンジ"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "onsen": {
       "programs": [
@@ -582,8 +609,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_bs_asahi_co_jp",
-        "official_www_tv_asahi_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -617,7 +644,12 @@
             "湯めぐり"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "architecture": {
       "programs": [
@@ -650,8 +682,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tv_asahi_co_jp",
-        "official_www_bs_asahi_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -686,7 +718,12 @@
             "建築修復"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "car": {
       "programs": [
@@ -751,10 +788,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_bsfuji_tv",
-        "official_www_bs_asahi_co_jp",
-        "official_www_nhk_jp",
-        "official_www_web_nhk"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -833,7 +868,12 @@
             "ロードトリップ"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "dance": {
       "programs": [
@@ -865,8 +905,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tbs_co_jp",
-        "official_www_tv_tokyo_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -899,7 +939,12 @@
             "ダンスバトル"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "golf": {
       "programs": [
@@ -932,9 +977,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "golf",
-        "official_www_bs_asahi_co_jp",
-        "official_www_ntv_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -969,7 +1013,12 @@
             "ゴルフ場探訪"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "soccer": {
       "programs": [
@@ -1000,9 +1049,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "sports",
-        "official_www_tbs_co_jp",
-        "official_www_tv_tokyo_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1036,7 +1084,12 @@
             "選手特集"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "baseball": {
       "programs": [
@@ -1068,9 +1121,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "sports",
-        "official_www_tbs_co_jp",
-        "official_www_ntv_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1111,7 +1163,12 @@
             "野球情報"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "fishing": {
       "programs": [
@@ -1166,8 +1223,8 @@
         "note": "釣・マグロ・漁・魚の4語で番組表を網羅的に検索し、魚料理なども候補に含める。検索語一致を手掛かりに当該番組のタイトル・局・日時を確認し、公式照合は必須ではない。放送回内容の厳密な釣り専用分類は不要。"
       },
       "sourceIds": [
-        "official_www_tv_tokyo_co_jp",
-        "official_www_bsfuji_tv"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_guide_keyword",
@@ -1229,7 +1286,12 @@
         "requireTwoSources": false,
         "requireStationDateStart": true,
         "exclude": "対象外局・有料BS/CS・配信のみ・開始日時不明・番組表の偶然の広告文だけの一致は掲載しない。"
-      }
+      },
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "health": {
       "programs": [
@@ -1263,8 +1325,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tbs_co_jp",
-        "official_www_nhk_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1306,7 +1368,12 @@
             "治療情報"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "travel": {
       "programs": [
@@ -1342,8 +1409,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_nhk_jp",
-        "official_www_tv_tokyo_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1386,7 +1453,12 @@
             "バイク旅"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "challenge": {
       "programs": [
@@ -1423,8 +1495,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "official_www_tbs_co_jp",
-        "official_www_fujitv_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1459,7 +1531,12 @@
             "挑戦番組"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     },
     "anime": {
       "programs": [
@@ -1490,9 +1567,7 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "syobocal",
-        "official_www_tv_tokyo_co_jp",
-        "official_www_tbs_co_jp"
+        "syobocal"
       ],
       "searchMethods": [
         "program_title",
@@ -1525,7 +1600,11 @@
             "アニメ映画"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "syobocal"
+      ],
+      "searchSourceNote": "しょぼいカレンダーAPIをアニメの一次取得元とし、既存の取得・公開システムを維持。その他のサイトは通常検索には用いない。"
     },
     "railway": {
       "programs": [
@@ -1560,9 +1639,8 @@
         "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
       },
       "sourceIds": [
-        "railway",
-        "official_www_bsfuji_tv",
-        "official_www_bs_asahi_co_jp"
+        "g_guide",
+        "jcom"
       ],
       "searchMethods": [
         "program_title",
@@ -1604,7 +1682,12 @@
             "鉄道施設"
           ]
         }
-      ]
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
     }
   },
   "classification": {
@@ -1823,6 +1906,53 @@
       "method": "ai_web_reference",
       "automatedCollection": false,
       "conditions": "ユーザー指定の『オカルト番組表』。通常番組内のオカルト特集まで拾う調査起点。直接403の可能性あり、アクセス制限の回避をしない。検索索引などで候補を発見し個別放送事実を確認。有料CS・対象外地域は除外。本文・画像・番組表配列は転載しない。最新日付の更新があるとは仮定しない。"
+    },
+    "g_guide": {
+      "url": "https://bangumi.org/",
+      "roles": [
+        "discovery",
+        "broadcast_facts"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "通常ジャンルで最優先の個別番組表。番組名・対象局・日時・内容を個別参照。サイト制限を回避しない。本文や番組表全体は再配布しない。"
+    },
+    "jcom": {
+      "url": "https://tvguide.myjcom.jp/",
+      "roles": [
+        "discovery",
+        "broadcast_facts"
+      ],
+      "method": "ai_web_reference",
+      "automatedCollection": false,
+      "conditions": "通常ジャンルの第二検索先。個々の放送枠の最小事実だけ。ログイン・有料情報・一括取得をしない。"
     }
+  },
+  "searchSourcePolicy": {
+    "version": 1,
+    "standard": {
+      "sources": [
+        "g_guide",
+        "jcom"
+      ],
+      "strategy": "Gガイド→J:COMの順で、番組名と番組内容を検索。番組表の最小事実を取得。公式局サイトの再照合は不要。"
+    },
+    "anime": {
+      "sources": [
+        "syobocal"
+      ],
+      "strategy": "既存しょぼいカレンダーAPIによるアニメ枠をそのまま利用。"
+    },
+    "occult": {
+      "sources": [
+        "occult_tv_calendar",
+        "g_guide",
+        "jcom"
+      ],
+      "strategy": "ユーザー指定のオカルト番組表を最優先。必要に応じてGガイド/J:COMで局・日時の確認。"
+    },
+    "defaultSearchScope": "東京・千葉の地上波と無料BS、現在から7日間。個別の放送枠のみ。局や開始時刻を推測しない。",
+    "sourceSelectionReason": "2026-11-09ユーザー指示：調査先を減らし、アニメとオカルトだけ専用情報源を使用。",
+    "useLegacySourcesForRoutineSearch": false
   }
 }
