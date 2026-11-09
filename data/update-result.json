@@ -1,32 +1,31 @@
 {
-  "at": "2026-11-09T11:50:29+09:00",
-  "status": "published",
+  "at": "2026-11-09T11:54:31+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 168,
+  "publicPrograms": 173,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
-    "added": [],
+    "added": [
+      "chatgpt-bstvtokyo-202611140730-golf",
+      "chatgpt-bstvtokyo-202611150800-golf",
+      "chatgpt-bstvtokyo-202611150900-golf",
+      "chatgpt-tbs-20261115-1500-visa-golf",
+      "chatgpt-tvasahi-202611151600-golf"
+    ],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
     "expired": []
   },
   "counts": {
-    "added": 0,
+    "added": 5,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T11:50:53+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "bfffceab2612539b452014c39020c26a5d66156637fbef96cde33291cf733b01",
-    "programs": 168
-  }
+  "publicationVerified": false
 }
