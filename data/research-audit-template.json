@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "periodStartJst": "YYYY-MM-DD",
+  "periodDays": 7,
+  "createdAtJst": null,
+  "overallStatus": "not_started",
+  "notes": "実際に調査した事実のみ記入。これは雛形であり調査済み記録ではない。",
+  "genres": {
+    "ghost": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "ufo": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "movie": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "horror_movie": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "disney": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "usj": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "big_eating": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "onsen": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "architecture": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "car": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "dance": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "golf": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "soccer": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "baseball": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "fishing": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "health": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "travel": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "challenge": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "anime": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    },
+    "railway": {
+      "status": "not_started",
+      "plannedQueries": [],
+      "checks": [],
+      "unsearchedDates": [],
+      "unsearchedQueries": [],
+      "stoppedEarly": false,
+      "addedProgramIds": []
+    }
+  }
+}
