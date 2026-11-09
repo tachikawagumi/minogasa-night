@@ -2342,6 +2342,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "番組表で日本テレビの11月15日15:00開始枠を確認。終了時刻は未確認のため省略。"
+    },
+    {
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": "2026-11-15T21:50:00+09:00",
+      "title": "球辞苑〜プロ野球が100倍楽しくなるキーワードたち〜 選 フェンス",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261115",
+      "id": "chatgpt-nhkbs-20261115-2100-kyujien",
+      "seriesId": "chatgpt-nhkbs",
+      "genreIds": [
+        "baseball"
+      ],
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "番組表の無料放送枠で番組名・局・日時を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
