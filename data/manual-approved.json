@@ -3056,6 +3056,61 @@
       "publicationApproved": true,
       "origin": "manual_guide_car_review",
       "genreBasis": "Gガイド11月14日BS日テレ番組表で21時開始を確認。国産旧車の維持・修理・カスタムを扱う回。"
+    },
+    {
+      "id": "manual-car-bsfuji-202611151030",
+      "seriesId": "manual-series-classic-car",
+      "title": "The Classic Car #77 OM 665 Superba",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T10:30:00+09:00",
+      "end": "2026-11-15T11:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/classiccar/pub/077.html",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "対象週のGガイド番組表とBS局公式掲載で放送日・時刻・車または二輪車企画を確認。"
+    },
+    {
+      "id": "manual-car-bs11-202611152130",
+      "seriesId": "manual-series-motorise",
+      "title": "MOTORISE 福島ツーリング 3大ラインを走る！",
+      "stationId": "bs11",
+      "start": "2026-11-15T21:30:00+09:00",
+      "end": "2026-11-15T22:00:00+09:00",
+      "genreIds": [
+        "car",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs11.jp/entertainment/motorise/",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "対象週のGガイド番組表とBS局公式掲載で放送日・時刻・車または二輪車企画を確認。"
+    },
+    {
+      "id": "manual-car-bsfuji-202611150300",
+      "seriesId": "manual-series-neo-retro",
+      "title": "名品再生～ネオレトロの世界～ Vespa 125ET3 #1・#2",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T03:00:00+09:00",
+      "end": "2026-11-15T04:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bsfuji.tv/top/list/docu.html",
+      "checkedAt": "2026-11-09T05:00:00Z",
+      "updatedAt": "2026-11-09T05:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_car_detail_review",
+      "genreBasis": "対象週のGガイド番組表とBS局公式掲載で放送日・時刻・車または二輪車企画を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
