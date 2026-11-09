@@ -9181,6 +9181,175 @@
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
       "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。"
+    },
+    {
+      "id": "muse-winter-AmSgQoKRAAM",
+      "seriesId": "muse-winter-series-AmSgQoKRAAM",
+      "title": "報道ステーション",
+      "stationId": "tvasahi",
+      "start": "2026-11-09T21:54:00+09:00",
+      "end": "2026-11-09T23:10:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgQoKRAAM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "ニュース内フィギュアスケート特集。Muse B区分"
+    },
+    {
+      "id": "muse-winter-AmSgBlLjUAE",
+      "seriesId": "muse-winter-series-AmSgBlLjUAE",
+      "title": "ワースポ×MLB",
+      "stationId": "nhk_bs",
+      "start": "2026-11-09T22:45:00+09:00",
+      "end": "2026-11-09T23:15:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgBlLjUAE",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュアGPハイライト候補。Muse B区分"
+    },
+    {
+      "id": "muse-winter-AmSgQgVvwAM",
+      "seriesId": "muse-winter-series-AmSgQgVvwAM",
+      "title": "FNN Live News α",
+      "stationId": "fuji",
+      "start": "2026-11-09T23:30:00+09:00",
+      "end": "2026-11-10T00:15:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgQgVvwAM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュアGP中国杯のニュース。Muse B区分"
+    },
+    {
+      "id": "muse-winter-AmUACXKSAAE",
+      "seriesId": "muse-winter-series-AmUACXKSAAE",
+      "title": "メダリスト score07「1級バッジテスト」",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T02:30:00+09:00",
+      "end": "2026-11-15T03:00:00+09:00",
+      "genreIds": [
+        "winter_sports",
+        "anime"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUACXKSAAE",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュア題材のアニメ。Muse B区分"
+    },
+    {
+      "id": "muse-winter-AmUAQgWEQAM",
+      "seriesId": "muse-winter-series-AmUAQgWEQAM",
+      "title": "第39回UHB杯ジャンプ",
+      "stationId": "fuji",
+      "start": "2026-11-15T03:15:00+09:00",
+      "end": "2026-11-15T04:10:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQgWEQAM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "スキージャンプ大会中継。Gガイド個別確認済"
+    },
+    {
+      "id": "muse-winter-AmUAQoLi8AM",
+      "seriesId": "muse-winter-series-AmUAQoLi8AM",
+      "title": "フィギュアグランプリシリーズ2026 アメリカ大会 男子ショート",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T04:00:00+09:00",
+      "end": "2026-11-15T05:00:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQoLi8AM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュア大会中継。Gガイド個別確認済"
+    },
+    {
+      "id": "muse-winter-AmUAQoLywAM",
+      "seriesId": "muse-winter-series-AmUAQoLywAM",
+      "title": "フィギュアグランプリシリーズ2026 アメリカ大会 女子ショート・男子フリー",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T13:55:00+09:00",
+      "end": "2026-11-15T16:00:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQoLywAM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュア大会中継。Gガイド個別確認済"
+    },
+    {
+      "id": "muse-winter-AmUAQQKxcAM",
+      "seriesId": "muse-winter-series-AmUAQQKxcAM",
+      "title": "Going! Sports&News",
+      "stationId": "ntv",
+      "start": "2026-11-15T23:55:00+09:00",
+      "end": "2026-11-16T00:55:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQQKxcAM",
+      "checkedAt": "2026-11-09T21:09:00+09:00",
+      "updatedAt": "2026-11-09T21:09:00+09:00",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_winter_sports_report_20261109",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "フィギュア関連ニュース特集。Muse B区分"
     }
   ],
   "updatedAt": "2026-11-09T06:11:12.430Z",
