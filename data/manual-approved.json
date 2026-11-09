@@ -2908,6 +2908,24 @@
       "publicationApproved": true,
       "origin": "manual_guide_weekly_review",
       "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。"
+    },
+    {
+      "id": "manual-movie-202611151800-bsfuji",
+      "seriesId": "manual-series-odoru-movie2",
+      "title": "踊る大捜査線 THE MOVIE 2 レインボーブリッジを封鎖せよ！",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T18:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/talents/1192/programs",
+      "checkedAt": "2026-11-09T00:00:00Z",
+      "updatedAt": "2026-11-09T00:00:00Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_guide_movie_check",
+      "genreBasis": "Gガイド出演者別番組表で11月15日18:00 BSフジ・181の映画放送を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
