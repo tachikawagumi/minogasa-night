@@ -22,9 +22,11 @@ jobs:
           java-version: '17'
           cache: gradle
           cache-dependency-path: android/**/*.gradle.kts
-      - uses: android-actions/setup-android@v3
       - name: Install Android SDK
-        run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+        run: |
+          echo "ANDROID_HOME=${ANDROID_HOME:-$ANDROID_SDK_ROOT}" >> "$GITHUB_ENV"
+          yes | sdkmanager --licenses >/dev/null || true
+          sdkmanager "platforms;android-35" "build-tools;35.0.0"
       - name: Build and test
         working-directory: android
         run: |
