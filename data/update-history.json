@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:49:39+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 168,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:50:06+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "00a5ee1dc328a0c9360d8d60540ddc1b7b6ac876417a3dbf081f0fc569f638f4",
-      "programs": 168
-    }
-  },
-  {
     "at": "2026-11-09T11:50:29+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1516,5 +1484,33 @@
       "semanticSha256": "a57b8d4a58c0e3bfbf7f83a371625399b6d65b883d85bc8776c8a0365774ac9a",
       "programs": 226
     }
+  },
+  {
+    "at": "2026-11-09T14:27:27+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 226,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [
+        "chatgpt-tvtokyo-20261115-0305-race-with-the-devil",
+        "manual-weekly-202611141200-fuji"
+      ],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 2,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
