@@ -1,43 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:54:31+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 173,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bstvtokyo-202611140730-golf",
-        "chatgpt-bstvtokyo-202611150800-golf",
-        "chatgpt-bstvtokyo-202611150900-golf",
-        "chatgpt-tbs-20261115-1500-visa-golf",
-        "chatgpt-tvasahi-202611151600-golf"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 5,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:54:55+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "32ce432dd9e4695eeaf18b3b74442f25d3690b6394621ed9d6ba037e6363eae3",
-      "programs": 173
-    }
-  },
-  {
     "at": "2026-11-09T11:55:24+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1522,5 +1484,33 @@
       "semanticSha256": "f552cde6469815f372df9adf7e66f42031ab8df712da980ff512dc794c5c8641",
       "programs": 228
     }
+  },
+  {
+    "at": "2026-11-09T14:40:40+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 230,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "architecture-202611-bsfuji-111900",
+        "architecture-202611-bstvtokyo-152100"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
