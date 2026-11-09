@@ -1,39 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:47:34+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 168,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bstbs-20261113-2100-croatia-homes"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:48:00+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "7a841f27192ee2a311ce3bab7343afc08a0652c53bcefb5dbf4fa159eaafc13c",
-      "programs": 168
-    }
-  },
-  {
     "at": "2026-11-09T11:49:39+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1486,5 +1452,46 @@
     "publicationVerified": false,
     "error": "ValueError: 確認日時が未来",
     "previousPublicPreserved": true
+  },
+  {
+    "at": "2026-11-09T14:23:31+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 226,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "car-council-20261110-2345-tvasahi",
+        "car-council-20261111-0125-tvasahi",
+        "car-council-20261111-2300-nhk_g",
+        "car-council-20261112-2154-bsasahi",
+        "car-council-20261114-1030-fuji",
+        "car-council-20261115-0000-tvtokyo",
+        "manual-car-202611092200-bsfuji",
+        "manual-car-bs11-202611152130",
+        "manual-car-bsfuji-202611150300",
+        "manual-car-bsfuji-202611151030",
+        "manual-car-detail-chiba-202611152330",
+        "manual-car-detail-mx-202611151430",
+        "manual-car-detail-tvtokyo-202611150830"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "chatgpt-tvtokyo-20261109-1340-mybodyguard"
+      ]
+    },
+    "counts": {
+      "added": 13,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
   }
 ]
