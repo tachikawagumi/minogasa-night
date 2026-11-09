@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceMode": "real",
   "timeZone": "Asia/Tokyo",
-  "generatedAt": "2026-11-09T14:59:24+09:00",
+  "generatedAt": "2026-11-09T16:22:35+09:00",
   "windowStart": "2026-11-09T00:00:00+09:00",
   "windowEnd": "2026-11-16T00:00:00+09:00",
   "updateStatus": "ok",
@@ -173,7 +173,7 @@
       "station": "NHK総合",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -181,7 +181,7 @@
       "station": "NHK Eテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -189,7 +189,7 @@
       "station": "フジテレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -197,7 +197,7 @@
       "station": "日本テレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -205,7 +205,7 @@
       "station": "TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -213,7 +213,7 @@
       "station": "テレビ朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -221,7 +221,7 @@
       "station": "テレビ東京",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -229,7 +229,7 @@
       "station": "チバテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -237,7 +237,7 @@
       "station": "BSテレ東",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -245,7 +245,7 @@
       "station": "BS-TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -253,7 +253,7 @@
       "station": "BSフジ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -261,7 +261,7 @@
       "station": "BS朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -269,7 +269,7 @@
       "station": "TOKYO MX",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -277,7 +277,7 @@
       "station": "BS日テレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -285,7 +285,7 @@
       "station": "BS11イレブン",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -293,7 +293,7 @@
       "station": "BS12トゥエルビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -301,7 +301,7 @@
       "station": "TOKYO MX2",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-09T14:59:24+09:00",
+      "animeCheckedAt": "2026-11-09T16:22:35+09:00",
       "complete": false
     },
     {
@@ -322,6 +322,20 @@
     }
   ],
   "programs": [
+    {
+      "id": "muse2-9-1900-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1393日目（夜）",
+      "title": "こころ旅 ゴール！1393日目（夜）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-09T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
     {
       "id": "chatgpt-ntv-20261109-1900-ariyoshizemi",
       "seriesId": "chatgpt-series-ariyoshi-zemi",
@@ -351,6 +365,35 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-9-2030-nhk_e",
+      "seriesId": "muse2-nhk_e-きょうの健康 COPD",
+      "title": "きょうの健康 COPD",
+      "stationId": "nhk_e",
+      "start": "2026-11-09T20:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "health"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-9-2054-bstbs",
+      "seriesId": "muse2-bstbs-熊切あさ美のレトロぶらり旅 秩父鉄道",
+      "title": "熊切あさ美のレトロぶらり旅 秩父鉄道",
+      "stationId": "bstbs",
+      "start": "2026-11-09T20:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse-architecture-202611-06",
       "seriesId": "muse-architecture-series-06",
       "title": "あなたの知らない京都旅「南禅寺・西来院」",
@@ -363,6 +406,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-9-2100-chiba",
+      "seriesId": "muse2-chiba-真・ゴルフの王様",
+      "title": "真・ゴルフの王様",
+      "stationId": "chiba",
+      "start": "2026-11-09T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bsasahi-20261109-2154-golf",
@@ -389,8 +446,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvtokyo-20261109-2154-tokyo-crossing-fish",
@@ -405,6 +462,20 @@
       "status": "official_confirmed",
       "checkedAt": "2026-11-09T09:34:39+09:00",
       "updatedAt": "2026-11-09T09:34:39+09:00"
+    },
+    {
+      "id": "muse2-9-2155-chiba",
+      "seriesId": "muse2-chiba-Rising Reysol！",
+      "title": "Rising Reysol！",
+      "stationId": "chiba",
+      "start": "2026-11-09T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "manual-car-202611092200-bsfuji",
@@ -431,8 +502,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-20261109-2230-golfjo-tanbo",
@@ -459,8 +530,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720055",
@@ -473,8 +544,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718355",
@@ -487,8 +558,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720085",
@@ -501,8 +572,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-07",
@@ -529,8 +600,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720044",
@@ -543,8 +614,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719298",
@@ -557,8 +628,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-08",
@@ -582,7 +653,8 @@
       "start": "2026-11-09T23:56:00+09:00",
       "end": null,
       "genreIds": [
-        "big_eating"
+        "big_eating",
+        "travel"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T12:10:00+09:00",
@@ -599,8 +671,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717112",
@@ -613,8 +685,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-10-0000-mx",
+      "seriesId": "muse2-anime-信者ゼロの女神サマ #5",
+      "title": "信者ゼロの女神サマ #5",
+      "stationId": "mx",
+      "start": "2026-11-10T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-717786",
@@ -627,8 +713,36 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-10-0000-tvtokyo",
+      "seriesId": "muse2-anime-ダイヤのAシリーズ セレクション",
+      "title": "ダイヤのAシリーズ セレクション",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0015-fuji",
+      "seriesId": "muse2-fuji-MONDAY FOOTBALL みん",
+      "title": "MONDAY FOOTBALL みんなのJ",
+      "stationId": "fuji",
+      "start": "2026-11-10T00:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716639",
@@ -641,8 +755,162 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-10-0030-chiba",
+      "seriesId": "muse2-chiba-ビスケットブラザーズの行けばわかるさ",
+      "title": "ビスケットブラザーズの行けばわかるさ！三重街道中ひざくりげ",
+      "stationId": "chiba",
+      "start": "2026-11-10T00:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0030-mx",
+      "seriesId": "muse2-anime-逃げ上手の若君 第二期 #18",
+      "title": "逃げ上手の若君 第二期 #18",
+      "stationId": "mx",
+      "start": "2026-11-10T00:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-0100-mx",
+      "seriesId": "muse2-anime-ガールズバンドクライ MV",
+      "title": "ガールズバンドクライ MV",
+      "stationId": "mx",
+      "start": "2026-11-10T01:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-0130-tvtokyo",
+      "seriesId": "muse2-anime-ワンパンマン（3期）#29",
+      "title": "ワンパンマン（3期）#29",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T01:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0135-mx",
+      "seriesId": "muse2-mx-イレスギ",
+      "title": "イレスギ",
+      "stationId": "mx",
+      "start": "2026-11-10T01:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0200-tvtokyo",
+      "seriesId": "muse2-anime-魔法少女育成計画restart #6",
+      "title": "魔法少女育成計画restart #6",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T02:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0205-ntv",
+      "seriesId": "muse2-ntv-旅猿29",
+      "title": "旅猿29",
+      "stationId": "ntv",
+      "start": "2026-11-10T02:05:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0235-tvtokyo",
+      "seriesId": "muse2-anime-推しエンタTV！",
+      "title": "推しエンタTV！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T02:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0300-bs12",
+      "seriesId": "muse2-bs12-マナミ＆光里のGOLF LOVERS",
+      "title": "マナミ＆光里のGOLF LOVERS #9",
+      "stationId": "bs12",
+      "start": "2026-11-10T03:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0320-tvtokyo",
+      "seriesId": "muse2-anime-ホテル・インヒューマンズ",
+      "title": "ホテル・インヒューマンズ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T03:20:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0425-ntv",
+      "seriesId": "muse2-ntv-映画『SUKIYAKI 上を向いて歩",
+      "title": "映画『SUKIYAKI 上を向いて歩こう』紹介編",
+      "stationId": "ntv",
+      "start": "2026-11-10T04:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-13",
@@ -659,6 +927,34 @@
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
+      "id": "muse2-anime-10-0500-mx",
+      "seriesId": "muse2-anime-ハッピーナッチョイ！",
+      "title": "ハッピーナッチョイ！",
+      "stationId": "mx",
+      "start": "2026-11-10T05:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-0640-nhk_e",
+      "seriesId": "muse2-anime-プチプチ・アニメ",
+      "title": "プチプチ・アニメ",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T06:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "muse-architecture-202611-15",
       "seriesId": "muse-architecture-series-15",
       "title": "時のきらめき #6「高取城址（奈良県）」",
@@ -673,6 +969,20 @@
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
+      "id": "muse-architecture-202611-16",
+      "seriesId": "muse-architecture-series-16",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T07:08:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
       "id": "syobocal-724626",
       "seriesId": "syobocal-title-1903",
       "title": "はなかっぱ",
@@ -683,8 +993,134 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-10-0730-mx",
+      "seriesId": "muse2-anime-ハッピーナッチョイ！",
+      "title": "ハッピーナッチョイ！",
+      "stationId": "mx",
+      "start": "2026-11-10T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0745-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 朝版 1394日目",
+      "title": "こころ旅 朝版 1394日目",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T07:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-10-0757-bs12",
+      "seriesId": "muse2-bs12-温泉日和 #28 田沢温泉",
+      "title": "温泉日和 #28 田沢温泉",
+      "stationId": "bs12",
+      "start": "2026-11-10T07:57:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0800-mx2",
+      "seriesId": "muse2-anime-アイドル伝説えり子 #19",
+      "title": "アイドル伝説えり子 #19",
+      "stationId": "mx2",
+      "start": "2026-11-10T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0800-tvtokyo",
+      "seriesId": "muse2-tvtokyo-いい旅、見つかる 教えて！ツアーの達",
+      "title": "いい旅、見つかる 教えて！ツアーの達人",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-0825-mx2",
+      "seriesId": "muse2-anime-ハッピーナッチョイ！",
+      "title": "ハッピーナッチョイ！",
+      "stationId": "mx2",
+      "start": "2026-11-10T08:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-0825-nhk_e",
+      "seriesId": "muse2-anime-おじゃる丸",
+      "title": "おじゃる丸",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T08:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-0845-nhk_e",
+      "seriesId": "muse2-anime-ルルロロ",
+      "title": "ルルロロ",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T08:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-0850-nhk_e",
+      "seriesId": "muse2-nhk_e-てれび絵本「妖怪えほん2」",
+      "title": "てれび絵本「妖怪えほん2」",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T08:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-nhkbs-20261110-1200-tsuribito-hagi",
@@ -694,11 +1130,40 @@
       "start": "2026-11-10T12:00:00+09:00",
       "end": "2026-11-10T12:30:00+09:00",
       "genreIds": [
-        "fishing"
+        "fishing",
+        "travel"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T09:34:39+09:00",
       "updatedAt": "2026-11-09T09:34:39+09:00"
+    },
+    {
+      "id": "muse2-10-1200-tvtokyo",
+      "seriesId": "muse2-tvtokyo-昼めし旅 茨城SP",
+      "title": "昼めし旅 茨城SP",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse-architecture-202611-18",
+      "seriesId": "muse-architecture-series-18",
+      "title": "心おどる 北欧・アジアンスタイル（5）",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T12:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
       "id": "chatgpt-tvtokyo-20261110-1340-iceroad",
@@ -713,6 +1178,91 @@
       "status": "official_confirmed",
       "checkedAt": "2026-11-09T09:14:00+09:00",
       "updatedAt": "2026-11-09T09:14:00+09:00"
+    },
+    {
+      "id": "muse2-10-1510-nhk_bs",
+      "seriesId": "muse2-nhk_bs-中井精也の絶景！てつたび 富山地方鉄",
+      "title": "中井精也の絶景！てつたび 富山地方鉄道",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T15:10:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-10-1540-tvtokyo",
+      "seriesId": "muse2-tvtokyo-よじごじDays「蒲田で昭和さんぽ」",
+      "title": "よじごじDays「蒲田で昭和さんぽ」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-10T15:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-10-1554-nhk_bs",
+      "seriesId": "muse2-nhk_bs-発掘！鉄道お宝フィルム『乗車券』",
+      "title": "発掘！鉄道お宝フィルム『乗車券』",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T15:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-1700-chiba",
+      "seriesId": "muse2-anime-デジモンアドベンチャー 第43話",
+      "title": "デジモンアドベンチャー 第43話",
+      "stationId": "chiba",
+      "start": "2026-11-10T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-1700-nhk_e",
+      "seriesId": "muse2-anime-はなかっぱ（夕方）",
+      "title": "はなかっぱ（夕方）",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse-architecture-202611-20",
+      "seriesId": "muse-architecture-series-20",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T17:08:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
       "id": "manual-onsen-rail-202611101830",
@@ -731,6 +1281,34 @@
       "updatedAt": "2026-11-09T04:23:00Z"
     },
     {
+      "id": "muse2-anime-10-1830-mx",
+      "seriesId": "muse2-anime-ウルトラマン80 #41",
+      "title": "ウルトラマン80 #41",
+      "stationId": "mx",
+      "start": "2026-11-10T18:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse-architecture-202611-22",
+      "seriesId": "muse-architecture-series-22",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T18:38:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
       "id": "chatgpt-bstvtokyo-20261110-1900-maguro-war",
       "seriesId": "chatgpt-series-maguro-war",
       "title": "洋上の激闘！巨大マグロ戦争2023",
@@ -743,6 +1321,34 @@
       "status": "official_confirmed",
       "checkedAt": "2026-11-09T09:34:39+09:00",
       "updatedAt": "2026-11-09T09:34:39+09:00"
+    },
+    {
+      "id": "muse2-anime-10-1900-mx",
+      "seriesId": "muse2-anime-仮面ライダーアギト #26",
+      "title": "仮面ライダーアギト #26",
+      "stationId": "mx",
+      "start": "2026-11-10T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-1900-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1394日目（夜）",
+      "title": "こころ旅 ゴール！1394日目（夜）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-tvasahi-20261110-1900-platinumfamily",
@@ -759,6 +1365,35 @@
       "updatedAt": "2026-11-09T10:09:14+09:00"
     },
     {
+      "id": "muse2-anime-10-1930-mx",
+      "seriesId": "muse2-anime-ルパン三世 PART2 #4",
+      "title": "ルパン三世 PART2 #4",
+      "stationId": "mx",
+      "start": "2026-11-10T19:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-2000-nhk_bs",
+      "seriesId": "muse2-nhk_bs-新日本風土記「城崎温泉と城下町」",
+      "title": "新日本風土記「城崎温泉と城下町」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T20:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse-architecture-202611-24",
       "seriesId": "muse-architecture-series-24",
       "title": "ちば文化資産▽天神坂",
@@ -771,6 +1406,34 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-10-2055-tbs",
+      "seriesId": "muse2-tbs-マツコの知らない世界「秋旅」",
+      "title": "マツコの知らない世界「秋旅」",
+      "stationId": "tbs",
+      "start": "2026-11-10T20:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-10-2057-mx",
+      "seriesId": "muse2-mx-野田クリの野望〜ゲーム天下統一への道",
+      "title": "野田クリの野望〜ゲーム天下統一への道〜",
+      "stationId": "mx",
+      "start": "2026-11-10T20:57:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-25",
@@ -787,6 +1450,35 @@
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
+      "id": "muse2-10-2100-bsntv",
+      "seriesId": "muse2-bsntv-友近・礼二の妄想トレイン 樽見鉄道",
+      "title": "友近・礼二の妄想トレイン 樽見鉄道",
+      "stationId": "bsntv",
+      "start": "2026-11-10T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-10-2100-chiba",
+      "seriesId": "muse2-chiba-里崎智也のゴルフ直球勝負！",
+      "title": "里崎智也のゴルフ直球勝負！",
+      "stationId": "chiba",
+      "start": "2026-11-10T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "muse-architecture-202611-26",
       "seriesId": "muse-architecture-series-26",
       "title": "世界ふれあい街歩き 選「サマルカンド」",
@@ -794,11 +1486,26 @@
       "start": "2026-11-10T21:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-anime-10-2125-mx",
+      "seriesId": "muse2-anime-凶乱令嬢ニア・リストン #6",
+      "title": "凶乱令嬢ニア・リストン #6",
+      "stationId": "mx",
+      "start": "2026-11-10T21:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-716459",
@@ -811,8 +1518,50 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse-architecture-202611-27",
+      "seriesId": "muse-architecture-series-27",
+      "title": "心おどる 北欧・アジアンスタイル（6）",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T21:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-anime-10-2154-mx",
+      "seriesId": "muse2-anime-ハッピーナッチョイ！",
+      "title": "ハッピーナッチョイ！",
+      "stationId": "mx",
+      "start": "2026-11-10T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-10-2154-ntv",
+      "seriesId": "muse2-ntv-オフ・ザ・ピッチ",
+      "title": "オフ・ザ・ピッチ",
+      "stationId": "ntv",
+      "start": "2026-11-10T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bsasahi-20261110-2200-himutaro",
@@ -829,6 +1578,34 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-10-2200-bsfuji",
+      "seriesId": "muse2-bsfuji-プロ野球 レジェン堂 岩隈久志",
+      "title": "プロ野球 レジェン堂 岩隈久志",
+      "stationId": "bsfuji",
+      "start": "2026-11-10T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-10-2200-mx",
+      "seriesId": "muse2-anime-塩対応の佐藤さん #6",
+      "title": "塩対応の佐藤さん #6",
+      "stationId": "mx",
+      "start": "2026-11-10T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "syobocal-719437",
       "seriesId": "syobocal-title-8045",
       "title": "塩対応の佐藤さんが俺にだけ甘い",
@@ -839,8 +1616,36 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-10-2230-mx",
+      "seriesId": "muse2-anime-ガンダム 水星の魔女 #17",
+      "title": "ガンダム 水星の魔女 #17",
+      "stationId": "mx",
+      "start": "2026-11-10T22:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-10-2300-fuji",
+      "seriesId": "muse2-anime-火アニバル 超条先輩 #06",
+      "title": "火アニバル 超条先輩 #06",
+      "stationId": "fuji",
+      "start": "2026-11-10T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-718834",
@@ -853,8 +1658,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-10-2300-mx",
+      "seriesId": "muse2-anime-Battle Spirits [Re",
+      "title": "Battle Spirits [Re] #6",
+      "stationId": "mx",
+      "start": "2026-11-10T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-719497",
@@ -867,8 +1686,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719449",
@@ -881,8 +1700,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719473",
@@ -895,8 +1714,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-10-2330-chiba",
+      "seriesId": "muse2-chiba-Rising Reysol！（再）",
+      "title": "Rising Reysol！（再）",
+      "stationId": "chiba",
+      "start": "2026-11-10T23:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-720111",
@@ -909,8 +1742,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "car-council-20261110-2345-tvasahi",
@@ -937,8 +1770,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718500",
@@ -951,8 +1784,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716446",
@@ -965,8 +1798,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717762",
@@ -979,8 +1812,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720645",
@@ -993,8 +1826,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722801",
@@ -1007,8 +1840,23 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-11-0100-nhk_bs",
+      "seriesId": "muse2-nhk_bs-江ノ電のある風景",
+      "title": "江ノ電のある風景",
+      "stationId": "nhk_bs",
+      "start": "2026-11-11T01:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "car-council-20261111-0125-tvasahi",
@@ -1049,8 +1897,52 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-11-0300-bsasahi",
+      "seriesId": "muse2-bsasahi-とっておき 車窓紀行 mini #3",
+      "title": "とっておき 車窓紀行 mini #3 別府の湯",
+      "stationId": "bsasahi",
+      "start": "2026-11-11T03:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-0325-bs12",
+      "seriesId": "muse2-bs12-温泉日和 #29 蔵王温泉",
+      "title": "温泉日和 #29 蔵王温泉",
+      "stationId": "bs12",
+      "start": "2026-11-11T03:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-0425-ntv",
+      "seriesId": "muse2-ntv-『バッド・ルーテナント：トウキョウ』",
+      "title": "『バッド・ルーテナント：トウキョウ』海外レポート",
+      "stationId": "ntv",
+      "start": "2026-11-11T04:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-31",
@@ -1091,8 +1983,120 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-11-0745-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 朝版 1395日目",
+      "title": "こころ旅 朝版 1395日目",
+      "stationId": "nhk_bs",
+      "start": "2026-11-11T07:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-0800-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ツアーの達人",
+      "title": "ツアーの達人",
+      "stationId": "tvtokyo",
+      "start": "2026-11-11T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-0850-nhk_e",
+      "seriesId": "muse2-nhk_e-てれび絵本「妖怪えほん3」",
+      "title": "てれび絵本「妖怪えほん3」",
+      "stationId": "nhk_e",
+      "start": "2026-11-11T08:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1130-nhk_g",
+      "seriesId": "muse2-nhk_g-ドキュメント20min．家族怪ギ",
+      "title": "ドキュメント20min．家族怪ギ",
+      "stationId": "nhk_g",
+      "start": "2026-11-11T11:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1155-ntv",
+      "seriesId": "muse2-ntv-ヒルナンデス はとバスツアー横浜",
+      "title": "ヒルナンデス はとバスツアー横浜",
+      "stationId": "ntv",
+      "start": "2026-11-11T11:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1200-tvtokyo",
+      "seriesId": "muse2-tvtokyo-昼めし旅",
+      "title": "昼めし旅",
+      "stationId": "tvtokyo",
+      "start": "2026-11-11T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1230-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1395日目（昼）",
+      "title": "こころ旅 ゴール！1395日目（昼）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-11T12:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1253-bstvtokyo",
+      "seriesId": "muse2-bstvtokyo-ザ・ミステリー「湯布院殺人事件」",
+      "title": "ザ・ミステリー「湯布院殺人事件」",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-11T12:53:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-tvtokyo-20261111-1340-knightday",
@@ -1109,6 +2113,35 @@
       "updatedAt": "2026-11-09T09:14:00+09:00"
     },
     {
+      "id": "muse2-11-1900-bs11",
+      "seriesId": "muse2-bs11-劇場版「楽園追放」",
+      "title": "劇場版「楽園追放」",
+      "stationId": "bs11",
+      "start": "2026-11-11T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-1900-bs12",
+      "seriesId": "muse2-bs12-映画「Wの悲劇」4K修復版",
+      "title": "映画「Wの悲劇」4K修復版",
+      "stationId": "bs12",
+      "start": "2026-11-11T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "architecture-202611-bsfuji-111900",
       "seriesId": "architecture-bsfuji-華丸大吉が行",
       "title": "華丸大吉が行く神授業 建築編（再）",
@@ -1121,6 +2154,34 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:40:19.953Z",
       "updatedAt": "2026-11-09T05:40:19.953Z"
+    },
+    {
+      "id": "muse2-11-1900-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1395日目（夜）",
+      "title": "こころ旅 ゴール！1395日目（夜）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-11T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-2000-nhk_bs",
+      "seriesId": "muse2-nhk_bs-フロンティア「不老長寿」",
+      "title": "フロンティア「不老長寿」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-11T20:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "health"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bsasahi-20261111-2100-fish-eat",
@@ -1145,6 +2206,7 @@
       "end": "2026-11-11T21:54:00+09:00",
       "genreIds": [
         "architecture",
+        "onsen",
         "railway",
         "travel"
       ],
@@ -1160,11 +2222,56 @@
       "start": "2026-11-11T21:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel",
+        "railway",
+        "onsen"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-11-2100-chiba",
+      "seriesId": "muse2-chiba-牧野裕のEnjoy Golf",
+      "title": "牧野裕のEnjoy Golf",
+      "stationId": "chiba",
+      "start": "2026-11-11T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-2155-bs12",
+      "seriesId": "muse2-bs12-温泉日和 #30 河口湖",
+      "title": "温泉日和 #30 河口湖",
+      "stationId": "bs12",
+      "start": "2026-11-11T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-11-2200-bsfuji",
+      "seriesId": "muse2-bsfuji-ゴルフトリプルマッチ",
+      "title": "ゴルフトリプルマッチ",
+      "stationId": "bsfuji",
+      "start": "2026-11-11T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716531",
@@ -1177,8 +2284,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-37",
@@ -1219,8 +2326,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-11-2255-bsfuji",
+      "seriesId": "muse2-bsfuji-マネゴル！",
+      "title": "マネゴル！",
+      "stationId": "bsfuji",
+      "start": "2026-11-11T22:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-717775",
@@ -1233,8 +2354,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "car-council-20261111-2300-nhk_g",
@@ -1244,7 +2365,8 @@
       "start": "2026-11-11T23:00:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "architecture"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:23:13.608Z",
@@ -1261,8 +2383,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717553",
@@ -1275,8 +2397,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716651",
@@ -1289,8 +2411,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716675",
@@ -1303,8 +2425,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718751",
@@ -1317,8 +2439,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-715377",
@@ -1331,8 +2453,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716247",
@@ -1345,8 +2467,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719740",
@@ -1359,8 +2481,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717159",
@@ -1373,8 +2495,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716235",
@@ -1387,8 +2509,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719310",
@@ -1401,8 +2523,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720510",
@@ -1415,8 +2537,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722911",
@@ -1429,8 +2551,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720498",
@@ -1443,8 +2565,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719753",
@@ -1457,8 +2579,50 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-12-0305-tvtokyo",
+      "seriesId": "muse2-tvtokyo-推しエンタTV！ ブラッククローバー",
+      "title": "推しエンタTV！ ブラッククローバー特集",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T03:05:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse-architecture-202611-38",
+      "seriesId": "muse-architecture-series-38",
+      "title": "京都はんなり紀行「京和傘編」",
+      "stationId": "bstbs",
+      "start": "2026-11-12T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-12-0630-bs12",
+      "seriesId": "muse2-bs12-マナミ＆光里のGOLF LOVERS",
+      "title": "マナミ＆光里のGOLF LOVERS #9（別枠）",
+      "stationId": "bs12",
+      "start": "2026-11-12T06:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-724628",
@@ -1471,8 +2635,36 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-12-0735-mx",
+      "seriesId": "muse2-mx-ごるビバ",
+      "title": "ごるビバ",
+      "stationId": "mx",
+      "start": "2026-11-12T07:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-0745-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 朝版 1396日目",
+      "title": "こころ旅 朝版 1396日目",
+      "stationId": "nhk_bs",
+      "start": "2026-11-12T07:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-onsen-b12-20261112-0757",
@@ -1489,6 +2681,20 @@
       "updatedAt": "2026-11-09T11:25:00+09:00"
     },
     {
+      "id": "muse2-12-0935-nhk_e",
+      "seriesId": "muse2-nhk_e-えいごでがんこちゃん UFO回",
+      "title": "えいごでがんこちゃん UFO回",
+      "stationId": "nhk_e",
+      "start": "2026-11-12T09:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-nhke-20261112-1200-kyonokenko",
       "seriesId": "chatgpt-series-kyono-kenko",
       "title": "きょうの健康 東洋医学「みんなの相談室」",
@@ -1503,6 +2709,48 @@
       "updatedAt": "2026-11-09T10:09:14+09:00"
     },
     {
+      "id": "muse2-12-1200-tvtokyo",
+      "seriesId": "muse2-tvtokyo-昼めし旅 熊谷",
+      "title": "昼めし旅 熊谷",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-1230-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1396日目（昼）",
+      "title": "こころ旅 ゴール！1396日目（昼）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-12T12:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-1300-bsfuji",
+      "seriesId": "muse2-bsfuji-第65回日本プロゴルフシニア選手権 ",
+      "title": "第65回日本プロゴルフシニア選手権 第1日",
+      "stationId": "bsfuji",
+      "start": "2026-11-12T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-tvtokyo-20261112-1340-bankjob",
       "seriesId": "chatgpt-series-bankjob",
       "title": "バンク・ジョブ",
@@ -1515,6 +2763,62 @@
       "status": "official_confirmed",
       "checkedAt": "2026-11-09T09:14:00+09:00",
       "updatedAt": "2026-11-09T09:14:00+09:00"
+    },
+    {
+      "id": "muse2-12-1530-chiba",
+      "seriesId": "muse2-chiba-里崎智也のゴルフ直球勝負！（再）",
+      "title": "里崎智也のゴルフ直球勝負！（再）",
+      "stationId": "chiba",
+      "start": "2026-11-12T15:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-1540-tvtokyo",
+      "seriesId": "muse2-tvtokyo-よじごじDays 吉祥寺さんぽ",
+      "title": "よじごじDays 吉祥寺さんぽ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T15:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-1700-nhk_bs",
+      "seriesId": "muse2-nhk_bs-世界ふれあい街歩き（再）",
+      "title": "世界ふれあい街歩き（再）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-12T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-12-1900-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 ゴール！1396日目（夜）",
+      "title": "こころ旅 ゴール！1396日目（夜）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-12T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-20261112-2100-charitetsu",
@@ -1545,6 +2849,21 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-12-2100-nhk_bs",
+      "seriesId": "muse2-nhk_bs-六角精児の呑み鉄本線 南阿蘇鉄道",
+      "title": "六角精児の呑み鉄本線 南阿蘇鉄道",
+      "stationId": "nhk_bs",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "car-council-20261112-2154-bsasahi",
@@ -1582,9 +2901,24 @@
       "start": "2026-11-12T21:55:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "onsen"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse-architecture-202611-44",
+      "seriesId": "muse-architecture-series-44",
+      "title": "見取り図の間取り図ミステリー！「人生を変えた家スペシャル」",
+      "stationId": "ntv",
+      "start": "2026-11-12T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
@@ -1613,8 +2947,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvtokyo-20261112-2258-tokyo-town-fish",
@@ -1655,8 +2989,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-45",
@@ -1673,6 +3007,20 @@
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
+      "id": "muse2-12-2350-nhk_e",
+      "seriesId": "muse2-nhk_e-漢字ふむふむ 清楚系ホラー回",
+      "title": "漢字ふむふむ 清楚系ホラー回",
+      "stationId": "nhk_e",
+      "start": "2026-11-12T23:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-716750",
       "seriesId": "syobocal-title-8008",
       "title": "氷の城壁(第2期)",
@@ -1683,8 +3031,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716556",
@@ -1697,8 +3045,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718735",
@@ -1711,8 +3059,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718635",
@@ -1722,11 +3070,12 @@
       "start": "2026-11-13T00:00:00+09:00",
       "end": "2026-11-13T00:30:00+09:00",
       "genreIds": [
-        "anime"
+        "anime",
+        "railway"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717659",
@@ -1739,8 +3088,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-chiba-20261113-0030-viva",
@@ -1767,8 +3116,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718574",
@@ -1781,8 +3130,66 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-13-0230-bs12",
+      "seriesId": "muse2-bs12-湯めぐり鉄道 #37 夕日ヶ浦温泉",
+      "title": "湯めぐり鉄道 #37 夕日ヶ浦温泉",
+      "stationId": "bs12",
+      "start": "2026-11-13T02:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-0235-tvtokyo",
+      "seriesId": "muse2-tvtokyo-FOOT×BRAIN＋",
+      "title": "FOOT×BRAIN＋",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T02:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-0335-tvtokyo",
+      "seriesId": "muse2-tvtokyo-推しエンタTV！ ダイヤのA特集",
+      "title": "推しエンタTV！ ダイヤのA特集",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T03:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-0419-ntv",
+      "seriesId": "muse2-ntv-『ゴジラ-0.0』徹底大解剖SP",
+      "title": "『ゴジラ-0.0』徹底大解剖SP",
+      "stationId": "ntv",
+      "start": "2026-11-13T04:19:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-48",
@@ -1799,6 +3206,20 @@
       "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
+      "id": "muse2-13-0630-bs12",
+      "seriesId": "muse2-bs12-VS 今平周吾 #9",
+      "title": "VS 今平周吾 #9",
+      "stationId": "bs12",
+      "start": "2026-11-13T06:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-724629",
       "seriesId": "syobocal-title-1903",
       "title": "はなかっぱ",
@@ -1809,8 +3230,106 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-13-0730-mx",
+      "seriesId": "muse2-mx-原田伸郎のめざせパーゴルフⅢ",
+      "title": "原田伸郎のめざせパーゴルフⅢ",
+      "stationId": "mx",
+      "start": "2026-11-13T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-0745-nhk_bs",
+      "seriesId": "muse2-nhk_bs-こころ旅 おかわり 350週目",
+      "title": "こころ旅 おかわり 350週目",
+      "stationId": "nhk_bs",
+      "start": "2026-11-13T07:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-0800-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ツアーの達人",
+      "title": "ツアーの達人",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1000-bs11",
+      "seriesId": "muse2-bs11-温泉若おかみの殺人推理9 琴平温泉",
+      "title": "温泉若おかみの殺人推理9 琴平温泉",
+      "stationId": "bs11",
+      "start": "2026-11-13T10:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1155-ntv",
+      "seriesId": "muse2-ntv-ヒルナンデス 紅葉の日光旅",
+      "title": "ヒルナンデス 紅葉の日光旅",
+      "stationId": "ntv",
+      "start": "2026-11-13T11:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1200-tvtokyo",
+      "seriesId": "muse2-tvtokyo-昼めし旅",
+      "title": "昼めし旅",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1300-bsfuji",
+      "seriesId": "muse2-bsfuji-日本プロゴルフシニア選手権 第2日",
+      "title": "日本プロゴルフシニア選手権 第2日",
+      "stationId": "bsfuji",
+      "start": "2026-11-13T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-tvtokyo-20261113-1340-escapeplan",
@@ -1827,6 +3346,62 @@
       "updatedAt": "2026-11-09T09:14:00+09:00"
     },
     {
+      "id": "muse2-13-1400-bstbs",
+      "seriesId": "muse2-bstbs-太平洋マスターズ 第2日",
+      "title": "太平洋マスターズ 第2日",
+      "stationId": "bstbs",
+      "start": "2026-11-13T14:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1530-chiba",
+      "seriesId": "muse2-chiba-牧野裕のEnjoy Golf（再）",
+      "title": "牧野裕のEnjoy Golf（再）",
+      "stationId": "chiba",
+      "start": "2026-11-13T15:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1540-tvtokyo",
+      "seriesId": "muse2-tvtokyo-よじごじDays 栃木の味覚",
+      "title": "よじごじDays 栃木の味覚",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T15:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1700-nhk_bs",
+      "seriesId": "muse2-nhk_bs-ヒューマニエンス 選「記憶」",
+      "title": "ヒューマニエンス 選「記憶」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-13T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "health"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-720621",
       "seriesId": "syobocal-title-6236",
       "title": "パウ・パトロール(シーズン4)",
@@ -1837,8 +3412,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-mx-20261113-1759-yuichimuni-cave",
@@ -1866,8 +3441,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvasahi-20261113-1850-japan-korea",
@@ -1891,11 +3466,41 @@
       "start": "2026-11-13T18:55:00+09:00",
       "end": "2026-11-13T19:25:00+09:00",
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-13-1900-bs12",
+      "seriesId": "muse2-bs12-映画「ワンダー・ガールズ 東方三侠2",
+      "title": "映画「ワンダー・ガールズ 東方三侠2」",
+      "stationId": "bs12",
+      "start": "2026-11-13T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-1930-mx",
+      "seriesId": "muse2-mx-新幹線変形ロボ シンカリオン #32",
+      "title": "新幹線変形ロボ シンカリオン #32",
+      "stationId": "mx",
+      "start": "2026-11-13T19:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-nhkbs-20261113-1930-chikyutetsudo29",
@@ -1913,6 +3518,20 @@
       "updatedAt": "2026-11-09T10:09:14+09:00"
     },
     {
+      "id": "muse2-13-2100-bsntv",
+      "seriesId": "muse2-bsntv-ゴルフサバイバル 11月の陣",
+      "title": "ゴルフサバイバル 11月の陣",
+      "stationId": "bsntv",
+      "start": "2026-11-13T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-bstbs-20261113-2100-croatia-homes",
       "seriesId": "chatgpt-series-akogare-no-chi-ni-ie-wo-kaou",
       "title": "憧れの地に家を買おう クロアチアの絶景物件",
@@ -1925,6 +3544,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T10:00:00+09:00",
       "updatedAt": "2026-11-09T10:00:00+09:00"
+    },
+    {
+      "id": "muse2-13-2100-nhk_e",
+      "seriesId": "muse2-nhk_e-芸能きわみ堂「舞踊で楽しむ江戸の遊び",
+      "title": "芸能きわみ堂「舞踊で楽しむ江戸の遊び 独楽」",
+      "stationId": "nhk_e",
+      "start": "2026-11-13T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-ntv-20261113-2100-moana2",
@@ -1953,8 +3586,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-52",
@@ -1969,6 +3602,34 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-13-2155-bs12",
+      "seriesId": "muse2-bs12-温泉日和 #32 修善寺温泉",
+      "title": "温泉日和 #32 修善寺温泉",
+      "stationId": "bs12",
+      "start": "2026-11-13T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-13-2200-bsntv",
+      "seriesId": "muse2-bsntv-ゴルフサバイバル男",
+      "title": "ゴルフサバイバル男",
+      "stationId": "bsntv",
+      "start": "2026-11-13T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-verified-truck-life-28-202611",
@@ -2009,8 +3670,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-715389",
@@ -2023,8 +3684,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-54",
@@ -2051,8 +3712,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720008",
@@ -2065,8 +3726,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-13-2330-chiba",
+      "seriesId": "muse2-chiba-俺旅！シーズン2 シンガポール編",
+      "title": "俺旅！シーズン2 シンガポール編",
+      "stationId": "chiba",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-718846",
@@ -2079,8 +3754,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722293",
@@ -2093,8 +3768,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718491",
@@ -2107,8 +3782,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-718513",
@@ -2121,8 +3796,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716591",
@@ -2135,8 +3810,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0030-chiba",
+      "seriesId": "muse2-chiba-野田クリの野望",
+      "title": "野田クリの野望",
+      "stationId": "chiba",
+      "start": "2026-11-14T00:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716495",
@@ -2149,8 +3838,38 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0032-nhk_g",
+      "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(1) 赤イ手",
+      "title": "アニメ 恐怖コレクター(1) 赤イ手帳",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T00:32:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0057-nhk_g",
+      "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(2) 街ヲ覆",
+      "title": "アニメ 恐怖コレクター(2) 街ヲ覆ウ影",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T00:57:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-721676",
@@ -2163,8 +3882,51 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0115-tvasahi",
+      "seriesId": "muse2-tvasahi-ラブ‼Jリーグ",
+      "title": "ラブ‼Jリーグ",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T01:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0118-tbs",
+      "seriesId": "muse2-tbs-ジョシとドラゴン",
+      "title": "ジョシとドラゴン",
+      "stationId": "tbs",
+      "start": "2026-11-14T01:18:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0122-nhk_g",
+      "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(3) 顔ノ無",
+      "title": "アニメ 恐怖コレクター(3) 顔ノ無イ子供",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T01:22:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716508",
@@ -2177,8 +3939,81 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0123-tvtokyo",
+      "seriesId": "muse2-tvtokyo-遊戯王GX 20th Remaste",
+      "title": "遊戯王GX 20th Remaster",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T01:23:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0145-fuji",
+      "seriesId": "muse2-fuji-Fate/Zero セレクション放送",
+      "title": "Fate/Zero セレクション放送（2枠 1:45／2:15）",
+      "stationId": "fuji",
+      "start": "2026-11-14T01:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0147-nhk_g",
+      "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(4) 静カナ",
+      "title": "アニメ 恐怖コレクター(4) 静カナル波紋",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T01:47:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0153-tvtokyo",
+      "seriesId": "muse2-tvtokyo-SEALOOK 2nd season",
+      "title": "SEALOOK 2nd season",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T01:53:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0200-bsasahi",
+      "seriesId": "muse2-bsasahi-とっておき 車窓紀行 mini #3",
+      "title": "とっておき 車窓紀行 mini #3（再）",
+      "stationId": "bsasahi",
+      "start": "2026-11-14T02:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-718142",
@@ -2191,8 +4026,23 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0212-nhk_g",
+      "seriesId": "muse2-nhk_g-アニメ 恐怖コレクター(5) 血ニ染",
+      "title": "アニメ 恐怖コレクター(5) 血ニ染マル想イ",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T02:12:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716616",
@@ -2205,8 +4055,23 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0237-nhk_g",
+      "seriesId": "muse2-nhk_g-恐怖コレクターPR番組（1分）",
+      "title": "恐怖コレクターPR番組（1分）",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T02:37:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-tvasahi-20261114-0425-tatemonotanbo",
@@ -2247,8 +4112,50 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-0524-ntv",
+      "seriesId": "muse2-ntv-映画『SUKIYAKI』キャスト編",
+      "title": "映画『SUKIYAKI』キャスト編",
+      "stationId": "ntv",
+      "start": "2026-11-14T05:24:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0529-ntv",
+      "seriesId": "muse2-ntv-『バッド・ルーテナント』海外レポート",
+      "title": "『バッド・ルーテナント』海外レポート（再）",
+      "stationId": "ntv",
+      "start": "2026-11-14T05:29:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-0535-nhk_bs",
+      "seriesId": "muse2-nhk_bs-よみがえる新日本紀行 選「阿蘇」",
+      "title": "よみがえる新日本紀行 選「阿蘇」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-14T05:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-nhkbs-20261114-0615-nipponburaritetsudo",
@@ -2295,6 +4202,20 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-anime-14-0730-mx2",
+      "seriesId": "muse2-anime-鎧勇騎 月兎",
+      "title": "鎧勇騎 月兎",
+      "stationId": "mx2",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "syobocal-722810",
       "seriesId": "syobocal-title-6212",
       "title": "ニンジャラ",
@@ -2305,8 +4226,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvasahi-20261114-0800-tabisalad",
@@ -2323,6 +4244,20 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-anime-14-0800-tvtokyo",
+      "seriesId": "muse2-anime-カードファイト!!ヴァンガード Di",
+      "title": "カードファイト!!ヴァンガード Divinez #14",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "syobocal-720899",
       "seriesId": "syobocal-title-7987",
       "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
@@ -2333,8 +4268,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-weekly-202611140830-mx",
@@ -2351,6 +4286,20 @@
       "updatedAt": "2026-11-09T00:00:00Z"
     },
     {
+      "id": "muse2-anime-14-0830-tvtokyo",
+      "seriesId": "muse2-anime-しまじろうのわお！",
+      "title": "しまじろうのわお！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T08:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "syobocal-715547",
       "seriesId": "syobocal-title-7816",
       "title": "おしりたんてい(第10シリーズ)",
@@ -2361,8 +4310,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-14-0900-tvtokyo",
+      "seriesId": "muse2-anime-ウルトラマンテオ",
+      "title": "ウルトラマンテオ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T09:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "chatgpt-ntv-20261114-0925-burari",
@@ -2372,11 +4335,40 @@
       "start": "2026-11-14T09:25:00+09:00",
       "end": null,
       "genreIds": [
-        "travel"
+        "travel",
+        "railway"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T09:00:00+09:00",
       "updatedAt": "2026-11-09T09:00:00+09:00"
+    },
+    {
+      "id": "muse2-anime-14-0925-tbs",
+      "seriesId": "muse2-anime-アニメ「リラックマ」#32",
+      "title": "アニメ「リラックマ」#32",
+      "stationId": "tbs",
+      "start": "2026-11-14T09:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-14-0930-mx2",
+      "seriesId": "muse2-mx2-Good Luck！",
+      "title": "Good Luck！",
+      "stationId": "mx2",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-720932",
@@ -2389,8 +4381,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "muse-architecture-202611-57",
@@ -2417,8 +4409,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722418",
@@ -2431,8 +4423,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-weekly-202611141030-chiba",
@@ -2505,6 +4497,20 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-14-1200-bstbs",
+      "seriesId": "muse2-bstbs-太平洋マスターズ 第3日",
+      "title": "太平洋マスターズ 第3日",
+      "stationId": "bstbs",
+      "start": "2026-11-14T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "manual-weekly-202611141200-fuji",
       "seriesId": "manual-weekly-202611141200-fuji-series",
       "title": "ぶらサタ・タカトシ温水の路線バスで！ 小さなリゾートアイランド「初島」",
@@ -2518,6 +4524,21 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T00:00:00Z",
       "updatedAt": "2026-11-09T05:26:52.379Z"
+    },
+    {
+      "id": "muse2-14-1200-nhk_bs",
+      "seriesId": "muse2-nhk_bs-高橋一生、声を聴く〜台湾 謎の妖怪と",
+      "title": "高橋一生、声を聴く〜台湾 謎の妖怪と死者との結婚〜",
+      "stationId": "nhk_bs",
+      "start": "2026-11-14T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost",
+        "ufo"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-tvasahi-20261114-1200-japan-australia",
@@ -2548,6 +4569,20 @@
       "updatedAt": "2026-11-09T09:00:00+09:00"
     },
     {
+      "id": "muse2-14-1300-bsfuji",
+      "seriesId": "muse2-bsfuji-日本プロゴルフシニア選手権 第3日",
+      "title": "日本プロゴルフシニア選手権 第3日",
+      "stationId": "bsfuji",
+      "start": "2026-11-14T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-chiba-20261114-1300-soccer-final",
       "seriesId": "chatgpt-series-highschool-soccer-chiba",
       "title": "第105回全国高校サッカー選手権大会 千葉県大会 決勝",
@@ -2574,6 +4609,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T00:00:00Z",
       "updatedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "id": "muse2-14-1450-nhk_g",
+      "seriesId": "muse2-nhk_g-名曲アルバム ハリー・ポッター「ヘド",
+      "title": "名曲アルバム ハリー・ポッター「ヘドウィグのテーマ」",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T14:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "usj"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-60",
@@ -2604,6 +4653,20 @@
       "updatedAt": "2026-11-09T00:00:00Z"
     },
     {
+      "id": "muse2-14-1600-fuji",
+      "seriesId": "muse2-fuji-相葉◎×部「鉄道 京王線」",
+      "title": "相葉◎×部「鉄道 京王線」",
+      "stationId": "fuji",
+      "start": "2026-11-14T16:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-722383",
       "seriesId": "syobocal-title-8074",
       "title": "しろたん",
@@ -2614,8 +4677,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-bsasahi-20261114-1630-sauna-odawara",
@@ -2630,6 +4693,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T10:00:00+09:00",
       "updatedAt": "2026-11-09T10:00:00+09:00"
+    },
+    {
+      "id": "muse2-14-1630-tvasahi",
+      "seriesId": "muse2-tvasahi-クレヨンしんちゃん",
+      "title": "クレヨンしんちゃん",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T16:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bsntv-20261114-1700-yumetyoko",
@@ -2653,11 +4730,40 @@
       "start": "2026-11-14T17:00:00+09:00",
       "end": null,
       "genreIds": [
-        "travel"
+        "travel",
+        "big_eating"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T00:00:00Z",
       "updatedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "id": "muse2-14-1700-tvasahi",
+      "seriesId": "muse2-tvasahi-ドラえもん",
+      "title": "ドラえもん",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-14-1730-bsntv",
+      "seriesId": "muse2-bsntv-ゴルフの翼 NEXT AGE",
+      "title": "ゴルフの翼 NEXT AGE",
+      "stationId": "bsntv",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-722455",
@@ -2670,8 +4776,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvtokyo-20261114-1730-thefishing",
@@ -2740,8 +4846,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-719886",
@@ -2754,8 +4860,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-bstvtokyo-20261114-1830-toraajisai",
@@ -2799,6 +4905,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T12:10:00+09:00",
       "updatedAt": "2026-11-09T12:10:00+09:00"
+    },
+    {
+      "id": "muse2-14-1854-bsntv",
+      "seriesId": "muse2-bsntv-吉川鉄道研究部",
+      "title": "吉川鉄道研究部",
+      "stationId": "bsntv",
+      "start": "2026-11-14T18:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bs12-20261114-1900-dirtyharry2",
@@ -2873,6 +4993,49 @@
       "updatedAt": "2026-11-09T04:30:00Z"
     },
     {
+      "id": "muse2-14-2125-bs12",
+      "seriesId": "muse2-bs12-温泉日和 #33 鵜原温泉（千葉県）",
+      "title": "温泉日和 #33 鵜原温泉（千葉県）",
+      "stationId": "bs12",
+      "start": "2026-11-14T21:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-anime-14-2130-chiba",
+      "seriesId": "muse2-anime-仮面ライダー 第32話",
+      "title": "仮面ライダー 第32話",
+      "stationId": "chiba",
+      "start": "2026-11-14T21:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-14-2155-bs11",
+      "seriesId": "muse2-bs11-TrainsJapan のと鉄道",
+      "title": "TrainsJapan のと鉄道",
+      "stationId": "bs11",
+      "start": "2026-11-14T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-717633",
       "seriesId": "syobocal-title-8014",
       "title": "転生した大聖女は、聖女であることをひた隠す",
@@ -2883,8 +5046,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-bstvtokyo-20261114-2200-kasuga-jibasen",
@@ -2901,6 +5064,20 @@
       "updatedAt": "2026-11-09T10:20:00+09:00"
     },
     {
+      "id": "muse2-anime-14-2200-mx",
+      "seriesId": "muse2-anime-転生した大聖女 #7",
+      "title": "転生した大聖女 #7",
+      "stationId": "mx",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
       "id": "syobocal-717645",
       "seriesId": "syobocal-title-8014",
       "title": "転生した大聖女は、聖女であることをひた隠す",
@@ -2911,8 +5088,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-14-2230-mx",
+      "seriesId": "muse2-anime-野生のラスボスが現れた！ #19",
+      "title": "野生のラスボスが現れた！ #19",
+      "stationId": "mx",
+      "start": "2026-11-14T22:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-717751",
@@ -2925,8 +5116,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-weekly-202611142245-chiba",
@@ -2953,8 +5144,36 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-anime-14-2300-mx2",
+      "seriesId": "muse2-anime-笑ゥせぇるすまん #60",
+      "title": "笑ゥせぇるすまん #60",
+      "stationId": "mx2",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
+    },
+    {
+      "id": "muse2-anime-14-2300-tvtokyo",
+      "seriesId": "muse2-anime-ブラッククローバー #177",
+      "title": "ブラッククローバー #177",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "syobocal-720258",
@@ -2967,8 +5186,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720673",
@@ -2981,8 +5200,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717587",
@@ -2995,8 +5214,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-715858",
@@ -3009,8 +5228,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717564",
@@ -3023,8 +5242,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-2330-tvtokyo",
+      "seriesId": "muse2-tvtokyo-サタデーナイトJ",
+      "title": "サタデーナイトJ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-719898",
@@ -3034,11 +5267,27 @@
       "start": "2026-11-14T23:45:00+09:00",
       "end": "2026-11-15T00:10:00+09:00",
       "genreIds": [
-        "anime"
+        "anime",
+        "ufo"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-14-2355-ntv",
+      "seriesId": "muse2-ntv-Going！ Sports&News",
+      "title": "Going！ Sports&News（日本代表＆野球特集）",
+      "stationId": "ntv",
+      "start": "2026-11-14T23:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer",
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716856",
@@ -3051,8 +5300,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-0000-bsfuji",
+      "seriesId": "muse2-bsfuji-小峠英二の試乗最高！（深夜再放送枠）",
+      "title": "小峠英二の試乗最高！（深夜再放送枠）",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-716726",
@@ -3065,8 +5328,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "car-council-20261115-0000-tvtokyo",
@@ -3093,8 +5356,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-716714",
@@ -3107,8 +5370,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-0200-bsfuji",
+      "seriesId": "muse2-bsfuji-ゴルフトリプルマッチ（再）",
+      "title": "ゴルフトリプルマッチ（再）",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T02:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "manual-car-bsfuji-202611150300",
@@ -3139,6 +5416,62 @@
       "status": "official_confirmed",
       "checkedAt": "2026-11-09T09:25:28+09:00",
       "updatedAt": "2026-11-09T05:26:52.379Z"
+    },
+    {
+      "id": "muse-architecture-202611-66",
+      "seriesId": "muse-architecture-series-66",
+      "title": "カラーでよみがえる東京「浅草〜盛り場の試練〜」",
+      "stationId": "nhk_g",
+      "start": "2026-11-15T04:10:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-15-0514-ntv",
+      "seriesId": "muse2-ntv-映画『SUKIYAKI』紹介編（再）",
+      "title": "映画『SUKIYAKI』紹介編（再）",
+      "stationId": "ntv",
+      "start": "2026-11-15T05:14:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-0519-ntv",
+      "seriesId": "muse2-ntv-映画『SUKIYAKI』キャスト編（",
+      "title": "映画『SUKIYAKI』キャスト編（再）",
+      "stationId": "ntv",
+      "start": "2026-11-15T05:19:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-0520-tvtokyo",
+      "seriesId": "muse2-tvtokyo-推しエンタTV！",
+      "title": "推しエンタTV！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T05:20:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-fuji-20261115-0540-swallows-kids",
@@ -3183,6 +5516,34 @@
       "updatedAt": "2026-11-09T09:34:39+09:00"
     },
     {
+      "id": "muse2-15-0630-ntv",
+      "seriesId": "muse2-ntv-遠くへ行きたい #2836 大分",
+      "title": "遠くへ行きたい #2836 大分",
+      "stationId": "ntv",
+      "start": "2026-11-15T06:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-0700-fuji",
+      "seriesId": "muse2-fuji-SUNDAYブレイク．（野球分類は誤",
+      "title": "SUNDAYブレイク．（野球分類は誤分類の可能性）",
+      "stationId": "fuji",
+      "start": "2026-11-15T07:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-tbs-20261115-0700-genki",
       "seriesId": "chatgpt-series-genki",
       "title": "健康カプセル！ゲンキの時間",
@@ -3195,6 +5556,35 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T09:00:00+09:00",
       "updatedAt": "2026-11-09T09:00:00+09:00"
+    },
+    {
+      "id": "muse2-15-0730-bstvtokyo",
+      "seriesId": "muse2-bstvtokyo-ゴルフ交遊抄",
+      "title": "ゴルフ交遊抄",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-15T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-0730-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ポケモンとどこいく！？",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge",
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bstvtokyo-202611150800-golf",
@@ -3225,6 +5615,21 @@
       "updatedAt": "2026-11-09T12:10:00+09:00"
     },
     {
+      "id": "muse2-15-0800-tbs",
+      "seriesId": "muse2-tbs-サンデーモーニング スポーツコーナー",
+      "title": "サンデーモーニング スポーツコーナー",
+      "stationId": "tbs",
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer",
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-721018",
       "seriesId": "syobocal-title-7442",
       "title": "コウペンちゃん",
@@ -3235,8 +5640,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-architecture-202611150830",
@@ -3263,8 +5668,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-car-detail-tvtokyo-202611150830",
@@ -3280,6 +5685,21 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:00:00Z",
       "updatedAt": "2026-11-09T05:00:00Z"
+    },
+    {
+      "id": "muse2-15-0900-bsntv",
+      "seriesId": "muse2-bsntv-北海道すたいる 大沼",
+      "title": "北海道すたいる 大沼",
+      "stationId": "bsntv",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-bstvtokyo-202611150900-golf",
@@ -3306,8 +5726,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722823",
@@ -3320,8 +5740,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-721183",
@@ -3334,8 +5754,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722648",
@@ -3348,8 +5768,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-fuji-20261115-1000-kano-sand",
@@ -3367,6 +5787,21 @@
       "updatedAt": "2026-11-09T09:40:00+09:00"
     },
     {
+      "id": "muse2-15-1000-nhk_bs",
+      "seriesId": "muse2-nhk_bs-ゆったり温泉ひとり旅 北陸・信越編（",
+      "title": "ゆったり温泉ひとり旅 北陸・信越編（再）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T10:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-722361",
       "seriesId": "syobocal-title-8075",
       "title": "ポップパップポルターズ",
@@ -3377,8 +5812,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-1000-tvtokyo",
+      "seriesId": "muse2-tvtokyo-武井壮のゴルフバッグ担いでください",
+      "title": "武井壮のゴルフバッグ担いでください",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T10:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-68",
@@ -3444,7 +5893,8 @@
       "start": "2026-11-15T12:00:00+09:00",
       "end": null,
       "genreIds": [
-        "travel"
+        "travel",
+        "onsen"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T09:00:00+09:00",
@@ -3463,6 +5913,48 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-15-1300-bsfuji",
+      "seriesId": "muse2-bsfuji-日本プロゴルフシニア選手権 最終日",
+      "title": "日本プロゴルフシニア選手権 最終日",
+      "stationId": "bsfuji",
+      "start": "2026-11-15T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-1300-bstbs",
+      "seriesId": "muse2-bstbs-太平洋マスターズ 最終日",
+      "title": "太平洋マスターズ 最終日",
+      "stationId": "bstbs",
+      "start": "2026-11-15T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-1300-nhk_bs",
+      "seriesId": "muse2-nhk_bs-金田一耕助シリーズ「犬神家の一族 前",
+      "title": "金田一耕助シリーズ「犬神家の一族 前編」（再）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "manual-car-detail-mx-202611151430",
@@ -3603,8 +6095,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-1725-nhk_e",
+      "seriesId": "muse2-nhk_e-ゴーストライター2(10)",
+      "title": "ゴーストライター2(10)",
+      "stationId": "nhk_e",
+      "start": "2026-11-15T17:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "chatgpt-nhkbs-20261115-1730-tsuribito-hirame",
@@ -3621,6 +6127,21 @@
       "updatedAt": "2026-11-09T09:34:39+09:00"
     },
     {
+      "id": "muse2-15-1730-tvtokyo",
+      "seriesId": "muse2-tvtokyo-ダイヤのA actII 第19話",
+      "title": "ダイヤのA actII 第19話",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T17:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime",
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-720245",
       "seriesId": "syobocal-title-8054",
       "title": "ダイヤのA actII -Second Season-(第2クール)",
@@ -3631,8 +6152,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-onsen-rail-202611151800",
@@ -3677,6 +6198,34 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T00:00:00Z",
       "updatedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "id": "muse2-15-1830-fuji",
+      "seriesId": "muse2-fuji-サザエさん",
+      "title": "サザエさん",
+      "stationId": "fuji",
+      "start": "2026-11-15T18:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse-architecture-202611-74",
+      "seriesId": "muse-architecture-series-74",
+      "title": "ごりやくさん▽天河大弁財天社",
+      "stationId": "chiba",
+      "start": "2026-11-15T18:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z"
     },
     {
       "id": "chatgpt-bs12-20261115-1900-innocence",
@@ -3743,11 +6292,26 @@
       "start": "2026-11-15T19:54:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel"
       ],
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T05:59:05.903Z",
       "updatedAt": "2026-11-09T05:59:05.903Z"
+    },
+    {
+      "id": "muse2-15-1958-ntv",
+      "seriesId": "muse2-ntv-世界の果てまでイッテQ！",
+      "title": "世界の果てまでイッテQ！",
+      "stationId": "ntv",
+      "start": "2026-11-15T19:58:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "muse-architecture-202611-76",
@@ -3792,6 +6356,20 @@
       "updatedAt": "2026-11-09T05:40:19.954Z"
     },
     {
+      "id": "muse2-15-2100-mx",
+      "seriesId": "muse2-mx-ぐらぶるTVちゃんねるっ！",
+      "title": "ぐらぶるTVちゃんねるっ！",
+      "stationId": "mx",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "chatgpt-nhkbs-20261115-2100-kyujien",
       "seriesId": "chatgpt-nhkbs",
       "title": "球辞苑〜プロ野球が100倍楽しくなるキーワードたち〜 選 フェンス",
@@ -3804,6 +6382,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-09T09:00:00+09:00",
       "updatedAt": "2026-11-09T09:00:00+09:00"
+    },
+    {
+      "id": "muse2-15-2115-nhk_bs",
+      "seriesId": "muse2-nhk_bs-球辞苑 選「フェンス」",
+      "title": "球辞苑 選「フェンス」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T21:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "manual-car-bs11-202611152130",
@@ -3821,6 +6413,20 @@
       "updatedAt": "2026-11-09T05:00:00Z"
     },
     {
+      "id": "muse2-15-2130-chiba",
+      "seriesId": "muse2-chiba-牧野裕のEnjoy Golf #91",
+      "title": "牧野裕のEnjoy Golf #915",
+      "stationId": "chiba",
+      "start": "2026-11-15T21:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-718535",
       "seriesId": "syobocal-title-8035",
       "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
@@ -3831,8 +6437,36 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-2154-ntv",
+      "seriesId": "muse2-ntv-日テレ＋「明日はまる見えSP」ミステ",
+      "title": "日テレ＋「明日はまる見えSP」ミステリースポット予告",
+      "stationId": "ntv",
+      "start": "2026-11-15T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
+      "id": "muse2-15-2200-chiba",
+      "seriesId": "muse2-chiba-里崎智也のゴルフ直球勝負！",
+      "title": "里崎智也のゴルフ直球勝負！",
+      "stationId": "chiba",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-717435",
@@ -3845,8 +6479,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "chatgpt-tvtokyo-20261115-2200-ariyoshieeeee",
@@ -3863,6 +6497,20 @@
       "updatedAt": "2026-11-09T10:09:14+09:00"
     },
     {
+      "id": "muse2-15-2230-chiba",
+      "seriesId": "muse2-chiba-塩谷育代のベストショット EP359",
+      "title": "塩谷育代のベストショット EP359",
+      "stationId": "chiba",
+      "start": "2026-11-15T22:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
+    },
+    {
       "id": "syobocal-716520",
       "seriesId": "syobocal-title-8002",
       "title": "魔法の姉妹ルルットリリィ(第2クール)",
@@ -3873,8 +6521,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-2248-tvtokyo",
+      "seriesId": "muse2-tvtokyo-いいeeeeeパーク",
+      "title": "いいeeeeeパーク",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T22:48:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-718675",
@@ -3887,8 +6549,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717839",
@@ -3901,8 +6563,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-722634",
@@ -3915,8 +6577,23 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-2300-bstbs",
+      "seriesId": "muse2-bstbs-麺鉄 山陽・山陰編",
+      "title": "麺鉄 山陽・山陰編",
+      "stationId": "bstbs",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "syobocal-718279",
@@ -3929,8 +6606,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
+    },
+    {
+      "id": "muse2-15-2320-nhk_bs",
+      "seriesId": "muse2-nhk_bs-Jリーグタイム",
+      "title": "Jリーグタイム",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T23:20:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:10:44.343Z",
+      "updatedAt": "2026-11-09T06:10:44.343Z"
     },
     {
       "id": "manual-weekly-202611152320-tvtokyo",
@@ -3957,8 +6648,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-720724",
@@ -3971,8 +6662,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "manual-car-detail-chiba-202611152330",
@@ -3999,8 +6690,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     },
     {
       "id": "syobocal-717372",
@@ -4013,8 +6704,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T14:59:24+09:00",
-      "updatedAt": "2026-11-09T14:59:24+09:00"
+      "checkedAt": "2026-11-09T16:22:35+09:00",
+      "updatedAt": "2026-11-09T16:22:35+09:00"
     }
   ]
 }

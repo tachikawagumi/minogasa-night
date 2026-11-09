@@ -1,39 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:00:45+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 177,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-chiba-20261115-0600-tamura-fishing"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:01:11+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "fd41b6bfc12c7f0d8c880d36f9654efb0c04c9975c1cca631006096ff1458dab",
-      "programs": 177
-    }
-  },
-  {
     "at": "2026-11-09T12:03:32+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1544,5 +1510,63 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T16:22:35+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 451,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [
+        "car-council-20261111-2300-nhk_g",
+        "chatgpt-20261111-2100-charitetsu",
+        "chatgpt-fuji-20261115-1200-nariyuki",
+        "chatgpt-nhkbs-20261110-1200-tsuribito-hagi",
+        "chatgpt-ntv-20261114-0925-burari",
+        "chatgpt-tbs-20261109-2356-foodfighter-kobayashi",
+        "manual-weekly-202611141700-chiba",
+        "muse-architecture-202611-26",
+        "muse-architecture-202611-36",
+        "muse-architecture-202611-43",
+        "muse-architecture-202611-75",
+        "syobocal-718635",
+        "syobocal-719898",
+        "syobocal-720596"
+      ],
+      "removed": [
+        "muse2-13-0000-mx",
+        "muse2-13-1855-tvtokyo",
+        "muse2-14-1629-tvasahi",
+        "muse2-14-1730-ntv",
+        "muse2-14-2345-nhk_g",
+        "muse2-anime-10-2330-mx",
+        "muse2-anime-14-0000-mx",
+        "muse2-anime-14-0030-mx",
+        "muse2-anime-14-0930-tvtokyo",
+        "muse2-anime-14-2330-mx"
+      ],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 14,
+      "removed": 10,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T16:23:02+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "82ce81b03267bca06d469d2151b385907a28ddb76233a106c07ed5e0a88fa7d3",
+      "programs": 451
+    }
   }
 ]
