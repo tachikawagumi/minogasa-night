@@ -1,16 +1,20 @@
 {
-  "at": "2026-11-09T12:03:32+09:00",
-  "status": "published",
+  "at": "2026-11-09T12:04:55+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 179,
+  "publicPrograms": 185,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-nhk_e-20261115-1900-choice",
-      "chatgpt-tbs-20261115-0700-genki"
+      "chatgpt-bsasahi-20261110-2200-himutaro",
+      "chatgpt-fuji-20261115-1200-nariyuki",
+      "chatgpt-nhk_g-20261114-1930-buratamori",
+      "chatgpt-ntv-20261114-0925-burari",
+      "chatgpt-tvasahi-20261114-0800-tabisalad",
+      "chatgpt-tvtokyo-20261114-1130-moyasama"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -18,18 +22,11 @@
     "expired": []
   },
   "counts": {
-    "added": 2,
+    "added": 6,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T12:03:57+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "3f6ef4e51f76be298e2398a5955b66bd14643f6dc0beca50dd83354c276f82ea",
-    "programs": 179
-  }
+  "publicationVerified": false
 }
