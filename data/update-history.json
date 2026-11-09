@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:45:24+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 167,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:45:53+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "f9ceae28e73880a5c20f564cb83118b6e00afe371574bbb84e2482529b8db5db",
-      "programs": 167
-    }
-  },
-  {
     "at": "2026-11-09T11:47:34+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1527,6 +1495,13 @@
   },
   {
     "at": "2026-11-09T13:38:05+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "ValueError: 確認日時が未来",
+    "previousPublicPreserved": true
+  },
+  {
+    "at": "2026-11-09T13:39:19+09:00",
     "status": "failed",
     "publicationVerified": false,
     "error": "ValueError: 確認日時が未来",
