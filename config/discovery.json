@@ -964,12 +964,9 @@
         "ゴルフサバイバル"
       ],
       "keywords": [
-        "ゴルフ侍",
-        "ゴルフペアマッチ",
         "ゴルフ",
-        "ゴルフ中継",
-        "女子ゴルフ",
-        "ゴルフ対決"
+        "トーナメント",
+        "マスターズ"
       ],
       "officialHosts": [
         "www.bs-asahi.co.jp",
@@ -986,13 +983,15 @@
           "ゴルフ対決"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ユーザー指定検索語：ゴルフ・トーナメント・マスターズ。各語を単独で番組表のタイトルと当該回説明に対して検索し、放送局・開始日時・番組名が判明した個別枠を登録する。"
       },
       "sourceIds": [
         "g_guide",
         "jcom"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -1001,28 +1000,12 @@
       ],
       "subcategories": [
         {
-          "id": "tournaments",
-          "label": "ゴルフ大会",
+          "id": "broad_golf",
+          "label": "ゴルフ・トーナメント・マスターズ",
           "keywords": [
-            "ゴルフ大会",
-            "プロゴルフ",
-            "無料中継"
-          ]
-        },
-        {
-          "id": "lessons",
-          "label": "ゴルフレッスン",
-          "keywords": [
-            "ゴルフレッスン",
-            "技術解説"
-          ]
-        },
-        {
-          "id": "trips",
-          "label": "ゴルフ旅",
-          "keywords": [
-            "ゴルフ旅",
-            "ゴルフ場探訪"
+            "ゴルフ",
+            "トーナメント",
+            "マスターズ"
           ]
         }
       ],
@@ -1030,7 +1013,21 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "ゴルフ",
+        "トーナメント",
+        "マスターズ"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "Gガイド・J:COMの個別番組名または当該回の内容が検索語に合致する場合、次を対象とする：ゴルフ中継・大会・レッスン・ゴルフ場紹介・選手密着・ゴルフ特集。『トーナメント』『マスターズ』だけでも候補は探す。",
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "allowFeatureSegments": true,
+        "exclude": "テニス・水泳などの他競技のマスターズ、ゴルフ以外のトーナメントなど、競技が明確に別の場合。"
+      }
     },
     "soccer": {
       "programs": [
@@ -1038,11 +1035,7 @@
         "サッカー中継"
       ],
       "keywords": [
-        "KICK OFF! J",
-        "サッカー",
-        "Jリーグ",
-        "日本代表",
-        "海外サッカー"
+        "サッカー"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -1058,13 +1051,15 @@
           "海外サッカー"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ユーザー指定検索語：サッカー。各語を単独で番組表のタイトルと当該回説明に対して検索し、放送局・開始日時・番組名が判明した個別枠を登録する。"
       },
       "sourceIds": [
         "g_guide",
         "jcom"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -1073,27 +1068,10 @@
       ],
       "subcategories": [
         {
-          "id": "matches",
-          "label": "サッカー中継",
+          "id": "broad_soccer",
+          "label": "サッカー",
           "keywords": [
-            "サッカー中継",
-            "国内リーグ",
-            "海外リーグ"
-          ]
-        },
-        {
-          "id": "national",
-          "label": "サッカー代表戦",
-          "keywords": [
-            "サッカー代表戦"
-          ]
-        },
-        {
-          "id": "features",
-          "label": "サッカー情報",
-          "keywords": [
-            "サッカー情報",
-            "選手特集"
+            "サッカー"
           ]
         }
       ],
@@ -1101,7 +1079,19 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "サッカー"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "Gガイド・J:COMの個別番組名または当該回の内容が検索語に合致する場合、次を対象とする：サッカーに関連する試合中継、国内外サッカー、選手・クラブ紹介、通常情報番組のサッカー特集。",
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "allowFeatureSegments": true,
+        "exclude": "サッカーの話題のない偶然の文字一致。"
+      }
     },
     "baseball": {
       "programs": [
@@ -1109,11 +1099,8 @@
         "S☆1 BASEBALL"
       ],
       "keywords": [
-        "日本シリーズ",
         "野球",
-        "プロ野球",
-        "MLB",
-        "高校野球"
+        "ベースボール"
       ],
       "officialHosts": [
         "www.tbs.co.jp",
@@ -1130,13 +1117,15 @@
           "高校野球"
         ],
         "recheckAfterHours": 48,
-        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+        "note": "ユーザー指定検索語：野球・ベースボール。各語を単独で番組表のタイトルと当該回説明に対して検索し、放送局・開始日時・番組名が判明した個別枠を登録する。"
       },
       "sourceIds": [
         "g_guide",
         "jcom"
       ],
       "searchMethods": [
+        "program_guide_keyword",
+        "broad_match_title_or_episode_text",
         "program_title",
         "episode_preview_fulltext",
         "station_schedule",
@@ -1145,34 +1134,11 @@
       ],
       "subcategories": [
         {
-          "id": "professional",
-          "label": "プロ野球",
+          "id": "broad_baseball",
+          "label": "野球・ベースボール",
           "keywords": [
-            "プロ野球",
-            "日本シリーズ"
-          ]
-        },
-        {
-          "id": "school",
-          "label": "高校野球",
-          "keywords": [
-            "高校野球"
-          ]
-        },
-        {
-          "id": "mlb",
-          "label": "MLB",
-          "keywords": [
-            "MLB",
-            "大リーグ"
-          ]
-        },
-        {
-          "id": "features",
-          "label": "野球特集",
-          "keywords": [
-            "野球特集",
-            "野球情報"
+            "野球",
+            "ベースボール"
           ]
         }
       ],
@@ -1180,7 +1146,20 @@
         "g_guide",
         "jcom"
       ],
-      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。",
+      "prioritySearchTerms": [
+        "野球",
+        "ベースボール"
+      ],
+      "matchPolicy": {
+        "mode": "recall_first",
+        "includeIf": "Gガイド・J:COMの個別番組名または当該回の内容が検索語に合致する場合、次を対象とする：野球・ベースボールと直接関係する中継、野球ドキュメンタリー、選手紹介、ニュースの野球特集、学校・プロ・海外野球等。",
+        "requireOfficialSite": false,
+        "requireTwoSources": false,
+        "requireStationDateStart": true,
+        "allowFeatureSegments": true,
+        "exclude": "野球と無関係な偶然の文字一致。"
+      }
     },
     "fishing": {
       "programs": [
@@ -1760,6 +1739,21 @@
       "mode": "broad_keyword_recall",
       "include": "8語のいずれかを手掛かりにした国内外の旅・散歩・紀行・ぶらり歩き・途中下車・観光・絶景・街歩き、普通のバラエティ内の旅行特集。",
       "exclude": "単なる広告の一致、対象外の有料放送やテレビ放送ではないイベント"
+    },
+    "baseball": {
+      "mode": "broad_keyword_recall",
+      "include": "野球・ベースボールと直接関係する中継、野球ドキュメンタリー、選手紹介、ニュースの野球特集、学校・プロ・海外野球等。",
+      "exclude": "野球と無関係な偶然の文字一致。"
+    },
+    "soccer": {
+      "mode": "broad_keyword_recall",
+      "include": "サッカーに関連する試合中継、国内外サッカー、選手・クラブ紹介、通常情報番組のサッカー特集。",
+      "exclude": "サッカーの話題のない偶然の文字一致。"
+    },
+    "golf": {
+      "mode": "broad_keyword_recall",
+      "include": "ゴルフ中継・大会・レッスン・ゴルフ場紹介・選手密着・ゴルフ特集。『トーナメント』『マスターズ』だけでも候補は探す。",
+      "exclude": "テニス・水泳などの他競技のマスターズ、ゴルフ以外のトーナメントなど、競技が明確に別の場合。"
     }
   },
   "learningHistory": [
