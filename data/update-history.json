@@ -1,38 +1,6 @@
 [
   {
     "at": "2026-10-29T14:13:05+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 148,
-    "aiAccepted": 25,
-    "aiHeld": 16,
-    "batchId": "phase12-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "verified-bs12-20261030-1900-royalwarriors",
-        "verified-bs12-20261102-1900-showazankyo4",
-        "verified-bs12-20261103-1900-truckyaro4",
-        "verified-bs12-20261104-1900-satomi1983"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": [
-        "official-4a9c16fb7436ca6009605718"
-      ]
-    },
-    "counts": {
-      "added": 4,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 1
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-10-29T14:13:05+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 148,
@@ -2610,5 +2578,43 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-09T11:54:31+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 173,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-bstvtokyo-202611140730-golf",
+        "chatgpt-bstvtokyo-202611150800-golf",
+        "chatgpt-bstvtokyo-202611150900-golf",
+        "chatgpt-tbs-20261115-1500-visa-golf",
+        "chatgpt-tvasahi-202611151600-golf"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 5,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-09T11:54:55+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "32ce432dd9e4695eeaf18b3b74442f25d3690b6394621ed9d6ba037e6363eae3",
+      "programs": 173
+    }
   }
 ]
