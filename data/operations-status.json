@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T11:28:02.913392+09:00",
+  "observedAt": "2026-11-09T11:33:58.214738+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 20,
+    "newPublic": 4,
     "publicationStatus": "published",
-    "hoursSinceResearch": 255.07,
+    "hoursSinceResearch": 255.17,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,12 +29,12 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T11:27:36+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T11:33:31+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T11:27:36+09:00",
+    "at": "2026-11-09T11:33:31+09:00",
     "counts": {
-      "added": 20,
+      "added": 4,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "42551013453",
+    "runId": "42551575429",
     "event": "push",
-    "observedAt": "2026-11-09T11:28:02.913392+09:00",
+    "observedAt": "2026-11-09T11:33:58.214738+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T11:28:02+09:00",
+    "verifiedAt": "2026-11-09T11:33:58+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "e2fc58db136965d6614c1f7a46015d4b2f76f41cb3100348f6b163dc052326e9"
+    "semanticSha256": "fa1a2ddea3d4a7920dd91e8c9e287df0396644fb8ff47ec9c5fc33ac9a6dc4f7"
   },
   "genreCoverage": [
     {
@@ -100,8 +100,8 @@
     {
       "genreId": "onsen",
       "name": "温泉",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-12T07:57:00+09:00"
     },
     {
       "genreId": "architecture",
@@ -130,14 +130,14 @@
     {
       "genreId": "soccer",
       "name": "サッカー",
-      "programs": 0,
-      "lastStart": null
+      "programs": 1,
+      "lastStart": "2026-11-14T18:30:00+09:00"
     },
     {
       "genreId": "baseball",
       "name": "野球",
-      "programs": 0,
-      "lastStart": null
+      "programs": 2,
+      "lastStart": "2026-11-14T12:00:00+09:00"
     },
     {
       "genreId": "fishing",
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-14T06:15:00+09:00"
     }
   ],
-  "publicPrograms": 157,
+  "publicPrograms": 161,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
