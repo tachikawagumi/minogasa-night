@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T14:23:58.142122+09:00",
+  "observedAt": "2026-11-09T14:27:51.395975+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 13,
+    "newPublic": 0,
     "publicationStatus": "published",
-    "hoursSinceResearch": 258.0,
+    "hoursSinceResearch": 258.07,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T14:23:31+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T14:27:27+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T14:23:31+09:00",
+    "at": "2026-11-09T14:27:27+09:00",
     "counts": {
-      "added": 13,
+      "added": 0,
       "scheduleChanged": 0,
-      "genreChanged": 0,
+      "genreChanged": 2,
       "removed": 0,
-      "expired": 1
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "42567013664",
+    "runId": "42567371711",
     "event": "push",
-    "observedAt": "2026-11-09T14:23:58.142122+09:00",
+    "observedAt": "2026-11-09T14:27:51.395975+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T14:23:58+09:00",
+    "verifiedAt": "2026-11-09T14:27:51+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "a57b8d4a58c0e3bfbf7f83a371625399b6d65b883d85bc8776c8a0365774ac9a"
+    "semanticSha256": "f0765156fbd7f7060a1a2ec80c3687c7488a9032b481d5fcff3b75f98eb18b80"
   },
   "genreCoverage": [
     {
@@ -112,7 +112,7 @@
     {
       "genreId": "car",
       "name": "車",
-      "programs": 17,
+      "programs": 19,
       "lastStart": "2026-11-15T23:30:00+09:00"
     },
     {
