@@ -961,6 +961,23 @@
       "lifecycle": "current_airing_confirmed",
       "lastResult": "2026-11-15_2100_policestory3_official_confirmed",
       "searchCaution": "毎週日曜21:00～23:00にBS-TBSで放送。2026/11/15は『ポリス・ストーリー3』。番組名が一定でも作品名が毎週変わるため、公式の当該週ラインナップで作品・日付を照合。ユーザーが毎週録画する重点追跡番組。予測で放送日時を作らない。"
+    },
+    {
+      "id": "regular-winter-figure-grand-prix",
+      "title": "フィギュアグランプリシリーズ",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "stationCandidates": [
+        "tvasahi"
+      ],
+      "referenceUrls": [
+        "https://bangumi.org/tv_events/AmUAQoLi8AM"
+      ],
+      "lastCheckedAt": "2026-11-09T21:09:00+09:00",
+      "lifecycle": "reference_only",
+      "lastResult": "Muse report 2026-11-15; individual airings must be confirmed",
+      "searchCaution": "大会ごとに放送日時が異なる。参照登録のみで未来の放送枠は自動生成しない。"
     }
   ]
 }
