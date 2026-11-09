@@ -1818,6 +1818,170 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "GガイドとJ:COM番組表で11/15 10:00〜11:15のフジテレビ放送を確認。番組紹介に『旅』『お散歩バラエティ』があり、旅ジャンルの『旅』『散歩』で発見可能。Gガイド11/15番組表の当該回案内に『北海道の漁師メシ』があり、魚・漁を扱う特集としてユーザー指定の広い釣りジャンルにも該当。"
+    },
+    {
+      "id": "chatgpt-ntv-20261109-1900-ariyoshizemi",
+      "seriesId": "chatgpt-series-ariyoshi-zemi",
+      "title": "有吉ゼミ ギャル曽根チャレンジグルメ",
+      "stationId": "ntv",
+      "start": "2026-11-09T19:00:00+09:00",
+      "end": "2026-11-09T20:00:00+09:00",
+      "genreIds": [
+        "big_eating"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety/cooking",
+      "genreBasis": "Gガイド11/9東京の『有吉ゼミ』該当回はギャル曽根のチャレンジグルメ。大食い・デカ盛り・爆食の3語自体は番組名・個別説明に見当たらず、追加検索語『ギャル曽根』『チャレンジグルメ』が必要というテスト結果。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261110-1900-platinumfamily",
+      "seriesId": "chatgpt-series-platinum-family",
+      "title": "プラチナファミリー 豪邸クイズ",
+      "stationId": "tvasahi",
+      "start": "2026-11-10T19:00:00+09:00",
+      "end": "2026-11-10T20:10:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwQoKg0AM",
+      "genreBasis": "Gガイド11/10放送と当該回の豪邸訪問企画を確認。建築・建物・住宅・豪邸のうち『豪邸』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-chiba-20261111-2230-weeklybike",
+      "seriesId": "chatgpt-series-weekly-bike-tv",
+      "title": "週刊バイクTV ホンダでのんびり散歩",
+      "stationId": "chiba",
+      "start": "2026-11-11T22:30:00+09:00",
+      "end": "2026-11-11T23:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTGw4PBgAM",
+      "genreBasis": "Gガイドのチバテレ当該回。バイク（単気筒ツーリング）に関する番組。車・自動車・バイク・トラックの『バイク』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-nhke-20261112-1200-kyonokenko",
+      "seriesId": "chatgpt-series-kyono-kenko",
+      "title": "きょうの健康 東洋医学「みんなの相談室」",
+      "stationId": "nhk_e",
+      "start": "2026-11-12T12:00:00+09:00",
+      "end": "2026-11-12T12:15:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTQQIMsIAM",
+      "genreBasis": "Gガイドの健康・医療番組。漢方薬・鍼灸・ヨガの視聴者質問を扱う回。健康・病気・医療のうち『健康』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261112-2154-dnosenritsu",
+      "seriesId": "chatgpt-series-d-no-senritsu",
+      "title": "Dの旋律 ダンスと音楽のシンフォニー",
+      "stationId": "tvtokyo",
+      "start": "2026-11-12T21:54:00+09:00",
+      "end": "2026-11-12T22:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTQQwGBMAM",
+      "genreBasis": "Gガイドの当該回にダンス披露・ジャズダンスの記述。ダンス・踊り・ダンサーの『ダンス』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261113-1930-chikyutetsudo29",
+      "seriesId": "chatgpt-series-chikyu-tetsudo",
+      "title": "地球鉄道（29）カザフスタン",
+      "stationId": "nhk_bs",
+      "start": "2026-11-13T19:30:00+09:00",
+      "end": "2026-11-13T20:00:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgBlNZoAE",
+      "genreBasis": "Gガイド11/13のNHK BS放送。カザフスタン1100キロの列車旅。鉄道・電車・列車・新幹線の『鉄道』『列車』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-tvasahi-20261114-0425-tatemonotanbo",
+      "seriesId": "chatgpt-series-watanabe-tatemonotanbo",
+      "title": "渡辺篤史の建もの探訪 橋でつながる家",
+      "stationId": "tvasahi",
+      "start": "2026-11-14T04:25:00+09:00",
+      "end": "2026-11-14T04:50:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQoLgMAM",
+      "genreBasis": "Gガイド11/14早朝の住宅訪問番組。建もの探訪は語形差があるが、建物・住宅・豪邸を扱う内容。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261114-0615-nipponburaritetsudo",
+      "seriesId": "chatgpt-series-nippon-burari-tetsudotabi",
+      "title": "ニッポンぶらり鉄道旅 秋の京都 叡山電車",
+      "stationId": "nhk_bs",
+      "start": "2026-11-14T06:15:00+09:00",
+      "end": "2026-11-14T07:15:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwBlN9MAE",
+      "genreBasis": "Gガイド11/14 NHK BSの叡山電車で京都を巡る鉄道旅。『鉄道』『電車』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261115-2200-ariyoshieeeee",
+      "seriesId": "chatgpt-series-ariyoshi-eeee",
+      "title": "有吉ぃぃeeeee！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": "2026-11-15T22:48:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety/game",
+      "genreBasis": "Gガイド11/15のバラエティ/ゲーム番組欄。ゲーム・eスポーツ挑戦。『ゲーム』で発見。",
+      "checkedAt": "2026-11-09T10:09:14+09:00",
+      "updatedAt": "2026-11-09T10:09:14+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts"
     }
   ],
   "updatedAt": "2026-10-27T16:43:00+09:00",
