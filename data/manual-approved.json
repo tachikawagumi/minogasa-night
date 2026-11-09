@@ -2603,6 +2603,76 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "GガイドNHK総合の20:07放送枠に宇都宮LRT路面電車開業特集を確認。終了時刻は省略。"
+    },
+    {
+      "id": "chatgpt-tbs-20261109-2356-foodfighter-kobayashi",
+      "seriesId": "chatgpt-series-foodfighter-kobayashi",
+      "title": "クレイジージャーニー 伝説のフードファイター小林尊！壮絶な人生を巡る旅SP",
+      "stationId": "tbs",
+      "start": "2026-11-09T23:56:00+09:00",
+      "genreIds": [
+        "big_eating"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety",
+      "checkedAt": "2026-11-09T12:10:00+09:00",
+      "updatedAt": "2026-11-09T12:10:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_g_guide_genre_browse",
+      "genreBasis": "フードファイター小林尊の特集。大食い競技の人物を扱う回。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261114-1830-onsen-towel-24",
+      "seriesId": "chatgpt-series-onsen-towel-24",
+      "title": "土曜ゴールデン 温泉タオル集め旅24 紅葉の信州絶景露天SP 蓼科〜白馬",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T18:30:00+09:00",
+      "genreIds": [
+        "onsen",
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety/travel",
+      "checkedAt": "2026-11-09T12:10:00+09:00",
+      "updatedAt": "2026-11-09T12:10:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_g_guide_genre_browse",
+      "genreBasis": "温泉を巡る旅企画。"
+    },
+    {
+      "id": "chatgpt-mx-20261113-1759-yuichimuni-cave",
+      "seriesId": "chatgpt-series-yuichimuni-cave",
+      "title": "湯ったり温泉バラエティ 原田龍二の日本全国！湯一無二 奥行30mの洞窟風呂（再）",
+      "stationId": "mx",
+      "start": "2026-11-13T17:59:00+09:00",
+      "genreIds": [
+        "onsen",
+        "travel"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety/travel",
+      "checkedAt": "2026-11-09T12:10:00+09:00",
+      "updatedAt": "2026-11-09T12:10:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_g_guide_genre_browse",
+      "genreBasis": "洞窟風呂を紹介する温泉企画。"
+    },
+    {
+      "id": "chatgpt-mx-20261115-0800-terry-tsuchiya-car",
+      "seriesId": "chatgpt-series-terry-tsuchiya-car",
+      "title": "テリー土屋のくるまの話",
+      "stationId": "mx",
+      "start": "2026-11-15T08:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/genres/variety/travel",
+      "checkedAt": "2026-11-09T12:10:00+09:00",
+      "updatedAt": "2026-11-09T12:10:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_g_guide_genre_browse",
+      "genreBasis": "車を主題とする番組。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
