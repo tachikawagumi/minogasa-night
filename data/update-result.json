@@ -1,27 +1,15 @@
 {
-  "at": "2026-11-09T12:52:04+09:00",
-  "status": "published",
+  "at": "2026-11-09T12:53:04+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 206,
+  "publicPrograms": 207,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "manual-weekly-202611140700-mx",
-      "manual-weekly-202611140830-mx",
-      "manual-weekly-202611141030-chiba",
-      "manual-weekly-202611141130-chiba",
-      "manual-weekly-202611141200-fuji",
-      "manual-weekly-202611141400-tbs",
-      "manual-weekly-202611141530-tvasahi",
-      "manual-weekly-202611141700-chiba",
-      "manual-weekly-202611141730-tvtokyo",
-      "manual-weekly-202611142245-chiba",
-      "manual-weekly-202611151655-ntv",
-      "manual-weekly-202611151900-tbs",
-      "manual-weekly-202611152320-tvtokyo"
+      "manual-movie-202611151800-bsfuji"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -29,18 +17,11 @@
     "expired": []
   },
   "counts": {
-    "added": 13,
+    "added": 1,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T12:52:32+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "8fb1d9b676c6c5e48d0f052535b32d53038d304f721d09bf67afd62afbbc45ef",
-    "programs": 206
-  }
+  "publicationVerified": false
 }

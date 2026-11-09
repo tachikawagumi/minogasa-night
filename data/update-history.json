@@ -1,58 +1,5 @@
 [
   {
-    "at": "2026-11-09T11:27:36+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 157,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-bsasahi-20261111-2100-fish-eat",
-        "chatgpt-bsasahi-20261112-2230-kenkoba-bizihotels",
-        "chatgpt-bsntv-20261114-1700-yumetyoko",
-        "chatgpt-bstvtokyo-20261110-1900-maguro-war",
-        "chatgpt-bstvtokyo-20261114-2200-kasuga-jibasen",
-        "chatgpt-chiba-20261111-2230-weeklybike",
-        "chatgpt-fuji-20261115-1000-kano-sand",
-        "chatgpt-nhkbs-20261110-1200-tsuribito-hagi",
-        "chatgpt-nhkbs-20261113-1930-chikyutetsudo29",
-        "chatgpt-nhkbs-20261114-0615-nipponburaritetsudo",
-        "chatgpt-nhkbs-20261115-0630-tsuribito-hagi",
-        "chatgpt-nhkbs-20261115-1730-tsuribito-hirame",
-        "chatgpt-nhke-20261112-1200-kyonokenko",
-        "chatgpt-ntv-20261109-1900-ariyoshizemi",
-        "chatgpt-tvasahi-20261110-1900-platinumfamily",
-        "chatgpt-tvasahi-20261114-0425-tatemonotanbo",
-        "chatgpt-tvtokyo-20261109-2154-tokyo-crossing-fish",
-        "chatgpt-tvtokyo-20261112-2154-dnosenritsu",
-        "chatgpt-tvtokyo-20261112-2258-tokyo-town-fish",
-        "chatgpt-tvtokyo-20261115-2200-ariyoshieeeee"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 20,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T11:28:02+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "e2fc58db136965d6614c1f7a46015d4b2f76f41cb3100348f6b163dc052326e9",
-      "programs": 157
-    }
-  },
-  {
     "at": "2026-11-09T11:32:01+09:00",
     "status": "failed",
     "publicationVerified": false,
@@ -1554,5 +1501,32 @@
       "semanticSha256": "8fb1d9b676c6c5e48d0f052535b32d53038d304f721d09bf67afd62afbbc45ef",
       "programs": 206
     }
+  },
+  {
+    "at": "2026-11-09T12:53:04+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 207,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "manual-movie-202611151800-bsfuji"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
