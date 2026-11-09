@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T21:11:29.154914+09:00",
+  "observedAt": "2026-11-09T21:15:32.962703+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 0,
+    "newPublic": 8,
     "publicationStatus": "published",
-    "hoursSinceResearch": 264.79,
+    "hoursSinceResearch": 264.86,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T21:10:55+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T21:15:07+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T21:10:55+09:00",
+    "at": "2026-11-09T21:15:07+09:00",
     "counts": {
-      "added": 0,
+      "added": 8,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 7
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "42614826174",
+    "runId": "42615403737",
     "event": "push",
-    "observedAt": "2026-11-09T21:11:29.154914+09:00",
+    "observedAt": "2026-11-09T21:15:32.962703+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T21:11:29+09:00",
+    "verifiedAt": "2026-11-09T21:15:32+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "47ab89872dd0e8eca7a111887f1946865dccdb28b3c746c6e545fa2788224c37"
+    "semanticSha256": "fee855b8977a983361478b3e540cfe94f41d0f828626134642142d53b4f7d5ee"
   },
   "genreCoverage": [
     {
@@ -166,7 +166,7 @@
     {
       "genreId": "anime",
       "name": "アニメ",
-      "programs": 179,
+      "programs": 180,
       "lastStart": "2026-11-15T23:45:00+09:00"
     },
     {
@@ -174,9 +174,15 @@
       "name": "電車・鉄道",
       "programs": 24,
       "lastStart": "2026-11-15T23:00:00+09:00"
+    },
+    {
+      "genreId": "winter_sports",
+      "name": "冬季スポーツ",
+      "programs": 8,
+      "lastStart": "2026-11-15T23:55:00+09:00"
     }
   ],
-  "publicPrograms": 444,
+  "publicPrograms": 452,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
