@@ -13,6 +13,9 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items as gridItems
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
@@ -68,10 +71,9 @@ class NightViewModel(application: Application) : AndroidViewModel(application) {
         } catch (_: Exception) { error = if (BuildConfig.FEED_URL.isBlank()) "配信先の接続準備中です。同梱した実番組の確認情報を表示しています。" else "更新できませんでした。保存済みの情報を表示しています。" } finally { busy = false }
     } }
     fun favorite(key: String) = viewModelScope.launch { app.repository.toggle(key); Schedules.reminders(app) }
-    fun genre(name: String, on: Boolean) = viewModelScope.launch { app.settings.genre(name, on) }
+    fun genre(name: String, on: Boolean) = viewModelScope.launch { app.settings.displayGenre(name, on) }
     fun weekly(on: Boolean) = viewModelScope.launch { app.settings.weekly(on); Schedules.weekly(app, on) }
     fun reminders(on: Boolean) = viewModelScope.launch { app.settings.reminders(on); Schedules.reminders(app) }
-    fun draft(value: String) = viewModelScope.launch { app.settings.draft(value) }
 }
 
 class MainActivity : ComponentActivity() {
@@ -95,7 +97,7 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
     var period by remember { mutableIntStateOf(0) }
     var onlySaved by rememberSaveable { mutableStateOf(false) }
     var screen by rememberSaveable { mutableStateOf("home") }
-    BackHandler(enabled = screen != "home") { screen = if (screen == "request") "settings" else "home" }
+    BackHandler(enabled = screen != "home") { screen = "home" }
     var today by remember { mutableStateOf(LocalDate.now(Tokyo)) }
     var currentTime by remember { mutableLongStateOf(System.currentTimeMillis()) }
     LaunchedEffect(Unit) { while (true) {
@@ -133,25 +135,38 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                 }) { Text("端末の通知設定を開く") } }
                 item { Text("表示するジャンル", color = Gold, fontSize = 20.sp, modifier = Modifier.padding(top = 16.dp)) }
                 item { Text("複数選べます。お気に入りにはジャンル設定を適用しません。", color = Muted, fontSize = 14.sp) }
-                items(genres) { genre -> SettingSwitch(genre, null, genre in settings.enabled) { vm.genre(genre, it) } }
-                item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", fontSize = 16.sp) } }
-                item { Text(BrowseText.creditsTitle, color = Gold, fontSize = 20.sp) }
-                item { Text(BrowseText.credits, color = Muted, fontSize = 15.sp) }
-                item { TextButton(onClick = { context.startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse("https://cal.syoboi.jp/"))) }) { Text("アニメ情報：しょぼいカレンダー") } }
+                item {
+                    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        displayGenres.chunked(2).forEach { pair ->
+                            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                pair.forEach { genre ->
+                                    val selected = displayEnabled(settings.enabled, genre)
+                                    FilterChip(
+                                        selected = selected,
+                                        onClick = { vm.genre(genre, !selected) },
+                                        label = { Text(genre, fontSize = 14.sp, maxLines = 2, fontWeight = if (selected) FontWeight.Bold else FontWeight.Medium) },
+                                        modifier = Modifier.weight(1f).heightIn(min = 48.dp),
+                                        colors = FilterChipDefaults.filterChipColors(
+                                            containerColor = Navy,
+                                            labelColor = Muted,
+                                            selectedContainerColor = Gold,
+                                            selectedLabelColor = Navy
+                                        ),
+                                        border = FilterChipDefaults.filterChipBorder(
+                                            enabled = true,
+                                            selected = selected,
+                                            borderColor = Muted,
+                                            selectedBorderColor = Gold,
+                                            borderWidth = 1.dp,
+                                            selectedBorderWidth = 1.5.dp
+                                        )
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
                 item { Text("登録不要・広告なし／v${BuildConfig.VERSION_NAME}\n設定とお気に入りは端末内に保存されます。", color = Muted, fontSize = 14.sp, modifier = Modifier.padding(bottom = 32.dp)) }
-            }
-        } else if (screen == "request") {
-            Column(Modifier.weight(1f).verticalScroll(rememberScrollState())) {
-            var draft by remember(settings.draft) { mutableStateOf(settings.draft) }
-            var saved by remember { mutableStateOf(false) }
-            Text("ジャンル追加リクエスト", fontSize = 23.sp, fontWeight = FontWeight.Bold)
-            Spacer(Modifier.height(16.dp))
-            Text("送信先は準備中です。下書きをこの端末に保存できます。", color = Muted)
-            Spacer(Modifier.height(16.dp))
-            OutlinedTextField(draft, { draft = it.take(2000); saved = false }, label = { Text("追加したいジャンル・番組例") }, modifier = Modifier.fillMaxWidth().heightIn(min = 160.dp), supportingText = { Text("${draft.length}/2000文字") })
-            Button(onClick = { vm.draft(draft); saved = true }, modifier = Modifier.fillMaxWidth()) { Text("下書きを保存", fontSize = 18.sp) }
-            if (saved) Text("端末に保存しました。まだ送信されていません。", color = Gold)
-            TextButton(onClick = { screen = "settings" }) { Text("設定へ戻る") }
             }
         } else {
             Text(today.format(dateFormat), color = Muted, fontSize = 16.sp)
@@ -185,7 +200,6 @@ fun NightScreen(vm: NightViewModel = viewModel()) {
                     item(key = "date-$date") { Text("${date.format(dateFormat)}  ·  ${list.size}件", color = Muted, modifier = Modifier.padding(top = 8.dp)) }
                     items(list, key = { it.id }) { p -> ProgramCard(p, "p:${p.id}" in favorites, "s:${p.seriesId}" in favorites, { vm.favorite("p:${p.id}") }, { vm.favorite("s:${p.seriesId}") }) }
                 }
-                item { TextButton(onClick = { screen = "request" }) { Text("ジャンル追加リクエスト", color = Muted, fontSize = 14.sp) } }
             }
         }
     }
