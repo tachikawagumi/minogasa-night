@@ -1,18 +1,16 @@
 {
-  "at": "2026-11-09T11:33:31+09:00",
-  "status": "published",
+  "at": "2026-11-09T11:34:31+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 161,
+  "publicPrograms": 163,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-onsen-b12-20261112-0757",
-      "chatgpt-tvasahi-20261113-1850-japan-korea",
-      "chatgpt-tvasahi-20261114-1200-japan-australia",
-      "chatgpt-tvasahi-20261114-1830-japan-brazil"
+      "chatgpt-bstbs-20261115-1200-sekiguchi-mu",
+      "chatgpt-chiba-20261114-1300-soccer-final"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -20,18 +18,11 @@
     "expired": []
   },
   "counts": {
-    "added": 4,
+    "added": 2,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T11:33:58+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "fa1a2ddea3d4a7920dd91e8c9e287df0396644fb8ff47ec9c5fc33ac9a6dc4f7",
-    "programs": 161
-  }
+  "publicationVerified": false
 }

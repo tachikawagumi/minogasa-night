@@ -1,36 +1,5 @@
 [
   {
-    "at": "2026-10-26T17:40:53+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 147,
-    "aiAccepted": 3,
-    "aiHeld": 17,
-    "batchId": "ai-20261026-phase7-occult-six",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-10-26T17:41:23+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "ae1cd5eb9e6ea0e318f0a0ca32864caa070112d83b871ead50b4cd731e221fbf",
-      "programs": 147
-    }
-  },
-  {
     "at": "2026-10-26T17:45:01+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2920,5 +2889,33 @@
       "semanticSha256": "fa1a2ddea3d4a7920dd91e8c9e287df0396644fb8ff47ec9c5fc33ac9a6dc4f7",
       "programs": 161
     }
+  },
+  {
+    "at": "2026-11-09T11:34:31+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 163,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-bstbs-20261115-1200-sekiguchi-mu",
+        "chatgpt-chiba-20261114-1300-soccer-final"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
