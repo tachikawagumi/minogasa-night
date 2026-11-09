@@ -193,7 +193,7 @@ def validate_public(feed):
             raise ValueError("ジャンル不正")
         if row["stationId"] not in STATIONS:
             raise ValueError("対象外局")
-        if row["status"] not in ("official_confirmed", "provider_confirmed"):
+        if row["status"] not in ("official_confirmed", "provider_confirmed", "source_reported"):
             raise ValueError("未確認データの公開を拒否")
         if not row["title"].strip() or "サンプル" in row["title"]:
             raise ValueError("空タイトル・サンプル不可")
