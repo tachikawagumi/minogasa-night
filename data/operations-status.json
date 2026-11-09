@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T11:50:06.797805+09:00",
+  "observedAt": "2026-11-09T11:50:53.169905+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -16,7 +16,7 @@
     "newCandidates": 11,
     "newPublic": 0,
     "publicationStatus": "published",
-    "hoursSinceResearch": 255.44,
+    "hoursSinceResearch": 255.45,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,10 +29,10 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T11:49:39+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T11:50:29+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T11:49:39+09:00",
+    "at": "2026-11-09T11:50:29+09:00",
     "counts": {
       "added": 0,
       "scheduleChanged": 0,
@@ -42,17 +42,17 @@
     }
   },
   "lastActions": {
-    "runId": "42553023260",
+    "runId": "42553096688",
     "event": "push",
-    "observedAt": "2026-11-09T11:50:06.797805+09:00",
+    "observedAt": "2026-11-09T11:50:53.169905+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T11:50:06+09:00",
+    "verifiedAt": "2026-11-09T11:50:53+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "00a5ee1dc328a0c9360d8d60540ddc1b7b6ac876417a3dbf081f0fc569f638f4"
+    "semanticSha256": "bfffceab2612539b452014c39020c26a5d66156637fbef96cde33291cf733b01"
   },
   "genreCoverage": [
     {
