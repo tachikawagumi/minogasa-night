@@ -1,34 +1,6 @@
 [
   {
     "at": "2026-11-09T11:58:41+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 176,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-fuji-20261115-0540-swallows-kids",
-        "chatgpt-nhkbs-20261115-2100-kyujien"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 2,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T11:58:41+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 176,
@@ -1565,6 +1537,13 @@
   },
   {
     "at": "2026-11-09T15:11:04+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "ValueError: 未定義の局・ジャンル",
+    "previousPublicPreserved": true
+  },
+  {
+    "at": "2026-11-09T15:11:31+09:00",
     "status": "failed",
     "publicationVerified": false,
     "error": "ValueError: 未定義の局・ジャンル",
