@@ -1,6 +1,6 @@
 {
-  "at": "2026-11-09T09:17:50+09:00",
-  "status": "published",
+  "at": "2026-11-09T09:18:48+09:00",
+  "status": "prepared",
   "animeSuccess": true,
   "publicPrograms": 135,
   "aiAccepted": 0,
@@ -8,34 +8,18 @@
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
-    "added": [
-      "chatgpt-bstbs-20261115-2100-nagano-policestory3",
-      "chatgpt-bstvtokyo-20261114-1830-toraajisai",
-      "chatgpt-ntv-20261113-2100-moana2",
-      "chatgpt-tvtokyo-20261109-1340-mybodyguard",
-      "chatgpt-tvtokyo-20261110-1340-iceroad",
-      "chatgpt-tvtokyo-20261111-1340-knightday",
-      "chatgpt-tvtokyo-20261112-1340-bankjob",
-      "chatgpt-tvtokyo-20261113-1340-escapeplan"
-    ],
+    "added": [],
     "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
     "expired": []
   },
   "counts": {
-    "added": 8,
+    "added": 0,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T09:18:18+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "1cd003d2a28be37fc47f24fa527f8d35befdebdc5e1318e7abdcf41fe3dec800",
-    "programs": 135
-  }
+  "publicationVerified": false
 }

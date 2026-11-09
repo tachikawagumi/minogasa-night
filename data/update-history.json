@@ -2822,5 +2822,30 @@
       "semanticSha256": "1cd003d2a28be37fc47f24fa527f8d35befdebdc5e1318e7abdcf41fe3dec800",
       "programs": 135
     }
+  },
+  {
+    "at": "2026-11-09T09:18:48+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 135,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
