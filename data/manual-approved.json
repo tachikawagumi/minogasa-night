@@ -2126,6 +2126,61 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "Gガイド個別番組ページで日時・局・内容を確認。無料BSまたは千葉県地上波。"
+    },
+    {
+      "id": "chatgpt-chiba-20261113-0030-viva",
+      "seriesId": "chatgpt-series-viva",
+      "title": "VIVA 映画祭受賞の短編映画たち『PET／しまこと小豆島』",
+      "stationId": "chiba",
+      "start": "2026-11-13T00:30:00+09:00",
+      "end": "2026-11-13T01:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTmw4PMgAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイドの放送番組表に掲載された映画本編・短編映画。局と日時を採録。"
+    },
+    {
+      "id": "chatgpt-bs12-20261114-1900-dirtyharry2",
+      "seriesId": "chatgpt-series-dirtyharry2",
+      "title": "土曜洋画劇場『ダーティハリー2』",
+      "stationId": "bs12",
+      "start": "2026-11-14T19:00:00+09:00",
+      "end": "2026-11-14T21:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261114",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイドの放送番組表に掲載された映画本編・短編映画。局と日時を採録。"
+    },
+    {
+      "id": "chatgpt-nhk-e-20261115-1535-shaun",
+      "seriesId": "chatgpt-series-shaun",
+      "title": "映画『ひつじのショーン 〜バック・トゥ・ザ・ホーム〜』",
+      "stationId": "nhk_e",
+      "start": "2026-11-15T15:35:00+09:00",
+      "end": "2026-11-15T17:00:00+09:00",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQIQawAM?overwrite_area=23",
+      "checkedAt": "2026-11-09T10:00:00+09:00",
+      "updatedAt": "2026-11-09T10:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "Gガイドの放送番組表に掲載された映画本編・短編映画。局と日時を採録。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
