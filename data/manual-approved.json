@@ -2534,6 +2534,58 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "GガイドまたはJ:COM番組表で局・放送日時・旅／街歩き内容を確認。終了時刻は任意のため省略。"
+    },
+    {
+      "id": "chatgpt-fuji-20261109-2000-battle-show",
+      "seriesId": "chatgpt-series-battle-show",
+      "title": "真剣遊戯！THEバトルSHOW しりとりバトルSP",
+      "stationId": "fuji",
+      "start": "2026-11-09T20:00:00+09:00",
+      "end": "2026-11-09T21:00:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/986661/",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COMで放送局・開始日時・ゲーム対決内容を確認。"
+    },
+    {
+      "id": "chatgpt-fuji-20261115-1900-oni-renchan",
+      "seriesId": "chatgpt-series-oni-renchan",
+      "title": "千鳥の鬼レンチャン",
+      "stationId": "fuji",
+      "start": "2026-11-15T19:00:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261115&ggm_group_id=42",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COMで放送局・開始日時・ゲーム対決内容を確認。"
+    },
+    {
+      "id": "chatgpt-fuji-20261114-1230-battle-preview",
+      "seriesId": "chatgpt-series-battle-show",
+      "title": "月曜よる8時は真剣遊戯！THEバトルSHOW",
+      "stationId": "fuji",
+      "start": "2026-11-14T12:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261114&ggm_group_id=42",
+      "checkedAt": "2026-11-09T09:00:00+09:00",
+      "updatedAt": "2026-11-09T09:00:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "GガイドまたはJ:COMで放送局・開始日時・ゲーム対決内容を確認。"
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
