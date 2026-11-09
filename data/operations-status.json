@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-09T14:27:51.395975+09:00",
+  "observedAt": "2026-11-09T14:37:36.091118+09:00",
   "targetWindow": {
     "start": "2026-11-09T00:00:00+09:00",
     "endExclusive": "2026-11-16T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 0,
+    "newPublic": 2,
     "publicationStatus": "published",
-    "hoursSinceResearch": 258.07,
+    "hoursSinceResearch": 258.23,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-09T14:27:27+09:00",
+  "lastAnimeSuccessAt": "2026-11-09T14:37:08+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-09T14:27:27+09:00",
+    "at": "2026-11-09T14:37:08+09:00",
     "counts": {
-      "added": 0,
+      "added": 2,
       "scheduleChanged": 0,
-      "genreChanged": 2,
+      "genreChanged": 0,
       "removed": 0,
       "expired": 0
     }
   },
   "lastActions": {
-    "runId": "42567371711",
+    "runId": "42568323302",
     "event": "push",
-    "observedAt": "2026-11-09T14:27:51.395975+09:00",
+    "observedAt": "2026-11-09T14:37:36.091118+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-09T14:27:51+09:00",
+    "verifiedAt": "2026-11-09T14:37:36+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "f0765156fbd7f7060a1a2ec80c3687c7488a9032b481d5fcff3b75f98eb18b80"
+    "semanticSha256": "f552cde6469815f372df9adf7e66f42031ab8df712da980ff512dc794c5c8641"
   },
   "genreCoverage": [
     {
@@ -112,7 +112,7 @@
     {
       "genreId": "car",
       "name": "車",
-      "programs": 19,
+      "programs": 21,
       "lastStart": "2026-11-15T23:30:00+09:00"
     },
     {
@@ -176,7 +176,7 @@
       "lastStart": "2026-11-15T18:00:00+09:00"
     }
   ],
-  "publicPrograms": 226,
+  "publicPrograms": 228,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
