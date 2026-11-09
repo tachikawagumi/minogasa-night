@@ -944,6 +944,23 @@
       "lifecycle": "current_airing_confirmed",
       "lastResult": "window_airing_confirmed",
       "searchCaution": "11/4 22:30〜23:00、当該回の2車種インプレと千葉市内走行を確認。日曜再放送は個別日付未確認なので生成しない。"
+    },
+    {
+      "id": "regular-movie-nagano-channel",
+      "title": "永野映画CHANNEL",
+      "genreIds": [
+        "movie"
+      ],
+      "stationCandidates": [
+        "bstbs"
+      ],
+      "referenceUrls": [
+        "https://bs.tbs.co.jp/movie/moviesun22/"
+      ],
+      "lastCheckedAt": "2026-11-09T09:14:00+09:00",
+      "lifecycle": "current_airing_confirmed",
+      "lastResult": "2026-11-15_2100_policestory3_official_confirmed",
+      "searchCaution": "毎週日曜21:00～23:00にBS-TBSで放送。2026/11/15は『ポリス・ストーリー3』。番組名が一定でも作品名が毎週変わるため、公式の当該週ラインナップで作品・日付を照合。ユーザーが毎週録画する重点追跡番組。予測で放送日時を作らない。"
     }
   ]
 }
