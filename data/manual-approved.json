@@ -3185,6 +3185,156 @@
       "publicationApproved": true,
       "origin": "manual_guide_car_detail_review",
       "genreBasis": "Gガイド当該回にBSフジ11月9日22時と日産パオの試乗企画を明記。"
+    },
+    {
+      "id": "car-council-20261110-2345-tvasahi",
+      "seriesId": "series-tvasahi-テレビ千鳥神業駐車をしたいんじゃ!!",
+      "title": "テレビ千鳥 神業駐車をしたいんじゃ!!",
+      "stationId": "tvasahi",
+      "start": "2026-11-10T23:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261110&ggm_group_id=42",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "縦列駐車やL字駐車に挑戦する自動車運転企画。"
+      },
+      "genreBasis": "縦列駐車やL字駐車に挑戦する自動車運転企画。",
+      "officialVerified": false,
+      "providerVerified": true
+    },
+    {
+      "id": "car-council-20261111-0125-tvasahi",
+      "seriesId": "series-tvasahi-RECTRUCK",
+      "title": "RECTRUCK",
+      "stationId": "tvasahi",
+      "start": "2026-11-11T01:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTAQoKhcAM",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "キャンピングカーで移動しながら音楽制作する企画。"
+      },
+      "genreBasis": "キャンピングカーで移動しながら音楽制作する企画。",
+      "officialVerified": false,
+      "providerVerified": true
+    },
+    {
+      "id": "car-council-20261111-2300-nhk_g",
+      "seriesId": "series-nhk_g-探検ファクトリー車のシートカバー工場",
+      "title": "探検ファクトリー 車のシートカバー工場",
+      "stationId": "nhk_g",
+      "start": "2026-11-11T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTAQAMG0AM",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "自動車用シートカバーの製造・安全性を紹介。"
+      },
+      "genreBasis": "自動車用シートカバーの製造・安全性を紹介。",
+      "officialVerified": false,
+      "providerVerified": true
+    },
+    {
+      "id": "car-council-20261112-2154-bsasahi",
+      "seriesId": "series-bsasahi-私の幸福時間#1160自動二輪車のツーリ",
+      "title": "私の幸福時間 #1160 自動二輪車のツーリング",
+      "stationId": "bsasahi",
+      "start": "2026-11-12T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTQCXKKoAE",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "当該回の題名に自動二輪車のツーリングと明記。"
+      },
+      "genreBasis": "当該回の題名に自動二輪車のツーリングと明記。",
+      "officialVerified": false,
+      "providerVerified": true
+    },
+    {
+      "id": "car-council-20261114-1030-fuji",
+      "seriesId": "series-fuji-F1サイドbyサイド",
+      "title": "F1サイドbyサイド",
+      "stationId": "fuji",
+      "start": "2026-11-14T10:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQgWC8AM?overwrite_area=23",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "F1の最新情報、ドライバー、マシンを扱う番組。"
+      },
+      "genreBasis": "F1の最新情報、ドライバー、マシンを扱う番組。",
+      "officialVerified": false,
+      "providerVerified": true
+    },
+    {
+      "id": "car-council-20261115-0000-tvtokyo",
+      "seriesId": "series-tvtokyo-RACINGLABOGT500最終決戦！",
+      "title": "RACING LABO GT500最終決戦！序章",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQwGGwAM",
+      "checkedAt": "2026-11-09T05:23:13.608Z",
+      "updatedAt": "2026-11-09T05:23:13.608Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_schedule_facts",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "genreEvidence": {
+        "car": "SUPER GTのGT500年間王者争いを扱うモータースポーツ番組。"
+      },
+      "genreBasis": "SUPER GTのGT500年間王者争いを扱うモータースポーツ番組。",
+      "officialVerified": false,
+      "providerVerified": true
     }
   ],
   "updatedAt": "2026-11-09T10:00:00+09:00",
