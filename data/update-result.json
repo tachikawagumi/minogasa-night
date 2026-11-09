@@ -1,15 +1,16 @@
 {
-  "at": "2026-11-09T12:00:45+09:00",
-  "status": "published",
+  "at": "2026-11-09T12:03:32+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 177,
+  "publicPrograms": 179,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "chatgpt-chiba-20261115-0600-tamura-fishing"
+      "chatgpt-nhk_e-20261115-1900-choice",
+      "chatgpt-tbs-20261115-0700-genki"
     ],
     "scheduleChanged": [],
     "genreChanged": [],
@@ -17,18 +18,11 @@
     "expired": []
   },
   "counts": {
-    "added": 1,
+    "added": 2,
     "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
     "expired": 0
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-09T12:01:11+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "fd41b6bfc12c7f0d8c880d36f9654efb0c04c9975c1cca631006096ff1458dab",
-    "programs": 177
-  }
+  "publicationVerified": false
 }
