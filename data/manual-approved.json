@@ -1351,7 +1351,8 @@
       "end": "2026-11-11T21:54:00+09:00",
       "genreIds": [
         "railway",
-        "travel"
+        "travel",
+        "architecture"
       ],
       "sourceUrl": "https://www.bs4.jp/charitestu/",
       "checkedAt": "2026-11-05T19:16:20.736+09:00",
@@ -1370,7 +1371,8 @@
       "end": "2026-11-12T21:54:00+09:00",
       "genreIds": [
         "railway",
-        "travel"
+        "travel",
+        "architecture"
       ],
       "sourceUrl": "https://www.bs4.jp/charitestu/",
       "checkedAt": "2026-11-05T19:16:20.736+09:00",
@@ -2475,7 +2477,8 @@
       "stationId": "nhk_g",
       "start": "2026-11-14T19:30:00+09:00",
       "genreIds": [
-        "travel"
+        "travel",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwQAN0QAM",
       "checkedAt": "2026-11-09T09:00:00+09:00",
@@ -2595,7 +2598,8 @@
       "stationId": "nhk_g",
       "start": "2026-11-14T20:07:00+09:00",
       "genreIds": [
-        "railway"
+        "railway",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261114&ggm_group_id=42",
       "checkedAt": "2026-11-09T09:00:00+09:00",
@@ -3479,7 +3483,8 @@
       "start": "2026-11-14T12:00:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwCXKQQAE",
       "checkedAt": "2026-11-09T05:26:43.106Z",
@@ -3523,7 +3528,8 @@
       "start": "2026-11-14T18:30:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwCXKRQAE",
       "checkedAt": "2026-11-09T05:26:43.106Z",
@@ -3655,7 +3661,8 @@
       "start": "2026-11-10T23:00:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmSwChEicAE",
       "checkedAt": "2026-11-09T05:26:43.106Z",
@@ -3853,7 +3860,8 @@
       "start": "2026-11-15T17:00:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "architecture"
       ],
       "sourceUrl": "https://bangumi.org/genres/hobby/travel_outdoor",
       "checkedAt": "2026-11-09T05:26:43.106Z",
@@ -3950,8 +3958,932 @@
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": true,
       "genreBasis": "J:COM番組表に11月15日21:00〜21:55 BSテレ東での放送を確認。原宿の築54年マンション改修と国分寺の住宅を紹介。"
+    },
+    {
+      "id": "muse-architecture-202611-01",
+      "seriesId": "muse-architecture-series-01",
+      "title": "時のきらめき #5「西大寺（奈良県）」",
+      "stationId": "bs12",
+      "start": "2026-11-09T07:57:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgDeEJgAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.1。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-03",
+      "seriesId": "muse-architecture-series-03",
+      "title": "世界ふれあい街歩き「モン・サン・ミシェル」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-09T09:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgBlLhUAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.3。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-04",
+      "seriesId": "muse-architecture-series-04",
+      "title": "アナザーストーリーズ「トランプタワー誕生」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-09T11:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgBlLhkAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.4。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-06",
+      "seriesId": "muse-architecture-series-06",
+      "title": "あなたの知らない京都旅「南禅寺・西来院」",
+      "stationId": "bsasahi",
+      "start": "2026-11-09T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgCXKDEAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.6。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-07",
+      "seriesId": "muse-architecture-series-07",
+      "title": "光一＆シゲのSHOWマン‼「実は今ブーム！建築特集！」",
+      "stationId": "tvasahi",
+      "start": "2026-11-09T23:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgQoKRIAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.7。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-08",
+      "seriesId": "muse-architecture-series-08",
+      "title": "歴史探偵「監獄の光と影」",
+      "stationId": "nhk_g",
+      "start": "2026-11-09T23:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSgQALZcAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.8。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-13",
+      "seriesId": "muse-architecture-series-13",
+      "title": "京都はんなり紀行「北野天満宮編」",
+      "stationId": "bstbs",
+      "start": "2026-11-10T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwChEgwAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.13。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-15",
+      "seriesId": "muse-architecture-series-15",
+      "title": "時のきらめき #6「高取城址（奈良県）」",
+      "stationId": "bs12",
+      "start": "2026-11-10T06:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwDeELUAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.15。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-16",
+      "seriesId": "muse-architecture-series-16",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T07:08:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.16。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-18",
+      "seriesId": "muse-architecture-series-18",
+      "title": "心おどる 北欧・アジアンスタイル（5）",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T12:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.18。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-20",
+      "seriesId": "muse-architecture-series-20",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T17:08:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.20。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-22",
+      "seriesId": "muse-architecture-series-22",
+      "title": "ごりやくさん",
+      "stationId": "mx2",
+      "start": "2026-11-10T18:38:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.22。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-24",
+      "seriesId": "muse-architecture-series-24",
+      "title": "ちば文化資産▽天神坂",
+      "stationId": "chiba",
+      "start": "2026-11-10T20:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmS2w4O9AAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.24。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-25",
+      "seriesId": "muse-architecture-series-25",
+      "title": "ウチ、\"断捨離\"しました！",
+      "stationId": "bsasahi",
+      "start": "2026-11-10T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwCXKFgAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.25。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-26",
+      "seriesId": "muse-architecture-series-26",
+      "title": "世界ふれあい街歩き 選「サマルカンド」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-10T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmSwBlL6wAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.26。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-27",
+      "seriesId": "muse-architecture-series-27",
+      "title": "心おどる 北欧・アジアンスタイル（6）",
+      "stationId": "nhk_e",
+      "start": "2026-11-10T21:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.27。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-30",
+      "seriesId": "muse-architecture-series-30",
+      "title": "ごりやくさん 第18回「総集編」",
+      "stationId": "bs11",
+      "start": "2026-11-11T01:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTADTj8AAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.30。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-31",
+      "seriesId": "muse-architecture-series-31",
+      "title": "空からクルージング特別編 中国 世界遺産の旅",
+      "stationId": "nhk_e",
+      "start": "2026-11-11T04:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgQISq0AM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.31。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-32",
+      "seriesId": "muse-architecture-series-32",
+      "title": "京都はんなり紀行「貴船神社編」",
+      "stationId": "bstbs",
+      "start": "2026-11-11T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTAChEmMAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.32。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-36",
+      "seriesId": "muse-architecture-series-36",
+      "title": "美しい日本に出会う旅「阿蘇・黒川温泉と駅舎カフェ」",
+      "stationId": "bstbs",
+      "start": "2026-11-11T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTAChEnwAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.36。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-37",
+      "seriesId": "muse-architecture-series-37",
+      "title": "歴史探偵 選「飛鳥の巨石は何を語る？」",
+      "stationId": "nhk_g",
+      "start": "2026-11-11T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTAQAMGoAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.37。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-38",
+      "seriesId": "muse-architecture-series-38",
+      "title": "京都はんなり紀行「京和傘編」",
+      "stationId": "bstbs",
+      "start": "2026-11-12T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.38。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-41",
+      "seriesId": "muse-architecture-series-41",
+      "title": "チバテレ開局55周年記念番組 学生、現場へ！ 土木っておもしろい",
+      "stationId": "chiba",
+      "start": "2026-11-12T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTWw4PNQAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.41。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-43",
+      "seriesId": "muse-architecture-series-43",
+      "title": "時のきらめき #7「道後温泉駅・圓満寺」",
+      "stationId": "bs12",
+      "start": "2026-11-12T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTQDeEQAAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.43。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-44",
+      "seriesId": "muse-architecture-series-44",
+      "title": "見取り図の間取り図ミステリー！「人生を変えた家スペシャル」",
+      "stationId": "ntv",
+      "start": "2026-11-12T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.44。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-45",
+      "seriesId": "muse-architecture-series-45",
+      "title": "所さん！事件ですよ「廃虚団地が満室！？住まいを変える『リノベ』最新事情」",
+      "stationId": "nhk_g",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTQQAMowAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.45。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-48",
+      "seriesId": "muse-architecture-series-48",
+      "title": "京都はんなり紀行「清水焼編」",
+      "stationId": "bstbs",
+      "start": "2026-11-13T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgChEw8AE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.48。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-52",
+      "seriesId": "muse-architecture-series-52",
+      "title": "私の幸福時間 #1161「石川県／神社の手入れ」",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgCXKNQAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.52。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-53",
+      "seriesId": "muse-architecture-series-53",
+      "title": "世界の窓「モロッコ／フェズ」",
+      "stationId": "bstbs",
+      "start": "2026-11-13T22:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgChEywAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.53。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-54",
+      "seriesId": "muse-architecture-series-54",
+      "title": "探せ！未確認Z景「橋」",
+      "stationId": "nhk_g",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgQANQoAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.54。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-56",
+      "seriesId": "muse-architecture-series-56",
+      "title": "京都はんなり紀行「長楽館編」",
+      "stationId": "bstbs",
+      "start": "2026-11-14T04:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwChE2oAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.56。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-57",
+      "seriesId": "muse-architecture-series-57",
+      "title": "ドキュメント72時間「東京・多摩ニュータウン 移ろいゆく団地で」",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQANw4AM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.57。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-58",
+      "seriesId": "muse-architecture-series-58",
+      "title": "サイエンスZERO「震度7から暮らしを守れ！熊本地震 最新報告」",
+      "stationId": "nhk_e",
+      "start": "2026-11-14T11:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwQIN4sAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.58。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-60",
+      "seriesId": "muse-architecture-series-60",
+      "title": "中国王朝 英雄たちの伝説「巨大遺産の謎 大運河」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-14T15:27:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwBlN-YAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.60。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-61",
+      "seriesId": "muse-architecture-series-61",
+      "title": "小さな村の物語イタリア 第498話「天空にそびえる古城」",
+      "stationId": "bsntv",
+      "start": "2026-11-14T18:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwCNQJQAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.61。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-62",
+      "seriesId": "muse-architecture-series-62",
+      "title": "発見！離島のほんわか暮らし",
+      "stationId": "nhk_bs",
+      "start": "2026-11-14T18:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTwBlN-kAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.62。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-66",
+      "seriesId": "muse-architecture-series-66",
+      "title": "カラーでよみがえる東京「浅草〜盛り場の試練〜」",
+      "stationId": "nhk_g",
+      "start": "2026-11-15T04:10:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.66。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-68",
+      "seriesId": "muse-architecture-series-68",
+      "title": "明日をまもるナビ 選（206）「あなたの空き家が災害のリスクに？！」",
+      "stationId": "nhk_g",
+      "start": "2026-11-15T10:05:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQAOrUAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.68。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-69",
+      "seriesId": "muse-architecture-series-69",
+      "title": "家、ついて行ってイイですか？予習復習スペシャル",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T12:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQwHkUAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.69。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-71",
+      "seriesId": "muse-architecture-series-71",
+      "title": "時のきらめき #8「子規堂（愛媛県）」",
+      "stationId": "bs12",
+      "start": "2026-11-15T16:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUADeEVUAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.71。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-73",
+      "seriesId": "muse-architecture-series-73",
+      "title": "ヤマダデンキ テレビショッピング「リフォームの匠 第8弾」",
+      "stationId": "bsasahi",
+      "start": "2026-11-15T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUACXKUQAE",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.73。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-74",
+      "seriesId": "muse-architecture-series-74",
+      "title": "ごりやくさん▽天河大弁財天社",
+      "stationId": "chiba",
+      "start": "2026-11-15T18:35:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "source_reported",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": false,
+      "genreBasis": "Muse建物系調査報告書 No.74。関連度が弱い場合も含めて建物候補として登録。ジャンル一覧URLのみ・個別詳細未確認"
+    },
+    {
+      "id": "muse-architecture-202611-75",
+      "seriesId": "muse-architecture-series-75",
+      "title": "ポツンと一軒家",
+      "stationId": "tvasahi",
+      "start": "2026-11-15T19:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQoLxoAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.75。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
+    },
+    {
+      "id": "muse-architecture-202611-76",
+      "seriesId": "muse-architecture-series-76",
+      "title": "家、ついて行ってイイですか？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T20:50:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQwGJIAM",
+      "checkedAt": "2026-11-09T05:59:05.903Z",
+      "updatedAt": "2026-11-09T05:59:05.903Z",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "muse_architecture_report",
+      "sourcePolicyId": "reviewed_independent_facts",
+      "acquisitionMethod": "ai_web_reference",
+      "providerVerified": true,
+      "genreBasis": "Muse建物系調査報告書 No.76。関連度が弱い場合も含めて建物候補として登録。番組詳細URLあり"
     }
   ],
-  "updatedAt": "2026-11-09T05:40:19.954Z",
+  "updatedAt": "2026-11-09T05:59:05.903Z",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。 2026-11-09: Muse報告のB/C候補をユーザー指示により未確認注記付きで公開承認。"
 }
