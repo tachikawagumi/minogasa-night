@@ -9350,8 +9350,80 @@
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
       "genreBasis": "フィギュア関連ニュース特集。Muse B区分。Muse報告の個別番組表URLに基づく登録。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261113-2100-darkside-devil",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 悪魔が子どもを狙っている？恐怖の集団パニック",
+      "stationId": "nhk_bs",
+      "start": "2026-11-13T21:00:00+09:00",
+      "end": "2026-11-13T22:00:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgBlNZ8AE",
+      "checkedAt": "2026-11-11T23:56:31.544+00:00",
+      "updatedAt": "2026-11-11T23:56:31.544+00:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "悪魔崇拝カルトをめぐる恐怖と集団パニックの真相を検証する当該回。超常現象・都市伝説の社会的検証。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261118-2335-darkside-devil",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー 悪魔が子どもを狙っている？恐怖の集団パニック",
+      "stationId": "nhk_bs",
+      "start": "2026-11-18T23:35:00+09:00",
+      "end": "2026-11-19T00:35:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUwBlQLAAE",
+      "checkedAt": "2026-11-11T23:56:31.544+00:00",
+      "updatedAt": "2026-11-11T23:56:31.544+00:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "悪魔崇拝カルトと集団パニックを検証する当該回の再放送。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261116-1340-firewithfire",
+      "seriesId": "chatgpt-series-firewithfire",
+      "title": "午後のロードショー『ファイヤー・ウィズ・ファイヤー 炎の誓い』",
+      "stationId": "tvtokyo",
+      "start": "2026-11-16T13:40:00+09:00",
+      "end": "2026-11-16T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUQQwGL0AM",
+      "checkedAt": "2026-11-11T23:56:31.544+00:00",
+      "updatedAt": "2026-11-11T23:56:31.544+00:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "午後のロードショーの犯罪アクション映画放送枠。"
+    },
+    {
+      "id": "chatgpt-tvtokyo-20261117-1340-tangocash",
+      "seriesId": "chatgpt-series-tangocash",
+      "title": "午後のロードショー『デッドフォール』",
+      "stationId": "tvtokyo",
+      "start": "2026-11-17T13:40:00+09:00",
+      "end": "2026-11-17T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmUgQwGOAAM",
+      "checkedAt": "2026-11-11T23:56:31.544+00:00",
+      "updatedAt": "2026-11-11T23:56:31.544+00:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "午後のロードショーの刑事アクション映画放送枠。"
     }
   ],
-  "updatedAt": "2026-11-09T06:11:12.430Z",
+  "updatedAt": "2026-11-11T23:56:31.544+00:00",
   "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。 2026-11-09: Muse報告のB/C候補をユーザー指示により未確認注記付きで公開承認。"
 }
