@@ -7,7 +7,6 @@ import kotlinx.coroutines.withContext
 import java.net.HttpURLConnection
 import java.net.URL
 import java.io.ByteArrayOutputStream
-import java.time.Instant
 import java.time.LocalDate
 import java.time.OffsetDateTime
 
@@ -15,6 +14,16 @@ data class FeedSnapshot(val programs: List<Listing>, val generatedAt: Long, val 
 
 object FeedDecoder {
     private fun instant(value: String): Long = OffsetDateTime.parse(value).toInstant().toEpochMilli()
+    private val broadcastMidnight = Regex("^(\\d{4}-\\d{2}-\\d{2})T24:00:00(Z|[+-]\\d{2}:\\d{2})$")
+
+    private fun endInstant(value: String): Long {
+        // Imported TV schedules can express midnight as 24:00 on the broadcast day.
+        val midnight = broadcastMidnight.matchEntire(value)
+        if (midnight == null) return instant(value)
+        val (date, offset) = midnight.destructured
+        return instant("${LocalDate.parse(date).plusDays(1)}T00:00:00$offset")
+    }
+
     fun decode(text: String, now: Long = System.currentTimeMillis()): FeedSnapshot {
         require(text.length <= 2_000_000) { "番組データが大きすぎます" }
         val root = JsonParser.parseString(text).asJsonObject
@@ -33,7 +42,7 @@ object FeedDecoder {
             val series = p["seriesId"].asString
             val title = p["title"].asString
             val start = instant(p["start"].asString)
-            val end = p["end"]?.takeUnless { it.isJsonNull }?.asString?.let(::instant) ?: start
+            val end = p["end"]?.takeUnless { it.isJsonNull }?.asString?.let(::endInstant) ?: start
             val tags = p["genreIds"].asJsonArray.map { requireNotNull(genreMap[it.asString]) }.toSet()
             require(ids.add(id) && id.isNotBlank() && series.isNotBlank() && title.isNotBlank() && !title.contains("サンプル"))
             require(start >= windowStart && start < windowEnd && end >= start && tags.isNotEmpty())

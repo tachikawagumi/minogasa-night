@@ -12,9 +12,8 @@ android {
         applicationId = "jp.victoryk.minogasanight"
         minSdk = 26
         targetSdk = 35
-        versionCode = 3
-        versionName = "0.3.0"
-        // Planned GitHub Pages endpoint; deployment status is documented separately.
+        versionCode = 4
+        versionName = "0.3.1"
         val feedUrl = providers.gradleProperty("minogasaFeedUrl").orElse("https://tachikawagumi.github.io/minogasa-night/v1/programs.json").get()
         buildConfigField("String", "FEED_URL", "\"${feedUrl.replace("\\", "\\\\").replace("\"", "\\\"")}\"")
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
