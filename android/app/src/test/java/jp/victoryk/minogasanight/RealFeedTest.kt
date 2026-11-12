@@ -40,6 +40,29 @@ class RealFeedTest {
         assertTrue(snapshot.programs.all { p -> p.row().listing() == p && supportedTags.containsAll(p.tags) })
     }
 
+    @Test fun midnightEndUsesTheFollowingDayInJapan() {
+        val root = JsonParser.parseString(json()).asJsonObject
+        val program = root["programs"].asJsonArray[0].asJsonObject
+        val date = OffsetDateTime.parse(program["start"].asString).toLocalDate()
+        program.addProperty("end", "${date}T24:00:00+09:00")
+        program.addProperty("status", "provider_reported")
+        val row = FeedDecoder.decode(root.toString(), now).programs.single { it.id == program["id"].asString }
+        assertEquals(date.plusDays(1).atStartOfDay(Tokyo).toInstant().toEpochMilli(), row.end)
+    }
+
+    @Test fun multipleDisplayGenresMatchOneBroadcast() {
+        val today = LocalDate.of(2026, 11, 12)
+        val dayStart = today.atStartOfDay(Tokyo).toInstant().toEpochMilli()
+        val start = dayStart + 12 * 3_600_000
+        val program = Listing("example-slot", "example-series", "番組", "", "BS朝日4K",
+            start, start + 1_800_000, setOf("ディズニー", "大食い"), sample = false)
+        val disney = genreMembers("ディズニー＆USJ")
+        val eating = genreMembers("大食い")
+        for (enabled in listOf(disney, eating, disney + eating)) {
+            assertEquals(listOf(program), browsePrograms(listOf(program), emptySet(), enabled, 0, false, today, dayStart))
+        }
+    }
+
     @Test fun failedRefreshesKeepProgramsAndFavoritesUntilAValidResponseArrives() = runBlocking {
         val snapshot = FeedDecoder.decode(json(), now)
         val program = snapshot.programs.first()
