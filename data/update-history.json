@@ -1,42 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:26:21+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 193,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-mx-20261113-1759-yuichimuni-cave",
-        "chatgpt-mx-20261115-0800-terry-tsuchiya-car",
-        "chatgpt-tbs-20261109-2356-foodfighter-kobayashi",
-        "chatgpt-tvtokyo-20261114-1830-onsen-towel-24"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 4,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:26:48+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "a0ae55b2ad34fd2a59657bebb592534f2018cd06b995c64e9dcb9f6000175d82",
-      "programs": 193
-    }
-  },
-  {
     "at": "2026-11-09T12:36:44+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2011,5 +1974,37 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-12T12:57:08+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 338,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-12T12:57:35+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "b33338809048bc79eabbb9315ab622d55e24f9771f8878961bb849de88102a4f",
+      "programs": 338
+    }
   }
 ]
