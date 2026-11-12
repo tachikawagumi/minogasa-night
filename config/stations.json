@@ -193,6 +193,105 @@
       ],
       "receptionRequirements": "既存NHK BSと同様に受信契約の条件を別途確認。4K対応テレビ・チューナー・受信設備が必要。追加の有料専門チャンネルとは区別。",
       "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000065.000160617.html"
+    },
+    {
+      "id": "bs10",
+      "name": "BS10",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "全国無料BS。BS10プレミアム（有料）とは別"
+    },
+    {
+      "id": "bsyoshimoto",
+      "name": "BSよしもと",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "BS265ch。受信設備が必要"
+    },
+    {
+      "id": "jcom_bs",
+      "name": "J:COM BS",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "BS260ch。J:COMとの契約不要"
+    },
+    {
+      "id": "ouj_ex",
+      "name": "放送大学 BSキャンパスex",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "BS231ch。地上波ではない"
+    },
+    {
+      "id": "ouj_on",
+      "name": "放送大学 BSキャンパスon",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "BS232ch。地上波ではない"
+    },
+    {
+      "id": "tvk",
+      "name": "テレビ神奈川（tvk）",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "東京・千葉の一部地域のみ受信可能"
+    },
+    {
+      "id": "teletama",
+      "name": "テレビ埼玉（テレ玉）",
+      "distribution": "terrestrial",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "東京・千葉の一部地域のみ受信可能"
+    },
+    {
+      "id": "bsasahi4k",
+      "name": "BS朝日4K",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "4Kチューナー・受信設備が必要"
+    },
+    {
+      "id": "bsasahi152",
+      "name": "BS朝日 152ch",
+      "distribution": "free_bs",
+      "additionalSubscriptionRequired": false,
+      "regions": [
+        "Tokyo",
+        "Chiba"
+      ],
+      "receptionRequirements": "BS朝日のマルチ編成。対応受信機が必要"
     }
   ],
   "excludedDistributions": [
