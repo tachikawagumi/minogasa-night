@@ -1,7 +1,7 @@
 {
-  "at": "2026-11-12T14:55:49+09:00",
+  "at": "2026-11-12T15:01:33+09:00",
   "status": "failed",
   "publicationVerified": false,
-  "error": "ValueError: 未確認データの公開を拒否",
+  "error": "ValueError: 確認日時が未来",
   "previousPublicPreserved": true
 }
