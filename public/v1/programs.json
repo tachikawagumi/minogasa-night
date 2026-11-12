@@ -5228,6 +5228,20 @@
       "updatedAt": "2026-11-09T05:26:43.106Z"
     },
     {
+      "id": "muse-4k-20261114-2100-nhk-bsp4k",
+      "seriesId": "muse-4k-oz-wizard",
+      "title": "オズの魔法使 4K",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-14T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00"
+    },
+    {
       "id": "muse2-14-2125-bs12",
       "seriesId": "muse2-bs12-温泉日和 #33 鵜原温泉（千葉県）",
       "title": "温泉日和 #33 鵜原温泉（千葉県）",
