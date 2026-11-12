@@ -16461,6 +16461,135 @@
       "genreBasis": "Muse保留29件対応表。公式・番組表を参照したと報告。個別の独立照合は未実施。",
       "officialVerified": false,
       "providerVerified": false
+    },
+    {
+      "id": "muse29-15-bsasahi4k",
+      "seriesId": "muse29-15-bsasahi4k-series",
+      "title": "京の絶景 mini #3",
+      "stationId": "bsasahi4k",
+      "start": "2026-11-16T02:30:00+09:00",
+      "end": "2026-11-16T03:00:00+09:00",
+      "genreIds": [
+        "travel",
+        "architecture"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse29-16-bsasahi4k",
+      "seriesId": "muse29-16-bsasahi4k-series",
+      "title": "京の絶景 mini #5",
+      "stationId": "bsasahi4k",
+      "start": "2026-11-16T04:00:00+09:00",
+      "end": "2026-11-16T04:30:00+09:00",
+      "genreIds": [
+        "travel",
+        "architecture"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse29-19-nhkbsp4k",
+      "seriesId": "muse29-19-nhkbsp4k-series",
+      "title": "にっぽん縦断 こころ旅 ゴール！ 1393日目",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-14T09:30:00+09:00",
+      "end": "2026-11-14T09:59:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse29-25-tvk",
+      "seriesId": "muse29-25-tvk-series",
+      "title": "LURE×LURE CHANNEL ルアルアチャンネル",
+      "stationId": "tvk",
+      "start": "2026-11-15T07:00:00+09:00",
+      "end": "2026-11-15T07:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse29-26-bsasahi152",
+      "seriesId": "muse29-26-bsasahi152-series",
+      "title": "フィギュアGPアメリカ大会 女子フリー",
+      "stationId": "bsasahi152",
+      "start": "2026-11-16T05:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "winter_sports"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse29-29-bs10",
+      "seriesId": "muse29-29-bs10-series",
+      "title": "マネして踊って！DANCE TRAIN",
+      "stationId": "bs10",
+      "start": "2026-11-15T13:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "health",
+        "dance"
+      ],
+      "checkedAt": "2026-11-12T16:00:00+09:00",
+      "updatedAt": "2026-11-12T16:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_29_resolution",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
+      "officialVerified": false,
+      "providerVerified": false
     }
   ],
   "updatedAt": "2026-11-12T15:00:00+09:00",
