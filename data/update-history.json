@@ -1,41 +1,5 @@
 [
   {
-    "at": "2026-11-09T13:33:46+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 211,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "manual-big-eating-202611142054-tbs",
-        "manual-onsen-rail-202611101830",
-        "manual-onsen-rail-202611151800"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 3,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T13:34:13+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "f0639c9f13e1ff480380e20e06ef6f7e32845b63f7bcca40d1acacb9344066cb",
-      "programs": 211
-    }
-  },
-  {
     "at": "2026-11-09T13:34:48+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2600,5 +2564,30 @@
       "semanticSha256": "12f00c0a06dc44ed2ad9b3418a3975bb8717e9993a7757edc98c11593c951810",
       "programs": 684
     }
+  },
+  {
+    "at": "2026-11-12T17:23:43+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 778,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
