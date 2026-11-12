@@ -1,33 +1,6 @@
 [
   {
     "at": "2026-11-09T12:53:04+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 207,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "manual-movie-202611151800-bsfuji"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T12:53:04+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 207,
@@ -2581,5 +2554,41 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-12T16:32:12+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 676,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-candidate-45-15-330",
+        "muse-candidate-50-15-1245",
+        "muse-candidate-52-15-1700"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 3,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-12T16:32:58+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "56aaa277ffbd204db412d49b025bf5a41b76681ccb1d99addfd0907e32d0dc81",
+      "programs": 676
+    }
   }
 ]
