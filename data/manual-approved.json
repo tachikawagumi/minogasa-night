@@ -1371,9 +1371,9 @@
       "start": "2026-11-12T21:00:00+09:00",
       "end": "2026-11-12T21:54:00+09:00",
       "genreIds": [
+        "architecture",
         "railway",
-        "travel",
-        "architecture"
+        "travel"
       ],
       "sourceUrl": "https://www.bs4.jp/charitestu/",
       "checkedAt": "2026-11-05T19:16:20.736+09:00",
@@ -1651,7 +1651,8 @@
       "genreIds": [
         "movie",
         "horror_movie",
-        "car"
+        "car",
+        "ghost"
       ],
       "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/10706_202611142705.html",
       "checkedAt": "2026-11-09T09:25:28+09:00",
@@ -1979,8 +1980,7 @@
       "start": "2026-11-15T22:00:00+09:00",
       "end": "2026-11-15T22:48:00+09:00",
       "genreIds": [
-        "challenge",
-        "game"
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/genres/variety/game",
       "genreBasis": "Gガイド11/15のバラエティ/ゲーム番組欄。ゲーム・eスポーツ挑戦。『ゲーム』で発見。",
@@ -2106,7 +2106,8 @@
       "start": "2026-11-15T12:00:00+09:00",
       "end": "2026-11-15T12:54:00+09:00",
       "genreIds": [
-        "ufo"
+        "ufo",
+        "ghost"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmUAChE8EAE",
       "checkedAt": "2026-11-09T10:00:00+09:00",
@@ -2919,9 +2920,10 @@
       "checkedAt": "2026-11-09T00:00:00Z",
       "updatedAt": "2026-11-09T00:00:00Z",
       "status": "provider_confirmed",
-      "publicationApproved": true,
+      "publicationApproved": false,
       "origin": "manual_guide_weekly_review",
-      "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。"
+      "genreBasis": "Gガイド週間ジャンル一覧で放送局・日付・開始時刻と内容を確認。",
+      "supersededBy": "chatgpt-tvtokyo-20261114-1730-thefishing"
     },
     {
       "id": "manual-movie-202611151800-bsfuji",
@@ -3135,7 +3137,9 @@
       "end": "2026-11-15T09:00:00+09:00",
       "genreIds": [
         "car",
-        "railway"
+        "railway",
+        "anime",
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmUAQwGIMAM",
       "checkedAt": "2026-11-09T05:00:00Z",
@@ -3284,7 +3288,8 @@
       "start": "2026-11-12T21:54:00+09:00",
       "end": null,
       "genreIds": [
-        "car"
+        "car",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTQCXKKoAE",
       "checkedAt": "2026-11-09T05:23:13.608Z",
@@ -3539,7 +3544,9 @@
       "end": null,
       "genreIds": [
         "car",
-        "architecture"
+        "architecture",
+        "travel",
+        "onsen"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwCXKRQAE",
       "checkedAt": "2026-11-09T05:26:43.106Z",
@@ -4470,7 +4477,8 @@
       "end": null,
       "genreIds": [
         "architecture",
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTQDeEQAAE",
       "checkedAt": "2026-11-09T05:59:05.903Z",
@@ -4512,7 +4520,8 @@
       "start": "2026-11-12T23:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "onsen"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTQQAMowAM",
       "checkedAt": "2026-11-09T05:59:05.903Z",
@@ -4701,7 +4710,8 @@
       "start": "2026-11-14T18:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwCNQJQAE",
       "checkedAt": "2026-11-09T05:59:05.903Z",
@@ -4722,7 +4732,8 @@
       "start": "2026-11-14T18:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTwBlN-kAE",
       "checkedAt": "2026-11-09T05:59:05.903Z",
@@ -6818,7 +6829,8 @@
       "start": "2026-11-13T21:55:00+09:00",
       "end": null,
       "genreIds": [
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -7032,7 +7044,8 @@
       "start": "2026-11-14T01:23:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -7074,7 +7087,8 @@
       "start": "2026-11-14T01:45:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "movie"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -7564,7 +7578,8 @@
       "start": "2026-11-14T21:25:00+09:00",
       "end": null,
       "genreIds": [
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:10:44.343Z",
@@ -8028,7 +8043,7 @@
     {
       "id": "muse2-15-1730-tvtokyo",
       "seriesId": "muse2-tvtokyo-ダイヤのA actII 第19話",
-      "title": "ダイヤのA actII 第19話",
+      "title": "ダイヤのA actII -Second Season-(第2クール)",
       "stationId": "tvtokyo",
       "start": "2026-11-15T17:30:00+09:00",
       "end": null,
@@ -8045,7 +8060,9 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書：B区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。"
+      "genreBasis": "Muse第2回調査報告書：B区分。放送枠は報告書由来であり、個別番組表URL未提示・独立再確認なし。",
+      "reportedTitle": "ダイヤのA actII 第19話",
+      "reconciledWith": "syobocal-720245"
     },
     {
       "id": "muse2-15-1830-fuji",
@@ -8954,12 +8971,13 @@
     {
       "id": "muse2-anime-14-0800-tvtokyo",
       "seriesId": "muse2-anime-カードファイト!!ヴァンガード Di",
-      "title": "カードファイト!!ヴァンガード Divinez #14",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
       "stationId": "tvtokyo",
       "start": "2026-11-14T08:00:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "sourceUrl": "https://bangumi.org/",
       "checkedAt": "2026-11-09T06:11:12.430Z",
@@ -8970,7 +8988,9 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。"
+      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。",
+      "reportedTitle": "カードファイト!!ヴァンガード Divinez #14",
+      "reconciledWith": "syobocal-720899"
     },
     {
       "id": "muse2-anime-14-0830-tvtokyo",
@@ -9080,7 +9100,7 @@
     {
       "id": "muse2-anime-14-2200-mx",
       "seriesId": "muse2-anime-転生した大聖女 #7",
-      "title": "転生した大聖女 #7",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
       "stationId": "mx",
       "start": "2026-11-14T22:00:00+09:00",
       "end": null,
@@ -9096,12 +9116,14 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。"
+      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。",
+      "reportedTitle": "転生した大聖女 #7",
+      "reconciledWith": "syobocal-717645"
     },
     {
       "id": "muse2-anime-14-2230-mx",
       "seriesId": "muse2-anime-野生のラスボスが現れた！ #19",
-      "title": "野生のラスボスが現れた！ #19",
+      "title": "野生のラスボスが現れた！(第2期)",
       "stationId": "mx",
       "start": "2026-11-14T22:30:00+09:00",
       "end": null,
@@ -9117,12 +9139,14 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。"
+      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。",
+      "reportedTitle": "野生のラスボスが現れた！ #19",
+      "reconciledWith": "syobocal-717751"
     },
     {
       "id": "muse2-anime-14-2300-tvtokyo",
       "seriesId": "muse2-anime-ブラッククローバー #177",
-      "title": "ブラッククローバー #177",
+      "title": "ブラッククローバー 2nd Season",
       "stationId": "tvtokyo",
       "start": "2026-11-14T23:00:00+09:00",
       "end": null,
@@ -9138,7 +9162,9 @@
       "sourcePolicyId": "reviewed_independent_facts",
       "acquisitionMethod": "ai_web_reference",
       "providerVerified": false,
-      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。"
+      "genreBasis": "Muse第2回調査報告書アニメ補遺。番組表の個別URLは未提示。",
+      "reportedTitle": "ブラッククローバー #177",
+      "reconciledWith": "syobocal-720258"
     },
     {
       "id": "muse2-anime-14-2300-mx2",
@@ -9359,7 +9385,8 @@
       "start": "2026-11-13T21:00:00+09:00",
       "end": "2026-11-13T22:00:00+09:00",
       "genreIds": [
-        "ufo"
+        "ufo",
+        "ghost"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTgBlNZ8AE",
       "checkedAt": "2026-11-11T23:56:31.544+00:00",
@@ -9377,7 +9404,8 @@
       "start": "2026-11-18T23:35:00+09:00",
       "end": "2026-11-19T00:35:00+09:00",
       "genreIds": [
-        "ufo"
+        "ufo",
+        "ghost"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmUwBlQLAAE",
       "checkedAt": "2026-11-11T23:56:31.544+00:00",
@@ -9686,7 +9714,9 @@
       "start": "2026-11-17T22:00:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "travel",
+        "health"
       ],
       "checkedAt": "2026-11-12T12:00:00+09:00",
       "updatedAt": "2026-11-12T12:00:00+09:00",
@@ -9749,7 +9779,8 @@
       "start": "2026-11-18T19:00:00+09:00",
       "end": null,
       "genreIds": [
-        "ufo"
+        "ufo",
+        "ghost"
       ],
       "checkedAt": "2026-11-12T12:00:00+09:00",
       "updatedAt": "2026-11-12T12:00:00+09:00",
@@ -9770,7 +9801,8 @@
       "start": "2026-11-18T21:55:00+09:00",
       "end": null,
       "genreIds": [
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "checkedAt": "2026-11-12T12:00:00+09:00",
       "updatedAt": "2026-11-12T12:00:00+09:00",
@@ -9876,7 +9908,8 @@
       "start": "2026-11-12T18:25:00+09:00",
       "end": null,
       "genreIds": [
-        "architecture"
+        "architecture",
+        "ghost"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
@@ -10002,7 +10035,8 @@
       "start": "2026-11-13T00:00:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
@@ -10614,7 +10648,8 @@
       "start": "2026-11-16T06:54:00+09:00",
       "end": null,
       "genreIds": [
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
@@ -10973,7 +11008,8 @@
       "start": "2026-11-17T07:57:00+09:00",
       "end": null,
       "genreIds": [
-        "onsen"
+        "onsen",
+        "travel"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
@@ -11668,7 +11704,8 @@
       "start": "2026-11-13T22:00:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "checkedAt": "2026-11-12T13:00:00+09:00",
       "updatedAt": "2026-11-12T13:00:00+09:00",
@@ -12067,7 +12104,8 @@
       "start": "2026-11-16T08:00:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "checkedAt": "2026-11-12T13:00:00+09:00",
       "updatedAt": "2026-11-12T13:00:00+09:00",
@@ -12382,7 +12420,8 @@
       "start": "2026-11-18T02:44:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "challenge"
       ],
       "checkedAt": "2026-11-12T13:00:00+09:00",
       "updatedAt": "2026-11-12T13:00:00+09:00",
@@ -12424,7 +12463,8 @@
       "start": "2026-11-13T09:00:00+09:00",
       "end": null,
       "genreIds": [
-        "ufo"
+        "ufo",
+        "ghost"
       ],
       "sourceUrl": "https://bangumi.org/tv_events/AmTgBlNYUAE",
       "checkedAt": "2026-11-12T13:30:00+09:00",
@@ -12442,7 +12482,8 @@
       "start": "2026-11-14T02:15:00+09:00",
       "end": null,
       "genreIds": [
-        "anime"
+        "anime",
+        "movie"
       ],
       "sourceUrl": "https://www.fujitv.co.jp/b_hp/fate-zero/index.html",
       "checkedAt": "2026-11-12T13:30:00+09:00",
@@ -12482,7 +12523,7 @@
       "end": "2026-11-12T19:19:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -12546,7 +12587,7 @@
       "end": "2026-11-12T23:30:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -12778,7 +12819,7 @@
       "end": "2026-11-13T18:55:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -12905,7 +12946,7 @@
       "end": "2026-11-14T00:59:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14024,7 +14065,7 @@
       "end": "2026-11-16T19:30:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14172,7 +14213,7 @@
       "end": "2026-11-17T01:05:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14425,7 +14466,7 @@
       "end": "2026-11-17T17:30:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14510,7 +14551,7 @@
       "end": "2026-11-17T23:00:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14532,7 +14573,7 @@
       "end": "2026-11-18T00:30:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14848,7 +14889,7 @@
       "end": "2026-11-18T19:25:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -14954,7 +14995,7 @@
       "end": "2026-11-19T00:00:00+09:00",
       "genreIds": [
         "anime",
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -16134,7 +16175,7 @@
       "start": "2026-11-13T07:05:00+09:00",
       "end": null,
       "genreIds": [
-        "game"
+        "challenge"
       ],
       "checkedAt": "2026-11-12T15:00:00+09:00",
       "updatedAt": "2026-11-12T15:00:00+09:00",
@@ -16590,8 +16631,2623 @@
       "genreBasis": "ミューズ保留29件対応表に基づく。独立した公式照合は未実施。受信条件のある放送局は局情報を参照。",
       "officialVerified": false,
       "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0022-teletama",
+      "seriesId": "muse-full-teletama-0022",
+      "title": "みどりのマキバオー #28",
+      "stationId": "teletama",
+      "start": "2026-11-12T18:30:00+09:00",
+      "end": "2026-11-12T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0075-teletama",
+      "seriesId": "muse-full-teletama-0075",
+      "title": "塩谷育代のベストショット",
+      "stationId": "teletama",
+      "start": "2026-11-12T22:00:00+09:00",
+      "end": "2026-11-12T22:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0109-bs10",
+      "seriesId": "muse-full-bs10-0109",
+      "title": "いいふろ箕面3人旅 後編",
+      "stationId": "bs10",
+      "start": "2026-11-12T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel",
+        "onsen"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-718735",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "bsfuji",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-718635",
+      "seriesId": "syobocal-title-8038",
+      "title": "てつりょー！ meet with 鉄道むすめ",
+      "stationId": "mx",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0023-tvk",
+      "seriesId": "muse-full-tvk-0023",
+      "title": "傷だらけ聖女より報復をこめて Season2 第7話",
+      "stationId": "tvk",
+      "start": "2026-11-13T00:00:00+09:00",
+      "end": "2026-11-13T00:15:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0117-teletama",
+      "seriesId": "muse-full-teletama-0117",
+      "title": "野田クリの野望（Q開発者回）",
+      "stationId": "teletama",
+      "start": "2026-11-13T00:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0024-tvk",
+      "seriesId": "muse-full-tvk-0024",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-13T02:05:00+09:00",
+      "end": "2026-11-13T02:08:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0025-tvk",
+      "seriesId": "muse-full-tvk-0025",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-13T04:25:00+09:00",
+      "end": "2026-11-13T04:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0026-teletama",
+      "seriesId": "muse-full-teletama-0026",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-13T05:40:00+09:00",
+      "end": "2026-11-13T05:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0076-teletama",
+      "seriesId": "muse-full-teletama-0076",
+      "title": "鈴木福 ゴルフはじめました",
+      "stationId": "teletama",
+      "start": "2026-11-13T12:00:00+09:00",
+      "end": "2026-11-13T12:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0077-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0077",
+      "title": "GG.LEAGUE2026 presented by TETRIX",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-13T15:00:00+09:00",
+      "end": "2026-11-13T15:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0027-teletama",
+      "seriesId": "muse-full-teletama-0027",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-13T15:00:00+09:00",
+      "end": "2026-11-13T15:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0118-bs10",
+      "seriesId": "muse-full-bs10-0118",
+      "title": "ディアボロス／悪魔の扉",
+      "stationId": "bs10",
+      "start": "2026-11-13T18:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie",
+        "ghost"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0028-teletama",
+      "seriesId": "muse-full-teletama-0028",
+      "title": "あしたのジョー #69",
+      "stationId": "teletama",
+      "start": "2026-11-13T18:30:00+09:00",
+      "end": "2026-11-13T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-720596",
+      "seriesId": "syobocal-title-6694",
+      "title": "ポケットモンスター(2023)",
+      "stationId": "tvtokyo",
+      "start": "2026-11-13T18:55:00+09:00",
+      "end": "2026-11-13T19:25:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0111-teletama",
+      "seriesId": "muse-full-teletama-0111",
+      "title": "吉田類の酒場放浪記",
+      "stationId": "teletama",
+      "start": "2026-11-13T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0119-tvk",
+      "seriesId": "muse-full-tvk-0119",
+      "title": "映画の時間「マイ・ダディ」",
+      "stationId": "tvk",
+      "start": "2026-11-13T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0112-teletama",
+      "seriesId": "muse-full-teletama-0112",
+      "title": "町中華で飲ろうぜ リクエストSP",
+      "stationId": "teletama",
+      "start": "2026-11-13T19:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0120-teletama",
+      "seriesId": "muse-full-teletama-0120",
+      "title": "オレアル",
+      "stationId": "teletama",
+      "start": "2026-11-13T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0121-tvk",
+      "seriesId": "muse-full-tvk-0121",
+      "title": "キックオフF・マリノス",
+      "stationId": "tvk",
+      "start": "2026-11-13T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0029-tvk",
+      "seriesId": "muse-full-tvk-0029",
+      "title": "タイムボカンシリーズ ヤッターマン 第33話",
+      "stationId": "tvk",
+      "start": "2026-11-13T22:30:00+09:00",
+      "end": "2026-11-13T23:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0122-teletama",
+      "seriesId": "muse-full-teletama-0122",
+      "title": "REDS TV GGR",
+      "stationId": "teletama",
+      "start": "2026-11-13T23:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-720271",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "bs11",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-720008",
+      "seriesId": "syobocal-title-8051",
+      "title": "幻想水滸伝",
+      "stationId": "bsasahi",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-722293",
+      "seriesId": "syobocal-title-8055",
+      "title": "テムパル～アイテムの力～",
+      "stationId": "mx",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0030-teletama",
+      "seriesId": "muse-full-teletama-0030",
+      "title": "美少女戦士セーラームーン #19",
+      "stationId": "teletama",
+      "start": "2026-11-13T23:30:00+09:00",
+      "end": "2026-11-14T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0123-tvk",
+      "seriesId": "muse-full-tvk-0123",
+      "title": "野田クリの野望（tvk分）",
+      "stationId": "tvk",
+      "start": "2026-11-14T00:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0124-teletama",
+      "seriesId": "muse-full-teletama-0124",
+      "title": "週刊バイクTV",
+      "stationId": "teletama",
+      "start": "2026-11-14T02:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0031-tvk",
+      "seriesId": "muse-full-tvk-0031",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-14T02:35:00+09:00",
+      "end": "2026-11-14T02:38:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0032-tvk",
+      "seriesId": "muse-full-tvk-0032",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-14T05:15:00+09:00",
+      "end": "2026-11-14T05:20:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0125-teletama",
+      "seriesId": "muse-full-teletama-0125",
+      "title": "オレアル（再）",
+      "stationId": "teletama",
+      "start": "2026-11-14T06:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0126-teletama",
+      "seriesId": "muse-full-teletama-0126",
+      "title": "REDS TV GGR",
+      "stationId": "teletama",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-722810",
+      "seriesId": "syobocal-title-6212",
+      "title": "ニンジャラ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-14T07:30:00+09:00",
+      "end": "2026-11-14T08:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0127-teletama",
+      "seriesId": "muse-full-teletama-0127",
+      "title": "田村亮の釣りならまかせろ！ 相模湾SLJ",
+      "stationId": "teletama",
+      "start": "2026-11-14T10:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0078-bs10",
+      "seriesId": "muse-full-bs10-0078",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T10:30:00+09:00",
+      "end": "2026-11-14T11:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0033-teletama",
+      "seriesId": "muse-full-teletama-0033",
+      "title": "どすこい すしずもう",
+      "stationId": "teletama",
+      "start": "2026-11-14T12:00:00+09:00",
+      "end": "2026-11-14T12:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0079-bs10",
+      "seriesId": "muse-full-bs10-0079",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T15:30:00+09:00",
+      "end": "2026-11-14T16:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0080-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0080",
+      "title": "GG.LEAGUE2026 presented by TETRIX",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-14T17:00:00+09:00",
+      "end": "2026-11-14T17:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0081-bs10",
+      "seriesId": "muse-full-bs10-0081",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T17:30:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0034-teletama",
+      "seriesId": "muse-full-teletama-0034",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-14T17:55:00+09:00",
+      "end": "2026-11-14T18:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0035-teletama",
+      "seriesId": "muse-full-teletama-0035",
+      "title": "鉄腕アトム #53",
+      "stationId": "teletama",
+      "start": "2026-11-14T18:30:00+09:00",
+      "end": "2026-11-14T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0128-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0128",
+      "title": "田村淳のキャンピングカー #38",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-14T20:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car",
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0130-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0130",
+      "title": "くるま温泉ちゃんねる #82",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-14T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car",
+        "onsen",
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0129-tvk",
+      "seriesId": "muse-full-tvk-0129",
+      "title": "クルマでいこう！ RAV4 PHEV",
+      "stationId": "tvk",
+      "start": "2026-11-14T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-4k-20261114-2100-nhk-bsp4k",
+      "seriesId": "muse-4k-oz-wizard",
+      "title": "オズの魔法使 4K",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-14T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0082-bs10",
+      "seriesId": "muse-full-bs10-0082",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T21:30:00+09:00",
+      "end": "2026-11-14T22:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0036-teletama",
+      "seriesId": "muse-full-teletama-0036",
+      "title": "機動戦士ガンダムZZ #38",
+      "stationId": "teletama",
+      "start": "2026-11-14T22:00:00+09:00",
+      "end": "2026-11-14T22:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0083-bs10",
+      "seriesId": "muse-full-bs10-0083",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T22:30:00+09:00",
+      "end": "2026-11-14T23:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0084-bs10",
+      "seriesId": "muse-full-bs10-0084",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-14T23:00:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0037-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0037",
+      "title": "アニメ ふんばるず #7",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-14T23:25:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-720673",
+      "seriesId": "syobocal-title-7626",
+      "title": "元祖！バンドリちゃん",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:28:00+09:00",
+      "end": "2026-11-14T23:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-715858",
+      "seriesId": "syobocal-title-7987",
+      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
+      "stationId": "bsntv",
+      "start": "2026-11-14T23:30:00+09:00",
+      "end": "2026-11-15T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-719898",
+      "seriesId": "syobocal-title-8049",
+      "title": "恐怖コレクター",
+      "stationId": "nhk_g",
+      "start": "2026-11-14T23:45:00+09:00",
+      "end": "2026-11-15T00:10:00+09:00",
+      "genreIds": [
+        "anime",
+        "ghost"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-716856",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "bs11",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-716726",
+      "seriesId": "syobocal-title-8006",
+      "title": "マジカル★エクスプローラー",
+      "stationId": "mx",
+      "start": "2026-11-15T00:00:00+09:00",
+      "end": "2026-11-15T00:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0038-teletama",
+      "seriesId": "muse-full-teletama-0038",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-15T02:25:00+09:00",
+      "end": "2026-11-15T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0039-tvk",
+      "seriesId": "muse-full-tvk-0039",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-15T02:35:00+09:00",
+      "end": "2026-11-15T02:38:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0085-teletama",
+      "seriesId": "muse-full-teletama-0085",
+      "title": "真・ゴルフの王様",
+      "stationId": "teletama",
+      "start": "2026-11-15T05:00:00+09:00",
+      "end": "2026-11-15T05:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0040-tvk",
+      "seriesId": "muse-full-tvk-0040",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-15T05:15:00+09:00",
+      "end": "2026-11-15T05:20:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0086-teletama",
+      "seriesId": "muse-full-teletama-0086",
+      "title": "塩谷育代のベストショット",
+      "stationId": "teletama",
+      "start": "2026-11-15T06:00:00+09:00",
+      "end": "2026-11-15T06:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0131-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0131",
+      "title": "くるま温泉ちゃんねる #82（再）",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-15T07:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car",
+        "onsen",
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0087-teletama",
+      "seriesId": "muse-full-teletama-0087",
+      "title": "ゴルフ★パラダイス",
+      "stationId": "teletama",
+      "start": "2026-11-15T07:00:00+09:00",
+      "end": "2026-11-15T07:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0088-jcom_bs",
+      "seriesId": "muse-full-jcom_bs-0088",
+      "title": "小泉孝太郎が女子プロと本気ゴルフ",
+      "stationId": "jcom_bs",
+      "start": "2026-11-15T08:00:00+09:00",
+      "end": "2026-11-15T08:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-722280",
+      "seriesId": "syobocal-title-8064",
+      "title": "僕らが選んだベストアドベンチャー",
+      "stationId": "fuji",
+      "start": "2026-11-15T09:00:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-721183",
+      "seriesId": "syobocal-title-8065",
+      "title": "ぷにるんず ぷに4",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:15:00+09:00",
+      "end": "2026-11-15T09:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-722648",
+      "seriesId": "syobocal-title-7782",
+      "title": "おねがいアイプリ",
+      "stationId": "tvtokyo",
+      "start": "2026-11-15T09:30:00+09:00",
+      "end": "2026-11-15T10:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0089-bsyoshimoto",
+      "seriesId": "muse-full-bsyoshimoto-0089",
+      "title": "タカトシ＆ライオンの！新ゴルフやろうぜ！",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-15T10:30:00+09:00",
+      "end": "2026-11-15T11:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0132-teletama",
+      "seriesId": "muse-full-teletama-0132",
+      "title": "高校サッカー 埼玉決勝",
+      "stationId": "teletama",
+      "start": "2026-11-15T14:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0133-bs10",
+      "seriesId": "muse-full-bs10-0133",
+      "title": "バトルシップ",
+      "stationId": "bs10",
+      "start": "2026-11-15T14:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0134-ouj_on",
+      "seriesId": "muse-full-ouj_on-0134",
+      "title": "マルタの鷹",
+      "stationId": "ouj_on",
+      "start": "2026-11-15T15:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0041-teletama",
+      "seriesId": "muse-full-teletama-0041",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-15T19:55:00+09:00",
+      "end": "2026-11-15T20:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0090-bs10",
+      "seriesId": "muse-full-bs10-0090",
+      "title": "蛍原徹の真剣ゴルフ部！ホトオープン",
+      "stationId": "bs10",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": "2026-11-15T22:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0043-teletama",
+      "seriesId": "muse-full-teletama-0043",
+      "title": "キン肉マン #117",
+      "stationId": "teletama",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": "2026-11-15T21:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0042-tvk",
+      "seriesId": "muse-full-tvk-0042",
+      "title": "ミスター味っ子 第82話",
+      "stationId": "tvk",
+      "start": "2026-11-15T21:00:00+09:00",
+      "end": "2026-11-15T21:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0044-tvk",
+      "seriesId": "muse-full-tvk-0044",
+      "title": "ルパン三世 PART2 第35話",
+      "stationId": "tvk",
+      "start": "2026-11-15T21:30:00+09:00",
+      "end": "2026-11-15T22:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0091-teletama",
+      "seriesId": "muse-full-teletama-0091",
+      "title": "鈴木福 ゴルフはじめました",
+      "stationId": "teletama",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": "2026-11-15T22:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0135-tvk",
+      "seriesId": "muse-full-tvk-0135",
+      "title": "クルマでいこう！ エルグランド",
+      "stationId": "tvk",
+      "start": "2026-11-15T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0092-tvk",
+      "seriesId": "muse-full-tvk-0092",
+      "title": "原田伸郎のめざせパーゴルフIII",
+      "stationId": "tvk",
+      "start": "2026-11-15T22:30:00+09:00",
+      "end": "2026-11-15T23:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0093-tvk",
+      "seriesId": "muse-full-tvk-0093",
+      "title": "ゴルフ★パラダイス",
+      "stationId": "tvk",
+      "start": "2026-11-15T23:00:00+09:00",
+      "end": "2026-11-15T23:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0136-tvk",
+      "seriesId": "muse-full-tvk-0136",
+      "title": "洋楽天国＋ ダンス特集",
+      "stationId": "tvk",
+      "start": "2026-11-15T23:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0094-teletama",
+      "seriesId": "muse-full-teletama-0094",
+      "title": "牧野裕のEnjoy Golf",
+      "stationId": "teletama",
+      "start": "2026-11-16T00:30:00+09:00",
+      "end": "2026-11-16T01:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0045-tvk",
+      "seriesId": "muse-full-tvk-0045",
+      "title": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+      "stationId": "tvk",
+      "start": "2026-11-16T01:30:00+09:00",
+      "end": "2026-11-16T02:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0046-tvk",
+      "seriesId": "muse-full-tvk-0046",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-16T02:35:00+09:00",
+      "end": "2026-11-16T02:38:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0047-tvk",
+      "seriesId": "muse-full-tvk-0047",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-16T04:25:00+09:00",
+      "end": "2026-11-16T04:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0095-bs10",
+      "seriesId": "muse-full-bs10-0095",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-16T04:30:00+09:00",
+      "end": "2026-11-16T05:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0096-teletama",
+      "seriesId": "muse-full-teletama-0096",
+      "title": "里崎智也のゴルフ直球勝負！",
+      "stationId": "teletama",
+      "start": "2026-11-16T05:00:00+09:00",
+      "end": "2026-11-16T05:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0048-teletama",
+      "seriesId": "muse-full-teletama-0048",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-16T05:40:00+09:00",
+      "end": "2026-11-16T05:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0137-bs10",
+      "seriesId": "muse-full-bs10-0137",
+      "title": "DANCE TRAIN 5minutes",
+      "stationId": "bs10",
+      "start": "2026-11-16T08:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance",
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0138-bs10",
+      "seriesId": "muse-full-bs10-0138",
+      "title": "DANCE TRAIN 5minutes",
+      "stationId": "bs10",
+      "start": "2026-11-16T14:59:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance",
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0049-teletama",
+      "seriesId": "muse-full-teletama-0049",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-16T15:00:00+09:00",
+      "end": "2026-11-16T15:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0050-teletama",
+      "seriesId": "muse-full-teletama-0050",
+      "title": "ダイヤのA actII #48",
+      "stationId": "teletama",
+      "start": "2026-11-16T18:00:00+09:00",
+      "end": "2026-11-16T18:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0051-teletama",
+      "seriesId": "muse-full-teletama-0051",
+      "title": "怪盗セイント・テール #11",
+      "stationId": "teletama",
+      "start": "2026-11-16T18:30:00+09:00",
+      "end": "2026-11-16T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0052-tvk",
+      "seriesId": "muse-full-tvk-0052",
+      "title": "どすこいすしずもう",
+      "stationId": "tvk",
+      "start": "2026-11-16T18:55:00+09:00",
+      "end": "2026-11-16T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0113-tvk",
+      "seriesId": "muse-full-tvk-0113",
+      "title": "ヒロシのひとりキャンプのすすめ",
+      "stationId": "tvk",
+      "start": "2026-11-16T21:00:00+09:00",
+      "end": "2026-11-16T21:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0097-bs10",
+      "seriesId": "muse-full-bs10-0097",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-16T23:00:00+09:00",
+      "end": "2026-11-16T23:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0053-teletama",
+      "seriesId": "muse-full-teletama-0053",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-17T00:55:00+09:00",
+      "end": "2026-11-17T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0054-tvk",
+      "seriesId": "muse-full-tvk-0054",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-17T02:05:00+09:00",
+      "end": "2026-11-17T02:08:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0055-tvk",
+      "seriesId": "muse-full-tvk-0055",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-17T04:25:00+09:00",
+      "end": "2026-11-17T04:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0056-teletama",
+      "seriesId": "muse-full-teletama-0056",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-17T05:40:00+09:00",
+      "end": "2026-11-17T05:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0139-teletama",
+      "seriesId": "muse-full-teletama-0139",
+      "title": "LIONS CHANNEL",
+      "stationId": "teletama",
+      "start": "2026-11-17T09:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0057-teletama",
+      "seriesId": "muse-full-teletama-0057",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-17T15:00:00+09:00",
+      "end": "2026-11-17T15:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0058-teletama",
+      "seriesId": "muse-full-teletama-0058",
+      "title": "ヒカルの碁 #27",
+      "stationId": "teletama",
+      "start": "2026-11-17T18:00:00+09:00",
+      "end": "2026-11-17T18:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0059-teletama",
+      "seriesId": "muse-full-teletama-0059",
+      "title": "わがまま☆フェアリー ミルモでポン！ #69",
+      "stationId": "teletama",
+      "start": "2026-11-17T18:30:00+09:00",
+      "end": "2026-11-17T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0060-tvk",
+      "seriesId": "muse-full-tvk-0060",
+      "title": "どすこいすしずもう",
+      "stationId": "tvk",
+      "start": "2026-11-17T18:55:00+09:00",
+      "end": "2026-11-17T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0061-tvk",
+      "seriesId": "muse-full-tvk-0061",
+      "title": "陛下わたしを忘れてください 第8話",
+      "stationId": "tvk",
+      "start": "2026-11-17T21:55:00+09:00",
+      "end": "2026-11-17T22:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0140-teletama",
+      "seriesId": "muse-full-teletama-0140",
+      "title": "田村亮の釣りならまかせろ！",
+      "stationId": "teletama",
+      "start": "2026-11-17T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-719498",
+      "seriesId": "syobocal-title-8046",
+      "title": "Battle Spirits [Re] 絶界の空",
+      "stationId": "mx",
+      "start": "2026-11-17T23:00:00+09:00",
+      "end": "2026-11-17T23:30:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-719450",
+      "seriesId": "syobocal-title-8046",
+      "title": "Battle Spirits [Re] 絶界の空",
+      "stationId": "bsntv",
+      "start": "2026-11-17T23:30:00+09:00",
+      "end": "2026-11-18T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-720112",
+      "seriesId": "syobocal-title-8051",
+      "title": "幻想水滸伝",
+      "stationId": "mx",
+      "start": "2026-11-17T23:30:00+09:00",
+      "end": "2026-11-18T00:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-718501",
+      "seriesId": "syobocal-title-8034",
+      "title": "DARK MACHINE THE ANIMATION",
+      "stationId": "bsfuji",
+      "start": "2026-11-18T00:30:00+09:00",
+      "end": "2026-11-18T01:00:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-genre-overlay-syobocal-718524",
+      "seriesId": "syobocal-title-8034",
+      "title": "DARK MACHINE THE ANIMATION",
+      "stationId": "fuji",
+      "start": "2026-11-18T01:45:00+09:00",
+      "end": "2026-11-18T02:15:00+09:00",
+      "genreIds": [
+        "anime",
+        "challenge"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:38:49+09:00",
+      "updatedAt": "2026-11-12T16:38:49+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査で追加登録済みのジャンル。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0062-tvk",
+      "seriesId": "muse-full-tvk-0062",
+      "title": "あおほし",
+      "stationId": "tvk",
+      "start": "2026-11-18T02:05:00+09:00",
+      "end": "2026-11-18T02:08:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0063-tvk",
+      "seriesId": "muse-full-tvk-0063",
+      "title": "ドロンコロン",
+      "stationId": "tvk",
+      "start": "2026-11-18T04:25:00+09:00",
+      "end": "2026-11-18T04:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0064-teletama",
+      "seriesId": "muse-full-teletama-0064",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-18T05:40:00+09:00",
+      "end": "2026-11-18T05:45:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0141-bs10",
+      "seriesId": "muse-full-bs10-0141",
+      "title": "DANCE TRAIN 5minutes",
+      "stationId": "bs10",
+      "start": "2026-11-18T08:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance",
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0142-bs10",
+      "seriesId": "muse-full-bs10-0142",
+      "title": "DANCE TRAIN 5minutes",
+      "stationId": "bs10",
+      "start": "2026-11-18T14:59:00+09:00",
+      "end": null,
+      "genreIds": [
+        "dance",
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0065-teletama",
+      "seriesId": "muse-full-teletama-0065",
+      "title": "テレ玉くんのうた",
+      "stationId": "teletama",
+      "start": "2026-11-18T15:00:00+09:00",
+      "end": "2026-11-18T15:05:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0066-teletama",
+      "seriesId": "muse-full-teletama-0066",
+      "title": "炎の闘球児 ドッジ弾平 #30",
+      "stationId": "teletama",
+      "start": "2026-11-18T18:30:00+09:00",
+      "end": "2026-11-18T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0067-tvk",
+      "seriesId": "muse-full-tvk-0067",
+      "title": "どすこいすしずもう",
+      "stationId": "tvk",
+      "start": "2026-11-18T18:55:00+09:00",
+      "end": "2026-11-18T19:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0114-tvk",
+      "seriesId": "muse-full-tvk-0114",
+      "title": "鉄道ひとり旅〜静かな冒険〜 わたらせ渓谷鐵道編",
+      "stationId": "tvk",
+      "start": "2026-11-18T20:00:00+09:00",
+      "end": "2026-11-18T20:55:00+09:00",
+      "genreIds": [
+        "travel",
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0098-bs10",
+      "seriesId": "muse-full-bs10-0098",
+      "title": "Go!Go!ゴルフ女子",
+      "stationId": "bs10",
+      "start": "2026-11-18T23:30:00+09:00",
+      "end": "2026-11-19T00:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-full-20261112-0068-tvk",
+      "seriesId": "muse-full-tvk-0068",
+      "title": "SPY×FAMILY「標的（ターゲット）の次男」",
+      "stationId": "tvk",
+      "start": "2026-11-18T23:30:00+09:00",
+      "end": "2026-11-19T00:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-12T16:47:00+09:00",
+      "updatedAt": "2026-11-12T16:47:00+09:00",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "2026年11月12日のMuse番組調査に基づく公開スナップショットの登録内容。独立検証は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
     }
   ],
-  "updatedAt": "2026-11-12T15:00:00+09:00",
+  "updatedAt": "2026-11-12T17:21:19+09:00",
   "note": "Muse 11/12-18 reclassification: calendar midnight and inferred anime genre; uncertain composite held."
 }
