@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-12T16:39:20.017834+09:00",
+  "observedAt": "2026-11-12T17:24:10.702241+09:00",
   "targetWindow": {
     "start": "2026-11-12T00:00:00+09:00",
     "endExclusive": "2026-11-19T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 2,
+    "newPublic": 0,
     "publicationStatus": "published",
-    "hoursSinceResearch": 332.26,
+    "hoursSinceResearch": 333.01,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,12 +29,12 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-12T16:38:49+09:00",
+  "lastAnimeSuccessAt": "2026-11-12T17:23:43+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-12T16:38:49+09:00",
+    "at": "2026-11-12T17:23:43+09:00",
     "counts": {
-      "added": 2,
+      "added": 0,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
@@ -42,24 +42,24 @@
     }
   },
   "lastActions": {
-    "runId": "43176760034",
+    "runId": "43182535392",
     "event": "push",
-    "observedAt": "2026-11-12T16:39:20.017834+09:00",
+    "observedAt": "2026-11-12T17:24:10.702241+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-12T16:39:19+09:00",
+    "verifiedAt": "2026-11-12T17:24:10+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "12f00c0a06dc44ed2ad9b3418a3975bb8717e9993a7757edc98c11593c951810"
+    "semanticSha256": "34cbbd2eb4b92e6ee94e1e02ddea74ffff5fdc2564747a78cab08fcf277deca2"
   },
   "genreCoverage": [
     {
       "genreId": "ghost",
       "name": "心霊・怪談",
-      "programs": 17,
-      "lastStart": "2026-11-16T17:00:00+09:00"
+      "programs": 25,
+      "lastStart": "2026-11-18T23:35:00+09:00"
     },
     {
       "genreId": "ufo",
@@ -70,7 +70,7 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 26,
+      "programs": 33,
       "lastStart": "2026-11-18T19:00:00+09:00"
     },
     {
@@ -100,7 +100,7 @@
     {
       "genreId": "onsen",
       "name": "温泉",
-      "programs": 21,
+      "programs": 26,
       "lastStart": "2026-11-18T21:55:00+09:00"
     },
     {
@@ -112,67 +112,67 @@
     {
       "genreId": "car",
       "name": "車",
-      "programs": 32,
+      "programs": 38,
       "lastStart": "2026-11-18T22:30:00+09:00"
     },
     {
       "genreId": "dance",
       "name": "ダンス",
-      "programs": 6,
-      "lastStart": "2026-11-15T22:00:00+09:00"
+      "programs": 11,
+      "lastStart": "2026-11-18T14:59:00+09:00"
     },
     {
       "genreId": "golf",
       "name": "ゴルフ",
-      "programs": 35,
-      "lastStart": "2026-11-18T22:55:00+09:00"
+      "programs": 59,
+      "lastStart": "2026-11-18T23:30:00+09:00"
     },
     {
       "genreId": "soccer",
       "name": "サッカー",
-      "programs": 16,
+      "programs": 22,
       "lastStart": "2026-11-18T00:15:00+09:00"
     },
     {
       "genreId": "baseball",
       "name": "野球",
-      "programs": 17,
+      "programs": 18,
       "lastStart": "2026-11-17T23:30:00+09:00"
     },
     {
       "genreId": "fishing",
       "name": "釣り",
-      "programs": 11,
+      "programs": 12,
       "lastStart": "2026-11-18T20:00:00+09:00"
     },
     {
       "genreId": "health",
       "name": "健康",
-      "programs": 44,
+      "programs": 49,
       "lastStart": "2026-11-18T23:50:00+09:00"
     },
     {
       "genreId": "travel",
       "name": "旅",
-      "programs": 120,
+      "programs": 138,
       "lastStart": "2026-11-18T23:00:00+09:00"
     },
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
-      "programs": 24,
+      "programs": 49,
       "lastStart": "2026-11-18T23:30:00+09:00"
     },
     {
       "genreId": "anime",
       "name": "アニメ",
-      "programs": 299,
+      "programs": 340,
       "lastStart": "2026-11-18T23:45:00+09:00"
     },
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "programs": 40,
+      "programs": 42,
       "lastStart": "2026-11-18T20:00:00+09:00"
     },
     {
@@ -182,7 +182,7 @@
       "lastStart": "2026-11-16T13:55:00+09:00"
     }
   ],
-  "publicPrograms": 684,
+  "publicPrograms": 778,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
