@@ -12415,6 +12415,42 @@
       "genreBasis": "Muse報告書の日付見出しと時刻を暦日として解釈し再仕分け。独立番組表検証なし。",
       "officialVerified": false,
       "providerVerified": false
+    },
+    {
+      "id": "chatgpt-verify-nhk_bs-202611130900",
+      "seriesId": "chatgpt-series-nhk_bs-ダークサイドミステリー ",
+      "title": "ダークサイドミステリー 予言書ディストピア文学 一九八四年・侍女の物語",
+      "stationId": "nhk_bs",
+      "start": "2026-11-13T09:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmTgBlNYUAE",
+      "checkedAt": "2026-11-12T13:30:00+09:00",
+      "updatedAt": "2026-11-12T13:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "番組表または放送局公式の放送日時・番組内容を照合。"
+    },
+    {
+      "id": "chatgpt-verify-fuji-202611140215",
+      "seriesId": "chatgpt-series-fuji-Fate/Zero セレ",
+      "title": "Fate/Zero セレクション",
+      "stationId": "fuji",
+      "start": "2026-11-14T02:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "anime"
+      ],
+      "sourceUrl": "https://www.fujitv.co.jp/b_hp/fate-zero/index.html",
+      "checkedAt": "2026-11-12T13:30:00+09:00",
+      "updatedAt": "2026-11-12T13:30:00+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "番組表または放送局公式の放送日時・番組内容を照合。"
     }
   ],
   "updatedAt": "2026-11-12T13:00:00+09:00",
