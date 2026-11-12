@@ -3937,28 +3937,14 @@
       "title": "カードファイト!!ヴァンガード Divinez #14",
       "stationId": "tvtokyo",
       "start": "2026-11-14T08:00:00+09:00",
-      "end": null,
-      "genreIds": [
-        "anime"
-      ],
-      "status": "source_reported",
-      "checkedAt": "2026-11-09T06:11:12.430Z",
-      "updatedAt": "2026-11-09T06:11:12.430Z"
-    },
-    {
-      "id": "syobocal-720899",
-      "seriesId": "syobocal-title-7987",
-      "title": "カードファイト!! ヴァンガード Divinez 運命星戦編",
-      "stationId": "tvtokyo",
-      "start": "2026-11-14T08:00:00+09:00",
       "end": "2026-11-14T08:30:00+09:00",
       "genreIds": [
         "anime",
         "challenge"
       ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-12T16:38:49+09:00",
-      "updatedAt": "2026-11-12T16:38:49+09:00"
+      "status": "source_reported",
+      "checkedAt": "2026-11-09T06:11:12.430Z",
+      "updatedAt": "2026-11-09T06:11:12.430Z"
     },
     {
       "id": "muse-supp-20261112-0-202611140810-nhk_e",
@@ -4780,20 +4766,6 @@
       "updatedAt": "2026-11-08T23:57:48.557Z"
     },
     {
-      "id": "manual-weekly-202611141730-tvtokyo",
-      "seriesId": "manual-weekly-202611141730-tvtokyo-series",
-      "title": "THEフィッシング 東京湾ボートシーバス",
-      "stationId": "tvtokyo",
-      "start": "2026-11-14T17:30:00+09:00",
-      "end": null,
-      "genreIds": [
-        "fishing"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-09T00:00:00Z",
-      "updatedAt": "2026-11-09T00:00:00Z"
-    },
-    {
       "id": "muse-supp-20261112-0-202611141745-nhk_e",
       "seriesId": "muse-supp-series-nhk_e-アニメ パンどろぼう",
       "title": "アニメ パンどろぼう",
@@ -5347,27 +5319,13 @@
       "title": "転生した大聖女 #7",
       "stationId": "mx",
       "start": "2026-11-14T22:00:00+09:00",
-      "end": null,
+      "end": "2026-11-14T22:30:00+09:00",
       "genreIds": [
         "anime"
       ],
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:11:12.430Z",
       "updatedAt": "2026-11-09T06:11:12.430Z"
-    },
-    {
-      "id": "syobocal-717645",
-      "seriesId": "syobocal-title-8014",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "stationId": "mx",
-      "start": "2026-11-14T22:00:00+09:00",
-      "end": "2026-11-14T22:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-12T16:38:49+09:00",
-      "updatedAt": "2026-11-12T16:38:49+09:00"
     },
     {
       "id": "muse-full-20261112-0036-teletama",
@@ -5431,27 +5389,13 @@
       "title": "野生のラスボスが現れた！ #19",
       "stationId": "mx",
       "start": "2026-11-14T22:30:00+09:00",
-      "end": null,
+      "end": "2026-11-14T23:00:00+09:00",
       "genreIds": [
         "anime"
       ],
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:11:12.430Z",
       "updatedAt": "2026-11-09T06:11:12.430Z"
-    },
-    {
-      "id": "syobocal-717751",
-      "seriesId": "syobocal-title-8021",
-      "title": "野生のラスボスが現れた！(第2期)",
-      "stationId": "mx",
-      "start": "2026-11-14T22:30:00+09:00",
-      "end": "2026-11-14T23:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-12T16:38:49+09:00",
-      "updatedAt": "2026-11-12T16:38:49+09:00"
     },
     {
       "id": "muse29-202611142230-nhk_bs",
@@ -5543,27 +5487,13 @@
       "title": "ブラッククローバー #177",
       "stationId": "tvtokyo",
       "start": "2026-11-14T23:00:00+09:00",
-      "end": null,
+      "end": "2026-11-14T23:30:00+09:00",
       "genreIds": [
         "anime"
       ],
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:11:12.430Z",
       "updatedAt": "2026-11-09T06:11:12.430Z"
-    },
-    {
-      "id": "syobocal-720258",
-      "seriesId": "syobocal-title-8026",
-      "title": "ブラッククローバー 2nd Season",
-      "stationId": "tvtokyo",
-      "start": "2026-11-14T23:00:00+09:00",
-      "end": "2026-11-14T23:30:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-12T16:38:49+09:00",
-      "updatedAt": "2026-11-12T16:38:49+09:00"
     },
     {
       "id": "muse-full-20261112-0037-bsyoshimoto",
@@ -7452,7 +7382,7 @@
       "title": "ダイヤのA actII 第19話",
       "stationId": "tvtokyo",
       "start": "2026-11-15T17:30:00+09:00",
-      "end": null,
+      "end": "2026-11-15T18:00:00+09:00",
       "genreIds": [
         "anime",
         "baseball"
@@ -7460,20 +7390,6 @@
       "status": "source_reported",
       "checkedAt": "2026-11-09T06:10:44.343Z",
       "updatedAt": "2026-11-09T06:10:44.343Z"
-    },
-    {
-      "id": "syobocal-720245",
-      "seriesId": "syobocal-title-8054",
-      "title": "ダイヤのA actII -Second Season-(第2クール)",
-      "stationId": "tvtokyo",
-      "start": "2026-11-15T17:30:00+09:00",
-      "end": "2026-11-15T18:00:00+09:00",
-      "genreIds": [
-        "anime"
-      ],
-      "status": "provider_confirmed",
-      "checkedAt": "2026-11-12T16:38:49+09:00",
-      "updatedAt": "2026-11-12T16:38:49+09:00"
     },
     {
       "id": "manual-onsen-rail-202611151800",
