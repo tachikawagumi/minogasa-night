@@ -127,7 +127,7 @@ def merge_rows(rows, now):
         # Legacy game tag is an alias of the existing game/challenge category.
         if "game" in row.get("genreIds", []):
             row["genreIds"] = sorted({"challenge" if g == "game" else g for g in row["genreIds"]})
-        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed", "source_reported"):
+        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed", "source_reported", "provider_reported"):
             continue
         start = parse_dt(row["start"])
         if not (now < start < finish and start >= begin):
@@ -140,7 +140,8 @@ def merge_rows(rows, now):
             if parse_dt(row[field]) > now + timedelta(minutes=5):
                 raise ValueError("確認日時が未来")
         if not row.get("sourceUrl", "").startswith("https://"):
-            raise ValueError("出典URLが不足")
+            if not (row.get("status") == "provider_reported" and row.get("acquisitionMethod") == "external_ai_report" and row.get("sourcePolicyId") == "user_approved_include_uncertain"):
+                raise ValueError("出典URLが不足")
         if any(key in row for key in ("description", "cast", "image", "apiKey", "token")):
             raise ValueError("不要な本文・秘密情報は保存不可")
         key = (row["stationId"], iso(start), canonical(row["title"]))
