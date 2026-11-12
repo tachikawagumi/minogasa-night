@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-12T08:57:15.975616+09:00",
+  "observedAt": "2026-11-12T12:52:21.794398+09:00",
   "targetWindow": {
     "start": "2026-11-12T00:00:00+09:00",
     "endExclusive": "2026-11-19T00:00:00+09:00"
@@ -14,45 +14,45 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 53,
+    "newPublic": 0,
     "publicationStatus": "published",
-    "hoursSinceResearch": 324.56,
+    "hoursSinceResearch": 328.48,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
   },
   "latestScheduledSlot": {
-    "expectedAt": "2026-11-09T09:00:00+09:00",
+    "expectedAt": "2026-11-12T09:00:00+09:00",
     "heartbeatObserved": false,
     "triggerReceivedAt": null,
     "onTime": null,
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-12T08:56:50+09:00",
+  "lastAnimeSuccessAt": "2026-11-12T12:51:53+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-12T08:56:50+09:00",
+    "at": "2026-11-12T12:51:53+09:00",
     "counts": {
-      "added": 53,
+      "added": 0,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 163
+      "expired": 4
     }
   },
   "lastActions": {
-    "runId": "43123603110",
+    "runId": "43150978543",
     "event": "push",
-    "observedAt": "2026-11-12T08:57:15.975616+09:00",
+    "observedAt": "2026-11-12T12:52:21.794398+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-12T08:57:15+09:00",
+    "verifiedAt": "2026-11-12T12:52:21+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "6e155439199ec34f7795bfd88583215a4983aad1535973f9766565fdb17c67fa"
+    "semanticSha256": "27cff9a483e15eb9d67c50c3743d43c8798343c4e86d2663f79245f221ac82a2"
   },
   "genreCoverage": [
     {
@@ -64,7 +64,7 @@
     {
       "genreId": "ufo",
       "name": "UFO・都市伝説",
-      "programs": 13,
+      "programs": 12,
       "lastStart": "2026-11-18T23:35:00+09:00"
     },
     {
@@ -148,13 +148,13 @@
     {
       "genreId": "health",
       "name": "健康",
-      "programs": 4,
+      "programs": 3,
       "lastStart": "2026-11-15T19:00:00+09:00"
     },
     {
       "genreId": "travel",
       "name": "旅",
-      "programs": 43,
+      "programs": 41,
       "lastStart": "2026-11-15T23:00:00+09:00"
     },
     {
@@ -182,7 +182,7 @@
       "lastStart": "2026-11-15T23:55:00+09:00"
     }
   ],
-  "publicPrograms": 342,
+  "publicPrograms": 338,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",

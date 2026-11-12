@@ -1,39 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:07:04+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 189,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "chatgpt-nhkg-20261114-2007-lrt"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 1,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:07:29+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "1d212bc5f89071c80066e0d5b7c3eea3f5286040de2396ac210d2a66c3c9998f",
-      "programs": 189
-    }
-  },
-  {
     "at": "2026-11-09T12:13:09+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2013,5 +1979,42 @@
       "expired": 4
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-12T12:51:53+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 338,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "chatgpt-nhke-20261112-1200-kyonokenko",
+        "muse2-12-0935-nhk_e",
+        "muse2-12-1200-tvtokyo",
+        "muse2-12-1230-nhk_bs"
+      ]
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 4
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-12T12:52:21+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "27cff9a483e15eb9d67c50c3743d43c8798343c4e86d2663f79245f221ac82a2",
+      "programs": 338
+    }
   }
 ]
