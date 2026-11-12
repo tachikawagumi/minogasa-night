@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:13:09+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 189,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:13:37+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "7f7a241214c9afcc6f9f55b9ecbb83976e336734608afcf33514926090a7d059",
-      "programs": 189
-    }
-  },
-  {
     "at": "2026-11-09T12:26:21+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2016,5 +1984,37 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-12T12:54:09+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 338,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-12T12:54:35+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "16d3b522f82732571b29bf0bbd750c905ad3de5658a3f70e16eb699621a8788c",
+      "programs": 338
+    }
   }
 ]
