@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:36:44+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 193,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:37:09+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "03f168fa125ebce87d1050edcc550a6cd1b6c40a5df431c7ce22191d2dd70bbb",
-      "programs": 193
-    }
-  },
-  {
     "at": "2026-11-09T12:38:28+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -1988,5 +1956,44 @@
     "publicationVerified": false,
     "error": "ValueError: 確認日時が未来",
     "previousPublicPreserved": true
+  },
+  {
+    "at": "2026-11-12T14:53:53+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 338,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-verify-fuji-202611140215",
+        "chatgpt-verify-nhk_bs-202611130900"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [
+        "muse2-14-0032-nhk_g",
+        "muse2-14-0057-nhk_g",
+        "muse2-14-0122-nhk_g",
+        "muse2-14-0147-nhk_g",
+        "muse2-14-0212-nhk_g",
+        "muse2-14-0237-nhk_g",
+        "syobocal-719898"
+      ],
+      "removed": [],
+      "expired": [
+        "chatgpt-tvtokyo-20261112-1340-bankjob",
+        "muse2-12-1300-bsfuji"
+      ]
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 7,
+      "removed": 0,
+      "expired": 2
+    },
+    "publicationVerified": false
   }
 ]
