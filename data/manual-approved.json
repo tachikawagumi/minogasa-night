@@ -3828,21 +3828,22 @@
       "title": "ヨーロッパ絶景の道「アマルフィからナポリへ」",
       "stationId": "nhk_g",
       "start": "2026-11-15T03:30:00+09:00",
-      "end": null,
+      "end": "2026-11-15T04:10:00+09:00",
       "genreIds": [
-        "car"
+        "travel",
+        "architecture"
       ],
-      "sourceUrl": "https://bangumi.org/genres/hobby/travel_outdoor",
-      "checkedAt": "2026-11-09T05:26:43.106Z",
-      "updatedAt": "2026-11-09T05:26:43.106Z",
-      "status": "candidate_unverified",
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQAPiAAM",
+      "checkedAt": "2026-11-12T14:00:00+09:00",
+      "updatedAt": "2026-11-12T14:00:00+09:00",
+      "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "muse_independent_research",
       "sourcePolicyId": "user_approved_include_uncertain",
       "acquisitionMethod": "external_ai_report",
-      "genreBasis": "Muse調査No.45。No.16と同シリーズの別回。ジャンルページで日時・局を確認（詳細ページ未開封） 関連性・放送詳細に未確認事項あり。ユーザー指示により候補として掲載。",
+      "genreBasis": "2026-11-12 Gガイドの当該回内容と局・時刻を確認。旅・アウトドアとして分類。",
       "officialVerified": false,
-      "providerVerified": false
+      "providerVerified": true
     },
     {
       "id": "muse-candidate-50-15-1245",
@@ -3850,21 +3851,21 @@
       "title": "メシドラ ～兼近＆真之介のグルメドライブ～",
       "stationId": "ntv",
       "start": "2026-11-15T12:45:00+09:00",
-      "end": null,
+      "end": "2026-11-15T14:00:00+09:00",
       "genreIds": [
-        "car"
+        "travel"
       ],
-      "sourceUrl": "https://thetv.jp/program/0001037208/",
-      "checkedAt": "2026-11-09T05:26:43.106Z",
-      "updatedAt": "2026-11-09T05:26:43.106Z",
-      "status": "candidate_unverified",
+      "sourceUrl": "https://bangumi.org/tv_events/AmUAQQKwcAM",
+      "checkedAt": "2026-11-12T14:00:00+09:00",
+      "updatedAt": "2026-11-12T14:00:00+09:00",
+      "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "muse_independent_research",
       "sourcePolicyId": "user_approved_include_uncertain",
       "acquisitionMethod": "external_ai_report",
-      "genreBasis": "Muse調査No.50。EXIT兼近＆満島真之介の台本なしグルメドライブ。※放送回は番組情報サイトで確認、開始時刻は日テレ公式のレギュラー枠による 関連性・放送詳細に未確認事項あり。ユーザー指示により候補として掲載。",
+      "genreBasis": "2026-11-12 Gガイドの当該回内容と局・時刻を確認。旅・アウトドアとして分類。",
       "officialVerified": false,
-      "providerVerified": false
+      "providerVerified": true
     },
     {
       "id": "muse-candidate-52-15-1700",
@@ -3872,22 +3873,21 @@
       "title": "ヒロシのひとりキャンプのすすめ",
       "stationId": "chiba",
       "start": "2026-11-15T17:00:00+09:00",
-      "end": null,
+      "end": "2026-11-15T17:30:00+09:00",
       "genreIds": [
-        "car",
-        "architecture"
+        "travel"
       ],
-      "sourceUrl": "https://bangumi.org/genres/hobby/travel_outdoor",
-      "checkedAt": "2026-11-09T05:26:43.106Z",
-      "updatedAt": "2026-11-09T05:26:43.106Z",
-      "status": "candidate_unverified",
+      "sourceUrl": "https://bangumi.org/tv_events/AmUGw4Pj4AM",
+      "checkedAt": "2026-11-12T14:00:00+09:00",
+      "updatedAt": "2026-11-12T14:00:00+09:00",
+      "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "muse_independent_research",
       "sourcePolicyId": "user_approved_include_uncertain",
       "acquisitionMethod": "external_ai_report",
-      "genreBasis": "Muse調査No.52。No.5と同番組。関連性に不確実性あり 関連性・放送詳細に未確認事項あり。ユーザー指示により候補として掲載。",
+      "genreBasis": "2026-11-12 Gガイドの当該回内容と局・時刻を確認。旅・アウトドアとして分類。",
       "officialVerified": false,
-      "providerVerified": false
+      "providerVerified": true
     },
     {
       "id": "muse-verified-truck-life-28-202611",
