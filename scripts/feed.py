@@ -22,7 +22,20 @@ GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eati
 # IDs were resolved using ChLookup, never from channel numbers or substring matching.
 STATIONS = {"nhk_g": ("NHK総合", "1"), "nhk_e": ("NHK Eテレ", "2"), "fuji": ("フジテレビ", "3"), "ntv": ("日本テレビ", "4"), "tbs": ("TBS", "5"), "tvasahi": ("テレビ朝日", "6"), "tvtokyo": ("テレビ東京", "7"), "chiba": ("チバテレ", "13"), "bstvtokyo": ("BSテレ東", "15"), "bstbs": ("BS-TBS", "16"), "bsfuji": ("BSフジ", "17"), "bsasahi": ("BS朝日", "18"), "mx": ("TOKYO MX", "19"), "bsntv": ("BS日テレ", "71"), "bs11": ("BS11イレブン", "128"), "bs12": ("BS12トゥエルビ", "129"), "mx2": ("TOKYO MX2", "187")}
 STATIONS["nhk_bs"] = ("NHK BS", None)  # Official-fact source only; no guessed provider channel ID.
-STATIONS["nhk_bsp4k"] = ("NHK BSプレミアム4K", None)  # No guessed API channel ID; individually verified schedule only.
+STATIONS["nhk_bsp4k"] = ("NHK BSプレミアム4K", None)
+# Individually sourced schedules only; no invented Syobocal channel identifiers.
+STATIONS.update({
+    "bs10": ("BS10", None),
+    "bsyoshimoto": ("BSよしもと", None),
+    "jcom_bs": ("J:COM BS", None),
+    "ouj_ex": ("放送大学 BSキャンパスex", None),
+    "ouj_on": ("放送大学 BSキャンパスon", None),
+    "tvk": ("テレビ神奈川（tvk）", None),
+    "teletama": ("テレビ埼玉（テレ玉）", None),
+    "bsasahi4k": ("BS朝日4K", None),
+    "bsasahi152": ("BS朝日 152ch", None),
+})
+  # No guessed API channel ID; individually verified schedule only.
 from source_rules import load_stations
 STATIONS = load_stations(ROOT / "config/stations.json", STATIONS)
 CH_MAP = {value[1]: key for key, value in STATIONS.items() if value[1] is not None}
