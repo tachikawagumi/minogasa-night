@@ -9422,8 +9422,411 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "午後のロードショーの刑事アクション映画放送枠。"
+    },
+    {
+      "id": "muse-20261114-0015-bstvtokyo-1",
+      "seriesId": "muse-series-bstvtokyo-14",
+      "title": "怨泊 事故物件・除霊バラエティ",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-14T00:15:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261114-1530-bsasahi-2",
+      "seriesId": "muse-series-bsasahi-apbcbs",
+      "title": "APBC 日本×オーストラリア BSリレー",
+      "stationId": "bsasahi",
+      "start": "2026-11-14T15:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "baseball"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261115-2055-bs12-3",
+      "seriesId": "muse-series-bs12-3",
+      "title": "世にも奇妙な物語 3作",
+      "stationId": "bs12",
+      "start": "2026-11-15T20:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ghost"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261115-1530-nhk_bs-4",
+      "seriesId": "muse-series-nhk_bs-2026",
+      "title": "解体キングダム2026冬",
+      "stationId": "nhk_bs",
+      "start": "2026-11-15T15:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261116-1355-tvasahi-5",
+      "seriesId": "muse-series-tvasahi-gp",
+      "title": "フィギュアGPアメリカ大会 女子フリー",
+      "stationId": "tvasahi",
+      "start": "2026-11-16T13:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "winter_sports"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261116-1900-bs12-6",
+      "seriesId": "muse-series-bs12-16",
+      "title": "昭和残侠伝 唐獅子仁義",
+      "stationId": "bs12",
+      "start": "2026-11-16T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261116-1700-nhk_bs-7",
+      "seriesId": "muse-series-nhk_bs-16",
+      "title": "新日本風土記 城崎温泉",
+      "stationId": "nhk_bs",
+      "start": "2026-11-16T17:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen",
+        "travel"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261116-2154-bsasahi-8",
+      "seriesId": "muse-series-bsasahi-16",
+      "title": "女子ゴルフペアマッチ選手権 決勝",
+      "stationId": "bsasahi",
+      "start": "2026-11-16T21:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "golf"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261116-2054-bstbs-9",
+      "seriesId": "muse-series-bstbs-16",
+      "title": "熊切あさ美のレトロぶらり旅 秩父鉄道",
+      "stationId": "bstbs",
+      "start": "2026-11-16T20:54:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261117-1900-bs12-10",
+      "seriesId": "muse-series-bs12-17",
+      "title": "トラック野郎 男一匹桃次郎",
+      "stationId": "bs12",
+      "start": "2026-11-17T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261117-2205-ntv-11",
+      "seriesId": "muse-series-ntv-17",
+      "title": "サッカー日本代表 日本×パラグアイ",
+      "stationId": "ntv",
+      "start": "2026-11-17T22:05:00+09:00",
+      "end": null,
+      "genreIds": [
+        "soccer"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261117-2100-bsntv-12",
+      "seriesId": "muse-series-bsntv-17",
+      "title": "友近・礼二の妄想トレイン 叡山電車",
+      "stationId": "bsntv",
+      "start": "2026-11-17T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261117-2200-bsasahi-13",
+      "seriesId": "muse-series-bsasahi-17",
+      "title": "ウチ、断捨離しました！ 実家じまい",
+      "stationId": "bsasahi",
+      "start": "2026-11-17T22:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-1340-tvtokyo-14",
+      "seriesId": "muse-series-tvtokyo-m",
+      "title": "午後のロードショー『ダイヤルM』",
+      "stationId": "tvtokyo",
+      "start": "2026-11-18T13:40:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-1900-bs12-15",
+      "seriesId": "muse-series-bs12-1983",
+      "title": "時をかける少女（1983）",
+      "stationId": "bs12",
+      "start": "2026-11-18T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "movie"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-1900-fuji-16",
+      "seriesId": "muse-series-fuji-18",
+      "title": "世界の何だコレ!?ミステリー",
+      "stationId": "fuji",
+      "start": "2026-11-18T19:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "ufo"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-2155-bs12-17",
+      "seriesId": "muse-series-bs12-36",
+      "title": "温泉日和 #36 下田温泉",
+      "stationId": "bs12",
+      "start": "2026-11-18T21:55:00+09:00",
+      "end": null,
+      "genreIds": [
+        "onsen"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-2000-bsntv-18",
+      "seriesId": "muse-series-bsntv-2sp",
+      "title": "わが家の最寄りは秘境駅 2時間SP",
+      "stationId": "bsntv",
+      "start": "2026-11-18T20:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
+    },
+    {
+      "id": "muse-20261118-2230-chiba-19",
+      "seriesId": "muse-series-chiba-tv1178",
+      "title": "週刊バイクTV #1178",
+      "stationId": "chiba",
+      "start": "2026-11-18T22:30:00+09:00",
+      "end": null,
+      "genreIds": [
+        "car"
+      ],
+      "checkedAt": "2026-11-12T12:00:00+09:00",
+      "updatedAt": "2026-11-12T12:00:00+09:00",
+      "status": "provider_reported",
+      "publicationApproved": true,
+      "origin": "muse_independent_research",
+      "sourcePolicyId": "user_approved_include_uncertain",
+      "acquisitionMethod": "external_ai_report",
+      "genreBasis": "Muse 2026-11-12調査報告書のA/B放送枠。日時・局はMuse報告による。個別番組表の独立照合は未実施。",
+      "officialVerified": false,
+      "providerVerified": false
     }
   ],
-  "updatedAt": "2026-11-11T23:56:31.544+00:00",
-  "note": "第9次：人による通常の個別閲覧と同様の調査に基づく確認済み最小放送事実。ユーザーの公開指示により既存の承認済みデータ経路へ反映。第三者番組表はprovider_confirmedとしNHK公式確認を装わない。\n2026-11-05: チャッピーが放送局公式ページを個別照合した最小放送事実12枠を追加。紹介本文・画像・番組表を転記せず。 2026-11-09: Muse報告のB/C候補をユーザー指示により未確認注記付きで公開承認。"
+  "updatedAt": "2026-11-12T12:00:00+09:00",
+  "note": "Muse 2026-11-12〜18 report: curated unique timed broadcast slots; report-derived, not independently provider-verified. Original existing records preserved."
 }
