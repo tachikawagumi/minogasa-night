@@ -8609,6 +8609,22 @@
       "updatedAt": "2026-11-12T12:30:00+09:00"
     },
     {
+      "id": "ntv-marumie-20261116-1900",
+      "seriesId": "ntv-world-marumie",
+      "title": "世界まる見え！テレビ特捜部 ミステリースポット2時間SP",
+      "stationId": "ntv",
+      "start": "2026-11-16T19:00:00+09:00",
+      "end": "2026-11-16T21:00:00+09:00",
+      "genreIds": [
+        "ufo",
+        "travel",
+        "architecture"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-12T18:20:00+09:00",
+      "updatedAt": "2026-11-12T18:20:00+09:00"
+    },
+    {
       "id": "muse-supp-20261112-0-202611161930-mx",
       "seriesId": "muse-supp-series-mx-UFOロボ グレンダイザー #47",
       "title": "UFOロボ グレンダイザー #47",
