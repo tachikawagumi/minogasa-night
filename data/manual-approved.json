@@ -9876,8 +9876,6 @@
       "start": "2026-11-12T18:25:00+09:00",
       "end": null,
       "genreIds": [
-        "ghost",
-        "ufo",
         "architecture"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
@@ -10320,9 +10318,7 @@
       "start": "2026-11-14T19:00:00+09:00",
       "end": null,
       "genreIds": [
-        "travel",
-        "disney",
-        "usj"
+        "travel"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
@@ -10597,8 +10593,7 @@
       "start": "2026-11-16T22:54:00+09:00",
       "end": null,
       "genreIds": [
-        "disney",
-        "usj"
+        "disney"
       ],
       "checkedAt": "2026-11-12T12:30:00+09:00",
       "updatedAt": "2026-11-12T12:30:00+09:00",
