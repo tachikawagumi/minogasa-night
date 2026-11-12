@@ -1,31 +1,6 @@
 [
   {
     "at": "2026-11-09T12:36:44+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 193,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T12:36:44+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 193,
@@ -2006,5 +1981,12 @@
       "semanticSha256": "b33338809048bc79eabbb9315ab622d55e24f9771f8878961bb849de88102a4f",
       "programs": 338
     }
+  },
+  {
+    "at": "2026-11-12T12:58:35+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "ValueError: 確認日時が未来",
+    "previousPublicPreserved": true
   }
 ]
