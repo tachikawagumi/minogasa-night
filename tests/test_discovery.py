@@ -11,7 +11,7 @@ class DiscoveryTest(unittest.TestCase):
         return quality(dict(records=c,research=list(research)),dict(programs=list(public)),dict(records=list(held)),{},P,NOW)
     def test_all_twenty_have_name_genre_and_schedule_routes(self):
         p=plan(read_json(ROOT/"config/discovery.json"),NOW)
-        self.assertEqual(100,len(p["queries"]))
+        self.assertEqual(105,len(p["queries"]))
         for g in GENRE_IDS:
             self.assertEqual({"program_name","genre","official_schedule","miss_learning","specialist"},{q["route"] for q in p["queries"] if q["genreId"]==g})
     def test_discovered_but_terms_held_is_not_discovery_failure(self):

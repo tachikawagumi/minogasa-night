@@ -25,6 +25,58 @@ class RealFeedTest {
         assertTrue(future > 0)
         println("LIVE_PAGES_OK url=${BuildConfig.FEED_URL} rows=${snapshot.programs.size} future=$future")
     }
+    @Test fun currentFeedRoundTripsEveryBroadcastWithTheExistingDisplayGenres() {
+        val currentFeed = File("../../public/v1/programs.json").readText()
+        val root = JsonParser.parseString(currentFeed).asJsonObject
+        val generatedAt = OffsetDateTime.parse(root["generatedAt"].asString)
+        val broadcastIds = root["programs"].asJsonArray.map { it.asJsonObject["id"].asString }
+        val snapshot = FeedDecoder.decode(currentFeed, generatedAt.toInstant().toEpochMilli())
+
+        assertEquals(18, displayGenres.size)
+        val supportedTags = displayGenres.flatMap(::genreMembers).toSet()
+        assertEquals(genres.toSet(), supportedTags)
+        assertEquals(broadcastIds.size, snapshot.programs.size)
+        assertEquals(broadcastIds.toSet(), snapshot.programs.map { it.id }.toSet())
+        assertTrue(snapshot.programs.all { p -> p.row().listing() == p && supportedTags.containsAll(p.tags) })
+    }
+
+    @Test fun failedRefreshesKeepProgramsAndFavoritesUntilAValidResponseArrives() = runBlocking {
+        val snapshot = FeedDecoder.decode(json(), now)
+        val program = snapshot.programs.first()
+        val dao = MemoryDao(listOf(program.row()))
+        val episodeKey = "p:${program.id}"
+        val seriesKey = "s:${program.seriesId}"
+        var status = 503
+        var body = ""
+        val repository = Repository(dao, HttpProgramSource({ "https://feed.example.test/v1/programs.json" }) {
+            FakeConnection(it, status, body)
+        })
+        repository.toggle(episodeKey)
+        repository.toggle(seriesKey)
+
+        suspend fun assertFailedRefresh() {
+            try {
+                repository.refresh()
+                fail("Invalid response accepted")
+            } catch (_: RuntimeException) {
+                assertEquals(listOf(program.row()), dao.all())
+                assertEquals(setOf(episodeKey, seriesKey), dao.saved().map { it.key }.toSet())
+            }
+        }
+        assertFailedRefresh()
+        status = 200
+        body = "{}"
+        assertFailedRefresh()
+
+        body = json()
+        repository.refresh()
+        assertEquals(snapshot.programs, dao.all().map { it.listing() })
+        assertEquals(setOf(episodeKey, seriesKey), dao.saved().map { it.key }.toSet())
+        repository.toggle(episodeKey)
+        repository.toggle(seriesKey)
+        assertTrue(dao.saved().isEmpty())
+    }
+
     @Test fun realCollectedFeedDecodesWithoutSamplesOrDescriptions() {
         val snapshot = FeedDecoder.decode(json(), now)
         assertTrue(snapshot.programs.size > 30)
@@ -109,12 +161,13 @@ private class FakeConnection(url: URL, private val status: Int, private val body
 private class MemoryDao(initial: List<ProgramRow>) : NightDao {
     private val rows = MutableStateFlow(initial)
     private val state = MutableStateFlow<SyncState?>(null)
+    private val favoriteRows = MutableStateFlow<List<Favorite>>(emptyList())
     override fun observe(): Flow<List<ProgramRow>> = rows
     override suspend fun all() = rows.value
-    override fun favorites(): Flow<List<Favorite>> = MutableStateFlow(emptyList())
-    override suspend fun saved() = emptyList<Favorite>()
-    override suspend fun save(favorite: Favorite) { }
-    override suspend fun unsave(key: String) { }
+    override fun favorites(): Flow<List<Favorite>> = favoriteRows
+    override suspend fun saved() = favoriteRows.value
+    override suspend fun save(favorite: Favorite) { favoriteRows.value += favorite }
+    override suspend fun unsave(key: String) { favoriteRows.value = favoriteRows.value.filterNot { it.key == key } }
     override suspend fun clear() { rows.value = emptyList() }
     override suspend fun clearSamples() { rows.value = rows.value.filterNot { it.sample } }
     override suspend fun insert(rows: List<ProgramRow>) { this.rows.value = rows }

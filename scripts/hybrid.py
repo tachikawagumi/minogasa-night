@@ -57,7 +57,7 @@ def merge_inputs(base, inputs, prior, public, config):
 
 def build_plan(discovery,collection,now):
     start,end=window(now);span=start.strftime("%Y-%m-%d")+"〜"+end.strftime("%Y-%m-%d")+"（末尾日を含まない）"
-    if set(discovery["genres"])!=set(GENRE_IDS): raise ValueError("20ジャンルが必要")
+    if set(discovery["genres"])!=set(GENRE_IDS): raise ValueError("21内部ジャンルが必要")
     a=[]
     for gid,item in discovery["genres"].items():
         groups=item.get("subcategories",[])

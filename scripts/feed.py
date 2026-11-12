@@ -17,12 +17,25 @@ ROOT = Path(__file__).resolve().parents[1]
 JST = timezone(timedelta(hours=9), "Asia/Tokyo")
 UA = "MinogasaNight/1.0 (VICTORY K)"
 API = "https://cal.syoboi.jp/db.php"
-GENRES = ["心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道"]
-GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eating", "onsen", "architecture", "car", "dance", "golf", "soccer", "baseball", "fishing", "health", "travel", "challenge", "anime", "railway"]
+GENRES = ["心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道", "冬季スポーツ"]
+GENRE_IDS = ["ghost", "ufo", "movie", "horror_movie", "disney", "usj", "big_eating", "onsen", "architecture", "car", "dance", "golf", "soccer", "baseball", "fishing", "health", "travel", "challenge", "anime", "railway", "winter_sports"]
 # IDs were resolved using ChLookup, never from channel numbers or substring matching.
 STATIONS = {"nhk_g": ("NHK総合", "1"), "nhk_e": ("NHK Eテレ", "2"), "fuji": ("フジテレビ", "3"), "ntv": ("日本テレビ", "4"), "tbs": ("TBS", "5"), "tvasahi": ("テレビ朝日", "6"), "tvtokyo": ("テレビ東京", "7"), "chiba": ("チバテレ", "13"), "bstvtokyo": ("BSテレ東", "15"), "bstbs": ("BS-TBS", "16"), "bsfuji": ("BSフジ", "17"), "bsasahi": ("BS朝日", "18"), "mx": ("TOKYO MX", "19"), "bsntv": ("BS日テレ", "71"), "bs11": ("BS11イレブン", "128"), "bs12": ("BS12トゥエルビ", "129"), "mx2": ("TOKYO MX2", "187")}
 STATIONS["nhk_bs"] = ("NHK BS", None)  # Official-fact source only; no guessed provider channel ID.
-STATIONS["nhk_bsp4k"] = ("NHK BSプレミアム4K", None)  # No guessed API channel ID; individually verified schedule only.
+STATIONS["nhk_bsp4k"] = ("NHK BSプレミアム4K", None)
+# Individually sourced schedules only; no invented Syobocal channel identifiers.
+STATIONS.update({
+    "bs10": ("BS10", None),
+    "bsyoshimoto": ("BSよしもと", None),
+    "jcom_bs": ("J:COM BS", None),
+    "ouj_ex": ("放送大学 BSキャンパスex", None),
+    "ouj_on": ("放送大学 BSキャンパスon", None),
+    "tvk": ("テレビ神奈川（tvk）", None),
+    "teletama": ("テレビ埼玉（テレ玉）", None),
+    "bsasahi4k": ("BS朝日4K", None),
+    "bsasahi152": ("BS朝日 152ch", None),
+})
+  # No guessed API channel ID; individually verified schedule only.
 from source_rules import load_stations
 STATIONS = load_stations(ROOT / "config/stations.json", STATIONS)
 CH_MAP = {value[1]: key for key, value in STATIONS.items() if value[1] is not None}
@@ -124,7 +137,10 @@ def merge_rows(rows, now):
     groups = {}
     for source in rows:
         row = dict(source)
-        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed"):
+        # Legacy game tag is an alias of the existing game/challenge category.
+        if "game" in row.get("genreIds", []):
+            row["genreIds"] = sorted({"challenge" if g == "game" else g for g in row["genreIds"]})
+        if not row.get("publicationApproved") or row.get("status") not in ("official_confirmed", "provider_confirmed", "source_reported", "provider_reported"):
             continue
         start = parse_dt(row["start"])
         if not (now < start < finish and start >= begin):
@@ -137,7 +153,8 @@ def merge_rows(rows, now):
             if parse_dt(row[field]) > now + timedelta(minutes=5):
                 raise ValueError("確認日時が未来")
         if not row.get("sourceUrl", "").startswith("https://"):
-            raise ValueError("出典URLが不足")
+            if not (row.get("status") == "provider_reported" and row.get("acquisitionMethod") == "external_ai_report" and row.get("sourcePolicyId") == "user_approved_include_uncertain"):
+                raise ValueError("出典URLが不足")
         if any(key in row for key in ("description", "cast", "image", "apiKey", "token")):
             raise ValueError("不要な本文・秘密情報は保存不可")
         key = (row["stationId"], iso(start), canonical(row["title"]))
@@ -171,9 +188,9 @@ def validate_public(feed):
     if feed.get("schemaVersion") != 1 or feed.get("sourceMode") != "real" or feed.get("timeZone") != "Asia/Tokyo":
         raise ValueError("不正なフィード種別")
     now = parse_dt(feed["generatedAt"])
-    if len(feed["genres"]) != 20:
-        raise ValueError("20ジャンルが必要")
-    if [x["id"] for x in feed["genres"]] != GENRE_IDS:
+    if len(feed["genres"]) not in (20, len(GENRE_IDS)):
+        raise ValueError("既存20または新21内部ジャンルが必要")
+    if [x["id"] for x in feed["genres"]] not in (GENRE_IDS[:-1], GENRE_IDS):
         raise ValueError("ジャンルID不一致")
     ids, keys = set(), set()
     for row in feed["programs"]:
@@ -190,7 +207,7 @@ def validate_public(feed):
             raise ValueError("ジャンル不正")
         if row["stationId"] not in STATIONS:
             raise ValueError("対象外局")
-        if row["status"] not in ("official_confirmed", "provider_confirmed"):
+        if row["status"] not in ("official_confirmed", "provider_confirmed", "source_reported", "provider_reported"):
             raise ValueError("未確認データの公開を拒否")
         if not row["title"].strip() or "サンプル" in row["title"]:
             raise ValueError("空タイトル・サンプル不可")

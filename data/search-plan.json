@@ -1,16 +1,16 @@
 {
-  "windowStart": "2026-11-09T00:00:00+09:00",
-  "windowEnd": "2026-11-16T00:00:00+09:00",
+  "windowStart": "2026-11-12T00:00:00+09:00",
+  "windowEnd": "2026-11-19T00:00:00+09:00",
   "queries": [
     {
       "genreId": "ghost",
       "route": "program_name",
-      "query": "ほんとにあった怖い話 OR ダークサイドミステリー OR おいち不思議がたり 放送予定 2026年11月09日 2026年11月15日 (site:www.fujitv.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
+      "query": "ほんとにあった怖い話 OR ダークサイドミステリー OR おいち不思議がたり 放送予定 2026年11月12日 2026年11月18日 (site:www.fujitv.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
     },
     {
       "genreId": "ghost",
       "route": "genre",
-      "query": "ほんとにあった怖い話 OR 心霊特番 OR 怪談 OR 恐怖映像 OR 心霊スポット OR ダークサイドミステリー OR 幽霊 OR 死後の世界 OR 地獄 OR 怪奇現象 OR ホラー特番 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.fujitv.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
+      "query": "ほんとにあった怖い話 OR 心霊特番 OR 怪談 OR 恐怖映像 OR 心霊スポット OR ダークサイドミステリー OR 幽霊 OR 死後の世界 OR 地獄 OR 怪奇現象 OR ホラー特番 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.fujitv.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
     },
     {
       "genreId": "ghost",
@@ -20,7 +20,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "ほんとにあった怖い話 OR 心霊特番 OR 怪談 OR 恐怖映像 OR 心霊スポット OR ダークサイドミステリー OR 幽霊 OR 死後の世界 OR 地獄 OR 怪奇現象 OR ホラー特番 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "ほんとにあった怖い話 OR 心霊特番 OR 怪談 OR 恐怖映像 OR 心霊スポット OR ダークサイドミステリー OR 幽霊 OR 死後の世界 OR 地獄 OR 怪奇現象 OR ホラー特番 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "ghost",
@@ -46,12 +46,12 @@
     {
       "genreId": "ufo",
       "route": "program_name",
-      "query": "世界の何だコレ!?ミステリー OR やりすぎ都市伝説 OR ダークサイドミステリー OR おいち不思議がたり 放送予定 2026年11月09日 2026年11月15日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
+      "query": "世界の何だコレ!?ミステリー OR やりすぎ都市伝説 OR ダークサイドミステリー OR おいち不思議がたり 放送予定 2026年11月12日 2026年11月18日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
     },
     {
       "genreId": "ufo",
       "route": "genre",
-      "query": "UFO OR UMA OR 都市伝説 OR 未確認生物 OR 超常現象 OR 世界の何だコレ!?ミステリー OR 不老不死 OR 未解決の謎 OR 不思議な伝説 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
+      "query": "UFO OR UMA OR 都市伝説 OR 未確認生物 OR 超常現象 OR 世界の何だコレ!?ミステリー OR 不老不死 OR 未解決の謎 OR 不思議な伝説 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.fujitv.co.jp OR site:www.tv-tokyo.co.jp OR site:www.web.nhk OR site:www.nhk.or.jp)"
     },
     {
       "genreId": "ufo",
@@ -61,7 +61,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "UFO OR UMA OR 都市伝説 OR 未確認生物 OR 超常現象 OR 世界の何だコレ!?ミステリー OR 不老不死 OR 未解決の謎 OR 不思議な伝説 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "UFO OR UMA OR 都市伝説 OR 未確認生物 OR 超常現象 OR 世界の何だコレ!?ミステリー OR 不老不死 OR 未解決の謎 OR 不思議な伝説 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "ufo",
@@ -85,12 +85,12 @@
     {
       "genreId": "movie",
       "route": "program_name",
-      "query": "午後のロードショー OR 金曜ロードショー 放送予定 2026年11月09日 2026年11月15日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "午後のロードショー OR 金曜ロードショー 放送予定 2026年11月12日 2026年11月18日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "movie",
       "route": "genre",
-      "query": "午後のロードショー OR 金曜ロードショー OR 映画 OR 地上波映画 OR BS映画 OR 映画特番 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "午後のロードショー OR 金曜ロードショー OR 映画 OR 地上波映画 OR BS映画 OR 映画特番 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.ntv.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "movie",
@@ -99,7 +99,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "午後のロードショー OR 金曜ロードショー OR 映画 OR 地上波映画 OR BS映画 OR 映画特番 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "午後のロードショー OR 金曜ロードショー OR 映画 OR 地上波映画 OR BS映画 OR 映画特番 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "movie",
@@ -122,12 +122,12 @@
     {
       "genreId": "horror_movie",
       "route": "program_name",
-      "query": "サタ☆シネ OR 日曜アニメ劇場 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+      "query": "サタ☆シネ OR 日曜アニメ劇場 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
     },
     {
       "genreId": "horror_movie",
       "route": "genre",
-      "query": "ホラー映画 OR 恐怖映画 OR ホラー OR 怪奇映画 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+      "query": "ホラー映画 OR 恐怖映画 OR ホラー OR 怪奇映画 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
     },
     {
       "genreId": "horror_movie",
@@ -136,7 +136,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "ホラー映画 OR 恐怖映画 OR ホラー OR 怪奇映画 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "ホラー映画 OR 恐怖映画 OR ホラー OR 怪奇映画 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "horror_movie",
@@ -158,12 +158,12 @@
     {
       "genreId": "disney",
       "route": "program_name",
-      "query": "ディズニー特集 OR 金曜ロードショー OR ディズニー特集回 OR 東京ディズニーリゾート特集 OR ディズニー・クリスマス特集 放送予定 2026年11月09日 2026年11月15日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
+      "query": "ディズニー特集 OR 金曜ロードショー OR ディズニー特集回 OR 東京ディズニーリゾート特集 OR ディズニー・クリスマス特集 放送予定 2026年11月12日 2026年11月18日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "disney",
       "route": "genre",
-      "query": "ディズニー OR TDL OR TDS OR 東京ディズニーランド OR 東京ディズニーシー OR 東京ディズニーリゾート OR ランド OR シー OR ディズニーホテル OR ディズニー映画 OR ディズニー・クリスマス OR ファンタジースプリングス OR ダッフィー OR ミッキー OR パークグルメ OR TDR OR ディズニーランド OR ディズニーシー OR 食べ歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
+      "query": "ディズニー OR TDL OR TDS OR 東京ディズニーランド OR 東京ディズニーシー OR 東京ディズニーリゾート OR ランド OR シー OR ディズニーホテル OR ディズニー映画 OR ディズニー・クリスマス OR ファンタジースプリングス OR ダッフィー OR ミッキー OR パークグルメ OR TDR OR ディズニーランド OR ディズニーシー OR 食べ歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.ntv.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "disney",
@@ -172,7 +172,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "ディズニー OR TDL OR TDS OR 東京ディズニーランド OR 東京ディズニーシー OR 東京ディズニーリゾート OR ランド OR シー OR ディズニーホテル OR ディズニー映画 OR ディズニー・クリスマス OR ファンタジースプリングス OR ダッフィー OR ミッキー OR パークグルメ OR TDR OR ディズニーランド OR ディズニーシー OR 食べ歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "ディズニー OR TDL OR TDS OR 東京ディズニーランド OR 東京ディズニーシー OR 東京ディズニーリゾート OR ランド OR シー OR ディズニーホテル OR ディズニー映画 OR ディズニー・クリスマス OR ファンタジースプリングス OR ダッフィー OR ミッキー OR パークグルメ OR TDR OR ディズニーランド OR ディズニーシー OR 食べ歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "disney",
@@ -196,12 +196,12 @@
     {
       "genreId": "usj",
       "route": "program_name",
-      "query": "王様のブランチ OR ヒルナンデス 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+      "query": "王様のブランチ OR ヒルナンデス 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "usj",
       "route": "genre",
-      "query": "USJ OR ユニバーサル OR ユニバーサル・スタジオ・ジャパン OR ユニバ OR スーパー・ニンテンドー・ワールド OR ハリーポッター エリア OR USJアトラクション OR USJグルメ OR アトラクション OR 食べ歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+      "query": "USJ OR ユニバーサル OR ユニバーサル・スタジオ・ジャパン OR ユニバ OR スーパー・ニンテンドー・ワールド OR ハリーポッター エリア OR USJアトラクション OR USJグルメ OR アトラクション OR 食べ歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "usj",
@@ -210,7 +210,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "USJ OR ユニバーサル OR ユニバーサル・スタジオ・ジャパン OR ユニバ OR スーパー・ニンテンドー・ワールド OR ハリーポッター エリア OR USJアトラクション OR USJグルメ OR アトラクション OR 食べ歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "USJ OR ユニバーサル OR ユニバーサル・スタジオ・ジャパン OR ユニバ OR スーパー・ニンテンドー・ワールド OR ハリーポッター エリア OR USJアトラクション OR USJグルメ OR アトラクション OR 食べ歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "usj",
@@ -232,12 +232,12 @@
     {
       "genreId": "big_eating",
       "route": "program_name",
-      "query": "最強大食い王決定戦 OR デカ盛りハンター OR 世界くらべてみたら 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+      "query": "最強大食い王決定戦 OR デカ盛りハンター OR 世界くらべてみたら 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "big_eating",
       "route": "genre",
-      "query": "大食い OR デカ盛り OR 爆食 OR フードファイト 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+      "query": "大食い OR デカ盛り OR 爆食 OR フードファイト 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "big_eating",
@@ -246,7 +246,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "大食い OR デカ盛り OR 爆食 OR フードファイト 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "大食い OR デカ盛り OR 爆食 OR フードファイト 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "big_eating",
@@ -268,12 +268,12 @@
     {
       "genreId": "onsen",
       "route": "program_name",
-      "query": "ケンコバのほろ酔いビジホ泊 全国版 OR 秘湯ロマン OR サ道 放送予定 2026年11月09日 2026年11月15日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
+      "query": "ケンコバのほろ酔いビジホ泊 全国版 OR 秘湯ロマン OR サ道 放送予定 2026年11月12日 2026年11月18日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
     },
     {
       "genreId": "onsen",
       "route": "genre",
-      "query": "温泉 OR サウナ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
+      "query": "温泉 OR サウナ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.bs-asahi.co.jp OR site:www.tv-asahi.co.jp)"
     },
     {
       "genreId": "onsen",
@@ -282,7 +282,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "温泉 OR サウナ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "温泉 OR サウナ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "onsen",
@@ -304,12 +304,12 @@
     {
       "genreId": "architecture",
       "route": "program_name",
-      "query": "渡辺篤史の建もの探訪 OR 辰巳琢郎の家物語 OR 憧れの地に家を買おう OR となりのスゴイ家 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+      "query": "渡辺篤史の建もの探訪 OR 辰巳琢郎の家物語 OR 憧れの地に家を買おう OR となりのスゴイ家 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "architecture",
       "route": "genre",
-      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 OR 家 OR 住まい OR 注文住宅 OR 建築家 OR 一軒家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
+      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 OR 家 OR 住まい OR 注文住宅 OR 建築家 OR 一軒家 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-asahi.co.jp OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "architecture",
@@ -318,7 +318,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 OR 家 OR 住まい OR 注文住宅 OR 建築家 OR 一軒家 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "建もの探訪 OR 家物語 OR 豪邸 OR 住宅紹介 OR 住宅探訪 OR 建築探訪 OR ルームツアー OR 憧れの地に家を買おう OR 海外物件 OR 海外の家 OR となりのスゴイ家 OR 家 OR 住まい OR 注文住宅 OR 建築家 OR 一軒家 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "architecture",
@@ -340,12 +340,12 @@
     {
       "genreId": "car",
       "route": "program_name",
-      "query": "ワールド・トラックロード ～俺の助手席に乗らないか～ OR カーグラフィックTV OR おぎやはぎの愛車遍歴 OR 所さんの世田谷ベース OR クルマでいこう！ OR 週刊バイクTV 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
+      "query": "ワールド・トラックロード ～俺の助手席に乗らないか～ OR カーグラフィックTV OR おぎやはぎの愛車遍歴 OR 所さんの世田谷ベース OR クルマでいこう！ OR 週刊バイクTV 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
     },
     {
       "genreId": "car",
       "route": "genre",
-      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
+      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp OR site:www.nhk.jp OR site:www.web.nhk OR site:www.bs4.jp OR site:www.chiba-tv.com)"
     },
     {
       "genreId": "car",
@@ -354,7 +354,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "カーグラフィックTV OR 自動車 OR カスタム OR 旧車 OR カスタムカー OR 試乗 OR EV OR 新車 OR 自動車レビュー OR 名車 OR レストア OR スーパーカー OR 高級車 OR トラック OR 大型車 OR 長距離ドライバー OR バス OR 特殊車両 OR 重機 OR バイク OR オートバイ OR ツーリング OR モータースポーツ OR レース OR 車両が主役の旅 OR ロードトリップ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "car",
@@ -381,12 +381,12 @@
     {
       "genreId": "dance",
       "route": "program_name",
-      "query": "DAN! DAN! EBiDAN! OR それSnow Manにやらせて下さい 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "DAN! DAN! EBiDAN! OR それSnow Manにやらせて下さい 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "dance",
       "route": "genre",
-      "query": "ダンス OR 踊り OR ダンス大会 OR ブレイキン OR 社交ダンス OR ダンサー OR 舞踊 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "ダンス OR 踊り OR ダンス大会 OR ブレイキン OR 社交ダンス OR ダンサー OR 舞踊 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "dance",
@@ -395,7 +395,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "ダンス OR 踊り OR ダンス大会 OR ブレイキン OR 社交ダンス OR ダンサー OR 舞踊 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "ダンス OR 踊り OR ダンス大会 OR ブレイキン OR 社交ダンス OR ダンサー OR 舞踊 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "dance",
@@ -418,12 +418,12 @@
     {
       "genreId": "golf",
       "route": "program_name",
-      "query": "女子ゴルフペアマッチ選手権 OR ゴルフサバイバル 放送予定 2026年11月09日 2026年11月15日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
+      "query": "女子ゴルフペアマッチ選手権 OR ゴルフサバイバル 放送予定 2026年11月12日 2026年11月18日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "golf",
       "route": "genre",
-      "query": "ゴルフ OR トーナメント OR マスターズ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
+      "query": "ゴルフ OR トーナメント OR マスターズ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.bs-asahi.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "golf",
@@ -432,7 +432,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "ゴルフ OR トーナメント OR マスターズ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "ゴルフ OR トーナメント OR マスターズ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "golf",
@@ -455,12 +455,12 @@
     {
       "genreId": "soccer",
       "route": "program_name",
-      "query": "KICK OFF! J OR サッカー中継 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "KICK OFF! J OR サッカー中継 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "soccer",
       "route": "genre",
-      "query": "サッカー 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "サッカー 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "soccer",
@@ -469,7 +469,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "サッカー 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "サッカー 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "soccer",
@@ -491,12 +491,12 @@
     {
       "genreId": "baseball",
       "route": "program_name",
-      "query": "SMBC日本シリーズ OR S☆1 BASEBALL 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+      "query": "SMBC日本シリーズ OR S☆1 BASEBALL 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "baseball",
       "route": "genre",
-      "query": "野球 OR ベースボール 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
+      "query": "野球 OR ベースボール 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.ntv.co.jp)"
     },
     {
       "genreId": "baseball",
@@ -505,7 +505,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "野球 OR ベースボール 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "野球 OR ベースボール 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "baseball",
@@ -528,12 +528,12 @@
     {
       "genreId": "fishing",
       "route": "program_name",
-      "query": "THEフィッシング OR 巨大マグロ戦争 OR 夢釣行～一魚一会の旅～ OR 釣りびと万歳 OR 魚が食べたい！ OR 洋上の激闘！巨大マグロ戦争 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+      "query": "THEフィッシング OR 巨大マグロ戦争 OR 夢釣行～一魚一会の旅～ OR 釣りびと万歳 OR 魚が食べたい！ OR 洋上の激闘！巨大マグロ戦争 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
     },
     {
       "genreId": "fishing",
       "route": "genre",
-      "query": "釣 OR マグロ OR 漁 OR 魚 OR 釣り OR 釣行 OR 釣りびと OR 漁師 OR 漁港 OR 漁業 OR 水産 OR 海鮮 OR 魚料理 OR 魚介 OR 刺身 OR 鮮魚 OR 大間 OR 巨大魚 OR THEフィッシング OR マグロ漁師 OR 漁師 密着 OR 釣り対決 OR 漁師密着 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
+      "query": "釣 OR マグロ OR 漁 OR 魚 OR 釣り OR 釣行 OR 釣りびと OR 漁師 OR 漁港 OR 漁業 OR 水産 OR 海鮮 OR 魚料理 OR 魚介 OR 刺身 OR 鮮魚 OR 大間 OR 巨大魚 OR THEフィッシング OR マグロ漁師 OR 漁師 密着 OR 釣り対決 OR 漁師密着 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.bsfuji.tv)"
     },
     {
       "genreId": "fishing",
@@ -542,7 +542,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "釣 OR マグロ OR 漁 OR 魚 OR 釣り OR 釣行 OR 釣りびと OR 漁師 OR 漁港 OR 漁業 OR 水産 OR 海鮮 OR 魚料理 OR 魚介 OR 刺身 OR 鮮魚 OR 大間 OR 巨大魚 OR THEフィッシング OR マグロ漁師 OR 漁師 密着 OR 釣り対決 OR 漁師密着 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "釣 OR マグロ OR 漁 OR 魚 OR 釣り OR 釣行 OR 釣りびと OR 漁師 OR 漁港 OR 漁業 OR 水産 OR 海鮮 OR 魚料理 OR 魚介 OR 刺身 OR 鮮魚 OR 大間 OR 巨大魚 OR THEフィッシング OR マグロ漁師 OR 漁師 密着 OR 釣り対決 OR 漁師密着 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "fishing",
@@ -566,12 +566,12 @@
     {
       "genreId": "health",
       "route": "program_name",
-      "query": "健康カプセル！ゲンキの時間 OR きょうの健康 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
+      "query": "健康カプセル！ゲンキの時間 OR きょうの健康 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
     },
     {
       "genreId": "health",
       "route": "genre",
-      "query": "健康カプセル OR 健康 OR 健康診断 OR 医学 OR 病気予防 OR 健康法 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
+      "query": "健康カプセル OR 健康 OR 健康診断 OR 医学 OR 病気予防 OR 健康法 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.nhk.jp)"
     },
     {
       "genreId": "health",
@@ -580,7 +580,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "健康カプセル OR 健康 OR 健康診断 OR 医学 OR 病気予防 OR 健康法 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "健康カプセル OR 健康 OR 健康診断 OR 医学 OR 病気予防 OR 健康法 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "health",
@@ -604,12 +604,12 @@
     {
       "genreId": "travel",
       "route": "program_name",
-      "query": "ブラタモリ OR モヤモヤさまぁ〜ず OR オードリー春日の知らない街で自腹せんべろ 放送予定 2026年11月09日 2026年11月15日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "ブラタモリ OR モヤモヤさまぁ〜ず OR オードリー春日の知らない街で自腹せんべろ 放送予定 2026年11月12日 2026年11月18日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "travel",
       "route": "genre",
-      "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
+      "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.nhk.jp OR site:www.tv-tokyo.co.jp)"
     },
     {
       "genreId": "travel",
@@ -618,7 +618,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "travel",
@@ -642,12 +642,12 @@
     {
       "genreId": "challenge",
       "route": "program_name",
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ドア×ドアクエスト OR 夢対決！とんねるずのスポーツ王は俺だ!! OR クイズ☆正解は一年後 OR 芸能人格付けチェック OR THE鬼タイジ OR 新しいカギ 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ドア×ドアクエスト OR 夢対決！とんねるずのスポーツ王は俺だ!! OR クイズ☆正解は一年後 OR 芸能人格付けチェック OR THE鬼タイジ OR 新しいカギ 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
     },
     {
       "genreId": "challenge",
       "route": "genre",
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tbs.co.jp OR site:www.fujitv.co.jp)"
     },
     {
       "genreId": "challenge",
@@ -656,7 +656,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "逃走中 OR 戦闘中 OR SASUKE OR ゲーム OR チャレンジ OR サバイバル OR クイズ対決 OR 挑戦 OR 学校かくれんぼ OR ティーチャーをさがせ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "challenge",
@@ -679,12 +679,12 @@
     {
       "genreId": "anime",
       "route": "program_name",
-      "query": "ポケットモンスター OR 夜桜さんちの大作戦 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+      "query": "ポケットモンスター OR 夜桜さんちの大作戦 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "anime",
       "route": "genre",
-      "query": "アニメ OR 新作アニメ OR 再放送 OR 劇場版アニメ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
+      "query": "アニメ OR 新作アニメ OR 再放送 OR 劇場版アニメ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.tv-tokyo.co.jp OR site:www.tbs.co.jp)"
     },
     {
       "genreId": "anime",
@@ -692,7 +692,7 @@
       "urls": [
         "https://cal.syoboi.jp/"
       ],
-      "query": "アニメ OR 新作アニメ OR 再放送 OR 劇場版アニメ 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "アニメ OR 新作アニメ OR 再放送 OR 劇場版アニメ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "anime",
@@ -715,12 +715,12 @@
     {
       "genreId": "railway",
       "route": "program_name",
-      "query": "鉄道伝説 OR 鉄道・絶景の旅 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+      "query": "鉄道伝説 OR 鉄道・絶景の旅 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "railway",
       "route": "genre",
-      "query": "鉄道伝説 OR 鉄道 OR 電車 OR 特急 OR 新幹線 OR ローカル線 OR 鉄道旅 番組内容 予告 放送予定 2026年11月09日 2026年11月15日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+      "query": "鉄道伝説 OR 鉄道 OR 電車 OR 特急 OR 新幹線 OR ローカル線 OR 鉄道旅 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
     },
     {
       "genreId": "railway",
@@ -729,7 +729,7 @@
         "https://bangumi.org/",
         "https://tvguide.myjcom.jp/"
       ],
-      "query": "鉄道伝説 OR 鉄道 OR 電車 OR 特急 OR 新幹線 OR ローカル線 OR 鉄道旅 番組内容 予告 放送予定 2026年11月09日 2026年11月15日"
+      "query": "鉄道伝説 OR 鉄道 OR 電車 OR 特急 OR 新幹線 OR ローカル線 OR 鉄道旅 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
     },
     {
       "genreId": "railway",
@@ -749,6 +749,44 @@
         "鉄道旅"
       ],
       "recheckAfterHours": 48
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "program_name",
+      "query": "フィギュアスケート OR スキージャンプ OR スピードスケート OR カーリング 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "genre",
+      "query": "フィギュア OR スキー OR スノーボード OR スノボ OR スケート OR カーリング OR アイスホッケー OR スキージャンプ OR 冬季スポーツ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日 (site:www.bsfuji.tv OR site:www.bs-asahi.co.jp)"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "specialist",
+      "urls": [
+        "https://bangumi.org/",
+        "https://tvguide.myjcom.jp/"
+      ],
+      "query": "フィギュア OR スキー OR スノーボード OR スノボ OR スケート OR カーリング OR アイスホッケー OR スキージャンプ OR 冬季スポーツ 番組内容 予告 放送予定 2026年11月12日 2026年11月18日"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "official_schedule",
+      "urls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ]
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "miss_learning",
+      "features": [
+        "特急",
+        "新幹線",
+        "ローカル線",
+        "鉄道旅"
+      ],
+      "recheckAfterHours": 48
     }
   ],
   "hybrid": {
@@ -756,380 +794,398 @@
       {
         "genreId": "ghost",
         "subcategoryId": "ghost",
-        "query": "心霊 OR 心霊体験 OR 心霊特番 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "心霊 OR 心霊体験 OR 心霊特番 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "ghost",
         "subcategoryId": "kaidan",
-        "query": "怪談 OR 恐怖体験 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "怪談 OR 恐怖体験 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "ghost",
         "subcategoryId": "phenomena",
-        "query": "怪奇現象 OR 怪異 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "怪奇現象 OR 怪異 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "ufo",
         "subcategoryId": "ufo",
-        "query": "UFO OR 宇宙人 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "UFO OR 宇宙人 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "ufo",
         "subcategoryId": "legend",
-        "query": "都市伝説 OR UMA 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "都市伝説 OR UMA 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "ufo",
         "subcategoryId": "mystery",
-        "query": "未解決ミステリー OR 超常現象 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "未解決ミステリー OR 超常現象 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "movie",
         "subcategoryId": "japanese",
-        "query": "邦画 OR 日本映画 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "邦画 OR 日本映画 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "movie",
         "subcategoryId": "foreign",
-        "query": "洋画 OR 外国映画 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "洋画 OR 外国映画 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "movie",
         "subcategoryId": "animated",
-        "query": "アニメ映画 OR 劇場版アニメ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "アニメ映画 OR 劇場版アニメ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "movie",
         "subcategoryId": "slots",
-        "query": "午後のロードショー OR BSシネマ OR 映画放送枠 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "午後のロードショー OR BSシネマ OR 映画放送枠 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "horror_movie",
         "subcategoryId": "horror",
-        "query": "ホラー映画 OR 恐怖映画 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ホラー映画 OR 恐怖映画 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "horror_movie",
         "subcategoryId": "occult",
-        "query": "オカルト映画 OR 怪奇映画 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "オカルト映画 OR 怪奇映画 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "horror_movie",
         "subcategoryId": "classic",
-        "query": "古典ホラー OR 怪獣ホラー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "古典ホラー OR 怪獣ホラー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "disney",
         "subcategoryId": "parks",
-        "query": "ディズニーパーク OR 東京ディズニーリゾート 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ディズニーパーク OR 東京ディズニーリゾート 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "disney",
         "subcategoryId": "works",
-        "query": "ディズニー作品 OR ピクサー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ディズニー作品 OR ピクサー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "disney",
         "subcategoryId": "stay_food",
-        "query": "ディズニーホテル OR パーク食べ歩き 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ディズニーホテル OR パーク食べ歩き 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "usj",
         "subcategoryId": "parks",
-        "query": "USJ特集 OR ユニバーサルスタジオジャパン 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "USJ特集 OR ユニバーサルスタジオジャパン 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "usj",
         "subcategoryId": "attractions",
-        "query": "アトラクション OR パーク紹介 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "アトラクション OR パーク紹介 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "usj",
         "subcategoryId": "food",
-        "query": "USJグルメ OR パーク食べ歩き 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "USJグルメ OR パーク食べ歩き 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "big_eating",
         "subcategoryId": "eating",
-        "query": "大食い OR 爆食 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "大食い OR 爆食 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "big_eating",
         "subcategoryId": "large",
-        "query": "デカ盛り OR メガ盛り 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "デカ盛り OR メガ盛り 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "big_eating",
         "subcategoryId": "contest",
-        "query": "フードファイト OR 完食チャレンジ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "フードファイト OR 完食チャレンジ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "onsen",
         "subcategoryId": "onsen_sauna",
-        "query": "温泉 OR サウナ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "温泉 OR サウナ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "architecture",
         "subcategoryId": "homes",
-        "query": "住宅 OR 豪邸 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "住宅 OR 豪邸 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "architecture",
         "subcategoryId": "design",
-        "query": "建築 OR 名建築 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "建築 OR 名建築 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "architecture",
         "subcategoryId": "renovation",
-        "query": "リノベーション OR リフォーム OR 建築修復 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "リノベーション OR リフォーム OR 建築修復 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "new",
-        "query": "新車 OR 試乗 OR 自動車レビュー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "新車 OR 試乗 OR 自動車レビュー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "classic",
-        "query": "旧車 OR 名車 OR レストア 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "旧車 OR 名車 OR レストア 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "luxury",
-        "query": "スーパーカー OR 高級車 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "スーパーカー OR 高級車 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "trucks",
-        "query": "トラック OR 大型車 OR 長距離ドライバー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "トラック OR 大型車 OR 長距離ドライバー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "special",
-        "query": "バス OR 特殊車両 OR 重機 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "バス OR 特殊車両 OR 重機 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "motorcycles",
-        "query": "バイク OR オートバイ OR ツーリング 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "バイク OR オートバイ OR ツーリング 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "racing",
-        "query": "モータースポーツ OR レース 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "モータースポーツ OR レース 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "car",
         "subcategoryId": "roadtrip",
-        "query": "車両が主役の旅 OR ロードトリップ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "車両が主役の旅 OR ロードトリップ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "dance",
         "subcategoryId": "dance",
-        "query": "ダンス OR パフォーマンス OR 踊り OR ダンサー OR 舞踊 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ダンス OR パフォーマンス OR 踊り OR ダンサー OR 舞踊 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "dance",
         "subcategoryId": "ballet",
-        "query": "バレエ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "バレエ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "dance",
         "subcategoryId": "competition",
-        "query": "ダンス大会 OR ダンスバトル 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ダンス大会 OR ダンスバトル 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "golf",
         "subcategoryId": "broad_golf",
-        "query": "ゴルフ OR トーナメント OR マスターズ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ゴルフ OR トーナメント OR マスターズ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "soccer",
         "subcategoryId": "broad_soccer",
-        "query": "サッカー 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "サッカー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "baseball",
         "subcategoryId": "broad_baseball",
-        "query": "野球 OR ベースボール 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "野球 OR ベースボール 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "fishing",
         "subcategoryId": "sea",
-        "query": "海釣り OR 沖釣り 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "海釣り OR 沖釣り 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "fishing",
         "subcategoryId": "river",
-        "query": "川釣り OR 鮎 OR 渓流 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "川釣り OR 鮎 OR 渓流 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "fishing",
         "subcategoryId": "tuna",
-        "query": "マグロ OR 大間 OR 漁師密着 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "マグロ OR 大間 OR 漁師密着 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "fishing",
         "subcategoryId": "travel",
-        "query": "釣り紀行 OR 釣り旅 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "釣り紀行 OR 釣り旅 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "health",
         "subcategoryId": "information",
-        "query": "健康情報 OR 生活改善 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "健康情報 OR 生活改善 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "health",
         "subcategoryId": "exercise",
-        "query": "運動 OR 身体 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "運動 OR 身体 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "health",
         "subcategoryId": "prevention",
-        "query": "病気予防 OR 予防医学 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "病気予防 OR 予防医学 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "health",
         "subcategoryId": "medicine",
-        "query": "医療特集 OR 治療情報 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "医療特集 OR 治療情報 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "travel",
         "subcategoryId": "broad_travel",
-        "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "旅 OR 散歩 OR 紀行 OR ぶらり OR 途中下車 OR 観光 OR 絶景 OR 街歩き 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "challenge",
         "subcategoryId": "athletic",
-        "query": "SASUKE OR 運動チャレンジ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "SASUKE OR 運動チャレンジ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "challenge",
         "subcategoryId": "escape",
-        "query": "逃走中 OR 戦闘中 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "逃走中 OR 戦闘中 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "challenge",
         "subcategoryId": "games",
-        "query": "ゲーム企画 OR 対決 OR 挑戦番組 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "ゲーム企画 OR 対決 OR 挑戦番組 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "anime",
         "subcategoryId": "tv",
-        "query": "TVアニメ OR 新作アニメ 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "TVアニメ OR 新作アニメ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "anime",
         "subcategoryId": "special",
-        "query": "アニメ特番 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "アニメ特番 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "anime",
         "subcategoryId": "film",
-        "query": "劇場版アニメ OR アニメ映画 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "劇場版アニメ OR アニメ映画 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "railway",
         "subcategoryId": "travel",
-        "query": "鉄道旅 OR ローカル線 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "鉄道旅 OR ローカル線 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "railway",
         "subcategoryId": "vehicles",
-        "query": "鉄道車両 OR 運転席 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "鉄道車両 OR 運転席 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "railway",
         "subcategoryId": "lines",
-        "query": "路線 OR 廃線 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "路線 OR 廃線 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       },
       {
         "genreId": "railway",
         "subcategoryId": "technology",
-        "query": "鉄道技術 OR 鉄道施設 番組 放送予定 2026-11-09〜2026-11-16（末尾日を含まない）",
+        "query": "鉄道技術 OR 鉄道施設 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "figure",
+        "query": "フィギュア 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "ski",
+        "query": "スキー OR スノーボード OR ジャンプ 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
+        "status": "planned"
+      },
+      {
+        "genreId": "winter_sports",
+        "subcategoryId": "ice",
+        "query": "スケート OR カーリング OR アイスホッケー 番組 放送予定 2026-11-12〜2026-11-19（末尾日を含まない）",
         "status": "planned"
       }
     ],
     "B": [
       {
         "route": "B",
-        "query": "site:bangumi.org 2026-11-09 番組 放送予定",
+        "query": "site:bangumi.org 2026-11-12 番組 放送予定",
         "mode": "individual_reference",
         "status": "planned"
       },
       {
         "route": "B",
-        "query": "site:bangumi.org 2026-11-15 番組 放送予定",
+        "query": "site:bangumi.org 2026-11-18 番組 放送予定",
         "mode": "individual_reference",
         "status": "planned"
       },
       {
         "route": "B",
-        "query": "site:tvguide.myjcom.jp 2026-11-09 番組 放送予定",
+        "query": "site:tvguide.myjcom.jp 2026-11-12 番組 放送予定",
         "mode": "individual_reference",
         "status": "planned"
       },
       {
         "route": "B",
-        "query": "site:tvguide.myjcom.jp 2026-11-15 番組 放送予定",
+        "query": "site:tvguide.myjcom.jp 2026-11-18 番組 放送予定",
         "mode": "individual_reference",
         "status": "planned"
       }

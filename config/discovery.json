@@ -34,7 +34,7 @@
     "自腹せんべろ",
     "じばせん"
   ],
-  "note": "20ジャンルの発見検索は原則GガイドとJ:COMの2サイト。アニメはしょぼいカレンダー、心霊・UFOは指定のオカルト番組表を優先。旧sourceCatalogのその他のURLは履歴互換のため残すが通常調査では使用しない。 年末・不定期特番はspecialWatchlistで通年個別タイトル検索する。",
+  "note": "21内部ジャンルの発見検索は原則GガイドとJ:COMの2サイト。アニメはしょぼいカレンダー、心霊・UFOは指定のオカルト番組表を優先。旧sourceCatalogのその他のURLは履歴互換のため残すが通常調査では使用しない。 年末・不定期特番はspecialWatchlistで通年個別タイトル検索する。",
   "genres": {
     "ghost": {
       "programs": [
@@ -1878,6 +1878,86 @@
           "keywords": [
             "鉄道技術",
             "鉄道施設"
+          ]
+        }
+      ],
+      "preferredSearchSources": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchSourceNote": "GガイドとJ:COM番組表だけで調査。公式サイトへの追加確認は通常不要。他の専門サイトへ無制限に広げない。"
+    },
+    "winter_sports": {
+      "programs": [
+        "フィギュアスケート",
+        "スキージャンプ",
+        "スピードスケート",
+        "カーリング"
+      ],
+      "keywords": [
+        "フィギュア",
+        "スキー",
+        "スノーボード",
+        "スノボ",
+        "スケート",
+        "カーリング",
+        "アイスホッケー",
+        "スキージャンプ",
+        "冬季スポーツ"
+      ],
+      "officialHosts": [
+        "www.bsfuji.tv",
+        "www.bs-asahi.co.jp"
+      ],
+      "officialScheduleUrls": [
+        "https://www.bsfuji.tv/top/timetable/",
+        "https://www.bs-asahi.co.jp/timetable/"
+      ],
+      "learning": {
+        "missFeatures": [
+          "特急",
+          "新幹線",
+          "ローカル線",
+          "鉄道旅"
+        ],
+        "recheckAfterHours": 48,
+        "note": "候補台帳の未公開理由を調べる。キーワード一致を分類確定としない。"
+      },
+      "sourceIds": [
+        "g_guide",
+        "jcom"
+      ],
+      "searchMethods": [
+        "program_title",
+        "episode_preview_fulltext",
+        "station_schedule",
+        "specialist_discovery",
+        "miss_learning"
+      ],
+      "subcategories": [
+        {
+          "id": "figure",
+          "label": "フィギュア",
+          "keywords": [
+            "フィギュア"
+          ]
+        },
+        {
+          "id": "ski",
+          "label": "スキー・スノボ",
+          "keywords": [
+            "スキー",
+            "スノーボード",
+            "ジャンプ"
+          ]
+        },
+        {
+          "id": "ice",
+          "label": "氷上競技",
+          "keywords": [
+            "スケート",
+            "カーリング",
+            "アイスホッケー"
           ]
         }
       ],
