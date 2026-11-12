@@ -1,35 +1,6 @@
 [
   {
     "at": "2026-11-09T13:33:46+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 211,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "manual-big-eating-202611142054-tbs",
-        "manual-onsen-rail-202611101830",
-        "manual-onsen-rail-202611151800"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 3,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T13:33:46+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 211,
@@ -2594,5 +2565,40 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-12T16:38:49+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 684,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-candidate-27-14-900",
+        "muse-candidate-41-14-2200"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 2,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-12T16:39:19+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "12f00c0a06dc44ed2ad9b3418a3975bb8717e9993a7757edc98c11593c951810",
+      "programs": 684
+    }
   }
 ]
