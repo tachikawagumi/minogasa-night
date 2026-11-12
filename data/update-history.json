@@ -1,51 +1,5 @@
 [
   {
-    "at": "2026-11-09T12:52:04+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 206,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "manual-weekly-202611140700-mx",
-        "manual-weekly-202611140830-mx",
-        "manual-weekly-202611141030-chiba",
-        "manual-weekly-202611141130-chiba",
-        "manual-weekly-202611141200-fuji",
-        "manual-weekly-202611141400-tbs",
-        "manual-weekly-202611141530-tvasahi",
-        "manual-weekly-202611141700-chiba",
-        "manual-weekly-202611141730-tvtokyo",
-        "manual-weekly-202611142245-chiba",
-        "manual-weekly-202611151655-ntv",
-        "manual-weekly-202611151900-tbs",
-        "manual-weekly-202611152320-tvtokyo"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 13,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T12:52:32+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "8fb1d9b676c6c5e48d0f052535b32d53038d304f721d09bf67afd62afbbc45ef",
-      "programs": 206
-    }
-  },
-  {
     "at": "2026-11-09T12:53:04+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -2598,5 +2552,34 @@
       "semanticSha256": "5c4cbdb33430eaa4d58babbe4af8c25ad113047e2d44382faf1aeeb3e9e4779d",
       "programs": 673
     }
+  },
+  {
+    "at": "2026-11-12T16:32:12+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 676,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-candidate-45-15-330",
+        "muse-candidate-50-15-1245",
+        "muse-candidate-52-15-1700"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 3,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
   }
 ]
