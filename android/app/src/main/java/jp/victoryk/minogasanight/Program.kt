@@ -3,7 +3,20 @@ package jp.victoryk.minogasanight
 import java.time.*
 
 val Tokyo: ZoneId = ZoneId.of("Asia/Tokyo")
-val genres = listOf("心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道")
+val genres = listOf("心霊・怪談", "UFO・都市伝説", "映画", "ホラー映画", "ディズニー", "USJ", "大食い", "温泉", "建物探訪", "車", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム・チャレンジ", "アニメ", "電車・鉄道", "冬季スポーツ")
+
+/** UI categories are deliberately independent from the feed's detailed categories. */
+val displayGenres = listOf("オカルト", "映画", "ディズニー＆USJ", "大食い", "温泉", "建物探訪", "車・バイク", "ダンス", "ゴルフ", "サッカー", "野球", "釣り", "健康", "旅", "ゲーム", "アニメ", "鉄道", "冬季スポーツ")
+val displayGenreMembers = mapOf(
+    "オカルト" to setOf("心霊・怪談", "UFO・都市伝説"),
+    "映画" to setOf("映画", "ホラー映画"),
+    "ディズニー＆USJ" to setOf("ディズニー", "USJ"),
+    "車・バイク" to setOf("車"),
+    "ゲーム" to setOf("ゲーム・チャレンジ"),
+    "鉄道" to setOf("電車・鉄道")
+)
+fun genreMembers(display: String): Set<String> = displayGenreMembers[display] ?: setOf(display)
+fun displayEnabled(enabled: Set<String>, display: String): Boolean = genreMembers(display).any { it in enabled }
 
 object Classifier {
     private val rules = listOf(
@@ -13,7 +26,7 @@ object Classifier {
         listOf("車", "自動車", "ドライブ"), listOf("ダンス", "踊り"), listOf("ゴルフ"), listOf("サッカー"), listOf("野球"),
         listOf("釣り", "マグロ漁師", "大間"), listOf("健康", "体操"),
         listOf("旅", "街歩き", "ブラタモリ", "モヤモヤさまぁ"), listOf("ゲーム", "チャレンジ", "逃走中", "戦闘中", "SASUKE"),
-        listOf("アニメ"), listOf("電車", "鉄道", "列車")
+        listOf("アニメ"), listOf("電車", "鉄道", "列車"), listOf("スキー", "スノーボード", "スノボ", "スケート", "カーリング", "アイスホッケー", "冬季スポーツ", "スキージャンプ")
     )
     fun classify(text: String): Set<String> = genres.filterIndexed { index, _ ->
         val target = if (index == 9) text.replace("電車", "").replace("列車", "").replace("貨車", "").replace("客車", "") else text
