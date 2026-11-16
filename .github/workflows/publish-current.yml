@@ -1,0 +1,48 @@
+name: Publish current approved TV feed
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-current.yml'
+      - 'data/current-db.json'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: program-feed-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate approved snapshot without regenerating it
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          public=json.loads(Path('public/v1/programs.json').read_text())
+          master=json.loads(Path('data/current-db.json').read_text())
+          assert public['schemaVersion']==1 and public['sourceMode']=='real'
+          assert len(public['programs']) >= 727
+          assert len(public['programs']) == len(master['records'])
+          assert len({p['id'] for p in public['programs']})==len(public['programs'])
+          assert {p['id'] for p in public['programs']}=={p['id'] for p in master['records']}
+          print('Validated programs:',len(public['programs']))
+          PY
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Verify published snapshot
+        run: python scripts/verify_deployment.py
