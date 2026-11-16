@@ -505,6 +505,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-080",
+      "seriesId": "muse-resolved-series-fuji-突然ですが占ってもいいですか？",
+      "title": "突然ですが占ってもいいですか？",
+      "stationId": "fuji",
+      "start": "2026-11-16T00:55:00+09:00",
+      "end": "2026-11-16T01:25:00+09:00",
+      "genreIds": [
+        "ghost"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261116-0058-tbs",
       "seriesId": "muse-series-tbs-KICK OFF！J #156 ≪W杯の再戦！森保ジャパンのブラジル戦を特集≫",
       "title": "KICK OFF！J #156 ≪W杯の再戦！森保ジャパンのブラジル戦を特集≫",
@@ -589,6 +603,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-085",
+      "seriesId": "muse-resolved-series-bs11-ごりやくさん #47「近江神宮」",
+      "title": "ごりやくさん #47「近江神宮」",
+      "stationId": "bs11",
+      "start": "2026-11-16T01:10:00+09:00",
+      "end": "2026-11-16T01:35:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261116-0120-mx",
       "seriesId": "muse-series-mx-ダークサモナーとデキている #7",
       "title": "ダークサモナーとデキている #7",
@@ -627,6 +655,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-086",
+      "seriesId": "muse-resolved-series-bs11-ごりやくさん #48「湊川神社」",
+      "title": "ごりやくさん #48「湊川神社」",
+      "stationId": "bs11",
+      "start": "2026-11-16T01:35:00+09:00",
+      "end": "2026-11-16T02:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -927,6 +969,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-021",
+      "seriesId": "muse-resolved-series-nhk_bs-世界ふれあい街歩き（サマルカンド）",
+      "title": "世界ふれあい街歩き（サマルカンド）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-16T09:00:00+09:00",
+      "end": "2026-11-16T10:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261116-0911-tvtokyo",
       "seriesId": "muse-series-tvtokyo-なないろ日和！プラス",
       "title": "なないろ日和！プラス",
@@ -1208,6 +1264,20 @@
       "updatedAt": "2026-11-12T12:30:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-068",
+      "seriesId": "muse-resolved-series-nhk_e-ハートネットTV フクチッチ",
+      "title": "ハートネットTV フクチッチ",
+      "stationId": "nhk_e",
+      "start": "2026-11-16T14:30:00+09:00",
+      "end": "2026-11-16T15:00:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-full-20261112-0138-bs10",
       "seriesId": "muse-full-bs10-0138",
       "title": "マネして踊って！DANCE TRAIN 5minutes",
@@ -1247,6 +1317,34 @@
         "travel"
       ],
       "status": "source_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-012",
+      "seriesId": "muse-resolved-series-bs12-温泉日和 #34（別所温泉）",
+      "title": "温泉日和 #34（別所温泉）",
+      "stationId": "bs12",
+      "start": "2026-11-16T15:54:00+09:00",
+      "end": "2026-11-16T16:00:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-017",
+      "seriesId": "muse-resolved-series-bs10-あこがれの絶景クルーズ旅（中東＆地中海SP）",
+      "title": "あこがれの絶景クルーズ旅（中東＆地中海SP）",
+      "stationId": "bs10",
+      "start": "2026-11-16T16:00:00+09:00",
+      "end": "2026-11-16T17:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -1422,6 +1520,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-018",
+      "seriesId": "muse-resolved-series-bs11-LOVE HOKKAIDO（ニセコ）",
+      "title": "LOVE HOKKAIDO（ニセコ）",
+      "stationId": "bs11",
+      "start": "2026-11-16T19:00:00+09:00",
+      "end": "2026-11-16T19:27:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-1900-bs12-6",
       "seriesId": "muse-series-bs12-16",
       "title": "映画「昭和残侠伝 唐獅子仁義」",
@@ -1448,6 +1560,20 @@
       "status": "provider_reported",
       "checkedAt": "2026-11-12T14:30:00+09:00",
       "updatedAt": "2026-11-12T14:30:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-013",
+      "seriesId": "muse-resolved-series-bstvtokyo-ローカル路線バスの旅 第18弾",
+      "title": "ローカル路線バスの旅 第18弾",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-16T19:00:00+09:00",
+      "end": "2026-11-16T21:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
       "id": "muse-supp-20261112-0-202611161900-mx",
@@ -1522,6 +1648,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-069",
+      "seriesId": "muse-resolved-series-nhk_e-ハートネットTV フクチッチ",
+      "title": "ハートネットTV フクチッチ",
+      "stationId": "nhk_e",
+      "start": "2026-11-16T20:00:00+09:00",
+      "end": "2026-11-16T20:30:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-supp-20261112-1-202611162030-nhk_e",
       "seriesId": "muse-supp-series-nhk_e-きょうの健康 高血圧で倒れないために「冬の朝は危険度マックス",
       "title": "きょうの健康（高血圧で倒れないために「冬の朝は危険度マックス！」）",
@@ -1532,6 +1672,20 @@
         "health"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-083",
+      "seriesId": "muse-resolved-series-bstbs-京都はんなり紀行「貴船神社編」",
+      "title": "京都はんなり紀行「貴船神社編」",
+      "stationId": "bstbs",
+      "start": "2026-11-16T20:45:00+09:00",
+      "end": "2026-11-16T20:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -1561,6 +1715,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-053",
+      "seriesId": "muse-resolved-series-bs10-ダグアウト!!! #159",
+      "title": "ダグアウト!!! #159",
+      "stationId": "bs10",
+      "start": "2026-11-16T21:00:00+09:00",
+      "end": "2026-11-16T22:00:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -2157,6 +2325,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-025",
+      "seriesId": "muse-resolved-series-nhk_bs-ヨーロッパトラムの旅（ベオグラード）",
+      "title": "ヨーロッパトラムの旅（ベオグラード）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-17T01:10:00+09:00",
+      "end": "2026-11-17T02:10:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-supp-20261112-0-202611170130-tvtokyo",
       "seriesId": "muse-supp-series-tvtokyo-ワンパンマン（3期） #30「不揃いのヒーローたち」",
       "title": "ワンパンマン（3期） #30「不揃いのヒーローたち」",
@@ -2209,6 +2391,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-026",
+      "seriesId": "muse-resolved-series-nhk_bs-空からクルージング特別編（エーゲ海）",
+      "title": "空からクルージング特別編（エーゲ海）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-17T02:10:00+09:00",
+      "end": "2026-11-17T03:10:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -2283,6 +2479,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-027",
+      "seriesId": "muse-resolved-series-nhk_bs-天に選ばれし名水の地（山梨）",
+      "title": "天に選ばれし名水の地（山梨）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-17T03:10:00+09:00",
+      "end": "2026-11-17T04:10:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-supp-20261112-0-202611170320-tvtokyo",
       "seriesId": "muse-supp-series-tvtokyo-ホテル・インヒューマンズ request 7.",
       "title": "ホテル・インヒューマンズ request 7.🈞🈕🈖",
@@ -2293,6 +2503,34 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-001",
+      "seriesId": "muse-resolved-series-bsasahi-京の絶景 mini #2（大原）",
+      "title": "京の絶景 mini #2（大原）",
+      "stationId": "bsasahi",
+      "start": "2026-11-17T04:00:00+09:00",
+      "end": "2026-11-17T04:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-014",
+      "seriesId": "muse-resolved-series-bsfuji-ワールドツアー完璧MAP（タヒチ）",
+      "title": "ワールドツアー完璧MAP（タヒチ）",
+      "stationId": "bsfuji",
+      "start": "2026-11-17T04:00:00+09:00",
+      "end": "2026-11-17T04:25:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -3015,6 +3253,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-084",
+      "seriesId": "muse-resolved-series-bstbs-京都はんなり紀行「京和傘編」",
+      "title": "京都はんなり紀行「京和傘編」",
+      "stationId": "bstbs",
+      "start": "2026-11-17T20:45:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-report-20261117-2057-mx",
       "seriesId": "muse-report-series-mx-17-野田クリの野望（美大生・",
       "title": "野田クリの野望〜ゲーム天下統一への道〜 ★今宵は“美大生”と“鳥になる”⁉",
@@ -3156,6 +3408,20 @@
       "status": "provider_reported",
       "checkedAt": "2026-11-12T12:00:00+09:00",
       "updatedAt": "2026-11-12T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-055",
+      "seriesId": "muse-resolved-series-bsfuji-レジェン堂 #53（ゲスト辻発彦）",
+      "title": "レジェン堂 #53（ゲスト辻発彦）",
+      "stationId": "bsfuji",
+      "start": "2026-11-17T22:00:00+09:00",
+      "end": "2026-11-17T22:55:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
       "id": "syobocal-719438",
@@ -3525,6 +3791,20 @@
         "anime"
       ],
       "status": "source_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-064",
+      "seriesId": "muse-resolved-series-bs11-全国映画祭 短編シネマセレクション #7「迷子」",
+      "title": "全国映画祭 短編シネマセレクション #7「迷子」",
+      "stationId": "bs11",
+      "start": "2026-11-18T01:05:00+09:00",
+      "end": "2026-11-18T01:35:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -5280,6 +5560,34 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-038",
+      "seriesId": "muse-resolved-series-tvasahi-有働由美子の健康案内人！",
+      "title": "有働由美子の健康案内人！",
+      "stationId": "tvasahi",
+      "start": "2026-11-19T09:55:00+09:00",
+      "end": "2026-11-19T10:10:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-033",
+      "seriesId": "muse-resolved-series-nhk_bs-よみがえる新日本紀行（阿蘇）",
+      "title": "よみがえる新日本紀行（阿蘇）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-19T10:00:00+09:00",
+      "end": "2026-11-19T10:40:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261119-1010-tvasahi",
       "seriesId": "muse-series-tvasahi-じゅん散歩",
       "title": "じゅん散歩",
@@ -5458,6 +5766,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-034",
+      "seriesId": "muse-resolved-series-nhk_bs-世界ふれあい街歩き（サマルカンド）",
+      "title": "世界ふれあい街歩き（サマルカンド）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-19T17:00:00+09:00",
+      "end": "2026-11-19T18:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -5672,6 +5994,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-070",
+      "seriesId": "muse-resolved-series-tvtokyo-ナゼそこ？＋",
+      "title": "ナゼそこ？＋",
+      "stationId": "tvtokyo",
+      "start": "2026-11-19T20:58:00+09:00",
+      "end": "2026-11-19T21:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261119-2100-nhk_bs",
       "seriesId": "muse-series-nhk_bs-六角精児の呑み鉄本線・日本旅 選 秋・根室本線を呑む！",
       "title": "六角精児の呑み鉄本線・日本旅 選 秋・根室本線を呑む！",
@@ -5686,6 +6022,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-073",
+      "seriesId": "muse-resolved-series-bsasahi-私の幸福時間 #1165",
+      "title": "私の幸福時間 #1165",
+      "stationId": "bsasahi",
+      "start": "2026-11-19T21:54:00+09:00",
+      "end": "2026-11-19T22:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261119-2154-tvtokyo",
       "seriesId": "muse-series-tvtokyo-Dの旋律〜ダンスと音楽のシンフォニー〜「Paganinista」",
       "title": "Dの旋律〜ダンスと音楽のシンフォニー〜「Paganinista」",
@@ -5696,6 +6046,34 @@
         "dance"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-074",
+      "seriesId": "muse-resolved-series-bsasahi-家呑み華大",
+      "title": "家呑み華大",
+      "stationId": "bsasahi",
+      "start": "2026-11-19T22:00:00+09:00",
+      "end": "2026-11-19T22:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-032",
+      "seriesId": "muse-resolved-series-bsntv-なおみ農園（温泉旅行 界 由布院）",
+      "title": "なおみ農園（温泉旅行 界 由布院）",
+      "stationId": "bsntv",
+      "start": "2026-11-19T22:00:00+09:00",
+      "end": "2026-11-19T22:30:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -5981,6 +6359,35 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-036",
+      "seriesId": "muse-resolved-series-nhk_bs-ヨーロッパ絶景の道（オーストリア→チェコ）",
+      "title": "ヨーロッパ絶景の道（オーストリア→チェコ）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-20T02:25:00+09:00",
+      "end": "2026-11-20T03:25:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-065",
+      "seriesId": "muse-resolved-series-bs12-湯めぐり鉄道 #39「富山地方鉄道で行く 宇奈月温泉」",
+      "title": "湯めぐり鉄道 #39「富山地方鉄道で行く 宇奈月温泉」",
+      "stationId": "bs12",
+      "start": "2026-11-20T02:30:00+09:00",
+      "end": "2026-11-20T03:00:00+09:00",
+      "genreIds": [
+        "onsen",
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261120-0235-tvtokyo",
       "seriesId": "muse-series-tvtokyo-FOOT×BRAIN+ ▼各界のレジェンドたちが激論！サッカー中継タレント起用とDAZN料",
       "title": "FOOT×BRAIN+ ▼各界のレジェンドたちが激論！サッカー中継タレント起用とDAZN料金",
@@ -5995,6 +6402,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-037",
+      "seriesId": "muse-resolved-series-nhk_bs-運転席からの風景 新橋〜横浜",
+      "title": "運転席からの風景 新橋〜横浜",
+      "stationId": "nhk_bs",
+      "start": "2026-11-20T03:25:00+09:00",
+      "end": "2026-11-20T04:25:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261120-0330-bsasahi",
       "seriesId": "muse-series-bsasahi-とっておき 車窓紀行 mini #3「大分 温泉・絶景・廃線をめぐる 日豊本線＆耶馬渓線の",
       "title": "とっておき 車窓紀行 mini #3「大分 温泉・絶景・廃線をめぐる 日豊本線＆耶馬渓線の旅」",
@@ -6005,6 +6426,20 @@
         "railway"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-002",
+      "seriesId": "muse-resolved-series-bsasahi-京の絶景 mini #3（嵐山・嵯峨野）",
+      "title": "京の絶景 mini #3（嵐山・嵯峨野）",
+      "stationId": "bsasahi",
+      "start": "2026-11-20T04:00:00+09:00",
+      "end": "2026-11-20T04:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -6037,6 +6472,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-089",
+      "seriesId": "muse-resolved-series-nhk_bs-北アルプス空中散歩",
+      "title": "北アルプス空中散歩",
+      "stationId": "nhk_bs",
+      "start": "2026-11-20T04:25:00+09:00",
+      "end": null,
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261120-0425-tvk",
       "seriesId": "muse-series-tvk-ドロンコロン",
       "title": "ドロンコロン",
@@ -6047,6 +6496,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-093",
+      "seriesId": "muse-resolved-series-bstbs-京都はんなり紀行「長楽館」編",
+      "title": "京都はんなり紀行「長楽館」編",
+      "stationId": "bstbs",
+      "start": "2026-11-20T04:45:00+09:00",
+      "end": "2026-11-20T04:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -6234,6 +6697,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-082",
+      "seriesId": "muse-resolved-series-bs10-にっぽん城紀行「伏見城」",
+      "title": "にっぽん城紀行「伏見城」",
+      "stationId": "bs10",
+      "start": "2026-11-20T09:00:00+09:00",
+      "end": "2026-11-20T09:13:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "chatgpt-nhkbs-20261120-0900-darkside",
       "seriesId": "official-series-darkside",
       "title": "ダークサイドミステリー 悪魔が子どもを狙っている？恐怖の集団パニック",
@@ -6263,6 +6740,34 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-040",
+      "seriesId": "muse-resolved-series-tvasahi-有働由美子の健康案内人！",
+      "title": "有働由美子の健康案内人！",
+      "stationId": "tvasahi",
+      "start": "2026-11-20T09:55:00+09:00",
+      "end": "2026-11-20T10:10:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-041",
+      "seriesId": "muse-resolved-series-tvasahi-じゅん散歩（半蔵門）",
+      "title": "じゅん散歩（半蔵門）",
+      "stationId": "tvasahi",
+      "start": "2026-11-20T10:10:00+09:00",
+      "end": "2026-11-20T10:40:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261120-1055-ntv",
       "seriesId": "muse-series-ntv-それいけ！アンパンマン「ちゃわんむしまろとおやこどんちゃん・他」🈖🈑",
       "title": "それいけ！アンパンマン「ちゃわんむしまろとおやこどんちゃん・他」🈖🈑",
@@ -6273,6 +6778,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-039",
+      "seriesId": "muse-resolved-series-nhk_g-小さな旅（新庄村）",
+      "title": "小さな旅（新庄村）",
+      "stationId": "nhk_g",
+      "start": "2026-11-20T11:05:00+09:00",
+      "end": "2026-11-20T11:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -7217,6 +7736,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-009",
+      "seriesId": "muse-resolved-series-tvasahi-渡辺篤史の建もの探訪「レトロ×モダン 古民家リノベーション」",
+      "title": "渡辺篤史の建もの探訪「レトロ×モダン 古民家リノベーション」",
+      "stationId": "tvasahi",
+      "start": "2026-11-21T04:25:00+09:00",
+      "end": "2026-11-21T04:50:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-0515-tvk",
       "seriesId": "muse-series-tvk-ドロンコロン",
       "title": "ドロンコロン",
@@ -7255,6 +7788,20 @@
         "movie"
       ],
       "status": "source_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-045",
+      "seriesId": "muse-resolved-series-nhk_bs-よみがえる新日本紀行（大原）",
+      "title": "よみがえる新日本紀行（大原）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-21T05:35:00+09:00",
+      "end": "2026-11-21T06:14:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -7371,6 +7918,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-058",
+      "seriesId": "muse-resolved-series-bstvtokyo-孝太郎の爽快ゴルフバトル！ [再]",
+      "title": "孝太郎の爽快ゴルフバトル！ [再]",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-21T07:30:00+09:00",
+      "end": "2026-11-21T08:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-0730-teletama",
       "seriesId": "muse-series-teletama-REDS TV GGR",
       "title": "REDS TV GGR",
@@ -7409,6 +7970,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-047",
+      "seriesId": "muse-resolved-series-nhk_bs-にっぽんカラフル（港町）",
+      "title": "にっぽんカラフル（港町）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-21T08:00:00+09:00",
+      "end": "2026-11-21T08:15:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -7526,6 +8101,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-043",
+      "seriesId": "muse-resolved-series-bsasahi-世界の船旅 #461（ライン川）",
+      "title": "世界の船旅 #461（ライン川）",
+      "stationId": "bsasahi",
+      "start": "2026-11-21T09:30:00+09:00",
+      "end": "2026-11-21T09:55:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-0930-mx2",
       "seriesId": "muse-series-mx2-Good Luck！ ★オリンピックメダリスト 松田丈志 登場！",
       "title": "Good Luck！ ★オリンピックメダリスト 松田丈志 登場！",
@@ -7610,6 +8199,34 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-075",
+      "seriesId": "muse-resolved-series-bsasahi-子供たちに残したい美しい日本のうた #141",
+      "title": "子供たちに残したい美しい日本のうた #141",
+      "stationId": "bsasahi",
+      "start": "2026-11-21T11:00:00+09:00",
+      "end": "2026-11-21T12:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-052",
+      "seriesId": "muse-resolved-series-tvtokyo-モヤモヤさまぁ〜ず2（北区王子）",
+      "title": "モヤモヤさまぁ〜ず2（北区王子）",
+      "stationId": "tvtokyo",
+      "start": "2026-11-21T11:30:00+09:00",
+      "end": "2026-11-21T12:15:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-1200-bs10",
       "seriesId": "muse-series-bs10-KDDI LADY GO CUP 2026",
       "title": "KDDI LADY GO CUP 2026",
@@ -7620,6 +8237,20 @@
         "golf"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-008",
+      "seriesId": "muse-resolved-series-bsasahi-辰巳琢郎の家物語〜リモデル☆きらり #227",
+      "title": "辰巳琢郎の家物語〜リモデル☆きらり #227",
+      "stationId": "bsasahi",
+      "start": "2026-11-21T12:00:00+09:00",
+      "end": "2026-11-21T12:30:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -7862,6 +8493,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-042",
+      "seriesId": "muse-resolved-series-bsntv-小さな村の物語 イタリア #478",
+      "title": "小さな村の物語 イタリア #478",
+      "stationId": "bsntv",
+      "start": "2026-11-21T18:00:00+09:00",
+      "end": "2026-11-21T18:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "syobocal-719405",
       "seriesId": "syobocal-title-518",
       "title": "名探偵コナン #1221「女子会ミステリー5(後編)」",
@@ -7960,6 +8605,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-059",
+      "seriesId": "muse-resolved-series-bs11-マイナビ ネクストヒロインゴルフツアー2026 最終戦",
+      "title": "マイナビ ネクストヒロインゴルフツアー2026 最終戦",
+      "stationId": "bs11",
+      "start": "2026-11-21T19:00:00+09:00",
+      "end": "2026-11-21T20:25:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-1900-bs12",
       "seriesId": "muse-series-bs12-土曜洋画劇場「ダーティハリー3」（日本語吹替）",
       "title": "土曜洋画劇場「ダーティハリー3」（日本語吹替）",
@@ -7988,6 +8647,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-048",
+      "seriesId": "muse-resolved-series-nhk_bs-百名山ヤマたび（鹿島槍ヶ岳）",
+      "title": "百名山ヤマたび（鹿島槍ヶ岳）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-21T19:00:00+09:00",
+      "end": "2026-11-21T20:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261121-1900-teletama",
       "seriesId": "muse-series-teletama-映画『ラ・ラ・ランド』",
       "title": "映画『ラ・ラ・ランド』",
@@ -8012,6 +8685,20 @@
         "travel"
       ],
       "status": "source_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-005",
+      "seriesId": "muse-resolved-series-nhk_g-新プロジェクトX〜挑戦者たち〜（首里城復活回）",
+      "title": "新プロジェクトX〜挑戦者たち〜（首里城復活回）",
+      "stationId": "nhk_g",
+      "start": "2026-11-21T20:07:00+09:00",
+      "end": "2026-11-21T20:55:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -8140,6 +8827,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-16T09:04:47+09:00",
       "updatedAt": "2026-11-16T09:04:47+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-049",
+      "seriesId": "muse-resolved-series-nhk_bs-お宝を掘り当てろ 台湾鑑定旅",
+      "title": "お宝を掘り当てろ 台湾鑑定旅",
+      "stationId": "nhk_bs",
+      "start": "2026-11-21T22:30:00+09:00",
+      "end": "2026-11-21T23:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
       "id": "muse-20261116-20261121-2230-tvtokyo",
@@ -8479,6 +9180,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-063",
+      "seriesId": "muse-resolved-series-nhk_g-ヨーロッパ トラムの旅「オーストリア ウィーン」",
+      "title": "ヨーロッパ トラムの旅「オーストリア ウィーン」",
+      "stationId": "nhk_g",
+      "start": "2026-11-22T02:10:00+09:00",
+      "end": "2026-11-22T03:10:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-0225-teletama",
       "seriesId": "muse-series-teletama-テレ玉くんのうた🅂",
       "title": "テレ玉くんのうた🅂",
@@ -8521,6 +9236,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-003",
+      "seriesId": "muse-resolved-series-bsasahi-京の絶景 mini #3（嵐山・嵯峨野）",
+      "title": "京の絶景 mini #3（嵐山・嵯峨野）",
+      "stationId": "bsasahi",
+      "start": "2026-11-22T03:00:00+09:00",
+      "end": "2026-11-22T03:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-0305-tvtokyo",
       "seriesId": "muse-series-tvtokyo-サタ☆シネ「フロム・ヘル」",
       "title": "サタ☆シネ「フロム・ヘル」",
@@ -8532,6 +9261,34 @@
         "ghost"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-050",
+      "seriesId": "muse-resolved-series-nhk_bs-絶景YOGA（小笠原）",
+      "title": "絶景YOGA（小笠原）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-22T03:35:00+09:00",
+      "end": "2026-11-22T04:35:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-051",
+      "seriesId": "muse-resolved-series-nhk_bs-空中散歩（四国）",
+      "title": "空中散歩（四国）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-22T04:35:00+09:00",
+      "end": "2026-11-22T05:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -8732,6 +9489,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-090",
+      "seriesId": "muse-resolved-series-tvk-ルアルアチャンネル",
+      "title": "ルアルアチャンネル",
+      "stationId": "tvk",
+      "start": "2026-11-22T07:00:00+09:00",
+      "end": "2026-11-22T07:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-0700-tvtokyo",
       "seriesId": "muse-series-tvtokyo-アニもり！🈑",
       "title": "アニもり！🈑",
@@ -8760,6 +9531,34 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-056",
+      "seriesId": "muse-resolved-series-bsyoshimoto-亜生とナダルがゆる〜く釣りとかやっちゃいます #83",
+      "title": "亜生とナダルがゆる〜く釣りとかやっちゃいます #83",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-22T07:30:00+09:00",
+      "end": "2026-11-22T08:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-079",
+      "seriesId": "muse-resolved-series-tvtokyo-ポケモンとどこいく！？",
+      "title": "ポケモンとどこいく！？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-22T07:30:00+09:00",
+      "end": "2026-11-22T08:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-0800-bstvtokyo",
       "seriesId": "muse-series-bstvtokyo-ゴルフ侍、見参！",
       "title": "ゴルフ侍、見参！",
@@ -8770,6 +9569,20 @@
         "golf"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-077",
+      "seriesId": "muse-resolved-series-bsyoshimoto-田村亮の釣りならまかせろ！ #186",
+      "title": "田村亮の釣りならまかせろ！ #186",
+      "stationId": "bsyoshimoto",
+      "start": "2026-11-22T08:00:00+09:00",
+      "end": "2026-11-22T08:30:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -8800,6 +9613,20 @@
       "status": "provider_confirmed",
       "checkedAt": "2026-11-16T09:04:47+09:00",
       "updatedAt": "2026-11-16T09:04:47+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-007",
+      "seriesId": "muse-resolved-series-bsasahi-渡辺篤史の建もの探訪「橋でつながる！遊び心を詰め込んだ家」",
+      "title": "渡辺篤史の建もの探訪「橋でつながる！遊び心を詰め込んだ家」",
+      "stationId": "bsasahi",
+      "start": "2026-11-22T08:30:00+09:00",
+      "end": "2026-11-22T09:00:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
       "id": "syobocal-724223",
@@ -9026,6 +9853,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-006",
+      "seriesId": "muse-resolved-series-nhk_g-復活！沖縄 首里城",
+      "title": "復活！沖縄 首里城",
+      "stationId": "nhk_g",
+      "start": "2026-11-22T13:05:00+09:00",
+      "end": "2026-11-22T15:00:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-1355-tvasahi",
       "seriesId": "muse-series-tvasahi-フィギュアグランプリシリーズ2026 フィンランド大会 男女フリー",
       "title": "フィギュアグランプリシリーズ2026 フィンランド大会 男女フリー",
@@ -9124,6 +9965,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-057",
+      "seriesId": "muse-resolved-series-bs10-鈴木拓とマルコスの釣りわっしょい！ #189",
+      "title": "鈴木拓とマルコスの釣りわっしょい！ #189",
+      "stationId": "bs10",
+      "start": "2026-11-22T17:30:00+09:00",
+      "end": "2026-11-22T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-1730-nhk_bs",
       "seriesId": "muse-series-nhk_bs-釣りびと万歳 選（船で“エギ”遊び 秋のアオリイカ釣り〜大東駿介 福井・敦賀〜）",
       "title": "釣りびと万歳 選（船で“エギ”遊び 秋のアオリイカ釣り〜大東駿介 福井・敦賀〜）",
@@ -9218,6 +10073,20 @@
         "anime"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-060",
+      "seriesId": "muse-resolved-series-bs11-マイナビ ネクストヒロインゴルフツアー2026 最終戦",
+      "title": "マイナビ ネクストヒロインゴルフツアー2026 最終戦",
+      "stationId": "bs11",
+      "start": "2026-11-22T19:00:00+09:00",
+      "end": "2026-11-22T20:25:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
@@ -9321,6 +10190,20 @@
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
     {
+      "id": "muse-resolved-cd-20261116-087",
+      "seriesId": "muse-resolved-series-bstvtokyo-となりのスゴイ家",
+      "title": "となりのスゴイ家",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-22T21:00:00+09:00",
+      "end": null,
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "provider_reported",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
       "id": "muse-20261116-20261122-2100-mx",
       "seriesId": "muse-series-mx-ぐらぶるTVちゃんねるっ！",
       "title": "ぐらぶるTVちゃんねるっ！",
@@ -9331,6 +10214,20 @@
         "challenge"
       ],
       "status": "provider_confirmed",
+      "checkedAt": "2026-11-16T12:00:00+09:00",
+      "updatedAt": "2026-11-16T12:00:00+09:00"
+    },
+    {
+      "id": "muse-resolved-cd-20261116-078",
+      "seriesId": "muse-resolved-series-nhk_bs-球辞苑「前進守備」",
+      "title": "球辞苑「前進守備」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-22T21:00:00+09:00",
+      "end": "2026-11-22T21:50:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "status": "provider_reported",
       "checkedAt": "2026-11-16T12:00:00+09:00",
       "updatedAt": "2026-11-16T12:00:00+09:00"
     },
