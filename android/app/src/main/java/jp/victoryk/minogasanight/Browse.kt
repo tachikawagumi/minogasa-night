@@ -1,6 +1,9 @@
 package jp.victoryk.minogasanight
 
+import java.time.Instant
 import java.time.LocalDate
+import java.time.format.DateTimeFormatter
+import java.util.Locale
 
 /** Keeps the existing p:/s: keys and their Room storage unchanged. */
 fun isFavorite(program: Listing, keys: Set<String>): Boolean =
@@ -31,6 +34,16 @@ fun seriesFavoriteAvailable(p: Listing): Boolean {
 }
 
 object BrowseText {
+    private val broadcastStart = DateTimeFormatter.ofPattern("M/d（E）HH:mm", Locale.JAPAN).withZone(Tokyo)
+    private val broadcastEnd = DateTimeFormatter.ofPattern("HH:mm", Locale.JAPAN).withZone(Tokyo)
+
+    fun broadcastTime(start: Long, end: Long): String {
+        val startLabel = broadcastStart.format(Instant.ofEpochMilli(start))
+        val endLabel = if (end > start) broadcastEnd.format(Instant.ofEpochMilli(end)) else ""
+        return "${startLabel}〜$endLabel"
+    }
+
+
     fun episode(saved: Boolean) = if (saved) "★ この回" else "☆ この回"
     fun series(saved: Boolean) = if (saved) "★ 毎回チェック" else "☆ 毎回チェック"
     fun empty(favoritesOnly: Boolean, hasSaved: Boolean, genresEnabled: Boolean): String = when {

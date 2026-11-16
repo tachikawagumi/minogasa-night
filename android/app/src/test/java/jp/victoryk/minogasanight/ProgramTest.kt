@@ -20,15 +20,15 @@ class ProgramTest {
     @Test fun weekUsesTokyoCalendarAndExcludesEighthDay() = runBlocking {
         val date = LocalDate.of(2026, 10, 24)
         val list = SampleSource().fetch(date)
-        assertEquals(20, list.count { inPeriod(it, 0, date) })
-        assertEquals(20, list.count { inPeriod(it, 1, date) })
-        assertEquals(140, list.count { inPeriod(it, 2, date) })
+        assertEquals(genres.size, list.count { inPeriod(it, 0, date) })
+        assertEquals(genres.size, list.count { inPeriod(it, 1, date) })
+        assertEquals(genres.size * 7, list.count { inPeriod(it, 2, date) })
         val midnight = list.first().copy(start = Instant.parse("2026-10-24T15:00:00Z").toEpochMilli())
         assertFalse(inPeriod(midnight, 0, date))
         assertTrue(inPeriod(midnight, 1, date))
         assertFalse(inPeriod(midnight.copy(start = date.plusDays(7).atStartOfDay(Tokyo).toInstant().toEpochMilli()), 2, date))
         assertTrue(list.all { it.sample && !it.rerunConfirmed && it.title.contains("サンプル") })
-        assertEquals(20, list.map { it.seriesId }.toSet().size)
+        assertEquals(genres.size, list.map { it.seriesId }.toSet().size)
     }
     @Test fun duplicatesMergeTagsButKeepStationsSeparate() = runBlocking {
         val p = SampleSource().fetch(LocalDate.of(2026, 10, 24)).first()
