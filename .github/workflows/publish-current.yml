@@ -4,6 +4,7 @@ on:
     paths:
       - '.github/workflows/publish-current.yml'
       - 'data/current-db.json'
+      - 'public/v1/programs.json'
   workflow_dispatch:
 permissions:
   contents: read
