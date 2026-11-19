@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:00:00+09:00",
+  "generatedAt": "2026-11-19T09:00:00+09:00",
   "records": [
     {
       "id": "muse-20261116-20261116-0000-bs11",
@@ -20286,5 +20286,6 @@
       "officialVerified": false,
       "providerVerified": false
     }
-  ]
+  ],
+  "windowStart": "2026-11-16T00:00:00+09:00"
 }
