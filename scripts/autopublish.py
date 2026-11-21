@@ -1,6 +1,7 @@
 """Conditional AI publication with provenance, diff and last-good protection."""
 from __future__ import annotations
-import json, sys
+import json, re, sys
+import unicodedata
 from urllib.parse import urlparse
 from datetime import datetime, timedelta
 from feed import ROOT, JST, GENRE_IDS, STATIONS, Syobocal, read_json, atomic_json, parse_dt, iso, canonical, merge_rows, build_feed, validate_public, window
@@ -59,12 +60,77 @@ def carry_forward_published(previous, previous_rows, active_rows, cancelled, now
         carried.append(dict(row, publicationApproved=True))
     return carried
 
+def anime_listing_title(title):
+    # Supplementary episode markers are not part of the provider's series title.
+    # Do not use arbitrary substring/keyword overlap for identity matching.
+    title = unicodedata.normalize("NFKC", title)
+    title = re.sub(r"\s+(?:#\s*\d+|第\s*\d+\s*話)(?=$|\s|[「『(【])(?:.*)$", "", title)
+    return canonical(title)
+
+def stabilize_provider_ids(provider, previous, previous_rows):
+    """Keep public IDs for unambiguous, provider-confirmed anime occurrences."""
+    public_by_id = {row["id"]: row for row in previous.get("programs", [])}
+    pubslots, pid_to_published, providerslots = {}, {}, {}
+    for row in public_by_id.values():
+        if "anime" in row.get("genreIds", []):
+            key = (row["stationId"], parse_dt(row["start"]), anime_listing_title(row["title"]))
+            pubslots.setdefault(key, []).append(row)
+    for row in previous_rows:
+        old = public_by_id.get(row["id"])
+        if (old and row.get("origin") == "syobocal" and row.get("sourcePid")
+                and all(row.get(key) == old.get(key) for key in ("seriesId", "stationId", "start", "title"))):
+            pid_to_published.setdefault(str(row["sourcePid"]), []).append(old)
+    def provider_key(row):
+        return (row["stationId"], parse_dt(row["start"]), anime_listing_title(row["title"]))
+    def verified(row):
+        source = urlparse(row.get("sourceUrl") or "")
+        return bool(row.get("sourcePid") and row.get("origin") == "syobocal"
+                    and row.get("status") == "provider_confirmed"
+                    and row.get("publicationApproved") is True
+                    and source.scheme == "https" and source.hostname == "cal.syoboi.jp"
+                    and row["id"] == "syobocal-" + str(row["sourcePid"]))
+    for row in provider["rows"]:
+        if verified(row):
+            key = provider_key(row)
+            providerslots[key] = providerslots.get(key, 0) + 1
+    raw_ids = {row["id"] for row in provider["rows"]}
+    deleted = {str(pid) for pid in provider.get("deletedPids", [])}
+    used, rows = set(), []
+    canceled_aliases = {matches[0]["id"] for pid, matches in pid_to_published.items()
+                        if pid in deleted and len(matches) == 1}
+    for row in provider["rows"]:
+        if not verified(row) or row["id"] in public_by_id or str(row["sourcePid"]) in deleted:
+            rows.append(row)
+            continue
+        key = provider_key(row)
+        matches = pid_to_published.get(str(row["sourcePid"]), [])
+        if not matches and providerslots[key] == 1:
+            matches = pubslots.get(key, [])
+        if len(matches) != 1 or matches[0]["id"] in raw_ids | used | canceled_aliases:
+            rows.append(row)
+            continue
+        old = matches[0]
+        matched_slot = (old["stationId"], parse_dt(old["start"]), anime_listing_title(old["title"])) == key
+        used.add(old["id"])
+        rows.append(dict(row, id=old["id"], seriesId=old["seriesId"],
+                         title=old["title"] if matched_slot else row["title"],
+                         genreIds=sorted(set(row["genreIds"]) | set(old["genreIds"]))))
+    return dict(provider, rows=rows), canceled_aliases
+
 def integrate_candidates(existing, batch, previous_rows, provider, policies, now):
     if not isinstance(batch,dict) or not isinstance(batch.get("records",[]),list):
         raise PublicationBlocked("AI候補バッチの形式が不正")
     if len(batch.get("records",[]))>1000: raise PublicationBlocked("AI候補が上限超過")
     fresh={x["sourcePid"]:x for x in provider.get("rows",[])}
-    state={x["id"]:dict(x) for x in existing if x.get("origin")!="syobocal" or x.get("sourcePid") in fresh}
+    state={}
+    for row in existing:
+        if row.get("origin") != "syobocal":
+            state[row["id"]] = dict(row)
+        elif row.get("sourcePid") in fresh:
+            latest = dict(fresh[row["sourcePid"]])
+            if (latest["stationId"], parse_dt(latest["start"])) == (row["stationId"], parse_dt(row["start"])):
+                latest.update({key: row[key] for key in ("officialVerificationUrl", "aiCheckedAt", "sourcePolicyId") if key in row})
+            state[latest["id"]] = latest
     known={x["id"]:dict(x) for x in previous_rows}
     known.update(state)
     accepted,held,cancelled=[],[],[]
@@ -184,10 +250,12 @@ def run(now=None, collector=None):
             raise PublicationBlocked("アニメ提供元の大量消失を検知。キャッシュと公開JSONを保持")
         policies=read_json(ROOT/"config/source-policy.json",{"sources":{}})
         existing=read_json(ROOT/"data/ai-state.json",{"records":[]})["records"]
+        raw_provider = provider
+        provider, canceled_aliases = stabilize_provider_ids(raw_provider, previous, previous_rows)
         auto,accepted,held,cancelled=integrate_candidates(existing,batch,previous_rows,provider,policies,now)
         legacy=read_json(ROOT/"data/manual-approved.json",{"records":[]})["records"]
         # AI updates and cancellations supersede legacy records by stable ID.
-        cancelled = set(cancelled) | {"syobocal-" + str(pid) for pid in provider.get("deletedPids", [])}
+        cancelled = set(cancelled) | canceled_aliases | {"syobocal-" + str(pid) for pid in provider.get("deletedPids", [])}
         overrides={x["id"] for x in auto}|cancelled
         legacy=[x for x in legacy if x["id"] not in overrides]
         carried = carry_forward_published(previous, previous_rows, legacy + auto + provider["rows"], cancelled, now)
@@ -195,7 +263,7 @@ def run(now=None, collector=None):
                                  preserved_public_ids={row["id"] for row in carried})
         diff=protect_last_good(previous,feed,now,cancelled)
         # Stage-safe files only. Git commit and Pages deployment remain separate, atomic actions.
-        atomic_json(ROOT/"data/anime-cache.json",provider)
+        atomic_json(ROOT/"data/anime-cache.json",raw_provider)
         atomic_json(ROOT/"data/ai-state.json",{"checkedAt":iso(now),"records":auto})
         atomic_json(ROOT/"data/ai-held.json",{"checkedAt":iso(now),"batchId":batch.get("batchId"),"records":held})
         atomic_json(ROOT/"data/current-db.json",{"generatedAt":iso(now),"records":internal})
