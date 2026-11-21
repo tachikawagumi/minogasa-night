@@ -133,6 +133,37 @@ class AutoPublishTest(unittest.TestCase):
                 self.assertEqual([],result["diff"]["removed"])
                 self.assertEqual(snapshot["programs"],json.loads((a.ROOT/"public/v1/programs.json").read_text())["programs"])
         finally: a.ROOT=original
+    def test_authoritative_same_slot_preserves_published_id_and_series(self):
+        old=fact(id="muse-original",seriesId="favorite-series",title="アニメ作品 ＃８「新しい回」",stationId="mx",genreIds=["anime","ghost"])
+        p=fact(id="syobocal-99",sourcePid="99",origin="syobocal",title="アニメ作品",stationId="mx",genreIds=["anime"],status="provider_confirmed",sourceUrl="https://cal.syoboi.jp/1/time")
+        provider={"rows":[p],"deletedPids":[]}
+        reused,canceled=a.stabilize_provider_ids(provider,envelope([old]),[old])
+        new=reused["rows"][0]
+        self.assertEqual(("muse-original","favorite-series","99"),(new["id"],new["seriesId"],new["sourcePid"]))
+        self.assertEqual(old["title"],new["title"])
+        self.assertEqual({"anime","ghost"},set(new["genreIds"]))
+        self.assertEqual("syobocal-99",provider["rows"][0]["id"])
+        self.assertFalse(canceled)
+        self.assertFalse(a.protect_last_good(envelope([old]),envelope([new]),NOW)["removed"])
+    def test_different_or_ambiguous_slot_never_becomes_same_id(self):
+        old=fact(id="muse-original",title="アニメ作品 ＃８",stationId="mx",genreIds=["anime"])
+        p=fact(id="syobocal-99",sourcePid="99",origin="syobocal",title="アニメ作品",stationId="mx",genreIds=["anime"],status="provider_confirmed",sourceUrl="https://cal.syoboi.jp/1/time")
+        for unrelated in (dict(p,title="アニメ作品 2"),dict(p,stationId="tbs"),
+                          dict(p,start=iso(NOW+timedelta(hours=3))),dict(p,status="provider_reported"),dict(p,sourceUrl="https://example.test/")):
+            got,_=a.stabilize_provider_ids({"rows":[unrelated]},envelope([old]),[old])
+            self.assertEqual("syobocal-99",got["rows"][0]["id"])
+        p2=dict(p,id="syobocal-100",sourcePid="100")
+        got,_=a.stabilize_provider_ids({"rows":[p,p2]},envelope([old]),[old])
+        self.assertEqual(["syobocal-99","syobocal-100"],[row["id"] for row in got["rows"]])
+    def test_preserved_provider_pid_can_reschedule_and_cancel(self):
+        old=fact(id="muse-original",title="アニメ作品",stationId="mx",genreIds=["anime"])
+        internal=dict(old,origin="syobocal",sourcePid="99",sourceUrl="https://cal.syoboi.jp/1/time")
+        p=dict(internal,id="syobocal-99",start=iso(NOW+timedelta(hours=7)),status="provider_confirmed")
+        got,_=a.stabilize_provider_ids({"rows":[p]},envelope([old]),[internal])
+        self.assertEqual("muse-original",got["rows"][0]["id"])
+        self.assertEqual(p["start"],got["rows"][0]["start"])
+        _,cancelled=a.stabilize_provider_ids({"rows":[],"deletedPids":["99"]},envelope([old]),[internal])
+        self.assertEqual({"muse-original"},cancelled)
     def test_acquisition_failure_preserves_public_and_cache_bytes(self):
         class Broken:
             def collect(self,*_): raise OSError("source unavailable")
