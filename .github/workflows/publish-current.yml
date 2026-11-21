@@ -1,10 +1,5 @@
 name: Publish current approved TV feed
 on:
-  push:
-    paths:
-      - '.github/workflows/publish-current.yml'
-      - 'data/current-db.json'
-      - 'public/v1/programs.json'
   workflow_dispatch:
 permissions:
   contents: read
@@ -27,18 +22,18 @@ jobs:
           python-version: '3.12'
       - name: Validate approved snapshot without regenerating it
         run: |
+          python scripts/feed.py --validate
           python - <<'PY'
           import json
           from pathlib import Path
           public=json.loads(Path('public/v1/programs.json').read_text())
           master=json.loads(Path('data/current-db.json').read_text())
-          assert public['schemaVersion']==1 and public['sourceMode']=='real'
-          assert len(public['programs']) >= 727
-          assert len(public['programs']) == len(master['records'])
-          assert len({p['id'] for p in public['programs']})==len(public['programs'])
-          assert {p['id'] for p in public['programs']}=={p['id'] for p in master['records']}
+          ids = {p['id'] for p in public['programs']}
+          assert ids and ids <= {p['id'] for p in master['records']}, 'Public slots must be backed by the source snapshot'
           print('Validated programs:',len(public['programs']))
           PY
+      - name: Refuse to publish a superseded snapshot
+        run: test "$(git rev-parse HEAD)" = "$(git ls-remote origin refs/heads/main | cut -f1)"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
