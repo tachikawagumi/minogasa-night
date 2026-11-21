@@ -132,7 +132,7 @@ class Syobocal:
             rows.append(dict(id="syobocal-" + values["PID"], seriesId="syobocal-title-" + values["TID"], title=title, stationId=station_id, start=iso(begin), end=iso(end), genreIds=["anime"], sourceUrl="https://cal.syoboi.jp/" + values["TID"] + "/time?Filter=" + values["ChID"], checkedAt=iso(now), updatedAt=iso(now), sourceUpdatedAt=values.get("LastUpdate"), status="provider_confirmed", publicationApproved=True, origin="syobocal", sourcePid=values["PID"], revision=values.get("Revision")))
         return {"checkedAt": iso(now), "rows": rows, "requests": self.requests, "rawSlots": len(items), "deletedPids": [x.findtext("PID") for x in items if x.findtext("Deleted")=="1"]}
 
-def merge_rows(rows, now):
+def merge_rows(rows, now, *, preserved_public_ids=()):
     begin, finish = window(now)
     groups = {}
     for source in rows:
@@ -152,7 +152,7 @@ def merge_rows(rows, now):
         for field in ("checkedAt", "updatedAt"):
             if parse_dt(row[field]) > now + timedelta(minutes=5):
                 raise ValueError("確認日時が未来")
-        if not row.get("sourceUrl", "").startswith("https://"):
+        if not (row.get("sourceUrl") or "").startswith("https://") and row["id"] not in preserved_public_ids:
             if not (row.get("status") == "provider_reported" and row.get("acquisitionMethod") == "external_ai_report" and row.get("sourcePolicyId") == "user_approved_include_uncertain"):
                 raise ValueError("出典URLが不足")
         if any(key in row for key in ("description", "cast", "image", "apiKey", "token")):
@@ -175,8 +175,8 @@ def merge_rows(rows, now):
         raise ValueError("異なる枠で同じ番組IDが使われている")
     return result
 
-def build_feed(manual, anime, now, anime_ok):
-    rows = merge_rows(manual + anime.get("rows", []), now)
+def build_feed(manual, anime, now, anime_ok, *, preserved_public_ids=()):
+    rows = merge_rows(manual + anime.get("rows", []), now, preserved_public_ids=preserved_public_ids)
     start, end = window(now)
     coverage = []
     for station_id, (name, chid) in STATIONS.items():

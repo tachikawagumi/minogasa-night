@@ -34,6 +34,31 @@ def protect_last_good(previous, proposed, now, cancelled=()):
             raise PublicationBlocked("局別の大量消失を検知: "+station)
     return diff
 
+def carry_forward_published(previous, previous_rows, active_rows, cancelled, now):
+    """Keep an exact already-published slot; never use this path to adopt a candidate."""
+    _, finish = window(now)
+    active_ids = {row["id"] for row in active_rows} | set(cancelled)
+    active_slots = {(row["stationId"], parse_dt(row["start"]), canonical(row["title"])) for row in active_rows}
+    snapshot_rows = {row["id"]: row for row in previous.get("programs", [])}
+    carried = []
+    for row in previous_rows:
+        old = snapshot_rows.get(row["id"])
+        if not old or row["id"] in active_ids or row.get("publicationApproved") is False:
+            continue
+        if row.get("publicationApproved") is not True and row.get("acquisitionMethod") != "external_ai_report":
+            continue
+        # Not even a changed timestamp, status, date, or genre may be inherited.
+        fields = ("id", "seriesId", "title", "stationId", "start", "end", "genreIds", "status", "checkedAt", "updatedAt")
+        if any(row.get(field) != old.get(field) for field in fields):
+            continue
+        start = parse_dt(old["start"])
+        if not now < start < finish or (row["stationId"], start, canonical(row["title"])) in active_slots:
+            continue
+        if row.get("origin") == "syobocal" and row.get("sourcePid") and "syobocal-" + str(row["sourcePid"]) in active_ids:
+            continue
+        carried.append(dict(row, publicationApproved=True))
+    return carried
+
 def integrate_candidates(existing, batch, previous_rows, provider, policies, now):
     if not isinstance(batch,dict) or not isinstance(batch.get("records",[]),list):
         raise PublicationBlocked("AI候補バッチの形式が不正")
@@ -162,9 +187,12 @@ def run(now=None, collector=None):
         auto,accepted,held,cancelled=integrate_candidates(existing,batch,previous_rows,provider,policies,now)
         legacy=read_json(ROOT/"data/manual-approved.json",{"records":[]})["records"]
         # AI updates and cancellations supersede legacy records by stable ID.
-        overrides={x["id"] for x in auto}|set(cancelled)
+        cancelled = set(cancelled) | {"syobocal-" + str(pid) for pid in provider.get("deletedPids", [])}
+        overrides={x["id"] for x in auto}|cancelled
         legacy=[x for x in legacy if x["id"] not in overrides]
-        feed,internal=build_feed(legacy+auto,provider,now,True)
+        carried = carry_forward_published(previous, previous_rows, legacy + auto + provider["rows"], cancelled, now)
+        feed,internal=build_feed(legacy + auto + carried, provider, now, True,
+                                 preserved_public_ids={row["id"] for row in carried})
         diff=protect_last_good(previous,feed,now,cancelled)
         # Stage-safe files only. Git commit and Pages deployment remain separate, atomic actions.
         atomic_json(ROOT/"data/anime-cache.json",provider)

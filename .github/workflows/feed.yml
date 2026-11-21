@@ -11,7 +11,7 @@ on:
 permissions:
   contents: read
 concurrency:
-  group: program-feed-${{ github.ref }}
+  group: ${{ github.ref == 'refs/heads/main' && 'program-feed-publish' || format('program-feed-{0}', github.ref) }}
   cancel-in-progress: false
 jobs:
   validate:
@@ -33,11 +33,17 @@ jobs:
       contents: write
     outputs:
       commit_sha: ${{ steps.commit.outputs.commit_sha }}
+      baseline_sha: ${{ steps.baseline.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Save validated pre-refresh snapshot revision
+        id: baseline
+        run: |
+          python scripts/feed.py --validate
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - name: Prepare guarded AI and anime update
         run: |
           python scripts/autopublish.py
@@ -86,6 +92,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      pages_deployed: ${{ steps.deployment.outcome }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -93,6 +101,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Refuse to publish a superseded update
+        run: test "$(git rev-parse HEAD)" = "$(git ls-remote origin refs/heads/main | cut -f1)"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
@@ -118,7 +128,7 @@ jobs:
           fi
           cat data/publication.json >> "$GITHUB_STEP_SUMMARY"
   rollback:
-    if: always() && !cancelled() && needs.refresh.result == 'success' && needs.deploy.result == 'failure'
+    if: always() && !cancelled() && needs.refresh.result == 'success' && needs.deploy.result == 'failure' && needs.deploy.outputs.pages_deployed == 'success'
     needs: [refresh, deploy]
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -132,8 +142,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Restore the last verified JSON
-        run: cp data/last-published.json public/v1/programs.json
+      - name: Restore the validated pre-refresh snapshot, not an older last-published file
+        env:
+          BASELINE_SHA: ${{ needs.refresh.outputs.baseline_sha }}
+          REFRESH_SHA: ${{ needs.refresh.outputs.commit_sha }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$REFRESH_SHA"
+          git fetch --no-tags --depth=1 origin "$BASELINE_SHA"
+          git show "$BASELINE_SHA:public/v1/programs.json" > public/v1/programs.json
+          git show "$BASELINE_SHA:data/current-db.json" > data/current-db.json
+          python scripts/feed.py --validate
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
@@ -145,10 +163,11 @@ jobs:
           artifact_name: github-pages-rollback
       - name: Record rollback
         run: |
-          python -c "import json; from pathlib import Path; p=Path('data/update-result.json'); r=json.loads(p.read_text()); r.update(status='rolled_back', publicationVerified=False, error='Pages deployment or verification failed; previous verified JSON restored'); p.write_text(json.dumps(r,ensure_ascii=False,indent=2))"
+          python scripts/verify_deployment.py
+          python -c "import json; from pathlib import Path; p=Path('data/update-result.json'); r=json.loads(p.read_text()); r.update(status='rolled_back', publicationVerified=False, error='New Pages snapshot failed verification; pre-refresh snapshot restored and verified'); p.write_text(json.dumps(r,ensure_ascii=False,indent=2))"
           git config user.name 'minogasa-night[bot]'
           git config user.email 'minogasa-night[bot]@users.noreply.github.com'
-          git add public/v1/programs.json data/update-result.json
+          git add public/v1/programs.json data/current-db.json data/update-result.json
           if ! git diff --cached --quiet; then
             git commit -m 'Roll back unverified Pages publication'
             git push

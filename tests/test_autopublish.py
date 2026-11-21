@@ -89,6 +89,50 @@ class AutoPublishTest(unittest.TestCase):
         later=NOW+timedelta(days=2)
         empty=build_feed([],{"rows":[]},later,True)[0]
         self.assertFalse(a.protect_last_good(old,empty,later)["removed"])
+    def test_keeps_only_exact_published_future_slots_without_reapproving_candidates(self):
+        row=fact(status="provider_reported")
+        snapshot=envelope([row])
+        external=dict(row,sourceUrl=None,acquisitionMethod="external_ai_report")
+        external.pop("publicationApproved")
+        unpublished=dict(external,id="unpublished")
+        changed=dict(external,title="Changed without approval")
+        held=dict(external,publicationApproved=False)
+        expired=a.carry_forward_published(snapshot,[external],[],[],NOW+timedelta(hours=7))
+        self.assertFalse(expired)
+        for not_to_carry in (unpublished,changed,held):
+            self.assertFalse(a.carry_forward_published(snapshot,[not_to_carry],[],[],NOW))
+        kept=a.carry_forward_published(snapshot,[external],[],[],NOW)
+        self.assertEqual([row["id"]],[x["id"] for x in kept])
+        self.assertNotIn("publicationApproved",external)
+        with self.assertRaises(ValueError):
+            envelope(kept)
+        projected=build_feed(kept,{"rows":[]},NOW,True,preserved_public_ids={row["id"]})[0]
+        self.assertEqual(snapshot["programs"],projected["programs"])
+    def test_carry_forward_yields_to_authoritative_replacement_and_cancellation(self):
+        old=fact()
+        snapshot=envelope([old])
+        self.assertFalse(a.carry_forward_published(snapshot,[old],[],[old["id"]],NOW))
+        revised=dict(old,start=iso(NOW+timedelta(hours=2)))
+        self.assertFalse(a.carry_forward_published(snapshot,[old],[revised],[],NOW))
+        counterpart=dict(old,id="provider-id")
+        self.assertFalse(a.carry_forward_published(snapshot,[old],[counterpart],[],NOW))
+    def test_autopublish_keeps_existing_external_listing_on_refresh(self):
+        class EmptyProvider:
+            def collect(self,*_): return {"rows":[]}
+        row=fact(status="provider_reported")
+        internal=dict(row,sourceUrl=None,acquisitionMethod="external_ai_report")
+        internal.pop("publicationApproved")
+        snapshot=envelope([row])
+        original=a.ROOT
+        try:
+            with tempfile.TemporaryDirectory() as d:
+                a.ROOT=Path(d)
+                for rel,obj in [("public/v1/programs.json",snapshot),("data/current-db.json",{"records":[internal]})]:
+                    p=a.ROOT/rel;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(obj))
+                result=a.run(NOW,EmptyProvider())
+                self.assertEqual([],result["diff"]["removed"])
+                self.assertEqual(snapshot["programs"],json.loads((a.ROOT/"public/v1/programs.json").read_text())["programs"])
+        finally: a.ROOT=original
     def test_acquisition_failure_preserves_public_and_cache_bytes(self):
         class Broken:
             def collect(self,*_): raise OSError("source unavailable")
