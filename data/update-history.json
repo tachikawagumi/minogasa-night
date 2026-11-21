@@ -1,12 +1,5 @@
 [
   {
-    "at": "2026-11-09T13:39:19+09:00",
-    "status": "failed",
-    "publicationVerified": false,
-    "error": "ValueError: 確認日時が未来",
-    "previousPublicPreserved": true
-  },
-  {
     "at": "2026-11-09T13:40:27+09:00",
     "status": "failed",
     "publicationVerified": false,
@@ -3890,5 +3883,12 @@
       "semanticSha256": "7764df4536a33f197ff9367212b6ad46ec52a5a2afbb96dca8dfbfefe607f765",
       "programs": 329
     }
+  },
+  {
+    "at": "2026-11-21T09:50:04+09:00",
+    "status": "failed",
+    "publicationVerified": false,
+    "error": "PublicationBlocked: 局別の大量消失を検知: mx",
+    "previousPublicPreserved": true
   }
 ]
