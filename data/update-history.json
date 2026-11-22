@@ -1,40 +1,5 @@
 [
   {
-    "at": "2026-11-09T14:40:40+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 230,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "architecture-202611-bsfuji-111900",
-        "architecture-202611-bstvtokyo-152100"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 2,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T14:41:08+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "49353e4e1fe3d169935f41b32acdb5ec109cc40d1eb24f74553c5dbb7cd97c47",
-      "programs": 230
-    }
-  },
-  {
     "at": "2026-11-09T14:59:24+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -5235,5 +5200,66 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-23T07:36:06+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 341,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-20261123-20261123-1033-nhk_g",
+        "muse-20261123-20261123-1230-nhk_bs",
+        "muse-20261123-20261123-1600-nhk_g",
+        "muse-20261123-20261123-1800-nhk_e",
+        "muse-20261123-20261123-1830-nhk_e",
+        "muse-20261123-20261123-1840-nhk_e",
+        "muse-20261123-20261123-1900-nhk_bs",
+        "muse-20261123-20261123-2300-fuji",
+        "muse-20261123-20261123-2335-nhk_g",
+        "muse-20261123-20261123-2345-nhk_g",
+        "muse-20261123-20261124-0015-tvasahi",
+        "muse-20261123-20261124-0030-tvtokyo",
+        "muse-20261123-20261124-0100-nhk_bs",
+        "muse-20261123-20261125-2100-bsasahi",
+        "muse-20261123-20261126-2054-tbs",
+        "muse-20261123-20261128-0125-nhk_bs",
+        "muse-20261123-20261128-0155-nhk_bs",
+        "muse-20261123-20261128-1630-tvasahi",
+        "muse-20261123-20261128-1700-tvasahi",
+        "muse-20261123-20261128-1730-tvtokyo",
+        "muse-20261123-20261128-2000-nhk_e",
+        "muse-20261123-20261129-0630-ntv",
+        "muse-20261123-20261129-1330-nhk_bs",
+        "muse-20261123-20261129-1625-nhk_g",
+        "muse-20261123-20261129-1800-fuji"
+      ],
+      "scheduleChanged": [
+        "muse-20261119-20261123-2100-chiba",
+        "muse-20261119-20261124-0015-fuji"
+      ],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 25,
+      "scheduleChanged": 2,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-23T07:36:37+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "23b3406f4873c592ca384617a5d2d235016b700f6df7b1eaac9e8a198b0bd50c",
+      "programs": 341
+    }
   }
 ]
