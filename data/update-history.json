@@ -1,75 +1,5 @@
 [
   {
-    "at": "2026-11-09T14:59:24+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 262,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "muse-architecture-202611-06",
-        "muse-architecture-202611-07",
-        "muse-architecture-202611-08",
-        "muse-architecture-202611-13",
-        "muse-architecture-202611-15",
-        "muse-architecture-202611-24",
-        "muse-architecture-202611-25",
-        "muse-architecture-202611-26",
-        "muse-architecture-202611-30",
-        "muse-architecture-202611-31",
-        "muse-architecture-202611-32",
-        "muse-architecture-202611-36",
-        "muse-architecture-202611-37",
-        "muse-architecture-202611-41",
-        "muse-architecture-202611-43",
-        "muse-architecture-202611-45",
-        "muse-architecture-202611-48",
-        "muse-architecture-202611-52",
-        "muse-architecture-202611-53",
-        "muse-architecture-202611-54",
-        "muse-architecture-202611-56",
-        "muse-architecture-202611-57",
-        "muse-architecture-202611-58",
-        "muse-architecture-202611-60",
-        "muse-architecture-202611-61",
-        "muse-architecture-202611-62",
-        "muse-architecture-202611-68",
-        "muse-architecture-202611-69",
-        "muse-architecture-202611-71",
-        "muse-architecture-202611-73",
-        "muse-architecture-202611-75",
-        "muse-architecture-202611-76"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [
-        "chatgpt-20261111-2100-charitetsu",
-        "chatgpt-20261112-2100-charitetsu",
-        "chatgpt-nhk_g-20261114-1930-buratamori",
-        "chatgpt-nhkg-20261114-2007-lrt"
-      ],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 32,
-      "scheduleChanged": 0,
-      "genreChanged": 4,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T14:59:50+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "40d4aa937db76856feb53109d0f365b064258ff68aa80e31dd431049db6a536f",
-      "programs": 262
-    }
-  },
-  {
     "at": "2026-11-09T15:11:04+09:00",
     "status": "failed",
     "publicationVerified": false,
@@ -5249,5 +5179,63 @@
       "expired": 4
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-23T08:54:56+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 357,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "muse-20261123-20261123-1900-bs11",
+        "muse-20261123-20261123-2100-bsasahi",
+        "muse-20261123-20261123-2300-bsasahi",
+        "muse-20261123-20261124-0030-bs11",
+        "muse-20261123-20261124-0100-bs11",
+        "muse-20261123-20261124-0200-bs12",
+        "muse-20261123-20261124-2000-bs11",
+        "muse-20261123-20261124-2200-bsasahi",
+        "muse-20261123-20261124-2300-bsasahi",
+        "muse-20261123-20261125-0000-bs11",
+        "muse-20261123-20261125-0000-bsntv",
+        "muse-20261123-20261125-0105-bs11",
+        "muse-20261123-20261125-1900-bs11",
+        "muse-20261123-20261126-0200-bs12",
+        "muse-20261123-20261126-0757-bs12",
+        "muse-20261123-20261127-0200-bs12",
+        "muse-20261123-20261127-0230-bs12",
+        "muse-20261123-20261128-2300-bs10",
+        "muse-20261123-20261129-1400-tvk",
+        "muse-20261123-20261129-2100-bs10"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "muse-20261119-20261123-0800-nhk_bs",
+        "muse-20261119-20261123-0800-tbs",
+        "muse-20261119-20261123-0830-bsyoshimoto",
+        "muse-20261119-20261123-0845-nhk_e"
+      ]
+    },
+    "counts": {
+      "added": 20,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 4
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-23T08:55:23+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "22f033dda92cbb1f45e9d805807cece5dedb8bc2b51be572a1beb40fde2653cb",
+      "programs": 357
+    }
   }
 ]

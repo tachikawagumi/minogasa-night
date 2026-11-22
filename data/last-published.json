@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceMode": "real",
   "timeZone": "Asia/Tokyo",
-  "generatedAt": "2026-11-23T07:36:06+09:00",
+  "generatedAt": "2026-11-23T08:54:56+09:00",
   "windowStart": "2026-11-23T00:00:00+09:00",
   "windowEnd": "2026-11-30T00:00:00+09:00",
   "updateStatus": "ok",
@@ -213,7 +213,7 @@
       "station": "NHK総合",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -221,7 +221,7 @@
       "station": "NHK Eテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -229,7 +229,7 @@
       "station": "フジテレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -237,7 +237,7 @@
       "station": "日本テレビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -245,7 +245,7 @@
       "station": "TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -253,7 +253,7 @@
       "station": "テレビ朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -261,7 +261,7 @@
       "station": "テレビ東京",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -269,7 +269,7 @@
       "station": "チバテレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -277,7 +277,7 @@
       "station": "BSテレ東",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -285,7 +285,7 @@
       "station": "BS-TBS",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -293,7 +293,7 @@
       "station": "BSフジ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -301,7 +301,7 @@
       "station": "BS朝日",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -309,7 +309,7 @@
       "station": "TOKYO MX",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -317,7 +317,7 @@
       "station": "BS日テレ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -325,7 +325,7 @@
       "station": "BS11イレブン",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -333,7 +333,7 @@
       "station": "BS12トゥエルビ",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -341,7 +341,7 @@
       "station": "TOKYO MX2",
       "anime": "updated",
       "otherGenres": "selected_verified_facts_only",
-      "animeCheckedAt": "2026-11-23T07:36:06+09:00",
+      "animeCheckedAt": "2026-11-23T08:54:56+09:00",
       "complete": false
     },
     {
@@ -434,62 +434,6 @@
     }
   ],
   "programs": [
-    {
-      "id": "muse-20261119-20261123-0800-nhk_bs",
-      "seriesId": "muse-series-nhk_bs-スポーツ酒場“語り亭” フィギュアスケート新時代！NHK杯直前スペシャル（再）",
-      "title": "スポーツ酒場“語り亭” フィギュアスケート新時代！NHK杯直前スペシャル（再）",
-      "stationId": "nhk_bs",
-      "start": "2026-11-23T08:00:00+09:00",
-      "end": "2026-11-23T09:00:00+09:00",
-      "genreIds": [
-        "winter_sports"
-      ],
-      "status": "provider_reported",
-      "checkedAt": "2026-11-19T12:00:00+09:00",
-      "updatedAt": "2026-11-19T12:00:00+09:00"
-    },
-    {
-      "id": "muse-20261119-20261123-0800-tbs",
-      "seriesId": "muse-series-tbs-ラヴィット！ 日本でいちばん明るい朝番組",
-      "title": "ラヴィット！ 日本でいちばん明るい朝番組",
-      "stationId": "tbs",
-      "start": "2026-11-23T08:00:00+09:00",
-      "end": null,
-      "genreIds": [
-        "challenge"
-      ],
-      "status": "provider_reported",
-      "checkedAt": "2026-11-19T12:00:00+09:00",
-      "updatedAt": "2026-11-19T12:00:00+09:00"
-    },
-    {
-      "id": "muse-20261119-20261123-0830-bsyoshimoto",
-      "seriesId": "muse-series-bsyoshimoto-Blah!Blah!Blah!「ヨネダにラブ・ソングを…」 #32",
-      "title": "Blah!Blah!Blah!「ヨネダにラブ・ソングを…」 #32",
-      "stationId": "bsyoshimoto",
-      "start": "2026-11-23T08:30:00+09:00",
-      "end": "2026-11-23T09:00:00+09:00",
-      "genreIds": [
-        "dance"
-      ],
-      "status": "provider_reported",
-      "checkedAt": "2026-11-19T12:00:00+09:00",
-      "updatedAt": "2026-11-19T12:00:00+09:00"
-    },
-    {
-      "id": "muse-20261119-20261123-0845-nhk_e",
-      "seriesId": "muse-series-nhk_e-チキップダンサーズ「あらってじゃぶじゃぶ」",
-      "title": "チキップダンサーズ「あらってじゃぶじゃぶ」",
-      "stationId": "nhk_e",
-      "start": "2026-11-23T08:45:00+09:00",
-      "end": "2026-11-23T08:50:00+09:00",
-      "genreIds": [
-        "dance"
-      ],
-      "status": "provider_reported",
-      "checkedAt": "2026-11-19T12:00:00+09:00",
-      "updatedAt": "2026-11-19T12:00:00+09:00"
-    },
     {
       "id": "muse-20261119-20261123-0855-bs10",
       "seriesId": "muse-series-bs10-マネして踊って！DANCE TRAIN 5minutes",
@@ -746,6 +690,20 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261123-1900-bs11",
+      "seriesId": "muse-series-bs11-首里城の記憶〜知られざる王国のルーツ〜",
+      "title": "首里城の記憶〜知られざる王国のルーツ〜",
+      "stationId": "bs11",
+      "start": "2026-11-23T19:00:00+09:00",
+      "end": "2026-11-23T20:53:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261123-1900-bs12",
       "seriesId": "muse-series-bs12-映画「月曜日のユカ」",
       "title": "映画「月曜日のユカ」",
@@ -915,6 +873,20 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261123-2100-bsasahi",
+      "seriesId": "muse-series-bsasahi-あなたの知らない京都旅 #175「豊臣兄弟 天下人・秀吉 3つの暴走」",
+      "title": "あなたの知らない京都旅 #175「豊臣兄弟 天下人・秀吉 3つの暴走」",
+      "stationId": "bsasahi",
+      "start": "2026-11-23T21:00:00+09:00",
+      "end": "2026-11-23T21:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261123-2100-chiba",
       "seriesId": "muse-series-chiba-真・ゴルフの王様 ▽宇都宮カンツリークラブ 中6H・7H",
       "title": "真・ゴルフの王様 ▽宇都宮カンツリークラブ 中6H・7H",
@@ -953,8 +925,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2155-chiba",
@@ -1009,8 +981,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2200-teletama",
@@ -1051,8 +1023,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2245-nhk_bs",
@@ -1079,8 +1051,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261123-2300-bsasahi",
+      "seriesId": "muse-series-bsasahi-そこに山があるから「南沢奈央が北八ヶ岳のにゅうから高見石を縦走」",
+      "title": "そこに山があるから「にゅう・高見石 後編」",
+      "stationId": "bsasahi",
+      "start": "2026-11-23T23:00:00+09:00",
+      "end": "2026-11-23T23:24:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "syobocal-718357",
@@ -1093,8 +1079,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261123-2300-fuji",
@@ -1121,8 +1107,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2310-tvasahi",
@@ -1149,8 +1135,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2330-bsntv",
@@ -1163,8 +1149,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261123-2330-mx",
@@ -1177,8 +1163,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261123-2335-nhk_g",
@@ -1247,8 +1233,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0000-bsfuji",
@@ -1275,8 +1261,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0000-mx",
@@ -1289,8 +1275,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0000-nhk_bs",
@@ -1335,6 +1321,20 @@
       "updatedAt": "2026-11-23T07:35:40+09:00"
     },
     {
+      "id": "muse-20261123-20261124-0030-bs11",
+      "seriesId": "muse-series-bs11-逃げ上手の若君 第20回「かけがえがないもの」",
+      "title": "逃げ上手の若君 第二期 第20回「かけがえがないもの」（再）",
+      "stationId": "bs11",
+      "start": "2026-11-24T00:30:00+09:00",
+      "end": "2026-11-24T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261124-0030-bsntv",
       "seriesId": "muse-series-bsntv-魔法の姉妹ルルットリリィ (第2クール) #20",
       "title": "魔法の姉妹ルルットリリィ (第2クール) #20",
@@ -1345,8 +1345,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0030-bstvtokyo",
@@ -1359,8 +1359,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261124-0030-tvtokyo",
@@ -1389,6 +1389,21 @@
       "status": "provider_reported",
       "checkedAt": "2026-11-19T12:00:00+09:00",
       "updatedAt": "2026-11-19T12:00:00+09:00"
+    },
+    {
+      "id": "muse-20261123-20261124-0100-bs11",
+      "seriesId": "muse-series-bs11-ごりやくさん 第26回「太宰府天満宮」",
+      "title": "ごりやくさん 第26回「太宰府天満宮」",
+      "stationId": "bs11",
+      "start": "2026-11-24T01:00:00+09:00",
+      "end": "2026-11-24T01:25:00+09:00",
+      "genreIds": [
+        "architecture",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "muse-20261119-20261124-0100-bsntv",
@@ -1433,6 +1448,20 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261124-0200-bs12",
+      "seriesId": "muse-series-bs12-キャプテン翼（小学生編）第21話",
+      "title": "キャプテン翼（小学生編）第21話「ガラスのエース」",
+      "stationId": "bs12",
+      "start": "2026-11-24T02:00:00+09:00",
+      "end": "2026-11-24T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261124-0200-tvtokyo",
       "seriesId": "muse-series-tvtokyo-魔法少女育成計画restart #8",
       "title": "魔法少女育成計画restart #8",
@@ -1443,8 +1472,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0300-bsasahi",
@@ -1500,8 +1529,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-0757-bs12",
@@ -1688,6 +1717,21 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261124-2000-bs11",
+      "seriesId": "muse-series-bs11-京都浪漫 悠久の物語 第206回「錦秋の京都〜里山の紅葉を巡る〜」",
+      "title": "京都浪漫 悠久の物語 第206回「錦秋の京都〜里山の紅葉を巡る〜」",
+      "stationId": "bs11",
+      "start": "2026-11-24T20:00:00+09:00",
+      "end": "2026-11-24T20:58:00+09:00",
+      "genreIds": [
+        "travel",
+        "architecture"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261124-2000-bsntv",
       "seriesId": "muse-series-bsntv-猫のいる家、犬が住む家「自宅を大改造!?猫の楽園をDIY実現！…」",
       "title": "猫のいる家、犬が住む家「自宅を大改造!?猫の楽園をDIY実現！…」",
@@ -1797,8 +1841,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261124-2200-bsasahi",
+      "seriesId": "muse-series-bsasahi-ウォーキングのひむ太郎「いと次郎が歩く！京都編」",
+      "title": "ウォーキングのひむ太郎 #245「いと次郎が歩く！京都」編",
+      "stationId": "bsasahi",
+      "start": "2026-11-24T22:00:00+09:00",
+      "end": "2026-11-24T22:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "muse-20261119-20261124-2200-bsfuji",
@@ -1825,8 +1883,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-2200-teletama",
@@ -1871,6 +1929,20 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261124-2300-bsasahi",
+      "seriesId": "muse-series-bsasahi-Mリーグ2026-27〜白熱の戦い〜",
+      "title": "Mリーグ2026-27〜白熱の戦い〜",
+      "stationId": "bsasahi",
+      "start": "2026-11-24T23:00:00+09:00",
+      "end": "2026-11-25T00:00:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261124-2300-fuji",
       "seriesId": "muse-series-fuji-超巡！超条先輩 #8",
       "title": "超巡！超条先輩 #8",
@@ -1881,8 +1953,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-2300-mx",
@@ -1895,8 +1967,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-2310-tvasahi",
@@ -1923,8 +1995,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-2330-bstbs",
@@ -1937,8 +2009,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261124-2330-chiba",
@@ -1965,8 +2037,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261124-2345-tvasahi",
@@ -1997,6 +2069,34 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261125-0000-bs11",
+      "seriesId": "muse-series-bs11-ハイスクール・フリート #8「比叡でピンチ！」",
+      "title": "ハイスクール・フリート #8「比叡でピンチ！」",
+      "stationId": "bs11",
+      "start": "2026-11-25T00:00:00+09:00",
+      "end": "2026-11-25T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
+      "id": "muse-20261123-20261125-0000-bsntv",
+      "seriesId": "muse-series-bsntv-フューチャーカード バディファイト 第8話",
+      "title": "フューチャーカード バディファイト 第8話「最終予選、突破せよ！」",
+      "stationId": "bsntv",
+      "start": "2026-11-25T00:00:00+09:00",
+      "end": "2026-11-25T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261125-0000-teletama",
       "seriesId": "muse-series-teletama-Car-Xs with NAPAC",
       "title": "Car-Xs with NAPAC",
@@ -2021,8 +2121,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0030-bs11",
@@ -2035,8 +2135,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0030-bsfuji",
@@ -2049,8 +2149,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0030-bsntv",
@@ -2077,8 +2177,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0030-chiba",
@@ -2105,8 +2205,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0030-teletama",
@@ -2133,8 +2233,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0100-mx",
@@ -2147,8 +2247,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261125-0105-bs11",
+      "seriesId": "muse-series-bs11-全国映画祭 短編シネマセレクション #8「勝手に死ぬな」",
+      "title": "全国映画祭 短編シネマセレクション #8「勝手に死ぬな」",
+      "stationId": "bs11",
+      "start": "2026-11-25T01:05:00+09:00",
+      "end": "2026-11-25T01:35:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "muse-20261119-20261125-0145-fuji",
@@ -2161,8 +2275,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0625-nhk_e",
@@ -2189,8 +2303,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-0800-tbs",
@@ -2364,6 +2478,20 @@
       "updatedAt": "2026-11-19T12:00:00+09:00"
     },
     {
+      "id": "muse-20261123-20261125-1900-bs11",
+      "seriesId": "muse-series-bs11-藤森慎吾の信州観光協会 #113",
+      "title": "藤森慎吾の信州観光協会 ▽樋口日奈と長野五輪の聖地へ！",
+      "stationId": "bs11",
+      "start": "2026-11-25T19:00:00+09:00",
+      "end": "2026-11-25T19:27:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261119-20261125-1900-bs12",
       "seriesId": "muse-series-bs12-映画「天国にいちばん近い島」",
       "title": "映画「天国にいちばん近い島」",
@@ -2501,8 +2629,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-2230-chiba",
@@ -2529,8 +2657,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-2255-bsfuji",
@@ -2571,8 +2699,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722900",
@@ -2585,8 +2713,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-2335-nhk_bs",
@@ -2614,8 +2742,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261119-20261125-2355-tvtokyo",
@@ -2656,8 +2784,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716677",
@@ -2670,8 +2798,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718753",
@@ -2684,8 +2812,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717825",
@@ -2698,8 +2826,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-715379",
@@ -2712,8 +2840,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722269",
@@ -2726,8 +2854,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716249",
@@ -2740,8 +2868,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-719742",
@@ -2754,8 +2882,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717161",
@@ -2768,8 +2896,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716237",
@@ -2782,8 +2910,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-719312",
@@ -2796,8 +2924,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720512",
@@ -2810,8 +2938,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722913",
@@ -2824,8 +2952,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720500",
@@ -2838,8 +2966,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-719755",
@@ -2852,8 +2980,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261126-0200-bs12",
+      "seriesId": "muse-series-bs12-決闘者たちの記録 〜ドキュメンタリー・オブ・デュエル・マスターズ〜 #13",
+      "title": "決闘者たちの記録 〜ドキュメンタリー・オブ・デュエル・マスターズ〜 #13「5代目王者をかけた激闘」",
+      "stationId": "bs12",
+      "start": "2026-11-26T02:00:00+09:00",
+      "end": "2026-11-26T02:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "syobocal-724638",
@@ -2866,8 +3008,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261126-0757-bs12",
+      "seriesId": "muse-series-bs12-温泉日和 #24「陶泉 御所坊（兵庫県）」",
+      "title": "温泉日和 #24「陶泉 御所坊（兵庫県）」",
+      "stationId": "bs12",
+      "start": "2026-11-26T07:57:00+09:00",
+      "end": "2026-11-26T08:00:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "muse-20261123-20261126-1010-tvasahi",
@@ -2993,8 +3149,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261126-2300-bsasahi",
@@ -3021,8 +3177,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716752",
@@ -3035,8 +3191,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716558",
@@ -3049,8 +3205,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718737",
@@ -3063,8 +3219,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718637",
@@ -3077,8 +3233,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717661",
@@ -3091,8 +3247,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-725766",
@@ -3105,8 +3261,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718576",
@@ -3119,8 +3275,38 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261127-0200-bs12",
+      "seriesId": "muse-series-bs12-アポカリプスホテル 第9話",
+      "title": "アポカリプスホテル 第9話「お客様の人生に、今日という栞を」",
+      "stationId": "bs12",
+      "start": "2026-11-27T02:00:00+09:00",
+      "end": "2026-11-27T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
+      "id": "muse-20261123-20261127-0230-bs12",
+      "seriesId": "muse-series-bs12-湯めぐり鉄道 〜温泉といやしの旅〜 #27 天竜浜名湖鉄道天浜線で行く浜名湖の温泉",
+      "title": "湯めぐり鉄道 〜温泉といやしの旅〜 #27 天竜浜名湖鉄道天浜線で行く浜名湖の温泉",
+      "stationId": "bs12",
+      "start": "2026-11-27T02:30:00+09:00",
+      "end": "2026-11-27T03:00:00+09:00",
+      "genreIds": [
+        "onsen",
+        "railway",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "muse-20261123-20261127-0235-tvtokyo",
@@ -3147,8 +3333,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261127-1230-nhk_bs",
@@ -3273,8 +3459,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261127-1759-mx",
@@ -3315,8 +3501,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720598",
@@ -3329,8 +3515,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261127-1900-bs12",
@@ -3485,8 +3671,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261127-2200-bsntv",
@@ -3513,8 +3699,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-715391",
@@ -3527,8 +3713,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720273",
@@ -3541,8 +3727,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720010",
@@ -3555,8 +3741,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718848",
@@ -3569,8 +3755,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722295",
@@ -3583,8 +3769,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718493",
@@ -3597,8 +3783,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718515",
@@ -3611,8 +3797,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716593",
@@ -3625,8 +3811,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716497",
@@ -3639,8 +3825,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-0032-nhk_g",
@@ -3667,8 +3853,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716510",
@@ -3681,8 +3867,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-0125-nhk_bs",
@@ -3723,8 +3909,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716618",
@@ -3737,8 +3923,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722431",
@@ -3751,8 +3937,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-0425-tvasahi",
@@ -3779,8 +3965,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-0615-nhk_bs",
@@ -3807,8 +3993,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720934",
@@ -3821,8 +4007,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718346",
@@ -3835,8 +4021,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722420",
@@ -3849,8 +4035,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-1030-fuji",
@@ -4017,8 +4203,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-1630-nhk_bsp4k",
@@ -4087,8 +4273,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-1730-tvtokyo",
@@ -4115,8 +4301,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-719888",
@@ -4129,8 +4315,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-1830-bstvtokyo",
@@ -4298,8 +4484,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-2200-bstvtokyo",
@@ -4326,8 +4512,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717753",
@@ -4340,8 +4526,22 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
+    },
+    {
+      "id": "muse-20261123-20261128-2300-bs10",
+      "seriesId": "muse-series-bs10-全力応援！シント＝トロイデン",
+      "title": "全力応援！シント＝トロイデン",
+      "stationId": "bs10",
+      "start": "2026-11-28T23:00:00+09:00",
+      "end": "2026-11-28T23:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
     },
     {
       "id": "syobocal-718768",
@@ -4354,8 +4554,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720260",
@@ -4368,8 +4568,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720675",
@@ -4382,8 +4582,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717589",
@@ -4396,8 +4596,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717566",
@@ -4410,8 +4610,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718268",
@@ -4424,8 +4624,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261128-2330-tvtokyo",
@@ -4453,8 +4653,8 @@
         "ufo"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716858",
@@ -4467,8 +4667,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716728",
@@ -4481,8 +4681,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-0000-tvtokyo",
@@ -4509,8 +4709,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-716716",
@@ -4523,8 +4723,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718239",
@@ -4537,8 +4737,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-0130-bstvtokyo",
@@ -4565,8 +4765,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718415",
@@ -4579,8 +4779,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-0630-ntv",
@@ -4607,8 +4807,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-0730-bstvtokyo",
@@ -4649,8 +4849,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-724224",
@@ -4663,8 +4863,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-0900-bstvtokyo",
@@ -4691,8 +4891,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722825",
@@ -4705,8 +4905,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-721185",
@@ -4719,8 +4919,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722650",
@@ -4733,8 +4933,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722363",
@@ -4747,8 +4947,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-1030-bsfuji",
@@ -4836,6 +5036,20 @@
       "updatedAt": "2026-11-23T07:35:40+09:00"
     },
     {
+      "id": "muse-20261123-20261129-1400-tvk",
+      "seriesId": "muse-series-tvk-日本医師会スペシャル 赤ひげ大賞ルポ拡大版「赤ひげのいるまち」",
+      "title": "日本医師会スペシャル 赤ひげ大賞ルポ拡大版「赤ひげのいるまち」「団地を駆ける〜神奈川の地域医療〜」",
+      "stationId": "tvk",
+      "start": "2026-11-29T14:00:00+09:00",
+      "end": "2026-11-29T15:00:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261123-20261129-1430-bs10",
       "seriesId": "muse-series-bs10-映画「金融腐蝕列島 呪縛」",
       "title": "金融腐蝕列島 呪縛",
@@ -4902,8 +5116,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718256",
@@ -4916,8 +5130,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717137",
@@ -4930,8 +5144,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720247",
@@ -4944,8 +5158,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-1800-bsasahi",
@@ -5006,6 +5220,20 @@
       "updatedAt": "2026-11-23T07:33:42+09:00"
     },
     {
+      "id": "muse-20261123-20261129-2100-bs10",
+      "seriesId": "muse-series-bs10-サッカー・ベルギーリーグ生中継 シント＝トロイデンVV×ゲンク 第13節",
+      "title": "サッカー・ベルギーリーグ生中継 シント＝トロイデンVV×ゲンク 第13節",
+      "stationId": "bs10",
+      "start": "2026-11-29T21:00:00+09:00",
+      "end": "2026-11-29T23:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00"
+    },
+    {
       "id": "muse-20261123-20261129-2100-bstbs",
       "seriesId": "muse-series-bstbs-永野映画CHANNEL「リトル・ニッキー」",
       "title": "永野映画CHANNEL「リトル・ニッキー」",
@@ -5058,8 +5286,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717437",
@@ -5072,8 +5300,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "muse-20261123-20261129-2200-tvk",
@@ -5114,8 +5342,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718677",
@@ -5128,8 +5356,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717841",
@@ -5142,8 +5370,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-722636",
@@ -5156,8 +5384,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-718281",
@@ -5170,8 +5398,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717888",
@@ -5184,8 +5412,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-720726",
@@ -5198,8 +5426,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-721034",
@@ -5212,8 +5440,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     },
     {
       "id": "syobocal-717091",
@@ -5226,8 +5454,8 @@
         "anime"
       ],
       "status": "provider_confirmed",
-      "checkedAt": "2026-11-23T07:36:06+09:00",
-      "updatedAt": "2026-11-23T07:36:06+09:00"
+      "checkedAt": "2026-11-23T08:54:56+09:00",
+      "updatedAt": "2026-11-23T08:54:56+09:00"
     }
   ]
 }
