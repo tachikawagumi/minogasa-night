@@ -20821,6 +20821,493 @@
       "checkedAt": "2026-11-23T07:33:42+09:00",
       "updatedAt": "2026-11-23T07:33:42+09:00",
       "origin": "chatgpt_individual_program_guide_facts"
+    },
+    {
+      "id": "muse-20261123-20261123-1230-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-にっぽん縦断 こころ旅 蔵出しスペシャル（2025春の旅・宮崎・大分・山口・広島）",
+      "title": "にっぽん縦断 こころ旅 蔵出しスペシャル「2025年3月 宮崎県」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-23T12:30:00+09:00",
+      "end": "2026-11-23T13:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-23",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1900-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-にっぽん縦断 こころ旅 蔵出しスペシャル",
+      "title": "にっぽん縦断 こころ旅 蔵出しスペシャル「2025年3月 宮崎県」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-23T19:00:00+09:00",
+      "end": "2026-11-23T19:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-23",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-2335-nhk_g",
+      "seriesId": "muse-series-nhk_g-発掘！鉄道お宝フィルム「生まれ変わる客車（昭和28）」",
+      "title": "発掘！鉄道お宝フィルム「生まれ変わる客車（昭和28）戦後復興を支えた改造車両」",
+      "stationId": "nhk_g",
+      "start": "2026-11-23T23:35:00+09:00",
+      "end": "2026-11-23T23:40:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.benri.jp/tv",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261124-0100-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-運転席からの風景 京阪大津線",
+      "title": "運転席からの風景 京阪大津線",
+      "stationId": "nhk_bs",
+      "start": "2026-11-24T01:00:00+09:00",
+      "end": "2026-11-24T02:00:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmWQBlVyMAE",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-0125-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-走れ！新幹線（3）",
+      "title": "走れ！新幹線（3）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T01:25:00+09:00",
+      "end": "2026-11-28T01:55:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-27",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-0155-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-走れ！新幹線（4）",
+      "title": "走れ！新幹線（4）「空から見た新幹線」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T01:55:00+09:00",
+      "end": "2026-11-28T02:25:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-27",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1330-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-六角精児の呑み鉄本線・日本旅「秋・芸備線、木次線、一畑電車を呑む！」（再放送）",
+      "title": "六角精児の呑み鉄本線・日本旅「秋・芸備線、木次線、一畑電車を呑む！」（再放送）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-29T13:30:00+09:00",
+      "end": "2026-11-29T14:30:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-29",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1625-nhk_g",
+      "seriesId": "muse-series-nhk_g-鉄オタ選手権 嵐電＆叡電の陣",
+      "title": "鉄オタ選手権 嵐電＆叡電の陣",
+      "stationId": "nhk_g",
+      "start": "2026-11-29T16:25:00+09:00",
+      "end": "2026-11-29T17:10:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/338417-8200/66BF/?areaId=03&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0630-ntv",
+      "seriesId": "muse-series-ntv-遠くへ行きたい 第2838回",
+      "title": "遠くへ行きたい #2838「田中要次の新潟」",
+      "stationId": "ntv",
+      "start": "2026-11-29T06:30:00+09:00",
+      "end": "2026-11-29T07:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmXgQQLJwAM",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1033-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 坂本花織が語るNHK杯フィギュアの魅力",
+      "title": "2026NHK杯フィギュア 坂本花織が語るNHK杯フィギュアの魅力",
+      "stationId": "nhk_g",
+      "start": "2026-11-23T10:34:00+09:00",
+      "end": "2026-11-23T10:35:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bbinfo.us/schedule/nhkg/2026-11-23?g=ALL",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1600-nhk_g",
+      "seriesId": "muse-series-nhk_g-明鏡止水 武のKAMIWAZA「足裏で氷をつかめ！スケートの美技」（再放送）",
+      "title": "明鏡止水 武のKAMIWAZA「足裏で氷をつかめ！スケートの美技」（再放送）",
+      "stationId": "nhk_g",
+      "start": "2026-11-23T16:00:00+09:00",
+      "end": "2026-11-23T16:31:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bbinfo.us/schedule/nhkg/2026-11-23?g=ALL",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-2345-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 坂本花織が語るNHK杯フィギュアの魅力",
+      "title": "2026NHK杯フィギュア 坂本花織が語るNHK杯フィギュアの魅力",
+      "stationId": "nhk_g",
+      "start": "2026-11-23T23:45:00+09:00",
+      "end": "2026-11-23T23:46:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/270/g1/2026-11-23",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-2300-fuji",
+      "seriesId": "muse-series-fuji-けるとめる（未来の日本代表vs宮近＆柿谷！ヴィッセル神戸ユースとパス回し対決）",
+      "title": "けるとめる（未来の日本代表vs宮近＆柿谷！ヴィッセル神戸ユースとパス回し対決）",
+      "stationId": "fuji",
+      "start": "2026-11-23T23:00:00+09:00",
+      "end": "2026-11-23T23:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.jleague.jp/news/article/35400/?navicode=j1",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261126-2054-tbs",
+      "seriesId": "muse-series-tbs-ゴールデンラヴィット！（サッカー稲本＆バレー栗原＆卓球伊藤が的当て）",
+      "title": "ゴールデンラヴィット！（サッカー稲本＆バレー栗原＆卓球伊藤が的当て）",
+      "stationId": "tbs",
+      "start": "2026-11-26T20:54:00+09:00",
+      "end": "2026-11-26T22:57:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmWwQYx2IAM",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-2000-nhk_e",
+      "seriesId": "muse-series-nhk_e-沼にハマってきいてみた選▼日向坂46金村＆上村が宮崎に！▼ドリフト＆古墳",
+      "title": "沼にハマってきいてみた選▼日向坂46金村＆上村が宮崎に！▼ドリフト＆古墳",
+      "stationId": "nhk_e",
+      "start": "2026-11-28T20:00:00+09:00",
+      "end": "2026-11-28T20:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-28",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261125-2100-bsasahi",
+      "seriesId": "muse-series-bsasahi-魚が食べたい！〜地魚さがして3000港〜",
+      "title": "魚が食べたい！－地魚さがして3000港－ #292 秋田県八森漁港（スルメイカ、ノドグロ）",
+      "stationId": "bsasahi",
+      "start": "2026-11-25T21:00:00+09:00",
+      "end": "2026-11-25T21:54:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/fish_eat/",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1730-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-THEフィッシング",
+      "title": "THEフィッシング ロッド1本でわがままに釣る 佐渡島ランガン旅",
+      "stationId": "tvtokyo",
+      "start": "2026-11-28T17:30:00+09:00",
+      "end": "2026-11-28T18:00:00+09:00",
+      "genreIds": [
+        "fishing"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13037_202611281730.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261124-0015-tvasahi",
+      "seriesId": "muse-series-tvasahi-START UP！ドリームエンタ（変則サッカー企画、元日本代表・柿谷曜一朗／中澤佑二／李忠成）",
+      "title": "START UP！ドリームエンタ（変則サッカー企画、元日本代表・柿谷曜一朗／中澤佑二／李忠成）",
+      "stationId": "tvasahi",
+      "start": "2026-11-24T00:15:00+09:00",
+      "end": "2026-11-24T01:15:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.tv-asahi.co.jp/pr/sphone/20261123_14100.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261124-0030-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-キテレツキテル！「KEY 2 LIGHT」がよさこいに！",
+      "title": "キテレツキテル！「KEY 2 LIGHT」がよさこいに！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-24T00:30:00+09:00",
+      "end": "2026-11-24T01:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/29224_202611232430.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1800-nhk_e",
+      "seriesId": "muse-series-nhk_e-おじゃる丸 ダーウィンが来た！コラボスペシャルアニメ",
+      "title": "おじゃる丸 ダーウィンが来た！コラボスペシャルアニメ",
+      "stationId": "nhk_e",
+      "start": "2026-11-23T19:00:00+09:00",
+      "end": "2026-11-23T19:25:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmWAQIU4AAM",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1830-nhk_e",
+      "seriesId": "muse-series-nhk_e-アニメ「地球のラテール」（4）キンイロアデガエル",
+      "title": "アニメ「地球のラテール」（4）キンイロアデガエル",
+      "stationId": "nhk_e",
+      "start": "2026-11-23T19:30:00+09:00",
+      "end": "2026-11-23T19:40:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-23",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-1840-nhk_e",
+      "seriesId": "muse-series-nhk_e-アニメ「地球のラテール」（5）ジャイアントパンダ",
+      "title": "アニメ「地球のラテール」（5）ジャイアントパンダ",
+      "stationId": "nhk_e",
+      "start": "2026-11-23T19:40:00+09:00",
+      "end": "2026-11-23T19:50:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/220/e1/2026-11-23",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1630-tvasahi",
+      "seriesId": "muse-series-tvasahi-クレヨンしんちゃん 第1363話",
+      "title": "クレヨンしんちゃん「小さいマサオくんだゾ」",
+      "stationId": "tvasahi",
+      "start": "2026-11-28T16:30:00+09:00",
+      "end": "2026-11-28T17:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.tv-asahi.co.jp/pr/contents/20261128_15382.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1700-tvasahi",
+      "seriesId": "muse-series-tvasahi-ドラえもん（2005） 第943話",
+      "title": "ドラえもん「のび太のシール増殖計画」「トランポリンゲン」",
+      "stationId": "tvasahi",
+      "start": "2026-11-28T17:00:00+09:00",
+      "end": "2026-11-28T17:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.tv-asahi.co.jp/pr/contents/20261128_15383.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1800-fuji",
+      "seriesId": "muse-series-fuji-ちびまる子ちゃん 第1665話",
+      "title": "ちびまる子ちゃん",
+      "stationId": "fuji",
+      "start": "2026-11-29T18:00:00+09:00",
+      "end": "2026-11-29T18:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.fujitv.co.jp/b_hp/maruko/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261119-20261124-0015-fuji",
+      "seriesId": "muse-series-fuji-MONDAY FOOTBALL みんなのJ",
+      "title": "MONDAY FOOTBALL みんなのJ",
+      "stationId": "fuji",
+      "start": "2026-11-24T00:15:00+09:00",
+      "end": "2026-11-24T00:45:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://www.fujitv.co.jp/sports/soccer/minJ/index.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261119-20261123-2100-chiba",
+      "seriesId": "muse-series-chiba-真・ゴルフの王様 ▽宇都宮カンツリークラブ 中6H・7H",
+      "title": "真・ゴルフの王様 ▽宇都宮カンツリークラブ 中6H・7H",
+      "stationId": "chiba",
+      "start": "2026-11-23T21:00:00+09:00",
+      "end": "2026-11-23T21:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:35:40+09:00",
+      "updatedAt": "2026-11-23T07:35:40+09:00",
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261123&ggm_group_id=31",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
