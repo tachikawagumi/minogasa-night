@@ -19265,6 +19265,133 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "当該回は悪魔崇拝儀式をめぐる恐怖と集団パニックの真相を検証する怪奇・超常現象テーマ。11月18日放送回の再放送。"
+    },
+    {
+      "id": "muse-20261119-20261124-1340-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-午後のロードショー「ディレイルド 暴走超特急」",
+      "title": "午後のロードショー「ディレイルド 暴走超特急」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-24T13:40:00+09:00",
+      "end": "2026-11-24T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28486_202611241340.html",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式の個別放送枠で作品と終了時刻を確認した映画。"
+    },
+    {
+      "id": "muse-20261119-20261125-1340-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-午後のロードショー「デッド・カーム／死の航海・狙われた人妻」",
+      "title": "午後のロードショー「デッド・カーム／死の航海・狙われた人妻」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-25T13:40:00+09:00",
+      "end": "2026-11-25T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28486_202611251340.html",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式の個別放送枠で作品と終了時刻を確認した映画。"
+    },
+    {
+      "id": "muse-20261123-20261126-1340-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-午後のロードショー「ソーラー・ストライク2013」",
+      "title": "午後のロードショー「ソーラー・ストライク2013」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-26T13:40:00+09:00",
+      "end": "2026-11-26T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28486_202611261340.html",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式の個別放送枠で確認した劇映画。"
+    },
+    {
+      "id": "muse-20261123-20261126-2230-bsasahi",
+      "seriesId": "chatgpt-series-kenkoba-bizihotels",
+      "title": "ケンコバのほろ酔いビジホ泊 全国版「大村市（長崎県）」#148",
+      "stationId": "bsasahi",
+      "start": "2026-11-26T22:30:00+09:00",
+      "end": "2026-11-26T23:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/business_hotel/",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "大村市で宿に泊まり周辺を歩く旅番組。"
+    },
+    {
+      "id": "muse-20261123-20261127-1340-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-午後のロードショー「プレデターズ」",
+      "title": "午後のロードショー「プレデターズ」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-27T13:40:00+09:00",
+      "end": "2026-11-27T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28486_202611271340.html",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "公式の個別放送枠で確認した劇映画。"
+    },
+    {
+      "id": "muse-20261123-20261127-2100-ntv",
+      "seriesId": "muse-series-ntv-金曜ロードショー「SING／シング：ネクストステージ」",
+      "title": "金曜ロードショー「SING／シング：ネクストステージ」",
+      "stationId": "ntv",
+      "start": "2026-11-27T21:00:00+09:00",
+      "end": "2026-11-27T23:09:00+09:00",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrl": "https://kinro.ntv.co.jp/lineup/20261127",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "劇場用の長編アニメーション映画。"
+    },
+    {
+      "id": "muse-20261123-20261128-2200-bstvtokyo",
+      "seriesId": "chatgpt-series-kasuga-jibasen",
+      "title": "オードリー春日の知らない街で自腹せんべろ「横浜・京急鶴見駅」",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-28T22:00:00+09:00",
+      "end": "2026-11-28T22:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/28350_202611282200.html",
+      "checkedAt": "2026-11-23T06:59:52+09:00",
+      "updatedAt": "2026-11-23T06:59:52+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "横浜・京急鶴見駅周辺を歩き飲食店を巡る街歩き。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
