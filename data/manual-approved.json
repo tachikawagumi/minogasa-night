@@ -19392,6 +19392,478 @@
       "publicationApproved": true,
       "origin": "manual_official_facts",
       "genreBasis": "横浜・京急鶴見駅周辺を歩き飲食店を巡る街歩き。"
+    },
+    {
+      "id": "muse-20261123-20261124-2345-tvasahi",
+      "seriesId": "muse-series-tvasahi-テレビ千鳥 2打ゴルフ‼",
+      "title": "テレビ千鳥 2打ゴルフ‼",
+      "stationId": "tvasahi",
+      "start": "2026-11-24T23:45:00+09:00",
+      "end": "2026-11-25T00:15:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tv-asahi.co.jp/pr/contents/20261124_14354.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ゴルフの特別対決。"
+    },
+    {
+      "id": "muse-20261119-20261125-2100-bstbs",
+      "seriesId": "muse-series-bstbs-美しい日本に出会う旅▼特別編／美しい韓国に出会う旅▼井上芳雄！まだ見ぬ韓国へ",
+      "title": "美しい日本に出会う旅「井上芳雄！まだ見ぬ韓国へ 後編 絶景！石の世界遺産と旬のワタリガニ尽くし」",
+      "stationId": "bstbs",
+      "start": "2026-11-25T21:00:00+09:00",
+      "end": "2026-11-25T21:54:00+09:00",
+      "genreIds": [
+        "architecture",
+        "travel"
+      ],
+      "sourceUrl": "https://bs.tbs.co.jp/information/1118252.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "韓国の世界遺産の石造遺構を訪ねる旅。"
+    },
+    {
+      "id": "muse-20261123-20261126-2100-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-中井精也の絶景！てつたび 選 晩秋の兵庫 錦に染まる鉄路を行く！",
+      "title": "中井精也の絶景！てつたび 選 晩秋の兵庫 錦に染まる鉄路を行く！",
+      "stationId": "nhk_bs",
+      "start": "2026-11-26T21:00:00+09:00",
+      "end": "2026-11-26T22:00:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-26",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "兵庫の鉄道路線を巡る紀行。"
+    },
+    {
+      "id": "muse-20261123-20261126-2300-bsasahi",
+      "seriesId": "muse-series-bsasahi-カーグラフィックTV「グッドウッド・リバイバル 後編」",
+      "title": "カーグラフィックTV「グッドウッド・リバイバル 後編」",
+      "stationId": "bsasahi",
+      "start": "2026-11-26T23:00:00+09:00",
+      "end": "2026-11-26T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/?click=top",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "歴史的なレース車両と走行を紹介。"
+    },
+    {
+      "id": "muse-20261123-20261127-1759-mx",
+      "seriesId": "muse-series-mx-湯ったり温泉バラエティ 原田龍二の日本全国！湯一無二",
+      "title": "湯ったり温泉バラエティ 原田龍二の日本全国！湯一無二",
+      "stationId": "mx",
+      "start": "2026-11-27T17:59:00+09:00",
+      "end": "2026-11-27T18:30:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "sourceUrl": "https://bangumi.org/epg/td?broad_cast_date=20261127&ggm_group_id=42",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "各地の温泉を紹介する番組。"
+    },
+    {
+      "id": "muse-20261123-20261127-1900-bs12",
+      "seriesId": "muse-series-bs12-映画「The Crossing ザ・クロッシング Part I」",
+      "title": "映画「The Crossing ザ・クロッシング Part I」",
+      "stationId": "bs12",
+      "start": "2026-11-27T19:00:00+09:00",
+      "end": "2026-11-27T21:30:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/1017059/",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261127-2100-bstbs",
+      "seriesId": "muse-series-bstbs-憧れの地に家を買おう ＃97「アメリカ・ポートランドに家を買おう」",
+      "title": "憧れの地に家を買おう ＃97「アメリカ・ポートランドに家を買おう」",
+      "stationId": "bstbs",
+      "start": "2026-11-27T21:00:00+09:00",
+      "end": "2026-11-27T21:54:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://bs.tbs.co.jp/placeourdreams/",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ポートランドの住宅を訪ねる番組。"
+    },
+    {
+      "id": "muse-20261123-20261127-2100-bsntv",
+      "seriesId": "muse-series-bsntv-ゴルフサバイバル 2026年11月の陣 第4週",
+      "title": "ゴルフサバイバル 2026年11月の陣 第4週",
+      "stationId": "bsntv",
+      "start": "2026-11-27T21:00:00+09:00",
+      "end": "2026-11-27T22:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.bs4.jp/golf_survival/index.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ゴルフの競技番組。"
+    },
+    {
+      "id": "muse-20261123-20261128-0425-tvasahi",
+      "seriesId": "muse-series-tvasahi-渡辺篤史の建もの探訪「緑が折り重なる 立体庭園のある家」東京都文京区・八巻邸",
+      "title": "渡辺篤史の建もの探訪「緑が折り重なる 立体庭園のある家」東京都文京区・八巻邸",
+      "stationId": "tvasahi",
+      "start": "2026-11-28T04:25:00+09:00",
+      "end": "2026-11-28T04:50:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "sourceUrl": "https://www.tv-asahi.co.jp/pr/contents/20261127_15363.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "立体庭園を備える住宅を取材。"
+    },
+    {
+      "id": "muse-20261123-20261128-0615-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-中井精也の絶景！てつたび 晩秋の兵庫 錦に染まる鉄路を行く！（再放送）",
+      "title": "中井精也の絶景！てつたび 晩秋の兵庫 錦に染まる鉄路を行く！（再放送）",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T06:15:00+09:00",
+      "end": "2026-11-28T07:15:00+09:00",
+      "genreIds": [
+        "railway"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXQBlVHAAE",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "兵庫の鉄道路線を巡る紀行の再放送。"
+    },
+    {
+      "id": "muse-20261123-20261128-1030-fuji",
+      "seriesId": "muse-series-fuji-F1サイドbyサイド",
+      "title": "F1サイドbyサイド",
+      "stationId": "fuji",
+      "start": "2026-11-28T10:30:00+09:00",
+      "end": "2026-11-28T11:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://tvguide.myjcom.jp/program/984374/",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "F1ラスベガスGPを扱うモータースポーツ番組。"
+    },
+    {
+      "id": "muse-20261123-20261128-1400-tbs",
+      "seriesId": "muse-series-tbs-カシオワールドオープンゴルフトーナメント2026 第3日",
+      "title": "カシオワールドオープンゴルフトーナメント2026 第3日",
+      "stationId": "tbs",
+      "start": "2026-11-28T14:00:00+09:00",
+      "end": "2026-11-28T15:24:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.xc-gslb.tbs.co.jp/tv/20261128_C725.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ゴルフトーナメント3日目。"
+    },
+    {
+      "id": "muse-20261123-20261128-1830-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-出川哲朗の充電させてもらえませんか？SP",
+      "title": "出川哲朗の充電させてもらえませんか？SP",
+      "stationId": "tvtokyo",
+      "start": "2026-11-28T18:30:00+09:00",
+      "end": "2026-11-28T20:55:00+09:00",
+      "genreIds": [
+        "onsen",
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/23249_202611281830.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "兵庫を旅して有馬温泉などを訪れる回。"
+    },
+    {
+      "id": "muse-20261123-20261128-1900-bs12",
+      "seriesId": "muse-series-bs12-土曜洋画劇場『ダーティハリー4』",
+      "title": "土曜洋画劇場『ダーティハリー4』",
+      "stationId": "bs12",
+      "start": "2026-11-28T19:00:00+09:00",
+      "end": "2026-11-28T21:15:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.atpress.ne.jp/news/2653704",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261128-2100-bsntv",
+      "seriesId": "muse-series-bsntv-おぎやはぎの愛車遍歴▽富士モータースポーツミュージアムに潜入！",
+      "title": "おぎやはぎの愛車遍歴▽富士モータースポーツミュージアムに潜入！",
+      "stationId": "bsntv",
+      "start": "2026-11-28T21:00:00+09:00",
+      "end": "2026-11-28T21:54:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs4.jp/aisya_henreki/index.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "富士モータースポーツミュージアムを訪ねる回。"
+    },
+    {
+      "id": "muse-20261123-20261128-2100-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-出没！アド街ック天国",
+      "title": "出没！アド街ック天国",
+      "stationId": "tvtokyo",
+      "start": "2026-11-28T21:00:00+09:00",
+      "end": "2026-11-28T21:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/13263_202611282100.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "東京のクリスマスの街や名所を巡る回。"
+    },
+    {
+      "id": "muse-20261123-20261129-1500-tbs",
+      "seriesId": "muse-series-tbs-カシオワールドオープンゴルフトーナメント2026 最終日",
+      "title": "カシオワールドオープンゴルフトーナメント2026 最終日",
+      "stationId": "tbs",
+      "start": "2026-11-29T15:00:00+09:00",
+      "end": "2026-11-29T16:24:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261129_C74C.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ゴルフトーナメント最終日。"
+    },
+    {
+      "id": "muse-20261123-20261129-1800-bsasahi",
+      "seriesId": "muse-series-bsasahi-鉄道・絶景の旅 特別編 常盤貴子が行く 四国めぐり「香川〜徳島〜高知」",
+      "title": "鉄道・絶景の旅 特別編 常盤貴子が行く 四国めぐり「香川〜徳島〜高知」",
+      "stationId": "bsasahi",
+      "start": "2026-11-29T18:00:00+09:00",
+      "end": "2026-11-29T18:54:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/tetsu_zekkei/lineup/prg_ss2-2/",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "香川・徳島・高知の鉄道で景勝地を巡る。"
+    },
+    {
+      "id": "muse-20261123-20261129-2200-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-有吉ぃぃeeeee！〜そうだ！今からお前んチでゲームしない？",
+      "title": "有吉ぃぃeeeee！〜そうだ！今からお前んチでゲームしない？",
+      "stationId": "tvtokyo",
+      "start": "2026-11-29T22:00:00+09:00",
+      "end": "2026-11-29T22:48:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/25169_202611292200.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "ゲームを実際にプレイする回。"
+    },
+    {
+      "id": "muse-20261119-20261125-1900-fuji",
+      "seriesId": "muse-series-fuji-世界の何だコレ！？ミステリー（2時間SP）「UFO＆UMA＆怪奇現象」",
+      "title": "世界の何だコレ！？ミステリー（2時間SP）「日本で起きた怪事件」",
+      "stationId": "fuji",
+      "start": "2026-11-25T19:00:00+09:00",
+      "end": "2026-11-25T21:00:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmWgQgfOYAM?overwrite_area=23",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回に未来を見通したとされる人物の逸話があるため都市伝説・未解決ミステリー枠。心霊・UFO・UMAを扱うとの確認はない。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261127-2100-darkside",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー選「歴史の闇！ヒトラーは生きている？消えた遺体・UFO説」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-27T21:00:00+09:00",
+      "end": "2026-11-27T22:00:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXABlUqQAE",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "ヒトラー生存説に結びついたUFOの伝説を検証する回。"
+    },
+    {
+      "id": "muse-20261123-20261128-1830-bstvtokyo",
+      "seriesId": "muse-series-bstvtokyo-土曜は寅さん！『男はつらいよ 旅と女と寅次郎』",
+      "title": "土曜は寅さん！『男はつらいよ 旅と女と寅次郎』",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-28T18:30:00+09:00",
+      "end": "2026-11-28T20:54:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/23641_202611281830.html",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該番組表で確認した劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261128-1900-bsntv",
+      "seriesId": "muse-series-bsntv-映画「メカニック：ワールドミッション」",
+      "title": "映画「メカニック：ワールドミッション」",
+      "stationId": "bsntv",
+      "start": "2026-11-28T19:00:00+09:00",
+      "end": "2026-11-28T20:54:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXQCNRHAAE",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該番組表で確認した劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261128-2100-fuji",
+      "seriesId": "muse-series-fuji-土曜プレミアム「東京リベンジャーズ」",
+      "title": "土曜プレミアム「東京リベンジャーズ」",
+      "stationId": "fuji",
+      "start": "2026-11-28T21:00:00+09:00",
+      "end": "2026-11-28T23:30:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXQQgW9QAM?overwrite_area=23",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該番組表で確認した劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261129-1900-bs12",
+      "seriesId": "muse-series-bs12-映画「名探偵コナン 緋色の不在証明」",
+      "title": "映画「名探偵コナン 緋色の不在証明」",
+      "stationId": "bs12",
+      "start": "2026-11-29T19:00:00+09:00",
+      "end": "2026-11-29T20:55:00+09:00",
+      "genreIds": [
+        "movie",
+        "anime"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXgDeEvsAE",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "劇場用の長編アニメーション映画。"
+    },
+    {
+      "id": "muse-20261123-20261129-2100-bstbs",
+      "seriesId": "muse-series-bstbs-永野映画CHANNEL「リトル・ニッキー」",
+      "title": "永野映画CHANNEL「リトル・ニッキー」",
+      "stationId": "bstbs",
+      "start": "2026-11-29T21:00:00+09:00",
+      "end": "2026-11-29T23:00:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://bs.tbs.co.jp/movie/moviesun22/",
+      "checkedAt": "2026-11-23T07:08:21+09:00",
+      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該番組表で確認した劇映画の放送。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
