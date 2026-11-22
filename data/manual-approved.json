@@ -19831,7 +19831,7 @@
     {
       "id": "muse-20261123-20261129-1900-bs12",
       "seriesId": "muse-series-bs12-映画「名探偵コナン 緋色の不在証明」",
-      "title": "映画「名探偵コナン 緋色の不在証明」",
+      "title": "TVシリーズ特別編集版『名探偵コナン 緋色の不在証明』",
       "stationId": "bs12",
       "start": "2026-11-29T19:00:00+09:00",
       "end": "2026-11-29T20:55:00+09:00",
@@ -19839,13 +19839,13 @@
         "movie",
         "anime"
       ],
-      "sourceUrl": "https://bangumi.org/tv_events/AmXgDeEvsAE",
-      "checkedAt": "2026-11-23T07:08:21+09:00",
-      "updatedAt": "2026-11-23T07:08:21+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/20261129190000-3CDE/12FB/?areaId=03&transitId=",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
       "status": "provider_confirmed",
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
-      "genreBasis": "劇場用の長編アニメーション映画。"
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
     },
     {
       "id": "muse-20261123-20261129-2100-bstbs",
@@ -19864,6 +19864,963 @@
       "publicationApproved": true,
       "origin": "manual_official_facts",
       "genreBasis": "当該番組表で確認した劇映画の放送。"
+    },
+    {
+      "id": "muse-20261123-20261129-1845-bsntv",
+      "seriesId": "muse-series-bsntv-映画「大脱出」",
+      "title": "大脱出",
+      "stationId": "bsntv",
+      "start": "2026-11-29T18:45:00+09:00",
+      "end": "2026-11-29T20:54:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/495936/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261126-1300-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-プレミアムシネマ『娘・妻・母』",
+      "title": "娘・妻・母",
+      "stationId": "nhk_bs",
+      "start": "2026-11-26T13:00:00+09:00",
+      "end": "2026-11-26T15:04:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/1016856/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1300-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-プレミアムシネマ『征服されざる西部』",
+      "title": "征服されざる西部",
+      "stationId": "nhk_bs",
+      "start": "2026-11-27T14:00:00+09:00",
+      "end": "2026-11-27T15:23:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.sf-dream.com/cgi/radiobangumi/nhk/index.php/program/180/s1/2026-11-27",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1230-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-2026NHK杯フィギュア アイスダンス リズムダンス",
+      "title": "2026NHK杯フィギュア アイスダンス リズムダンス",
+      "stationId": "nhk_bs",
+      "start": "2026-11-27T12:30:00+09:00",
+      "end": "2026-11-27T14:00:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/1017100/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1800-bs10",
+      "seriesId": "muse-series-bs10-映画「アイランド」",
+      "title": "アイランド",
+      "stationId": "bs10",
+      "start": "2026-11-27T18:00:00+09:00",
+      "end": "2026-11-27T20:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/907234/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1430-bs10",
+      "seriesId": "muse-series-bs10-映画「金融腐蝕列島 呪縛」",
+      "title": "金融腐蝕列島 呪縛",
+      "stationId": "bs10",
+      "start": "2026-11-29T14:30:00+09:00",
+      "end": "2026-11-29T16:44:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/1017429/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1200-fuji",
+      "seriesId": "muse-series-fuji-なりゆき街道旅",
+      "title": "なりゆき街道旅 麻布十番",
+      "stationId": "fuji",
+      "start": "2026-11-29T12:00:00+09:00",
+      "end": "2026-11-29T13:40:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmXgQgXAsAM",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1200-bsasahi",
+      "seriesId": "muse-series-bsasahi-辰巳琢郎の家物語〜リモデル☆きらり",
+      "title": "辰巳琢郎の家物語 #209 毎日が別荘気分！見事な丸太梁を現しにした逗子の家",
+      "stationId": "bsasahi",
+      "start": "2026-11-28T12:00:00+09:00",
+      "end": "2026-11-28T12:30:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/tag_sort/?sg=%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261126-2000-bs11",
+      "seriesId": "muse-series-bs11-太田和彦のふらり旅 新・居酒屋百選",
+      "title": "太田和彦のふらり旅 新・居酒屋百選 松本・諏訪",
+      "stationId": "bs11",
+      "start": "2026-11-26T20:00:00+09:00",
+      "end": "2026-11-26T20:57:00+09:00",
+      "genreIds": [
+        "travel",
+        "architecture"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261126",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1930-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-地球鉄道（30）カザフ→ウズベク",
+      "title": "地球鉄道（30）カザフ→ウズベク「命の水」とフルーツ天国",
+      "stationId": "nhk_bs",
+      "start": "2026-11-27T19:30:00+09:00",
+      "end": "2026-11-27T20:00:00+09:00",
+      "genreIds": [
+        "railway",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/907206/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1130-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-モヤモヤさまぁ〜ず2",
+      "title": "モヤモヤさまぁ〜ず2 ハワイ2026 出雲大社ヌシカンSP",
+      "stationId": "tvtokyo",
+      "start": "2026-11-28T11:30:00+09:00",
+      "end": "2026-11-28T12:15:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/samaazu2/smp/index.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261124-2000-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-新日本風土記",
+      "title": "新日本風土記 選「南紀・白浜 海山のあいだに」",
+      "stationId": "nhk_bs",
+      "start": "2026-11-24T20:00:00+09:00",
+      "end": "2026-11-24T21:00:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/15016/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261126-1010-tvasahi",
+      "seriesId": "muse-series-tvasahi-じゅん散歩「朝霞」",
+      "title": "じゅん散歩 朝霞",
+      "stationId": "tvasahi",
+      "start": "2026-11-26T10:10:00+09:00",
+      "end": "2026-11-26T10:40:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tv-ranking.com/program/?bid=1800723",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-0930-tbs",
+      "seriesId": "muse-series-tbs-王様のブランチ「東京ディズニーリゾート クリスマス2026特集」（トレンド部／新着情報）",
+      "title": "王様のブランチ（午後）東京ディズニーリゾート クリスマス2026",
+      "stationId": "tbs",
+      "start": "2026-11-28T11:59:00+09:00",
+      "end": "2026-11-28T14:00:00+09:00",
+      "genreIds": [
+        "disney"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tbs.co.jp/tv/20261128_C723.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1900-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "title": "2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "stationId": "nhk_bs",
+      "start": "2026-11-27T19:00:00+09:00",
+      "end": "2026-11-27T19:30:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1430-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア ペア ショートプログラム",
+      "title": "2026NHK杯フィギュア ペア ショートプログラム",
+      "stationId": "nhk_g",
+      "start": "2026-11-27T14:30:00+09:00",
+      "end": "2026-11-27T16:00:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1605-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 女子シングル ショートプログラム",
+      "title": "2026NHK杯フィギュア 女子シングル ショートプログラム",
+      "stationId": "nhk_g",
+      "start": "2026-11-27T16:05:00+09:00",
+      "end": "2026-11-27T17:57:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1930-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "title": "2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "stationId": "nhk_g",
+      "start": "2026-11-27T19:30:00+09:00",
+      "end": "2026-11-27T20:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1230-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア アイスダンス リズムダンス",
+      "title": "2026NHK杯フィギュア アイスダンス リズムダンス",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-27T12:30:00+09:00",
+      "end": "2026-11-27T14:00:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1430-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア ペア ショートプログラム",
+      "title": "2026NHK杯フィギュア ペア ショートプログラム",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-27T14:30:00+09:00",
+      "end": "2026-11-27T16:05:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1605-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア 女子シングル ショートプログラム",
+      "title": "2026NHK杯フィギュア 女子シングル ショートプログラム",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-27T16:05:00+09:00",
+      "end": "2026-11-27T17:57:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-1900-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "title": "2026NHK杯フィギュア 男子シングル ショートプログラム",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-27T19:00:00+09:00",
+      "end": "2026-11-27T20:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-0032-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア アイスダンス リズムダンス ハイライト",
+      "title": "2026NHK杯フィギュア アイスダンス リズムダンス ハイライト",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T00:32:00+09:00",
+      "end": "2026-11-28T01:07:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1350-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア ペア フリー",
+      "title": "2026NHK杯フィギュア ペア フリー",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T13:50:00+09:00",
+      "end": "2026-11-28T15:40:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1540-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア アイスダンス ハイライト",
+      "title": "2026NHK杯フィギュア アイスダンス ハイライト",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T15:40:00+09:00",
+      "end": "2026-11-28T16:30:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1630-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 女子シングル フリー",
+      "title": "2026NHK杯フィギュア 女子シングル フリー",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T16:30:00+09:00",
+      "end": "2026-11-28T18:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1930-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア 男子シングル フリー",
+      "title": "2026NHK杯フィギュア 男子シングル フリー",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T19:30:00+09:00",
+      "end": "2026-11-28T21:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1200-nhk_bs",
+      "seriesId": "muse-series-nhk_bs-2026NHK杯フィギュア アイスダンス フリーダンス",
+      "title": "2026NHK杯フィギュア アイスダンス フリーダンス",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T12:00:00+09:00",
+      "end": "2026-11-28T13:50:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1200-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア アイスダンス フリーダンス／ペア フリー",
+      "title": "2026NHK杯フィギュア アイスダンス フリーダンス／ペア フリー",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-28T12:00:00+09:00",
+      "end": "2026-11-28T15:40:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1540-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア アイスダンス フリーダンス ハイライト",
+      "title": "2026NHK杯フィギュア アイスダンス フリーダンス ハイライト",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-28T15:40:00+09:00",
+      "end": "2026-11-28T16:30:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1630-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア 女子シングル フリー",
+      "title": "2026NHK杯フィギュア 女子シングル フリー",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-28T16:30:00+09:00",
+      "end": "2026-11-28T18:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1930-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア 男子シングル フリー",
+      "title": "2026NHK杯フィギュア 男子シングル フリー",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-28T19:30:00+09:00",
+      "end": "2026-11-28T21:45:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1305-nhk_g",
+      "seriesId": "muse-series-nhk_g-2026NHK杯フィギュア エキシビション",
+      "title": "2026NHK杯フィギュア エキシビション",
+      "stationId": "nhk_g",
+      "start": "2026-11-29T13:05:00+09:00",
+      "end": "2026-11-29T15:30:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1305-nhk_bsp4k",
+      "seriesId": "muse-series-nhk_bsp4k-2026NHK杯フィギュア エキシビション",
+      "title": "2026NHK杯フィギュア エキシビション",
+      "stationId": "nhk_bsp4k",
+      "start": "2026-11-29T13:05:00+09:00",
+      "end": "2026-11-29T15:30:00+09:00",
+      "genreIds": [
+        "winter_sports"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.skatingjapan.or.jp/nhk2026/broadcast.html",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-2000-bs11",
+      "seriesId": "muse-series-bs11-ディスカバリー傑作選 名車再生！「ポルシェ911」",
+      "title": "ディスカバリー傑作選 名車再生！「ポルシェ911」",
+      "stationId": "bs11",
+      "start": "2026-11-28T20:00:00+09:00",
+      "end": "2026-11-28T20:55:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.bs11.jp/education/discovery-wheeler-dealers/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1030-bsfuji",
+      "seriesId": "muse-series-bsfuji-The Classic Car▼BMW ISETTA 300 Export",
+      "title": "The Classic Car▼BMW ISETTA 300 Export",
+      "stationId": "bsfuji",
+      "start": "2026-11-29T10:30:00+09:00",
+      "end": "2026-11-29T11:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.bsfuji.tv/classiccar/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-2130-bs11",
+      "seriesId": "muse-series-bs11-MOTORISE バイク“街乗り”乗り比べ",
+      "title": "MOTORISE バイク“街乗り”乗り比べ",
+      "stationId": "bs11",
+      "start": "2026-11-29T21:30:00+09:00",
+      "end": "2026-11-29T22:00:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.bs11.jp/entertainment/motorise/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-1500-ntv",
+      "seriesId": "muse-series-ntv-JLPGAツアーチャンピオンシップリコーカップ2026 第3日",
+      "title": "JLPGAツアーチャンピオンシップリコーカップ2026 第3日",
+      "stationId": "ntv",
+      "start": "2026-11-28T15:00:00+09:00",
+      "end": "2026-11-28T15:55:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://tvguide.myjcom.jp/program/1017299/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-0235-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-FOOT×BRAIN+",
+      "title": "FOOT×BRAIN+",
+      "stationId": "tvtokyo",
+      "start": "2026-11-27T02:35:00+09:00",
+      "end": "2026-11-27T03:05:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/footbrain/lineup/202611/21594_202611262635.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261128-2330-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-サタデーナイトJ",
+      "title": "サタデーナイトＪ 近藤千尋初の国立J観戦リポ完結編！▼柏×広島を李忠成が解説！",
+      "stationId": "tvtokyo",
+      "start": "2026-11-28T23:30:00+09:00",
+      "end": "2026-11-29T00:00:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/saturdaynight_j/lineup/202611/27734_202611282330.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0000-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-RACING LABO「SUPER GT300もてぎ決戦 序章」",
+      "title": "RACING LABO「SUPER GT300もてぎ決戦 序章」",
+      "stationId": "tvtokyo",
+      "start": "2026-11-29T00:00:00+09:00",
+      "end": "2026-11-29T00:25:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/28556_202611282400.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0730-bstvtokyo",
+      "seriesId": "muse-series-bstvtokyo-ゴルフ交遊抄",
+      "title": "ゴルフ交遊抄【前田智徳×川上憲伸】",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-29T07:30:00+09:00",
+      "end": "2026-11-29T08:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/24063_202611290730.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0800-bstvtokyo",
+      "seriesId": "muse-series-bstvtokyo-ゴルフ侍、見参！（#687推定）",
+      "title": "ゴルフ侍、見参！【真剣勝負！プロvsトップアマチュア】",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-29T08:00:00+09:00",
+      "end": "2026-11-29T09:00:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/22378_202611290800.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0900-bstvtokyo",
+      "seriesId": "muse-series-bstvtokyo-孝太郎の爽快ゴルフバトル！",
+      "title": "孝太郎の爽快ゴルフバトル！【上重聡と真剣バトル！第3戦】",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-29T09:00:00+09:00",
+      "end": "2026-11-29T09:30:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/28541_202611290900.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261127-2200-bsntv",
+      "seriesId": "muse-series-bsntv-ゴルフサバイバル男 11月の戦い 第4週",
+      "title": "ゴルフサバイバル男 ステージ38 第4週",
+      "stationId": "bsntv",
+      "start": "2026-11-27T22:00:00+09:00",
+      "end": "2026-11-27T22:54:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://thetv.jp/program/0001036906/153/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-2100-mx",
+      "seriesId": "muse-series-mx-ぐらぶるTVちゃんねるっ！",
+      "title": "ぐらぶるTVちゃんねるっ！",
+      "stationId": "mx",
+      "start": "2026-11-29T21:00:00+09:00",
+      "end": "2026-11-29T21:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://cal.syoboi.jp/tid/5312/time",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-2200-tvk",
+      "seriesId": "muse-series-tvk-クルマでいこう！▽2026－2027日本カー・オブ・ザ・イヤーを占う",
+      "title": "クルマでいこう！▽2026－2027日本カー・オブ・ザ・イヤーを占う",
+      "stationId": "tvk",
+      "start": "2026-11-29T22:00:00+09:00",
+      "end": "2026-11-29T22:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tvk-yokohama.com/kuruma/schedule/",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261126-2154-tvtokyo",
+      "seriesId": "muse-series-tvtokyo-Dの旋律〜ダンスと音楽のシンフォニー〜（社交ダンス「Jalousie」）",
+      "title": "Dの旋律〜ダンスと音楽のシンフォニー〜（社交ダンス「Jalousie」）",
+      "stationId": "tvtokyo",
+      "start": "2026-11-26T21:54:00+09:00",
+      "end": "2026-11-26T22:00:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/26331_202611262154.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-0130-bstvtokyo",
+      "seriesId": "muse-series-bstvtokyo-Dの旋律〜ダンスと音楽のシンフォニー〜（社交ダンス「Jalousie」）",
+      "title": "Dの旋律〜ダンスと音楽のシンフォニー〜（社交ダンス「Jalousie」）",
+      "stationId": "bstvtokyo",
+      "start": "2026-11-29T01:30:00+09:00",
+      "end": "2026-11-29T01:35:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202611/26331_202611282530.html",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1600-ntv",
+      "seriesId": "muse-series-ntv-JLPGAツアーチャンピオンシップリコーカップ2026 最終日",
+      "title": "JLPGAツアーチャンピオンシップリコーカップ2026 最終日",
+      "stationId": "ntv",
+      "start": "2026-11-29T16:00:00+09:00",
+      "end": "2026-11-29T17:25:00+09:00",
+      "genreIds": [
+        "golf"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmXgQQLKYAM",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261129-1300-bs10",
+      "seriesId": "muse-series-bs10-マネして踊って！DANCE TRAIN",
+      "title": "マネして踊って！DANCE TRAIN【EXILE MAKIDAIがジャック！】",
+      "stationId": "bs10",
+      "start": "2026-11-29T13:00:00+09:00",
+      "end": "2026-11-29T13:25:00+09:00",
+      "genreIds": [
+        "dance"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261129",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "chatgpt-tvk-20261127T1900-kyoukaishi",
+      "seriesId": "official-series-kyoukaishi",
+      "title": "映画の時間「教誨師」",
+      "stationId": "tvk",
+      "start": "2026-11-27T19:00:00+09:00",
+      "end": "2026-11-27T20:45:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tvk-yokohama.com/annai/",
+      "genreBasis": "tvkが現行対象局IDにある場合のみ。",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "origin": "manual_official_facts"
+    },
+    {
+      "id": "syobocal-719900",
+      "seriesId": "syobocal-title-8049",
+      "title": "恐怖コレクター",
+      "stationId": "nhk_g",
+      "start": "2026-11-28T23:45:00+09:00",
+      "end": "2026-11-29T00:10:00+09:00",
+      "genreIds": [
+        "anime",
+        "ufo"
+      ],
+      "sourceUrl": "https://www.animatetimes.com/news/details.php?id=1795163600",
+      "genreBasis": "第8話は都市伝説の怪物を扱う。",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "checkedAt": "2026-11-23T07:33:42+09:00",
+      "updatedAt": "2026-11-23T07:33:42+09:00",
+      "origin": "chatgpt_individual_program_guide_facts"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
