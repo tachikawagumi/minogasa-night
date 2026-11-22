@@ -1,7 +1,7 @@
 {
-  "verifiedAt": "2026-11-21T09:56:44+09:00",
+  "verifiedAt": "2026-11-23T07:00:53+09:00",
   "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
   "httpStatus": 200,
-  "semanticSha256": "b0a712e303a4d5c32557d1754ff238f8e933d620b4091c0e61a6001d92253948",
-  "programs": 415
+  "semanticSha256": "7af2570568882d781a6e539bd1c0433b049b81083bbdd27919307a463d6d641e",
+  "programs": 241
 }
