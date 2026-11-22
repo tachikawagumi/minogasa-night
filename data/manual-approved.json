@@ -21308,6 +21308,370 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "当該回の番組名・放送枠と掲載ジャンルを確認。"
+    },
+    {
+      "id": "muse-20261123-20261123-2100-bsasahi",
+      "seriesId": "muse-series-bsasahi-あなたの知らない京都旅 #175「豊臣兄弟 天下人・秀吉 3つの暴走」",
+      "title": "あなたの知らない京都旅 #175「豊臣兄弟 天下人・秀吉 3つの暴走」",
+      "stationId": "bsasahi",
+      "start": "2026-11-23T21:00:00+09:00",
+      "end": "2026-11-23T21:54:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/kyototabi/",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261123-2300-bsasahi",
+      "seriesId": "muse-series-bsasahi-そこに山があるから「南沢奈央が北八ヶ岳のにゅうから高見石を縦走」",
+      "title": "そこに山があるから「にゅう・高見石 後編」",
+      "stationId": "bsasahi",
+      "start": "2026-11-23T23:00:00+09:00",
+      "end": "2026-11-23T23:24:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmWACXKuUAE",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-2200-bsasahi",
+      "seriesId": "muse-series-bsasahi-ウォーキングのひむ太郎「いと次郎が歩く！京都編」",
+      "title": "ウォーキングのひむ太郎 #245「いと次郎が歩く！京都」編",
+      "stationId": "bsasahi",
+      "start": "2026-11-24T22:00:00+09:00",
+      "end": "2026-11-24T22:30:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/himutaro/?pa=post",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-2300-bsasahi",
+      "seriesId": "muse-series-bsasahi-Mリーグ2026-27〜白熱の戦い〜",
+      "title": "Mリーグ2026-27〜白熱の戦い〜",
+      "stationId": "bsasahi",
+      "start": "2026-11-24T23:00:00+09:00",
+      "end": "2026-11-25T00:00:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.bs-asahi.co.jp/bangumi/print_program/?type=multi",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261129-1400-tvk",
+      "seriesId": "muse-series-tvk-日本医師会スペシャル 赤ひげ大賞ルポ拡大版「赤ひげのいるまち」",
+      "title": "日本医師会スペシャル 赤ひげ大賞ルポ拡大版「赤ひげのいるまち」「団地を駆ける〜神奈川の地域医療〜」",
+      "stationId": "tvk",
+      "start": "2026-11-29T14:00:00+09:00",
+      "end": "2026-11-29T15:00:00+09:00",
+      "genreIds": [
+        "health"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.tvk-yokohama.com/bangumi/index_7.php",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261128-2300-bs10",
+      "seriesId": "muse-series-bs10-全力応援！シント＝トロイデン",
+      "title": "全力応援！シント＝トロイデン",
+      "stationId": "bs10",
+      "start": "2026-11-28T23:00:00+09:00",
+      "end": "2026-11-28T23:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261128",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261129-2100-bs10",
+      "seriesId": "muse-series-bs10-サッカー・ベルギーリーグ生中継 シント＝トロイデンVV×ゲンク 第13節",
+      "title": "サッカー・ベルギーリーグ生中継 シント＝トロイデンVV×ゲンク 第13節",
+      "stationId": "bs10",
+      "start": "2026-11-29T21:00:00+09:00",
+      "end": "2026-11-29T23:30:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261129",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261123-1900-bs11",
+      "seriesId": "muse-series-bs11-首里城の記憶〜知られざる王国のルーツ〜",
+      "title": "首里城の記憶〜知られざる王国のルーツ〜",
+      "stationId": "bs11",
+      "start": "2026-11-23T19:00:00+09:00",
+      "end": "2026-11-23T20:53:00+09:00",
+      "genreIds": [
+        "architecture"
+      ],
+      "status": "official_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.bs11.jp/topics/special/shurijo-no-kioku/",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-2000-bs11",
+      "seriesId": "muse-series-bs11-京都浪漫 悠久の物語 第206回「錦秋の京都〜里山の紅葉を巡る〜」",
+      "title": "京都浪漫 悠久の物語 第206回「錦秋の京都〜里山の紅葉を巡る〜」",
+      "stationId": "bs11",
+      "start": "2026-11-24T20:00:00+09:00",
+      "end": "2026-11-24T20:58:00+09:00",
+      "genreIds": [
+        "travel",
+        "architecture"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.bs11.jp/education/kyoutoroman-yuukyuu/",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261125-1900-bs11",
+      "seriesId": "muse-series-bs11-藤森慎吾の信州観光協会 #113",
+      "title": "藤森慎吾の信州観光協会 ▽樋口日奈と長野五輪の聖地へ！",
+      "stationId": "bs11",
+      "start": "2026-11-25T19:00:00+09:00",
+      "end": "2026-11-25T19:27:00+09:00",
+      "genreIds": [
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/1010883-3CD3/0077/?areaId=03&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-0030-bs11",
+      "seriesId": "muse-series-bs11-逃げ上手の若君 第20回「かけがえがないもの」",
+      "title": "逃げ上手の若君 第二期 第20回「かけがえがないもの」（再）",
+      "stationId": "bs11",
+      "start": "2026-11-24T00:30:00+09:00",
+      "end": "2026-11-24T01:00:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://cal.syoboi.jp/tid/7953",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-0100-bs11",
+      "seriesId": "muse-series-bs11-ごりやくさん 第26回「太宰府天満宮」",
+      "title": "ごりやくさん 第26回「太宰府天満宮」",
+      "stationId": "bs11",
+      "start": "2026-11-24T01:00:00+09:00",
+      "end": "2026-11-24T01:25:00+09:00",
+      "genreIds": [
+        "architecture",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/547487-3CD3/00FA/?areaId=03&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261125-0000-bs11",
+      "seriesId": "muse-series-bs11-ハイスクール・フリート #8「比叡でピンチ！」",
+      "title": "ハイスクール・フリート #8「比叡でピンチ！」",
+      "stationId": "bs11",
+      "start": "2026-11-25T00:00:00+09:00",
+      "end": "2026-11-25T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/1009982-3CD3/005C/?areaId=0852&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261125-0105-bs11",
+      "seriesId": "muse-series-bs11-全国映画祭 短編シネマセレクション #8「勝手に死ぬな」",
+      "title": "全国映画祭 短編シネマセレクション #8「勝手に死ぬな」",
+      "stationId": "bs11",
+      "start": "2026-11-25T01:05:00+09:00",
+      "end": "2026-11-25T01:35:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bbinfo.us/schedule/BS11/2026-11-24",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261127-0230-bs12",
+      "seriesId": "muse-series-bs12-湯めぐり鉄道 〜温泉といやしの旅〜 #27 天竜浜名湖鉄道天浜線で行く浜名湖の温泉",
+      "title": "湯めぐり鉄道 〜温泉といやしの旅〜 #27 天竜浜名湖鉄道天浜線で行く浜名湖の温泉",
+      "stationId": "bs12",
+      "start": "2026-11-27T02:30:00+09:00",
+      "end": "2026-11-27T03:00:00+09:00",
+      "genreIds": [
+        "onsen",
+        "railway",
+        "travel"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261126",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261126-0757-bs12",
+      "seriesId": "muse-series-bs12-温泉日和 #24「陶泉 御所坊（兵庫県）」",
+      "title": "温泉日和 #24「陶泉 御所坊（兵庫県）」",
+      "stationId": "bs12",
+      "start": "2026-11-26T07:57:00+09:00",
+      "end": "2026-11-26T08:00:00+09:00",
+      "genreIds": [
+        "onsen"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/epg/bs?broad_cast_date=20261126",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261124-0200-bs12",
+      "seriesId": "muse-series-bs12-キャプテン翼（小学生編）第21話",
+      "title": "キャプテン翼（小学生編）第21話「ガラスのエース」",
+      "stationId": "bs12",
+      "start": "2026-11-24T02:00:00+09:00",
+      "end": "2026-11-24T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.dimora.jp/digital-program/997483-3CDE/124F/?areaId=018&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261127-0200-bs12",
+      "seriesId": "muse-series-bs12-アポカリプスホテル 第9話",
+      "title": "アポカリプスホテル 第9話「お客様の人生に、今日という栞を」",
+      "stationId": "bs12",
+      "start": "2026-11-27T02:00:00+09:00",
+      "end": "2026-11-27T02:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://www.dimora.jp/talent-info/12/371076/?areaId=03&eventId=43AB&gcn=248D&programId=1010054&transitId=",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261126-0200-bs12",
+      "seriesId": "muse-series-bs12-決闘者たちの記録 〜ドキュメンタリー・オブ・デュエル・マスターズ〜 #13",
+      "title": "決闘者たちの記録 〜ドキュメンタリー・オブ・デュエル・マスターズ〜 #13「5代目王者をかけた激闘」",
+      "stationId": "bs12",
+      "start": "2026-11-26T02:00:00+09:00",
+      "end": "2026-11-26T02:30:00+09:00",
+      "genreIds": [
+        "challenge"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bbinfo.us/schedule/bs12/2026-11-25",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
+    },
+    {
+      "id": "muse-20261123-20261125-0000-bsntv",
+      "seriesId": "muse-series-bsntv-フューチャーカード バディファイト 第8話",
+      "title": "フューチャーカード バディファイト 第8話「最終予選、突破せよ！」",
+      "stationId": "bsntv",
+      "start": "2026-11-25T00:00:00+09:00",
+      "end": "2026-11-25T00:30:00+09:00",
+      "genreIds": [
+        "anime"
+      ],
+      "status": "provider_confirmed",
+      "checkedAt": "2026-11-23T08:54:24+09:00",
+      "updatedAt": "2026-11-23T08:54:24+09:00",
+      "sourceUrl": "https://bangumi.org/tv_events/AmWgCNQ1oAE",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "当該回の番組名・放送枠と内容に基づく分類。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
