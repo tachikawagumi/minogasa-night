@@ -1,40 +1,5 @@
 [
   {
-    "at": "2026-11-09T14:37:08+09:00",
-    "status": "published",
-    "animeSuccess": true,
-    "publicPrograms": 228,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [
-        "muse-verified-truck-life-28-202611",
-        "muse-verified-truck-life-29-202611"
-      ],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": []
-    },
-    "counts": {
-      "added": 2,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 0
-    },
-    "publicationVerified": true,
-    "verification": {
-      "verifiedAt": "2026-11-09T14:37:36+09:00",
-      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-      "httpStatus": 200,
-      "semanticSha256": "f552cde6469815f372df9adf7e66f42031ab8df712da980ff512dc794c5c8641",
-      "programs": 228
-    }
-  },
-  {
     "at": "2026-11-09T14:40:40+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -5160,5 +5125,89 @@
       "semanticSha256": "a65a56eb3ce2d216e30f7d825cd2d66b5ad28242690def7b91b908fc8a016b9c",
       "programs": 265
     }
+  },
+  {
+    "at": "2026-11-23T07:34:12+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 316,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-tvk-20261127T1900-kyoukaishi",
+        "muse-20261123-20261124-2000-nhk_bs",
+        "muse-20261123-20261126-1010-tvasahi",
+        "muse-20261123-20261126-1300-nhk_bs",
+        "muse-20261123-20261126-2000-bs11",
+        "muse-20261123-20261126-2154-tvtokyo",
+        "muse-20261123-20261127-0235-tvtokyo",
+        "muse-20261123-20261127-1230-nhk_bs",
+        "muse-20261123-20261127-1230-nhk_bsp4k",
+        "muse-20261123-20261127-1300-nhk_bs",
+        "muse-20261123-20261127-1430-nhk_bsp4k",
+        "muse-20261123-20261127-1430-nhk_g",
+        "muse-20261123-20261127-1605-nhk_bsp4k",
+        "muse-20261123-20261127-1605-nhk_g",
+        "muse-20261123-20261127-1800-bs10",
+        "muse-20261123-20261127-1900-nhk_bs",
+        "muse-20261123-20261127-1900-nhk_bsp4k",
+        "muse-20261123-20261127-1930-nhk_bs",
+        "muse-20261123-20261127-1930-nhk_g",
+        "muse-20261123-20261127-2200-bsntv",
+        "muse-20261123-20261128-0032-nhk_g",
+        "muse-20261123-20261128-0930-tbs",
+        "muse-20261123-20261128-1130-tvtokyo",
+        "muse-20261123-20261128-1200-bsasahi",
+        "muse-20261123-20261128-1200-nhk_bs",
+        "muse-20261123-20261128-1200-nhk_bsp4k",
+        "muse-20261123-20261128-1350-nhk_g",
+        "muse-20261123-20261128-1500-ntv",
+        "muse-20261123-20261128-1540-nhk_bsp4k",
+        "muse-20261123-20261128-1540-nhk_g",
+        "muse-20261123-20261128-1630-nhk_bsp4k",
+        "muse-20261123-20261128-1630-nhk_g",
+        "muse-20261123-20261128-1930-nhk_bsp4k",
+        "muse-20261123-20261128-1930-nhk_g",
+        "muse-20261123-20261128-2000-bs11",
+        "muse-20261123-20261128-2330-tvtokyo",
+        "muse-20261123-20261129-0000-tvtokyo",
+        "muse-20261123-20261129-0130-bstvtokyo",
+        "muse-20261123-20261129-0730-bstvtokyo",
+        "muse-20261123-20261129-0800-bstvtokyo",
+        "muse-20261123-20261129-0900-bstvtokyo",
+        "muse-20261123-20261129-1030-bsfuji",
+        "muse-20261123-20261129-1200-fuji",
+        "muse-20261123-20261129-1300-bs10",
+        "muse-20261123-20261129-1305-nhk_bsp4k",
+        "muse-20261123-20261129-1305-nhk_g",
+        "muse-20261123-20261129-1430-bs10",
+        "muse-20261123-20261129-1600-ntv",
+        "muse-20261123-20261129-1845-bsntv",
+        "muse-20261123-20261129-2100-mx",
+        "muse-20261123-20261129-2130-bs11",
+        "muse-20261123-20261129-2200-tvk"
+      ],
+      "scheduleChanged": [
+        "muse-20261123-20261129-1900-bs12"
+      ],
+      "genreChanged": [
+        "syobocal-719900"
+      ],
+      "removed": [],
+      "expired": [
+        "syobocal-724635"
+      ]
+    },
+    "counts": {
+      "added": 52,
+      "scheduleChanged": 1,
+      "genreChanged": 1,
+      "removed": 0,
+      "expired": 1
+    },
+    "publicationVerified": false
   }
 ]
