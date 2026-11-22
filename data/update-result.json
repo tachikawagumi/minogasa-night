@@ -1,61 +1,51 @@
 {
-  "at": "2026-11-23T07:36:06+09:00",
-  "status": "published",
+  "at": "2026-11-23T08:54:56+09:00",
+  "status": "prepared",
   "animeSuccess": true,
-  "publicPrograms": 341,
+  "publicPrograms": 357,
   "aiAccepted": 0,
   "aiHeld": 60,
   "batchId": "phase15-interactive-20261029",
   "researchExecutionContext": "interactive_preflight",
   "diff": {
     "added": [
-      "muse-20261123-20261123-1033-nhk_g",
-      "muse-20261123-20261123-1230-nhk_bs",
-      "muse-20261123-20261123-1600-nhk_g",
-      "muse-20261123-20261123-1800-nhk_e",
-      "muse-20261123-20261123-1830-nhk_e",
-      "muse-20261123-20261123-1840-nhk_e",
-      "muse-20261123-20261123-1900-nhk_bs",
-      "muse-20261123-20261123-2300-fuji",
-      "muse-20261123-20261123-2335-nhk_g",
-      "muse-20261123-20261123-2345-nhk_g",
-      "muse-20261123-20261124-0015-tvasahi",
-      "muse-20261123-20261124-0030-tvtokyo",
-      "muse-20261123-20261124-0100-nhk_bs",
-      "muse-20261123-20261125-2100-bsasahi",
-      "muse-20261123-20261126-2054-tbs",
-      "muse-20261123-20261128-0125-nhk_bs",
-      "muse-20261123-20261128-0155-nhk_bs",
-      "muse-20261123-20261128-1630-tvasahi",
-      "muse-20261123-20261128-1700-tvasahi",
-      "muse-20261123-20261128-1730-tvtokyo",
-      "muse-20261123-20261128-2000-nhk_e",
-      "muse-20261123-20261129-0630-ntv",
-      "muse-20261123-20261129-1330-nhk_bs",
-      "muse-20261123-20261129-1625-nhk_g",
-      "muse-20261123-20261129-1800-fuji"
+      "muse-20261123-20261123-1900-bs11",
+      "muse-20261123-20261123-2100-bsasahi",
+      "muse-20261123-20261123-2300-bsasahi",
+      "muse-20261123-20261124-0030-bs11",
+      "muse-20261123-20261124-0100-bs11",
+      "muse-20261123-20261124-0200-bs12",
+      "muse-20261123-20261124-2000-bs11",
+      "muse-20261123-20261124-2200-bsasahi",
+      "muse-20261123-20261124-2300-bsasahi",
+      "muse-20261123-20261125-0000-bs11",
+      "muse-20261123-20261125-0000-bsntv",
+      "muse-20261123-20261125-0105-bs11",
+      "muse-20261123-20261125-1900-bs11",
+      "muse-20261123-20261126-0200-bs12",
+      "muse-20261123-20261126-0757-bs12",
+      "muse-20261123-20261127-0200-bs12",
+      "muse-20261123-20261127-0230-bs12",
+      "muse-20261123-20261128-2300-bs10",
+      "muse-20261123-20261129-1400-tvk",
+      "muse-20261123-20261129-2100-bs10"
     ],
-    "scheduleChanged": [
-      "muse-20261119-20261123-2100-chiba",
-      "muse-20261119-20261124-0015-fuji"
-    ],
+    "scheduleChanged": [],
     "genreChanged": [],
     "removed": [],
-    "expired": []
+    "expired": [
+      "muse-20261119-20261123-0800-nhk_bs",
+      "muse-20261119-20261123-0800-tbs",
+      "muse-20261119-20261123-0830-bsyoshimoto",
+      "muse-20261119-20261123-0845-nhk_e"
+    ]
   },
   "counts": {
-    "added": 25,
-    "scheduleChanged": 2,
+    "added": 20,
+    "scheduleChanged": 0,
     "genreChanged": 0,
     "removed": 0,
-    "expired": 0
+    "expired": 4
   },
-  "publicationVerified": true,
-  "verification": {
-    "verifiedAt": "2026-11-23T07:36:37+09:00",
-    "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "httpStatus": 200,
-    "semanticSha256": "23b3406f4873c592ca384617a5d2d235016b700f6df7b1eaac9e8a198b0bd50c",
-    "programs": 341
-  }
+  "publicationVerified": false
 }
