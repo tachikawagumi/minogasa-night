@@ -1,39 +1,6 @@
 [
   {
     "at": "2026-11-09T21:10:55+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 444,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": [
-        "chatgpt-fuji-20261109-2000-battle-show",
-        "chatgpt-ntv-20261109-1900-ariyoshizemi",
-        "muse-architecture-202611-06",
-        "muse2-9-1900-nhk_bs",
-        "muse2-9-2030-nhk_e",
-        "muse2-9-2054-bstbs",
-        "muse2-9-2100-chiba"
-      ]
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 7
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-09T21:10:55+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 444,
@@ -5454,5 +5421,39 @@
       "expired": 0
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-24T06:59:32+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 300,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-nhkbs-20261128-1400-j1-shimizu-urawa"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-24T07:00:44+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "e5e5fc66676dd19d8707c8bb6ce1f1b970c1648a3516f2943b8746f7d976fb58",
+      "programs": 300
+    }
   }
 ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-24T06:58:40.162674+09:00",
+  "observedAt": "2026-11-24T07:00:45.017729+09:00",
   "targetWindow": {
     "start": "2026-11-24T00:00:00+09:00",
     "endExclusive": "2026-12-01T00:00:00+09:00"
@@ -14,9 +14,9 @@
     "currentWindowQueries": 0,
     "searchResult": "executed_search_logs",
     "newCandidates": 11,
-    "newPublic": 19,
+    "newPublic": 1,
     "publicationStatus": "published",
-    "hoursSinceResearch": 610.58,
+    "hoursSinceResearch": 610.62,
     "targetWindowStart": "2026-10-29T00:00:00+09:00",
     "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-24T06:58:12+09:00",
+  "lastAnimeSuccessAt": "2026-11-24T06:59:32+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-24T06:58:12+09:00",
+    "at": "2026-11-24T06:59:32+09:00",
     "counts": {
-      "added": 19,
-      "scheduleChanged": 3,
+      "added": 1,
+      "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
-      "expired": 64
+      "expired": 0
     }
   },
   "lastActions": {
-    "runId": "45274950874",
+    "runId": "45275166534",
     "event": "push",
-    "observedAt": "2026-11-24T06:58:40.162674+09:00",
+    "observedAt": "2026-11-24T07:00:45.017729+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-24T06:58:40+09:00",
+    "verifiedAt": "2026-11-24T07:00:44+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "2249714528548e140a2b6070335eb80b1899c1b6cbd134776939413d7d702c7d"
+    "semanticSha256": "e5e5fc66676dd19d8707c8bb6ce1f1b970c1648a3516f2943b8746f7d976fb58"
   },
   "genreCoverage": [
     {
@@ -130,7 +130,7 @@
     {
       "genreId": "soccer",
       "name": "サッカー",
-      "programs": 7,
+      "programs": 8,
       "lastStart": "2026-11-29T21:00:00+09:00"
     },
     {
@@ -182,7 +182,7 @@
       "lastStart": "2026-11-29T13:05:00+09:00"
     }
   ],
-  "publicPrograms": 299,
+  "publicPrograms": 300,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
