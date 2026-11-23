@@ -1,12 +1,5 @@
 [
   {
-    "at": "2026-11-09T15:11:04+09:00",
-    "status": "failed",
-    "publicationVerified": false,
-    "error": "ValueError: 未定義の局・ジャンル",
-    "previousPublicPreserved": true
-  },
-  {
     "at": "2026-11-09T15:11:31+09:00",
     "status": "failed",
     "publicationVerified": false,
@@ -5237,5 +5230,44 @@
       "semanticSha256": "22f033dda92cbb1f45e9d805807cece5dedb8bc2b51be572a1beb40fde2653cb",
       "programs": 357
     }
+  },
+  {
+    "at": "2026-11-23T15:31:48+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 344,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "muse-20261119-20261123-0855-bs10",
+        "muse-20261119-20261123-0900-bs10",
+        "muse-20261119-20261123-0930-nhk_bsp4k",
+        "muse-20261119-20261123-0955-tvasahi",
+        "muse-20261119-20261123-1000-bsasahi152",
+        "muse-20261119-20261123-1000-nhk_bs",
+        "muse-20261119-20261123-1010-tvasahi",
+        "muse-20261119-20261123-1200-nhk_bsp4k",
+        "muse-20261119-20261123-1200-nhk_e",
+        "muse-20261119-20261123-1300-nhk_bs",
+        "muse-20261119-20261123-1459-bs10",
+        "muse-20261123-20261123-1033-nhk_g",
+        "muse-20261123-20261123-1230-nhk_bs"
+      ]
+    },
+    "counts": {
+      "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 13
+    },
+    "publicationVerified": false
   }
 ]
