@@ -21726,6 +21726,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "NHK BSの個別の映画放送枠。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261128-1400-j1-shimizu-urawa",
+      "seriesId": "chatgpt-series-nhkbs-jleague-j1",
+      "title": "Ｊリーグ J1第17節 清水エスパルス対浦和レッズ",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T14:00:00+09:00",
+      "end": "2026-11-28T16:00:00+09:00",
+      "genreIds": [
+        "soccer"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXQBlVIEAE",
+      "checkedAt": "2026-11-24T06:59:13+09:00",
+      "updatedAt": "2026-11-24T06:59:13+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "NHK BSの個別番組表とＪリーグ公式日程でJ1第17節の試合中継を確認。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
