@@ -21744,6 +21744,24 @@
       "publicationApproved": true,
       "origin": "chatgpt_individual_program_guide_facts",
       "genreBasis": "NHK BSの個別番組表とＪリーグ公式日程でJ1第17節の試合中継を確認。"
+    },
+    {
+      "id": "chatgpt-bsasahi4k-20261125-1000-jingu-finals",
+      "seriesId": "chatgpt-series-bsasahi4k-jingu-baseball",
+      "title": "明治神宮野球大会（高校・大学決勝）",
+      "stationId": "bsasahi4k",
+      "start": "2026-11-25T10:00:00+09:00",
+      "end": "2026-11-25T16:57:00+09:00",
+      "genreIds": [
+        "baseball"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmYACXK8EBQ",
+      "checkedAt": "2026-11-25T08:26:08+09:00",
+      "updatedAt": "2026-11-25T08:26:08+09:00",
+      "status": "official_confirmed",
+      "publicationApproved": true,
+      "origin": "manual_official_facts",
+      "genreBasis": "BS朝日の順延・最終日4K放送告知と11月25日付の4K個別編成を照合。高校は横浜対常葉大菊川、大学は大阪商業大対仙台大。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
