@@ -28406,8 +28406,44 @@
       "origin": "manual_schedule_facts",
       "publicationApproved": true,
       "genreBasis": "Gガイドの当日番組表で局・時刻および当該回の番組内容を再確認。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261128-2100-temariuta",
+      "seriesId": "chatgpt-nhkbs-akuma-no-temariuta-2026",
+      "title": "悪魔の手毬唄 前編",
+      "stationId": "nhk_bs",
+      "start": "2026-11-28T21:00:00+09:00",
+      "end": "2026-11-28T22:29:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmXQBlVIgAE",
+      "checkedAt": "2026-11-26T09:42:05.198Z",
+      "updatedAt": "2026-11-26T09:42:05.198Z",
+      "status": "provider_confirmed",
+      "origin": "manual_schedule_facts",
+      "publicationApproved": true,
+      "genreBasis": "代表指定のオカルト枠。村に伝わる手毬唄と伝承が事件の鍵となる横溝正史原作のドラマ。実録心霊・映画ではない。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261205-2100-temariuta",
+      "seriesId": "chatgpt-nhkbs-akuma-no-temariuta-2026",
+      "title": "悪魔の手毬唄 後編",
+      "stationId": "nhk_bs",
+      "start": "2026-12-05T21:00:00+09:00",
+      "end": "2026-12-05T22:29:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://www.okayama-kanko.jp/mimasaka/news/detail_359.html",
+      "checkedAt": "2026-11-26T09:42:05.198Z",
+      "updatedAt": "2026-11-26T09:42:05.198Z",
+      "status": "provider_confirmed",
+      "origin": "manual_schedule_facts",
+      "publicationApproved": true,
+      "genreBasis": "代表指定のオカルト枠。村に伝わる手毬唄と伝承が事件の鍵となる横溝正史原作のドラマ。実録心霊・映画ではない。"
     }
   ],
-  "updatedAt": "2026-11-26T09:30:07.834Z",
+  "updatedAt": "2026-11-26T09:42:05.198Z",
   "note": "Muse 11/12-18 reclassification: calendar midnight and inferred anime genre; uncertain composite held."
 }
