@@ -21781,6 +21781,24 @@
       "publicationApproved": true,
       "origin": "manual_official_facts",
       "genreBasis": "テレ東の個別番組表で再放送を確認。シリーズは都市伝説を題材とする短編アニメ。卓球中継により放送日時が変わる可能性あり。"
+    },
+    {
+      "id": "chatgpt-nhkbs-20261202-2335-darkside",
+      "seriesId": "official-series-darkside",
+      "title": "ダークサイドミステリー「歴史の闇！ヒトラーは生きている？消えた遺体・UFO説」",
+      "stationId": "nhk_bs",
+      "start": "2026-12-02T23:35:00+09:00",
+      "end": "2026-12-03T00:35:00+09:00",
+      "genreIds": [
+        "ufo"
+      ],
+      "sourceUrl": "https://bangumi.org/tv_events/AmYQBlXdQAE",
+      "checkedAt": "2026-11-26T09:03:09+09:00",
+      "updatedAt": "2026-11-26T09:03:09+09:00",
+      "status": "provider_confirmed",
+      "publicationApproved": true,
+      "origin": "chatgpt_individual_program_guide_facts",
+      "genreBasis": "ヒトラー生存伝説とUFO説の歴史的背景を検証する再放送。"
     }
   ],
   "updatedAt": "2026-11-16T09:03:35+09:00",
