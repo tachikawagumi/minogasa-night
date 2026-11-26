@@ -1,36 +1,6 @@
 [
   {
     "at": "2026-11-12T12:51:53+09:00",
-    "status": "prepared",
-    "animeSuccess": true,
-    "publicPrograms": 338,
-    "aiAccepted": 0,
-    "aiHeld": 60,
-    "batchId": "phase15-interactive-20261029",
-    "researchExecutionContext": "interactive_preflight",
-    "diff": {
-      "added": [],
-      "scheduleChanged": [],
-      "genreChanged": [],
-      "removed": [],
-      "expired": [
-        "chatgpt-nhke-20261112-1200-kyonokenko",
-        "muse2-12-0935-nhk_e",
-        "muse2-12-1200-tvtokyo",
-        "muse2-12-1230-nhk_bs"
-      ]
-    },
-    "counts": {
-      "added": 0,
-      "scheduleChanged": 0,
-      "genreChanged": 0,
-      "removed": 0,
-      "expired": 4
-    },
-    "publicationVerified": false
-  },
-  {
-    "at": "2026-11-12T12:51:53+09:00",
     "status": "published",
     "animeSuccess": true,
     "publicPrograms": 338,
@@ -5261,5 +5231,42 @@
       "expired": 2
     },
     "publicationVerified": false
+  },
+  {
+    "at": "2026-11-26T09:03:51+09:00",
+    "status": "published",
+    "animeSuccess": true,
+    "publicPrograms": 218,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-nhkbs-20261202-2335-darkside"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": [
+        "muse-20261123-20261126-0757-bs12",
+        "syobocal-724638"
+      ]
+    },
+    "counts": {
+      "added": 1,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 2
+    },
+    "publicationVerified": true,
+    "verification": {
+      "verifiedAt": "2026-11-26T09:04:18+09:00",
+      "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
+      "httpStatus": 200,
+      "semanticSha256": "256f57d04455589d76bc92e128531a48720d2ad86e14fde6bce1399d91488753",
+      "programs": 218
+    }
   }
 ]
