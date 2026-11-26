@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-11-26T18:28:34+09:00",
+  "checkedAt": "2026-11-26T18:30:30+09:00",
   "batchId": "phase15-interactive-20261029",
   "target": "validated_candidate_not_yet_deployed",
   "discovered": 79,
   "inputDuplicates": 0,
   "conflictingIds": [],
-  "newRegistrations": 41,
+  "newRegistrations": 0,
   "updates": 0,
   "alreadyPublished": 0,
   "held": 73,
