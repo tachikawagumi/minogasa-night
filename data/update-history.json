@@ -1,12 +1,5 @@
 [
   {
-    "at": "2026-11-12T12:58:35+09:00",
-    "status": "failed",
-    "publicationVerified": false,
-    "error": "ValueError: 確認日時が未来",
-    "previousPublicPreserved": true
-  },
-  {
     "at": "2026-11-12T14:53:53+09:00",
     "status": "prepared",
     "animeSuccess": true,
@@ -5947,6 +5940,33 @@
     },
     "counts": {
       "added": 0,
+      "scheduleChanged": 0,
+      "genreChanged": 0,
+      "removed": 0,
+      "expired": 0
+    },
+    "publicationVerified": false
+  },
+  {
+    "at": "2026-11-26T18:42:25+09:00",
+    "status": "prepared",
+    "animeSuccess": true,
+    "publicPrograms": 577,
+    "aiAccepted": 0,
+    "aiHeld": 60,
+    "batchId": "phase15-interactive-20261029",
+    "researchExecutionContext": "interactive_preflight",
+    "diff": {
+      "added": [
+        "chatgpt-nhkbs-20261128-2100-temariuta"
+      ],
+      "scheduleChanged": [],
+      "genreChanged": [],
+      "removed": [],
+      "expired": []
+    },
+    "counts": {
+      "added": 1,
       "scheduleChanged": 0,
       "genreChanged": 0,
       "removed": 0,
