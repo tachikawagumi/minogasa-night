@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-11-26T18:27:06.601253+09:00",
+  "observedAt": "2026-11-28T13:32:59.988644+09:00",
   "targetWindow": {
-    "start": "2026-11-26T00:00:00+09:00",
-    "endExclusive": "2026-12-03T00:00:00+09:00"
+    "start": "2026-11-28T00:00:00+09:00",
+    "endExclusive": "2026-12-05T00:00:00+09:00"
   },
   "lastAIResearch": {
-    "at": "2026-10-29T20:23:49+09:00",
-    "executionContext": "interactive_preflight",
-    "batchId": "phase15-interactive-20261029",
-    "genresSearched": 1,
-    "queries": 8,
-    "currentWindowQueries": 0,
+    "at": "2026-11-28T13:28:19+09:00",
+    "executionContext": "scheduled_heartbeat",
+    "batchId": "heartbeat-20261128T042441Z",
+    "genresSearched": 21,
+    "queries": 36,
+    "currentWindowQueries": 36,
     "searchResult": "executed_search_logs",
-    "newCandidates": 11,
-    "newPublic": 320,
+    "newCandidates": 3,
+    "newPublic": 37,
     "publicationStatus": "published",
-    "hoursSinceResearch": 670.05,
-    "targetWindowStart": "2026-10-29T00:00:00+09:00",
-    "targetWindowEndExclusive": "2026-11-05T00:00:00+09:00",
+    "hoursSinceResearch": 0.08,
+    "targetWindowStart": "2026-11-28T00:00:00+09:00",
+    "targetWindowEndExclusive": "2026-12-05T00:00:00+09:00",
     "evidence": "candidate search logs; does not establish scheduler timing"
   },
   "latestScheduledSlot": {
@@ -29,30 +29,30 @@
     "status": "not_observed",
     "platformExecutionId": null
   },
-  "lastAnimeSuccessAt": "2026-11-26T18:26:38+09:00",
+  "lastAnimeSuccessAt": "2026-11-28T13:32:32+09:00",
   "lastUpdate": {
     "status": "published",
-    "at": "2026-11-26T18:26:38+09:00",
+    "at": "2026-11-28T13:32:32+09:00",
     "counts": {
-      "added": 320,
+      "added": 37,
       "scheduleChanged": 0,
-      "genreChanged": 7,
+      "genreChanged": 0,
       "removed": 0,
-      "expired": 0
+      "expired": 170
     }
   },
   "lastActions": {
-    "runId": "45791968685",
+    "runId": "46108006804",
     "event": "push",
-    "observedAt": "2026-11-26T18:27:06.601253+09:00",
+    "observedAt": "2026-11-28T13:32:59.988644+09:00",
     "startTime": null,
     "note": "observation time is not workflow start time"
   },
   "lastPages": {
-    "verifiedAt": "2026-11-26T18:27:06+09:00",
+    "verifiedAt": "2026-11-28T13:32:59+09:00",
     "verified": true,
     "url": "https://tachikawagumi.github.io/minogasa-night/v1/programs.json",
-    "semanticSha256": "4bb8c132924b8f5c5e58aa641fff8d7badd5a5acbde9593dcb9b799e35bca4ff"
+    "semanticSha256": "9903501c95a4c8003dadc30d6200568c324ef0a489d7cf3ade7f1d25a496f74c"
   },
   "genreCoverage": [
     {
@@ -70,8 +70,8 @@
     {
       "genreId": "movie",
       "name": "映画",
-      "programs": 24,
-      "lastStart": "2026-12-02T19:00:00+09:00"
+      "programs": 19,
+      "lastStart": "2026-12-04T13:40:00+09:00"
     },
     {
       "genreId": "horror_movie",
@@ -82,7 +82,7 @@
     {
       "genreId": "disney",
       "name": "ディズニー",
-      "programs": 4,
+      "programs": 2,
       "lastStart": "2026-12-01T19:00:00+09:00"
     },
     {
@@ -100,89 +100,89 @@
     {
       "genreId": "onsen",
       "name": "温泉",
-      "programs": 23,
+      "programs": 16,
       "lastStart": "2026-12-02T21:00:00+09:00"
     },
     {
       "genreId": "architecture",
       "name": "建物探訪",
-      "programs": 34,
+      "programs": 18,
       "lastStart": "2026-12-02T21:55:00+09:00"
     },
     {
       "genreId": "car",
       "name": "車",
       "programs": 21,
-      "lastStart": "2026-12-02T22:30:00+09:00"
+      "lastStart": "2026-12-03T23:00:00+09:00"
     },
     {
       "genreId": "dance",
       "name": "ダンス",
-      "programs": 12,
+      "programs": 13,
       "lastStart": "2026-12-02T14:59:00+09:00"
     },
     {
       "genreId": "golf",
       "name": "ゴルフ",
-      "programs": 59,
+      "programs": 47,
       "lastStart": "2026-12-02T23:00:00+09:00"
     },
     {
       "genreId": "soccer",
       "name": "サッカー",
-      "programs": 18,
+      "programs": 13,
       "lastStart": "2026-12-01T23:00:00+09:00"
     },
     {
       "genreId": "baseball",
       "name": "野球",
-      "programs": 11,
+      "programs": 9,
       "lastStart": "2026-12-01T22:00:00+09:00"
     },
     {
       "genreId": "fishing",
       "name": "釣り",
-      "programs": 16,
+      "programs": 15,
       "lastStart": "2026-12-02T21:00:00+09:00"
     },
     {
       "genreId": "health",
       "name": "健康",
-      "programs": 25,
+      "programs": 20,
       "lastStart": "2026-12-02T20:30:00+09:00"
     },
     {
       "genreId": "travel",
       "name": "旅",
-      "programs": 44,
+      "programs": 50,
       "lastStart": "2026-12-02T21:00:00+09:00"
     },
     {
       "genreId": "challenge",
       "name": "ゲーム・チャレンジ",
-      "programs": 7,
+      "programs": 3,
       "lastStart": "2026-12-01T20:57:00+09:00"
     },
     {
       "genreId": "anime",
       "name": "アニメ",
-      "programs": 217,
-      "lastStart": "2026-12-02T23:45:00+09:00"
+      "programs": 193,
+      "lastStart": "2026-12-04T23:45:00+09:00"
     },
     {
       "genreId": "railway",
       "name": "電車・鉄道",
-      "programs": 33,
+      "programs": 25,
       "lastStart": "2026-12-02T20:00:00+09:00"
     },
     {
       "genreId": "winter_sports",
       "name": "冬季スポーツ",
-      "programs": 24,
+      "programs": 10,
       "lastStart": "2026-11-29T13:05:00+09:00"
     }
   ],
-  "publicPrograms": 535,
+  "publicPrograms": 444,
   "limitations": [
     "GitHub Actions does not perform AI Web search.",
     "No observed heartbeat is not proof of why it did not start.",
