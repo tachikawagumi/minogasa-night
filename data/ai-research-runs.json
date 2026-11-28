@@ -879,7 +879,11 @@
       "discoveredCandidateCount": 11,
       "duplicates": 3,
       "held": 3,
-      "excluded": 2
+      "excluded": 2,
+      "inputCorrection": {
+        "priorCommit": "7b61b92522d7937ea539141de1af5d15b13c5086",
+        "reason": "先行コミットは開始・調査記録のみで候補入力差分が含まれていなかった。候補入力3件と個別審査を本コミットで反映する。Actions未起動をプラットフォーム障害とは扱わない。"
+      }
     }
   ]
 }

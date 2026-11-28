@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "batchId": "phase15-interactive-20261029",
-  "researchedAt": "2026-10-29T20:23:49+09:00",
-  "windowStart": "2026-10-29T00:00:00+09:00",
-  "windowEnd": "2026-11-05T00:00:00+09:00",
+  "batchId": "heartbeat-20261128T042441Z",
+  "researchedAt": "2026-11-28T13:28:19+09:00",
+  "windowStart": "2026-11-28T00:00:00+09:00",
+  "windowEnd": "2026-12-05T00:00:00+09:00",
   "records": [
     {
       "id": "official-81221f862e50feba0f729d41",
@@ -3560,6 +3560,360 @@
       "checkedAt": "2026-10-29T20:23:49+09:00",
       "windowStart": "2026-10-29T00:00:00+09:00",
       "windowEnd": "2026-11-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "genre_or_program",
+      "query": "怪談 心霊 テレビ 2026 11月28日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ufo",
+      "route": "genre_or_program",
+      "query": "UFO 都市伝説 ダークサイドミステリー 放送 2026 11月 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "movie",
+      "route": "genre_or_program",
+      "query": "BS 映画 放送予定 2026 12月3日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre_or_program",
+      "query": "ホラー映画 無料BS 放送予定 2026 11月28日 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp ディズニー 2026 11月 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre_or_program",
+      "query": "site:bangumi.org USJ 2026 11月 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "big_eating",
+      "route": "genre_or_program",
+      "query": "site:bangumi.org 有吉ゼミ デカ盛り 2026 11月30日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "onsen",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 温泉 2026 12月3日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "architecture",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 建もの探訪 家物語 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 週刊バイクTV トラックロード 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "dance",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp ダンス バレエ 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp ゴルフ侍 ゴルフサバイバル 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "soccer",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp サッカー 2026 12月3日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "baseball",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 野球 2026 11月29日 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "fishing",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp THEフィッシング 夢釣行 2026 11月28日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "health",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 健康 ゲンキ 2026 11月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "travel",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 旅 2026 12月3日 12月4日 BS",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "challenge",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp SASUKE 逃走中 チャレンジ 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "anime",
+      "route": "genre_or_program",
+      "query": "地上波 無料BS アニメ 特番 2026 12月3日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "railway",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 鉄道旅 妄想トレイン 2026 12月",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "station_date",
+      "query": "site:tv-tokyo.co.jp 20261203 13時40分 戦略大作戦",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "station_date",
+      "query": "site:tv-tokyo.co.jp 20261204 ランペイジ",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "genre_or_program",
+      "query": "site:occultic.net 2026 11月28日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp USJ ディズニー パーク 12月 2026",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "route": "genre_or_program",
+      "query": "ワールド・トラックロード カーグラフィックTV 愛車遍歴 放送 2026 11月28日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "car",
+      "route": "genre_or_program",
+      "query": "世田谷ベース クルマでいこう 週刊バイクTV 放送 2026 12月2日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "golf",
+      "route": "genre_or_program",
+      "query": "ゴルフサバイバル男 ゴルフ侍 Weekly女子ゴルフ 放送 2026 11月29日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "winter_sports",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp フィギュア スキー 2026 11月28日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "station_date",
+      "query": "site:tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/ \"2026/12/4\" \"ランペイジ\"",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre_or_program",
+      "query": "USJ テレビ特集 2026 11月28日 12月4日 ヒルナンデス",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre_or_program",
+      "query": "ホラー 映画 地上波 BS 2026 12月1日 12月4日 アナコンダ",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "ghost",
+      "route": "genre_or_program",
+      "query": "ダークサイドミステリー 放送予定 2026 12月3日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "disney",
+      "route": "genre_or_program",
+      "query": "東京ディズニーリゾート テレビ 特集 2026 12月3日 12月4日",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "usj",
+      "route": "genre_or_program",
+      "query": "ユニバーサル スタジオ ジャパン テレビ 番組 2026 12月 特集",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "genreId": "horror_movie",
+      "route": "genre_or_program",
+      "query": "site:tvguide.myjcom.jp 映画 ホラー 2026 12月4日 BS",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
+    },
+    {
+      "route": "station_date",
+      "query": "site:bs4.jp 2026 12月4日 番組 放送",
+      "tool": "web.run",
+      "status": "executed",
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00"
     }
   ],
   "discoveries": [
@@ -6194,7 +6548,7 @@
       "origin": "phase15_recheck"
     }
   ],
-  "executionContext": "interactive_preflight",
+  "executionContext": "scheduled_heartbeat",
   "discoveryInputs": [
     {
       "route": "B",
@@ -6905,6 +7259,326 @@
           }
         },
         "origin": "phase15_interactive_research"
+      }
+    },
+    {
+      "route": "A",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261203-1340-kellysheroes",
+        "title": "戦略大作戦",
+        "stationId": "tvtokyo",
+        "start": "2026-12-03T13:40:00+09:00",
+        "end": "2026-12-03T15:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+        "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+        ],
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "discoveredAt": "2026-11-28T13:28:19+09:00",
+        "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "movie": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261203-1340-kellysheroes",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261203-1340-kellysheroes",
+            "title": "戦略大作戦",
+            "stationId": "tvtokyo",
+            "start": "2026-12-03T13:40:00+09:00",
+            "end": "2026-12-03T15:40:00+09:00",
+            "genreIds": [
+              "movie"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+            "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+            "operation": "upsert"
+          }
+        },
+        "origin": "heartbeat-20261128T042441Z"
+      }
+    },
+    {
+      "route": "A",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261204-1340-rampage",
+        "title": "ランペイジ 巨獣大乱闘",
+        "stationId": "tvtokyo",
+        "start": "2026-12-04T13:40:00+09:00",
+        "end": "2026-12-04T15:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+        "seriesId": "official-tvtokyo-20261204-1340-rampage",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+        ],
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "discoveredAt": "2026-11-28T13:28:19+09:00",
+        "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "movie": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261204-1340-rampage",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261204-1340-rampage",
+            "title": "ランペイジ 巨獣大乱闘",
+            "stationId": "tvtokyo",
+            "start": "2026-12-04T13:40:00+09:00",
+            "end": "2026-12-04T15:40:00+09:00",
+            "genreIds": [
+              "movie"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+            "seriesId": "official-tvtokyo-20261204-1340-rampage",
+            "operation": "upsert"
+          }
+        },
+        "origin": "heartbeat-20261128T042441Z"
+      }
+    },
+    {
+      "route": "A",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-bsasahi-20261203-2300-cgtv",
+        "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+        "title": "カーグラフィックTV",
+        "stationId": "bsasahi",
+        "start": "2026-12-03T23:00:00+09:00",
+        "end": "2026-12-03T23:30:00+09:00",
+        "genreIds": [
+          "car"
+        ],
+        "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+        "sourceUrls": [
+          "https://www.bs-asahi.co.jp/cgtv/"
+        ],
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "discoveredAt": "2026-11-28T13:28:19+09:00",
+        "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。",
+          "vehicleEvidence": {
+            "vehicleType": "automobile",
+            "role": "central",
+            "basis": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。"
+          }
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "car": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "heartbeat-20261128T042441Z-official-bsasahi-20261203-2300-cgtv",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-bsasahi-20261203-2300-cgtv",
+            "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+            "title": "カーグラフィックTV",
+            "stationId": "bsasahi",
+            "start": "2026-12-03T23:00:00+09:00",
+            "end": "2026-12-03T23:30:00+09:00",
+            "genreIds": [
+              "car"
+            ],
+            "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+            "operation": "upsert"
+          }
+        },
+        "origin": "heartbeat-20261128T042441Z"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261203-1340-kellysheroes",
+        "title": "戦略大作戦",
+        "stationId": "tvtokyo",
+        "start": "2026-12-03T13:40:00+09:00",
+        "end": "2026-12-03T15:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+        "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+        ],
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "discoveredAt": "2026-11-28T13:28:19+09:00",
+        "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "movie": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261203-1340-kellysheroes",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261203-1340-kellysheroes",
+            "title": "戦略大作戦",
+            "stationId": "tvtokyo",
+            "start": "2026-12-03T13:40:00+09:00",
+            "end": "2026-12-03T15:40:00+09:00",
+            "genreIds": [
+              "movie"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+            "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+            "operation": "upsert"
+          }
+        },
+        "origin": "heartbeat-20261128T042441Z"
+      }
+    },
+    {
+      "route": "B",
+      "mode": "individual_reference",
+      "record": {
+        "id": "official-tvtokyo-20261204-1340-rampage",
+        "title": "ランペイジ 巨獣大乱闘",
+        "stationId": "tvtokyo",
+        "start": "2026-12-04T13:40:00+09:00",
+        "end": "2026-12-04T15:40:00+09:00",
+        "genreIds": [
+          "movie"
+        ],
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+        "seriesId": "official-tvtokyo-20261204-1340-rampage",
+        "sourceUrls": [
+          "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+        ],
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "discoveredAt": "2026-11-28T13:28:19+09:00",
+        "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+        "classification": {
+          "level": "clear",
+          "basis": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+        },
+        "decision": "eligible",
+        "holdReasons": [],
+        "officialVerification": {
+          "title": true,
+          "station": true,
+          "datetime": true,
+          "content": true,
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+        },
+        "sourcePolicyId": "reviewed_independent_facts",
+        "genreEvidence": {
+          "movie": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+        },
+        "acquisitionMethod": "ai_web_reference",
+        "factUseReview": {
+          "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261204-1340-rampage",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "method": "ai_web_reference",
+          "minimalFactsOnly": true,
+          "noContentCopied": true,
+          "bulkAccess": false,
+          "accountServiceUsed": false,
+          "facts": {
+            "id": "official-tvtokyo-20261204-1340-rampage",
+            "title": "ランペイジ 巨獣大乱闘",
+            "stationId": "tvtokyo",
+            "start": "2026-12-04T13:40:00+09:00",
+            "end": "2026-12-04T15:40:00+09:00",
+            "genreIds": [
+              "movie"
+            ],
+            "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+            "seriesId": "official-tvtokyo-20261204-1340-rampage",
+            "operation": "upsert"
+          }
+        },
+        "origin": "heartbeat-20261128T042441Z"
       }
     }
   ]

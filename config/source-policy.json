@@ -166,7 +166,9 @@
         "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202611/21771_202611031200.html",
         "https://www.tbs.co.jp/heritage/next/",
         "https://www.chiba-tv.com/program/detail/1010",
-        "https://www.bs4.jp/aisya_henreki/"
+        "https://www.bs4.jp/aisya_henreki/",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
       ],
       "permissionBasis": "independent_minimal_non_copyright_facts_not_site_license",
       "permissions": [],
@@ -534,6 +536,30 @@
           "outcome": "minimal_facts_only",
           "verificationKind": "official",
           "rationale": "当該公式回を通常の個別閲覧で参照し、放送番組名・局・日時と独自の分類だけを記録。本文・写真・画像・番組表の編集構成は複製しない。著作権表示/既存個別参照条件を確認し、会員サービス・大量取得を利用しない。サイトの包括的な取得/再配信ライセンスや将来回の継続クローラー許可とは扱わない。"
+        },
+        "heartbeat-20261128T042441Z-official-tvtokyo-20261203-1340-kellysheroes": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "通常の個別閲覧で最小の番組名・局・放送日時を独自整理。著作権表示を確認し紹介文・画像・出演者・表の配列を複製しない。既存個別事実審査の範囲で、包括的転載・自動大量取得の許諾とは扱わない。"
+        },
+        "heartbeat-20261128T042441Z-official-tvtokyo-20261204-1340-rampage": {
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+          "termsUrl": "https://www.tv-tokyo.co.jp/index/company/link.html",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "通常の個別閲覧で最小の番組名・局・放送日時を独自整理。著作権表示を確認し紹介文・画像・出演者・表の配列を複製しない。既存個別事実審査の範囲で、包括的転載・自動大量取得の許諾とは扱わない。"
+        },
+        "heartbeat-20261128T042441Z-official-bsasahi-20261203-2300-cgtv": {
+          "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+          "termsUrl": "https://www.bs-asahi.co.jp/cgtv/",
+          "checkedAt": "2026-11-28T13:28:19+09:00",
+          "outcome": "minimal_facts_only",
+          "verificationKind": "official",
+          "rationale": "通常の個別閲覧で最小の番組名・局・放送日時を独自整理。著作権表示を確認し紹介文・画像・出演者・表の配列を複製しない。既存個別事実審査の範囲で、包括的転載・自動大量取得の許諾とは扱わない。"
         }
       },
       "conditions": [
