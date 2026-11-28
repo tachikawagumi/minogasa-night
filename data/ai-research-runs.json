@@ -820,12 +820,66 @@
       "startedAt": "2026-11-28T13:24:41+09:00",
       "platformExecutionId": null,
       "onTime": null,
-      "status": "started",
+      "status": "awaiting_validation",
       "windowStart": "2026-11-28T00:00:00+09:00",
       "windowEnd": "2026-12-05T00:00:00+09:00",
       "scheduleObservation": "Saturday trigger is outside Monday/Thursday 09:00; corresponding scheduled slot unknown; not counted as on-time unattended execution.",
-      "searchStatus": "not_started",
-      "publicationVerified": false
+      "searchStatus": "partial",
+      "publicationVerified": false,
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "genresSearched": 21,
+      "queries": 36,
+      "newCandidates": 3,
+      "newPublic": null,
+      "unattendedOnTimeVerified": false,
+      "discoveryContributions": {
+        "A_newlyDiscovered": 3,
+        "B_newlyDiscoveredThisRun": 0,
+        "B_individuallyVerifiedAFinds": 2
+      },
+      "regularTracking": {
+        "confirmed": [
+          "official-series-8a36a321d3c0ae6bfcc29cb7"
+        ],
+        "searchedWithoutDatedConfirmation": [
+          "regular-car-truckroad",
+          "regular-car-aisya-henreki",
+          "regular-car-setagaya-base",
+          "regular-car-kurumadeikou",
+          "regular-car-weekly-bike-tv",
+          "regular-golf-survival",
+          "regular-golf-survival-men",
+          "official-series-golf-samurai",
+          "official-series-weekly-women-golf"
+        ],
+        "remaining": "not individually reviewed in this run"
+      },
+      "unsearchedScope": [
+        "全定番番組の個別追跡は未完了",
+        "全内部カテゴリーの個別照合は未完了",
+        "局日付検索は4件のみ。完全網羅ではない"
+      ],
+      "terminationReason": "既存最新2実行でPagesデプロイ失敗を確認。現在の設定は21ジャンル・別の調査先へ更新済みだが定期指示は旧20ジャンル/55件のまま。今回の実検索は広域確認と末尾日の映画・車の個別確認を実施、完全調査とは扱わず、3件のみ既存安全処理へ提出。",
+      "failures": [
+        {
+          "stage": "prior_pages_deploy",
+          "runId": 45794411295,
+          "at": "2026-11-26T18:42:44+09:00",
+          "reason": "No artifacts named \"github-pages\" were found; upload step had succeeded, deployment failed."
+        },
+        {
+          "stage": "schedule",
+          "reason": "土曜日13:22の起動。月木09:00の該当予定・遅延原因は特定不可。"
+        },
+        {
+          "stage": "public_http_check",
+          "reason": "Web閲覧ツールで公開JSON取得不可。HTTP障害と断定しない。"
+        }
+      ],
+      "discoveredCandidateCount": 11,
+      "duplicates": 3,
+      "held": 3,
+      "excluded": 2
     }
   ]
 }
