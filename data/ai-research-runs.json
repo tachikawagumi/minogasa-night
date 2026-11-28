@@ -811,6 +811,21 @@
         }
       },
       "unattendedOnTimeVerified": false
+    },
+    {
+      "runId": "heartbeat-20261128T042441Z",
+      "executionContext": "scheduled_heartbeat",
+      "scheduledFor": null,
+      "triggerReceivedAt": "2026-11-28T13:22:17.461+09:00",
+      "startedAt": "2026-11-28T13:24:41+09:00",
+      "platformExecutionId": null,
+      "onTime": null,
+      "status": "started",
+      "windowStart": "2026-11-28T00:00:00+09:00",
+      "windowEnd": "2026-12-05T00:00:00+09:00",
+      "scheduleObservation": "Saturday trigger is outside Monday/Thursday 09:00; corresponding scheduled slot unknown; not counted as on-time unattended execution.",
+      "searchStatus": "not_started",
+      "publicationVerified": false
     }
   ]
 }
