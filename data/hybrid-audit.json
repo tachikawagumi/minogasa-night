@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-26T18:42:25+09:00",
+  "checkedAt": "2026-11-28T13:32:32+09:00",
   "inputCounts": {
-    "A": 2,
-    "B": 9
+    "A": 5,
+    "B": 11
   },
-  "duplicates": 0,
+  "duplicates": 2,
   "held": [],
   "routesById": {
     "official-bsasahi-20261102-2100-kyototabi": [
@@ -39,10 +39,22 @@
     ],
     "official-bsntv-20261031-2100-aisya-henreki": [
       "A"
+    ],
+    "official-tvtokyo-20261203-1340-kellysheroes": [
+      "A",
+      "B"
+    ],
+    "official-tvtokyo-20261204-1340-rampage": [
+      "A",
+      "B"
+    ],
+    "official-bsasahi-20261203-2300-cgtv": [
+      "A"
     ]
   },
   "acceptedInputIds": [
     "official-bsasahi-20261102-2100-kyototabi",
+    "official-bsasahi-20261203-2300-cgtv",
     "official-bsntv-20261031-1700-yumetyoko",
     "official-bsntv-20261031-1800-italy",
     "official-bsntv-20261031-2100-aisya-henreki",
@@ -52,6 +64,8 @@
     "official-tbs-20261101-1800-heritage",
     "official-tvtokyo-20261031-1830-degawacharging",
     "official-tvtokyo-20261101-1830-private-rail-special",
-    "official-tvtokyo-20261103-1200-ai-sama-special"
+    "official-tvtokyo-20261103-1200-ai-sama-special",
+    "official-tvtokyo-20261203-1340-kellysheroes",
+    "official-tvtokyo-20261204-1340-rampage"
   ]
 }

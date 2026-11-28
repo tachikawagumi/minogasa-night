@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T18:42:25+09:00",
+  "checkedAt": "2026-11-28T13:32:32+09:00",
   "records": [
     {
       "id": "official-fuji-20261028-1900-nandakore",
@@ -3297,6 +3297,188 @@
         }
       },
       "origin": "phase15_interactive_research"
+    },
+    {
+      "id": "official-tvtokyo-20261203-1340-kellysheroes",
+      "title": "戦略大作戦",
+      "stationId": "tvtokyo",
+      "start": "2026-12-03T13:40:00+09:00",
+      "end": "2026-12-03T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+      "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+      ],
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "discoveredAt": "2026-11-28T13:28:19+09:00",
+      "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "公式の個別放送ページに作品名・テレ東・年月日・開始終了時刻を照合。劇映画の放送であり映画に分類。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261203-1340-kellysheroes",
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261203-1340-kellysheroes",
+          "title": "戦略大作戦",
+          "stationId": "tvtokyo",
+          "start": "2026-12-03T13:40:00+09:00",
+          "end": "2026-12-03T15:40:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612031340.html",
+          "seriesId": "official-tvtokyo-20261203-1340-kellysheroes",
+          "operation": "upsert"
+        }
+      },
+      "origin": "heartbeat-20261128T042441Z"
+    },
+    {
+      "id": "official-tvtokyo-20261204-1340-rampage",
+      "title": "ランペイジ 巨獣大乱闘",
+      "stationId": "tvtokyo",
+      "start": "2026-12-04T13:40:00+09:00",
+      "end": "2026-12-04T15:40:00+09:00",
+      "genreIds": [
+        "movie"
+      ],
+      "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+      "seriesId": "official-tvtokyo-20261204-1340-rampage",
+      "sourceUrls": [
+        "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+      ],
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "discoveredAt": "2026-11-28T13:28:19+09:00",
+      "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "movie": "公式個別ページで作品名・テレ東・2026年12月4日13:40〜15:40を照合。劇映画。巨大生物が登場するだけでホラーと断定しない。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261128T042441Z-official-tvtokyo-20261204-1340-rampage",
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-tvtokyo-20261204-1340-rampage",
+          "title": "ランペイジ 巨獣大乱闘",
+          "stationId": "tvtokyo",
+          "start": "2026-12-04T13:40:00+09:00",
+          "end": "2026-12-04T15:40:00+09:00",
+          "genreIds": [
+            "movie"
+          ],
+          "sourceUrl": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202612/28486_202612041340.html",
+          "seriesId": "official-tvtokyo-20261204-1340-rampage",
+          "operation": "upsert"
+        }
+      },
+      "origin": "heartbeat-20261128T042441Z"
+    },
+    {
+      "id": "official-bsasahi-20261203-2300-cgtv",
+      "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+      "title": "カーグラフィックTV",
+      "stationId": "bsasahi",
+      "start": "2026-12-03T23:00:00+09:00",
+      "end": "2026-12-03T23:30:00+09:00",
+      "genreIds": [
+        "car"
+      ],
+      "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+      "sourceUrls": [
+        "https://www.bs-asahi.co.jp/cgtv/"
+      ],
+      "checkedAt": "2026-11-28T13:28:19+09:00",
+      "discoveredAt": "2026-11-28T13:28:19+09:00",
+      "lastAttemptAt": "2026-11-28T13:28:19+09:00",
+      "classification": {
+        "level": "clear",
+        "basis": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。",
+        "vehicleEvidence": {
+          "vehicleType": "automobile",
+          "role": "central",
+          "basis": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。"
+        }
+      },
+      "decision": "eligible",
+      "holdReasons": [],
+      "officialVerification": {
+        "title": true,
+        "station": true,
+        "datetime": true,
+        "content": true,
+        "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/"
+      },
+      "sourcePolicyId": "reviewed_independent_facts",
+      "genreEvidence": {
+        "car": "公式次回予定に2026年12月3日23:00〜23:30。Sクラスの改良、安全技術と走行性能を扱う当該回で、自動車の紹介と構造が中心。"
+      },
+      "acquisitionMethod": "ai_web_reference",
+      "factUseReview": {
+        "reviewId": "heartbeat-20261128T042441Z-official-bsasahi-20261203-2300-cgtv",
+        "checkedAt": "2026-11-28T13:28:19+09:00",
+        "method": "ai_web_reference",
+        "minimalFactsOnly": true,
+        "noContentCopied": true,
+        "bulkAccess": false,
+        "accountServiceUsed": false,
+        "facts": {
+          "id": "official-bsasahi-20261203-2300-cgtv",
+          "seriesId": "official-series-8a36a321d3c0ae6bfcc29cb7",
+          "title": "カーグラフィックTV",
+          "stationId": "bsasahi",
+          "start": "2026-12-03T23:00:00+09:00",
+          "end": "2026-12-03T23:30:00+09:00",
+          "genreIds": [
+            "car"
+          ],
+          "sourceUrl": "https://www.bs-asahi.co.jp/cgtv/",
+          "operation": "upsert"
+        }
+      },
+      "origin": "heartbeat-20261128T042441Z"
     }
   ]
 }
