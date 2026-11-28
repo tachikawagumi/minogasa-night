@@ -820,17 +820,17 @@
       "startedAt": "2026-11-28T13:24:41+09:00",
       "platformExecutionId": null,
       "onTime": null,
-      "status": "awaiting_validation",
+      "status": "published_partial_research",
       "windowStart": "2026-11-28T00:00:00+09:00",
       "windowEnd": "2026-12-05T00:00:00+09:00",
       "scheduleObservation": "Saturday trigger is outside Monday/Thursday 09:00; corresponding scheduled slot unknown; not counted as on-time unattended execution.",
       "searchStatus": "partial",
-      "publicationVerified": false,
+      "publicationVerified": true,
       "checkedAt": "2026-11-28T13:28:19+09:00",
       "genresSearched": 21,
       "queries": 36,
       "newCandidates": 3,
-      "newPublic": null,
+      "newPublic": 3,
       "unattendedOnTimeVerified": false,
       "discoveryContributions": {
         "A_newlyDiscovered": 3,
@@ -859,13 +859,15 @@
         "全内部カテゴリーの個別照合は未完了",
         "局日付検索は4件のみ。完全網羅ではない"
       ],
-      "terminationReason": "既存最新2実行でPagesデプロイ失敗を確認。現在の設定は21ジャンル・別の調査先へ更新済みだが定期指示は旧20ジャンル/55件のまま。今回の実検索は広域確認と末尾日の映画・車の個別確認を実施、完全調査とは扱わず、3件のみ既存安全処理へ提出。",
+      "terminationReason": "新規3枠の検証・公開を完了。全21ジャンルの広域検索は実施したが、全定番・全内部項目の追跡は未完了であり完全調査とは扱わない。既存設定と旧定期指示の差分、および予定外曜日の起動を記録。",
       "failures": [
         {
           "stage": "prior_pages_deploy",
           "runId": 45794411295,
           "at": "2026-11-26T18:42:44+09:00",
-          "reason": "No artifacts named \"github-pages\" were found; upload step had succeeded, deployment failed."
+          "reason": "No artifacts named \"github-pages\" were found; upload step had succeeded, deployment failed.",
+          "resolvedForThisRun": true,
+          "resolvedByRunId": 46108006804
         },
         {
           "stage": "schedule",
@@ -883,7 +885,34 @@
       "inputCorrection": {
         "priorCommit": "7b61b92522d7937ea539141de1af5d15b13c5086",
         "reason": "先行コミットは開始・調査記録のみで候補入力差分が含まれていなかった。候補入力3件と個別審査を本コミットで反映する。Actions未起動をプラットフォーム障害とは扱わない。"
-      }
+      },
+      "completedAt": "2026-11-28T13:33:20+09:00",
+      "commit": "cb38a76f9491ac411d501c140fc0e121d5fccea1",
+      "githubWriteVerified": true,
+      "actionsRunId": 46108006804,
+      "actionsStatus": "success",
+      "updated": 0,
+      "duplicateInputCount": 2,
+      "expired": 170,
+      "removed": 0,
+      "publicPrograms": 444,
+      "publishedGenres": 19,
+      "pagesVerifiedAt": "2026-11-28T13:32:59+09:00",
+      "pagesSemanticSha256": "9903501c95a4c8003dadc30d6200568c324ef0a489d7cf3ade7f1d25a496f74c",
+      "pagesHttpStatus": 200,
+      "tests": {
+        "python": {
+          "total": 115,
+          "failed": 0
+        },
+        "android": {
+          "run": false,
+          "reason": "Android本体変更なし。実機表示は本実行では未検証。"
+        }
+      },
+      "additionalMonthlyCost": 0,
+      "requiredAction": null,
+      "actionsStartedAt": "2026-11-28T04:32:15Z"
     }
   ]
 }
